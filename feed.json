@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-20T16:56:40.974113+00:00",
+  "generated_at": "2026-09-20T19:12:06.728659+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,1203 +10,1212 @@
   "public_findings": [
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 958, 9.9968105 PER",
-      "url": "mining-reward://perihelion/958/89a0731c540ae28d",
-      "published": "2026-09-20T16:55:37.442935+00:00",
-      "first_seen": "2026-09-20T16:55:37.442935+00:00",
-      "last_seen": "2026-09-20T16:55:37.442935+00:00",
+      "title": "Perihelion mining reward: block 1094, 9.99635732 PER",
+      "url": "mining-reward://perihelion/1094/2073782fb36ea8a2",
+      "published": "2026-09-20T19:11:15.359794+00:00",
+      "first_seen": "2026-09-20T19:11:15.359794+00:00",
+      "last_seen": "2026-09-20T19:11:15.359794+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=958; hash_prefix=89a0731c540ae28d; reward=9.9968105 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1094; hash_prefix=2073782fb36ea8a2; reward=9.99635732 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 957, 9.99681384 PER",
-      "url": "mining-reward://perihelion/957/bb5a59629a3faa84",
-      "published": "2026-09-20T16:55:19.285935+00:00",
-      "first_seen": "2026-09-20T16:55:19.285935+00:00",
-      "last_seen": "2026-09-20T16:55:19.285935+00:00",
+      "title": "Perihelion mining reward: block 1093, 9.99636066 PER",
+      "url": "mining-reward://perihelion/1093/b6bffe6f94f9c75a",
+      "published": "2026-09-20T19:09:49.829468+00:00",
+      "first_seen": "2026-09-20T19:09:49.829468+00:00",
+      "last_seen": "2026-09-20T19:09:49.829468+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=957; hash_prefix=bb5a59629a3faa84; reward=9.99681384 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1093; hash_prefix=b6bffe6f94f9c75a; reward=9.99636066 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 956, 9.99681717 PER",
-      "url": "mining-reward://perihelion/956/d84f283bf380f2a2",
-      "published": "2026-09-20T16:54:38.777382+00:00",
-      "first_seen": "2026-09-20T16:54:38.777382+00:00",
-      "last_seen": "2026-09-20T16:54:38.777382+00:00",
+      "title": "Perihelion mining reward: block 1092, 9.99636399 PER",
+      "url": "mining-reward://perihelion/1092/878d09acd874c66c",
+      "published": "2026-09-20T19:09:44.884498+00:00",
+      "first_seen": "2026-09-20T19:09:44.884498+00:00",
+      "last_seen": "2026-09-20T19:09:44.884498+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=956; hash_prefix=d84f283bf380f2a2; reward=9.99681717 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1092; hash_prefix=878d09acd874c66c; reward=9.99636399 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 955, 9.9968205 PER",
-      "url": "mining-reward://perihelion/955/94779a040d9f90cd",
-      "published": "2026-09-20T16:54:10.578792+00:00",
-      "first_seen": "2026-09-20T16:54:10.578792+00:00",
-      "last_seen": "2026-09-20T16:54:10.578792+00:00",
+      "title": "Perihelion mining reward: block 1091, 9.99636732 PER",
+      "url": "mining-reward://perihelion/1091/903ca3439c5182d2",
+      "published": "2026-09-20T19:08:57.919382+00:00",
+      "first_seen": "2026-09-20T19:08:57.919382+00:00",
+      "last_seen": "2026-09-20T19:08:57.919382+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=955; hash_prefix=94779a040d9f90cd; reward=9.9968205 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1091; hash_prefix=903ca3439c5182d2; reward=9.99636732 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 954, 9.99682383 PER",
-      "url": "mining-reward://perihelion/954/acf8deeba11ea063",
-      "published": "2026-09-20T16:53:13.477869+00:00",
-      "first_seen": "2026-09-20T16:53:13.477869+00:00",
-      "last_seen": "2026-09-20T16:53:13.477869+00:00",
+      "title": "Perihelion mining reward: block 1090, 9.99637065 PER",
+      "url": "mining-reward://perihelion/1090/9342a459894d6c84",
+      "published": "2026-09-20T19:08:43.881502+00:00",
+      "first_seen": "2026-09-20T19:08:43.881502+00:00",
+      "last_seen": "2026-09-20T19:08:43.881502+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=954; hash_prefix=acf8deeba11ea063; reward=9.99682383 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1090; hash_prefix=9342a459894d6c84; reward=9.99637065 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 953, 9.99682716 PER",
-      "url": "mining-reward://perihelion/953/4ba7bddfc6f9ffa5",
-      "published": "2026-09-20T16:51:41.924207+00:00",
-      "first_seen": "2026-09-20T16:51:41.924207+00:00",
-      "last_seen": "2026-09-20T16:51:41.924207+00:00",
+      "title": "Perihelion mining reward: block 1089, 9.99637399 PER",
+      "url": "mining-reward://perihelion/1089/1f21d3fdb98b831f",
+      "published": "2026-09-20T19:06:09.683556+00:00",
+      "first_seen": "2026-09-20T19:06:09.683556+00:00",
+      "last_seen": "2026-09-20T19:06:09.683556+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=953; hash_prefix=4ba7bddfc6f9ffa5; reward=9.99682716 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1089; hash_prefix=1f21d3fdb98b831f; reward=9.99637399 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 952, 9.9968305 PER",
-      "url": "mining-reward://perihelion/952/b7f15d6e7b6fe1cd",
-      "published": "2026-09-20T16:50:06.653547+00:00",
-      "first_seen": "2026-09-20T16:50:06.653547+00:00",
-      "last_seen": "2026-09-20T16:50:06.653547+00:00",
+      "title": "Perihelion mining reward: block 1088, 9.99637732 PER",
+      "url": "mining-reward://perihelion/1088/9917996708fa95b1",
+      "published": "2026-09-20T19:05:16.781686+00:00",
+      "first_seen": "2026-09-20T19:05:16.781686+00:00",
+      "last_seen": "2026-09-20T19:05:16.781686+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=952; hash_prefix=b7f15d6e7b6fe1cd; reward=9.9968305 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1088; hash_prefix=9917996708fa95b1; reward=9.99637732 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 951, 9.99683383 PER",
-      "url": "mining-reward://perihelion/951/0cf5b2ba4d9af553",
-      "published": "2026-09-20T16:50:00.761846+00:00",
-      "first_seen": "2026-09-20T16:50:00.761846+00:00",
-      "last_seen": "2026-09-20T16:50:00.761846+00:00",
+      "title": "Perihelion mining reward: block 1087, 9.99638065 PER",
+      "url": "mining-reward://perihelion/1087/d2ac734c66f46eb9",
+      "published": "2026-09-20T19:04:59.853348+00:00",
+      "first_seen": "2026-09-20T19:04:59.853348+00:00",
+      "last_seen": "2026-09-20T19:04:59.853348+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=951; hash_prefix=0cf5b2ba4d9af553; reward=9.99683383 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1087; hash_prefix=d2ac734c66f46eb9; reward=9.99638065 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 950, 9.99683716 PER",
-      "url": "mining-reward://perihelion/950/789a01fa8db9467c",
-      "published": "2026-09-20T16:49:37.759322+00:00",
-      "first_seen": "2026-09-20T16:49:37.759322+00:00",
-      "last_seen": "2026-09-20T16:49:37.759322+00:00",
+      "title": "Perihelion mining reward: block 1086, 9.99638398 PER",
+      "url": "mining-reward://perihelion/1086/913a46d0cb1100c1",
+      "published": "2026-09-20T19:04:54.440440+00:00",
+      "first_seen": "2026-09-20T19:04:54.440440+00:00",
+      "last_seen": "2026-09-20T19:04:54.440440+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=950; hash_prefix=789a01fa8db9467c; reward=9.99683716 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1086; hash_prefix=913a46d0cb1100c1; reward=9.99638398 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 949, 9.99684049 PER",
-      "url": "mining-reward://perihelion/949/60dbcd515616ba18",
-      "published": "2026-09-20T16:49:26.099597+00:00",
-      "first_seen": "2026-09-20T16:49:26.099597+00:00",
-      "last_seen": "2026-09-20T16:49:26.099597+00:00",
+      "title": "Perihelion mining reward: block 1085, 9.99638731 PER",
+      "url": "mining-reward://perihelion/1085/a41784cfbb9dfd86",
+      "published": "2026-09-20T19:04:50.272892+00:00",
+      "first_seen": "2026-09-20T19:04:50.272892+00:00",
+      "last_seen": "2026-09-20T19:04:50.272892+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=949; hash_prefix=60dbcd515616ba18; reward=9.99684049 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1085; hash_prefix=a41784cfbb9dfd86; reward=9.99638731 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 948, 9.99684383 PER",
-      "url": "mining-reward://perihelion/948/e1321fbf786376c8",
-      "published": "2026-09-20T16:49:13.014569+00:00",
-      "first_seen": "2026-09-20T16:49:13.014569+00:00",
-      "last_seen": "2026-09-20T16:49:13.014569+00:00",
+      "title": "Perihelion mining reward: block 1084, 9.99639065 PER",
+      "url": "mining-reward://perihelion/1084/a9fee296297ad86e",
+      "published": "2026-09-20T19:04:48.187047+00:00",
+      "first_seen": "2026-09-20T19:04:48.187047+00:00",
+      "last_seen": "2026-09-20T19:04:48.187047+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=948; hash_prefix=e1321fbf786376c8; reward=9.99684383 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1084; hash_prefix=a9fee296297ad86e; reward=9.99639065 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 947, 9.99684716 PER",
-      "url": "mining-reward://perihelion/947/f0fd40dde9e3de84",
-      "published": "2026-09-20T16:49:12.989520+00:00",
-      "first_seen": "2026-09-20T16:49:12.989520+00:00",
-      "last_seen": "2026-09-20T16:49:12.989520+00:00",
+      "title": "Perihelion mining reward: block 1083, 9.99639398 PER",
+      "url": "mining-reward://perihelion/1083/4c4b7d44177a315b",
+      "published": "2026-09-20T19:04:37.221665+00:00",
+      "first_seen": "2026-09-20T19:04:37.221665+00:00",
+      "last_seen": "2026-09-20T19:04:37.221665+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=947; hash_prefix=f0fd40dde9e3de84; reward=9.99684716 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1083; hash_prefix=4c4b7d44177a315b; reward=9.99639398 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 946, 9.99685049 PER",
-      "url": "mining-reward://perihelion/946/249de206d7a710fd",
-      "published": "2026-09-20T16:49:12.945847+00:00",
-      "first_seen": "2026-09-20T16:49:12.945847+00:00",
-      "last_seen": "2026-09-20T16:49:12.945847+00:00",
+      "title": "Perihelion mining reward: block 1082, 9.99639731 PER",
+      "url": "mining-reward://perihelion/1082/57b2c84eef6f9132",
+      "published": "2026-09-20T19:03:39.743017+00:00",
+      "first_seen": "2026-09-20T19:03:39.743017+00:00",
+      "last_seen": "2026-09-20T19:03:39.743017+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=946; hash_prefix=249de206d7a710fd; reward=9.99685049 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1082; hash_prefix=57b2c84eef6f9132; reward=9.99639731 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 945, 9.99685382 PER",
-      "url": "mining-reward://perihelion/945/aae66934cdfdf8ed",
-      "published": "2026-09-20T16:49:12.918554+00:00",
-      "first_seen": "2026-09-20T16:49:12.918554+00:00",
-      "last_seen": "2026-09-20T16:49:12.918554+00:00",
+      "title": "Perihelion mining reward: block 1081, 9.99640064 PER",
+      "url": "mining-reward://perihelion/1081/d5345d15841c9163",
+      "published": "2026-09-20T19:03:22.644697+00:00",
+      "first_seen": "2026-09-20T19:03:22.644697+00:00",
+      "last_seen": "2026-09-20T19:03:22.644697+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=945; hash_prefix=aae66934cdfdf8ed; reward=9.99685382 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1081; hash_prefix=d5345d15841c9163; reward=9.99640064 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 944, 9.99685716 PER",
-      "url": "mining-reward://perihelion/944/288de8cb694ce61b",
-      "published": "2026-09-20T16:49:12.874828+00:00",
-      "first_seen": "2026-09-20T16:49:12.874828+00:00",
-      "last_seen": "2026-09-20T16:49:12.874828+00:00",
+      "title": "Perihelion mining reward: block 1080, 9.99640397 PER",
+      "url": "mining-reward://perihelion/1080/7e140096bbd742aa",
+      "published": "2026-09-20T19:03:02.501573+00:00",
+      "first_seen": "2026-09-20T19:03:02.501573+00:00",
+      "last_seen": "2026-09-20T19:03:02.501573+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=944; hash_prefix=288de8cb694ce61b; reward=9.99685716 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1080; hash_prefix=7e140096bbd742aa; reward=9.99640397 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 943, 9.99686049 PER",
-      "url": "mining-reward://perihelion/943/3d3ddfdeb8c6b7cb",
-      "published": "2026-09-20T16:41:32.066844+00:00",
-      "first_seen": "2026-09-20T16:41:32.066844+00:00",
-      "last_seen": "2026-09-20T16:41:32.066844+00:00",
+      "title": "Perihelion mining reward: block 1079, 9.99640731 PER",
+      "url": "mining-reward://perihelion/1079/47cc2c4261d5a70c",
+      "published": "2026-09-20T18:57:32.477509+00:00",
+      "first_seen": "2026-09-20T18:57:32.477509+00:00",
+      "last_seen": "2026-09-20T18:57:32.477509+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=943; hash_prefix=3d3ddfdeb8c6b7cb; reward=9.99686049 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1079; hash_prefix=47cc2c4261d5a70c; reward=9.99640731 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 942, 9.99686382 PER",
-      "url": "mining-reward://perihelion/942/0c9e16451b8cd534",
-      "published": "2026-09-20T16:41:06.476695+00:00",
-      "first_seen": "2026-09-20T16:41:06.476695+00:00",
-      "last_seen": "2026-09-20T16:41:06.476695+00:00",
+      "title": "Perihelion mining reward: block 1078, 9.99641064 PER",
+      "url": "mining-reward://perihelion/1078/6d6cad72b4c0531c",
+      "published": "2026-09-20T18:55:36.527433+00:00",
+      "first_seen": "2026-09-20T18:55:36.527433+00:00",
+      "last_seen": "2026-09-20T18:55:36.527433+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=942; hash_prefix=0c9e16451b8cd534; reward=9.99686382 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1078; hash_prefix=6d6cad72b4c0531c; reward=9.99641064 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 941, 9.99686715 PER",
-      "url": "mining-reward://perihelion/941/0ecf6c826e73a03f",
-      "published": "2026-09-20T16:40:29.252165+00:00",
-      "first_seen": "2026-09-20T16:40:29.252165+00:00",
-      "last_seen": "2026-09-20T16:40:29.252165+00:00",
+      "title": "Perihelion mining reward: block 1077, 9.99641397 PER",
+      "url": "mining-reward://perihelion/1077/03a8a5c3bf998ed0",
+      "published": "2026-09-20T18:54:19.754419+00:00",
+      "first_seen": "2026-09-20T18:54:19.754419+00:00",
+      "last_seen": "2026-09-20T18:54:19.754419+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=941; hash_prefix=0ecf6c826e73a03f; reward=9.99686715 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1077; hash_prefix=03a8a5c3bf998ed0; reward=9.99641397 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 940, 9.99687048 PER",
-      "url": "mining-reward://perihelion/940/584e23499bb8ff57",
-      "published": "2026-09-20T16:39:57.781046+00:00",
-      "first_seen": "2026-09-20T16:39:57.781046+00:00",
-      "last_seen": "2026-09-20T16:39:57.781046+00:00",
+      "title": "Perihelion mining reward: block 1076, 9.9964173 PER",
+      "url": "mining-reward://perihelion/1076/dfd0b6f1d4d7e0bb",
+      "published": "2026-09-20T18:54:04.466084+00:00",
+      "first_seen": "2026-09-20T18:54:04.466084+00:00",
+      "last_seen": "2026-09-20T18:54:04.466084+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=940; hash_prefix=584e23499bb8ff57; reward=9.99687048 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1076; hash_prefix=dfd0b6f1d4d7e0bb; reward=9.9964173 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 939, 9.99687382 PER",
-      "url": "mining-reward://perihelion/939/9759cc3319559b68",
-      "published": "2026-09-20T16:37:42.328919+00:00",
-      "first_seen": "2026-09-20T16:37:42.328919+00:00",
-      "last_seen": "2026-09-20T16:37:42.328919+00:00",
+      "title": "Perihelion mining reward: block 1075, 9.99642064 PER",
+      "url": "mining-reward://perihelion/1075/aaafa7b6924267f5",
+      "published": "2026-09-20T18:53:11.165682+00:00",
+      "first_seen": "2026-09-20T18:53:11.165682+00:00",
+      "last_seen": "2026-09-20T18:53:11.165682+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=939; hash_prefix=9759cc3319559b68; reward=9.99687382 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1075; hash_prefix=aaafa7b6924267f5; reward=9.99642064 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 938, 9.99687715 PER",
-      "url": "mining-reward://perihelion/938/9539b62f21b67cfe",
-      "published": "2026-09-20T16:35:57.475859+00:00",
-      "first_seen": "2026-09-20T16:35:57.475859+00:00",
-      "last_seen": "2026-09-20T16:35:57.475859+00:00",
+      "title": "Perihelion mining reward: block 1074, 9.99642397 PER",
+      "url": "mining-reward://perihelion/1074/1ca8303e9148f547",
+      "published": "2026-09-20T18:53:11.120194+00:00",
+      "first_seen": "2026-09-20T18:53:11.120194+00:00",
+      "last_seen": "2026-09-20T18:53:11.120194+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=938; hash_prefix=9539b62f21b67cfe; reward=9.99687715 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1074; hash_prefix=1ca8303e9148f547; reward=9.99642397 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 937, 9.99688048 PER",
-      "url": "mining-reward://perihelion/937/c8040d9477bd91fa",
-      "published": "2026-09-20T16:35:02.875501+00:00",
-      "first_seen": "2026-09-20T16:35:02.875501+00:00",
-      "last_seen": "2026-09-20T16:35:02.875501+00:00",
+      "title": "Perihelion mining reward: block 1073, 9.9964273 PER",
+      "url": "mining-reward://perihelion/1073/04c5d1be633dfc8a",
+      "published": "2026-09-20T18:53:11.094098+00:00",
+      "first_seen": "2026-09-20T18:53:11.094098+00:00",
+      "last_seen": "2026-09-20T18:53:11.094098+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=937; hash_prefix=c8040d9477bd91fa; reward=9.99688048 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1073; hash_prefix=04c5d1be633dfc8a; reward=9.9964273 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 936, 9.99688381 PER",
-      "url": "mining-reward://perihelion/936/f08ee38ba96f9b1a",
-      "published": "2026-09-20T16:34:54.339855+00:00",
-      "first_seen": "2026-09-20T16:34:54.339855+00:00",
-      "last_seen": "2026-09-20T16:34:54.339855+00:00",
+      "title": "Perihelion mining reward: block 1072, 9.99643063 PER",
+      "url": "mining-reward://perihelion/1072/970cbc781ee6ddb7",
+      "published": "2026-09-20T18:53:11.064455+00:00",
+      "first_seen": "2026-09-20T18:53:11.064455+00:00",
+      "last_seen": "2026-09-20T18:53:11.064455+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=936; hash_prefix=f08ee38ba96f9b1a; reward=9.99688381 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1072; hash_prefix=970cbc781ee6ddb7; reward=9.99643063 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 935, 9.99688715 PER",
-      "url": "mining-reward://perihelion/935/aa574793ccd7fe01",
-      "published": "2026-09-20T16:34:45.690244+00:00",
-      "first_seen": "2026-09-20T16:34:45.690244+00:00",
-      "last_seen": "2026-09-20T16:34:45.690244+00:00",
+      "title": "Perihelion mining reward: block 1071, 9.99643396 PER",
+      "url": "mining-reward://perihelion/1071/48d5f9ffc0895063",
+      "published": "2026-09-20T18:53:11.039144+00:00",
+      "first_seen": "2026-09-20T18:53:11.039144+00:00",
+      "last_seen": "2026-09-20T18:53:11.039144+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=935; hash_prefix=aa574793ccd7fe01; reward=9.99688715 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1071; hash_prefix=48d5f9ffc0895063; reward=9.99643396 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 934, 9.99689048 PER",
-      "url": "mining-reward://perihelion/934/839fad422e2a1bb9",
-      "published": "2026-09-20T16:34:07.207597+00:00",
-      "first_seen": "2026-09-20T16:34:07.207597+00:00",
-      "last_seen": "2026-09-20T16:34:07.207597+00:00",
+      "title": "Perihelion mining reward: block 1070, 9.9964373 PER",
+      "url": "mining-reward://perihelion/1070/3d5e5e5ad88a8e79",
+      "published": "2026-09-20T18:53:10.955901+00:00",
+      "first_seen": "2026-09-20T18:53:10.955901+00:00",
+      "last_seen": "2026-09-20T18:53:10.955901+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=934; hash_prefix=839fad422e2a1bb9; reward=9.99689048 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1070; hash_prefix=3d5e5e5ad88a8e79; reward=9.9964373 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 933, 9.99689381 PER",
-      "url": "mining-reward://perihelion/933/34d0e4361b58ea21",
-      "published": "2026-09-20T16:33:22.664763+00:00",
-      "first_seen": "2026-09-20T16:33:22.664763+00:00",
-      "last_seen": "2026-09-20T16:33:22.664763+00:00",
+      "title": "Perihelion mining reward: block 1069, 9.99644063 PER",
+      "url": "mining-reward://perihelion/1069/5aa0d9e649928d33",
+      "published": "2026-09-20T18:53:07.854804+00:00",
+      "first_seen": "2026-09-20T18:53:07.854804+00:00",
+      "last_seen": "2026-09-20T18:53:07.854804+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=933; hash_prefix=34d0e4361b58ea21; reward=9.99689381 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1069; hash_prefix=5aa0d9e649928d33; reward=9.99644063 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 932, 9.99689714 PER",
-      "url": "mining-reward://perihelion/932/32a506efaa09500a",
-      "published": "2026-09-20T16:32:36.563466+00:00",
-      "first_seen": "2026-09-20T16:32:36.563466+00:00",
-      "last_seen": "2026-09-20T16:32:36.563466+00:00",
+      "title": "Perihelion mining reward: block 1068, 9.99644396 PER",
+      "url": "mining-reward://perihelion/1068/67a16af85f16780d",
+      "published": "2026-09-20T18:45:21.147889+00:00",
+      "first_seen": "2026-09-20T18:45:21.147889+00:00",
+      "last_seen": "2026-09-20T18:45:21.147889+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=932; hash_prefix=32a506efaa09500a; reward=9.99689714 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1068; hash_prefix=67a16af85f16780d; reward=9.99644396 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 931, 9.99690047 PER",
-      "url": "mining-reward://perihelion/931/ed23987a44b22ad4",
-      "published": "2026-09-20T16:32:13.039645+00:00",
-      "first_seen": "2026-09-20T16:32:13.039645+00:00",
-      "last_seen": "2026-09-20T16:32:13.039645+00:00",
+      "title": "Perihelion mining reward: block 1067, 9.99644729 PER",
+      "url": "mining-reward://perihelion/1067/f65b908859852224",
+      "published": "2026-09-20T18:44:57.698131+00:00",
+      "first_seen": "2026-09-20T18:44:57.698131+00:00",
+      "last_seen": "2026-09-20T18:44:57.698131+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=931; hash_prefix=ed23987a44b22ad4; reward=9.99690047 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1067; hash_prefix=f65b908859852224; reward=9.99644729 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 930, 9.99690381 PER",
-      "url": "mining-reward://perihelion/930/a80aa451d889fe6f",
-      "published": "2026-09-20T16:32:04.801636+00:00",
-      "first_seen": "2026-09-20T16:32:04.801636+00:00",
-      "last_seen": "2026-09-20T16:32:04.801636+00:00",
+      "title": "Perihelion mining reward: block 1066, 9.99645062 PER",
+      "url": "mining-reward://perihelion/1066/efa703f22451de69",
+      "published": "2026-09-20T18:44:29.981046+00:00",
+      "first_seen": "2026-09-20T18:44:29.981046+00:00",
+      "last_seen": "2026-09-20T18:44:29.981046+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=930; hash_prefix=a80aa451d889fe6f; reward=9.99690381 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1066; hash_prefix=efa703f22451de69; reward=9.99645062 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 929, 9.99690714 PER",
-      "url": "mining-reward://perihelion/929/9c0ad1209385ab8d",
-      "published": "2026-09-20T16:31:21.057043+00:00",
-      "first_seen": "2026-09-20T16:31:21.057043+00:00",
-      "last_seen": "2026-09-20T16:31:21.057043+00:00",
+      "title": "Perihelion mining reward: block 1065, 9.99645396 PER",
+      "url": "mining-reward://perihelion/1065/731e480d485ebdb9",
+      "published": "2026-09-20T18:43:25.400237+00:00",
+      "first_seen": "2026-09-20T18:43:25.400237+00:00",
+      "last_seen": "2026-09-20T18:43:25.400237+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=929; hash_prefix=9c0ad1209385ab8d; reward=9.99690714 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1065; hash_prefix=731e480d485ebdb9; reward=9.99645396 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 928, 9.99691047 PER",
-      "url": "mining-reward://perihelion/928/0ea7b1d8adee8ebc",
-      "published": "2026-09-20T16:31:12.328124+00:00",
-      "first_seen": "2026-09-20T16:31:12.328124+00:00",
-      "last_seen": "2026-09-20T16:31:12.328124+00:00",
+      "title": "Perihelion mining reward: block 1064, 9.99645729 PER",
+      "url": "mining-reward://perihelion/1064/fa206228254c1908",
+      "published": "2026-09-20T18:42:49.412209+00:00",
+      "first_seen": "2026-09-20T18:42:49.412209+00:00",
+      "last_seen": "2026-09-20T18:42:49.412209+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=928; hash_prefix=0ea7b1d8adee8ebc; reward=9.99691047 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1064; hash_prefix=fa206228254c1908; reward=9.99645729 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 927, 9.9969138 PER",
-      "url": "mining-reward://perihelion/927/080494cfb0610427",
-      "published": "2026-09-20T16:30:10.047443+00:00",
-      "first_seen": "2026-09-20T16:30:10.047443+00:00",
-      "last_seen": "2026-09-20T16:30:10.047443+00:00",
+      "title": "Perihelion mining reward: block 1063, 9.99646062 PER",
+      "url": "mining-reward://perihelion/1063/2b4a2e3416982075",
+      "published": "2026-09-20T18:41:35.803635+00:00",
+      "first_seen": "2026-09-20T18:41:35.803635+00:00",
+      "last_seen": "2026-09-20T18:41:35.803635+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=927; hash_prefix=080494cfb0610427; reward=9.9969138 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1063; hash_prefix=2b4a2e3416982075; reward=9.99646062 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 926, 9.99691714 PER",
-      "url": "mining-reward://perihelion/926/4e80ab6574821b32",
-      "published": "2026-09-20T16:29:29.241590+00:00",
-      "first_seen": "2026-09-20T16:29:29.241590+00:00",
-      "last_seen": "2026-09-20T16:29:29.241590+00:00",
+      "title": "Perihelion mining reward: block 1062, 9.99646395 PER",
+      "url": "mining-reward://perihelion/1062/d96ea096c66f8ac5",
+      "published": "2026-09-20T18:41:13.402923+00:00",
+      "first_seen": "2026-09-20T18:41:13.402923+00:00",
+      "last_seen": "2026-09-20T18:41:13.402923+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=926; hash_prefix=4e80ab6574821b32; reward=9.99691714 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1062; hash_prefix=d96ea096c66f8ac5; reward=9.99646395 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 925, 9.99692047 PER",
-      "url": "mining-reward://perihelion/925/5407c3a6318854c8",
-      "published": "2026-09-20T16:27:46.300681+00:00",
-      "first_seen": "2026-09-20T16:27:46.300681+00:00",
-      "last_seen": "2026-09-20T16:27:46.300681+00:00",
+      "title": "Perihelion mining reward: block 1061, 9.99646729 PER",
+      "url": "mining-reward://perihelion/1061/9b0e7ec26883c582",
+      "published": "2026-09-20T18:41:11.339955+00:00",
+      "first_seen": "2026-09-20T18:41:11.339955+00:00",
+      "last_seen": "2026-09-20T18:41:11.339955+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=925; hash_prefix=5407c3a6318854c8; reward=9.99692047 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1061; hash_prefix=9b0e7ec26883c582; reward=9.99646729 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 924, 9.9969238 PER",
-      "url": "mining-reward://perihelion/924/23f8ffdd1ec025da",
-      "published": "2026-09-20T16:25:35.148284+00:00",
-      "first_seen": "2026-09-20T16:25:35.148284+00:00",
-      "last_seen": "2026-09-20T16:25:35.148284+00:00",
+      "title": "Perihelion mining reward: block 1060, 9.99647062 PER",
+      "url": "mining-reward://perihelion/1060/fdb73a4c3e095f4f",
+      "published": "2026-09-20T18:40:30.850563+00:00",
+      "first_seen": "2026-09-20T18:40:30.850563+00:00",
+      "last_seen": "2026-09-20T18:40:30.850563+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=924; hash_prefix=23f8ffdd1ec025da; reward=9.9969238 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1060; hash_prefix=fdb73a4c3e095f4f; reward=9.99647062 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 923, 9.99692713 PER",
-      "url": "mining-reward://perihelion/923/e5bcfa2f8042ce32",
-      "published": "2026-09-20T16:24:25.557909+00:00",
-      "first_seen": "2026-09-20T16:24:25.557909+00:00",
-      "last_seen": "2026-09-20T16:24:25.557909+00:00",
+      "title": "Perihelion mining reward: block 1059, 9.99647395 PER",
+      "url": "mining-reward://perihelion/1059/31e6d2d8ab5c638c",
+      "published": "2026-09-20T18:40:23.669634+00:00",
+      "first_seen": "2026-09-20T18:40:23.669634+00:00",
+      "last_seen": "2026-09-20T18:40:23.669634+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=923; hash_prefix=e5bcfa2f8042ce32; reward=9.99692713 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1059; hash_prefix=31e6d2d8ab5c638c; reward=9.99647395 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 922, 9.99693047 PER",
-      "url": "mining-reward://perihelion/922/dd23084c44f63021",
-      "published": "2026-09-20T16:23:42.141207+00:00",
-      "first_seen": "2026-09-20T16:23:42.141207+00:00",
-      "last_seen": "2026-09-20T16:23:42.141207+00:00",
+      "title": "Perihelion mining reward: block 1058, 9.99647728 PER",
+      "url": "mining-reward://perihelion/1058/026abd903e5c1d1a",
+      "published": "2026-09-20T18:37:52.936925+00:00",
+      "first_seen": "2026-09-20T18:37:52.936925+00:00",
+      "last_seen": "2026-09-20T18:37:52.936925+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=922; hash_prefix=dd23084c44f63021; reward=9.99693047 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1058; hash_prefix=026abd903e5c1d1a; reward=9.99647728 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 921, 9.9969338 PER",
-      "url": "mining-reward://perihelion/921/b59c6f7d4ea1e5b1",
-      "published": "2026-09-20T16:21:50.436609+00:00",
-      "first_seen": "2026-09-20T16:21:50.436609+00:00",
-      "last_seen": "2026-09-20T16:21:50.436609+00:00",
+      "title": "Perihelion mining reward: block 1057, 9.99648061 PER",
+      "url": "mining-reward://perihelion/1057/008159109dff312c",
+      "published": "2026-09-20T18:37:17.084879+00:00",
+      "first_seen": "2026-09-20T18:37:17.084879+00:00",
+      "last_seen": "2026-09-20T18:37:17.084879+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=921; hash_prefix=b59c6f7d4ea1e5b1; reward=9.9969338 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1057; hash_prefix=008159109dff312c; reward=9.99648061 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 920, 9.99693713 PER",
-      "url": "mining-reward://perihelion/920/85a79c847702c2c6",
-      "published": "2026-09-20T16:21:24.432575+00:00",
-      "first_seen": "2026-09-20T16:21:24.432575+00:00",
-      "last_seen": "2026-09-20T16:21:24.432575+00:00",
+      "title": "Perihelion mining reward: block 1056, 9.99648395 PER",
+      "url": "mining-reward://perihelion/1056/5d67905ed80b8274",
+      "published": "2026-09-20T18:36:37.514186+00:00",
+      "first_seen": "2026-09-20T18:36:37.514186+00:00",
+      "last_seen": "2026-09-20T18:36:37.514186+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=920; hash_prefix=85a79c847702c2c6; reward=9.99693713 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1056; hash_prefix=5d67905ed80b8274; reward=9.99648395 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 919, 9.99694046 PER",
-      "url": "mining-reward://perihelion/919/ca4a03e51ab2f4af",
-      "published": "2026-09-20T16:20:43.579166+00:00",
-      "first_seen": "2026-09-20T16:20:43.579166+00:00",
-      "last_seen": "2026-09-20T16:20:43.579166+00:00",
+      "title": "Perihelion mining reward: block 1055, 9.99648728 PER",
+      "url": "mining-reward://perihelion/1055/ff5bbc59fea75d3d",
+      "published": "2026-09-20T18:36:15.788226+00:00",
+      "first_seen": "2026-09-20T18:36:15.788226+00:00",
+      "last_seen": "2026-09-20T18:36:15.788226+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=919; hash_prefix=ca4a03e51ab2f4af; reward=9.99694046 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1055; hash_prefix=ff5bbc59fea75d3d; reward=9.99648728 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 918, 9.99694379 PER",
-      "url": "mining-reward://perihelion/918/bdc7b6387eebb034",
-      "published": "2026-09-20T16:20:30.446985+00:00",
-      "first_seen": "2026-09-20T16:20:30.446985+00:00",
-      "last_seen": "2026-09-20T16:20:30.446985+00:00",
+      "title": "Perihelion mining reward: block 1054, 9.99649061 PER",
+      "url": "mining-reward://perihelion/1054/93bd1475515ab53b",
+      "published": "2026-09-20T18:35:53.548871+00:00",
+      "first_seen": "2026-09-20T18:35:53.548871+00:00",
+      "last_seen": "2026-09-20T18:35:53.548871+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=918; hash_prefix=bdc7b6387eebb034; reward=9.99694379 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1054; hash_prefix=93bd1475515ab53b; reward=9.99649061 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 917, 9.99694713 PER",
-      "url": "mining-reward://perihelion/917/c27e99f95013096f",
-      "published": "2026-09-20T16:20:04.345037+00:00",
-      "first_seen": "2026-09-20T16:20:04.345037+00:00",
-      "last_seen": "2026-09-20T16:20:04.345037+00:00",
+      "title": "Perihelion mining reward: block 1053, 9.99649394 PER",
+      "url": "mining-reward://perihelion/1053/8ff193abcafb79f8",
+      "published": "2026-09-20T18:35:20.355855+00:00",
+      "first_seen": "2026-09-20T18:35:20.355855+00:00",
+      "last_seen": "2026-09-20T18:35:20.355855+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=917; hash_prefix=c27e99f95013096f; reward=9.99694713 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1053; hash_prefix=8ff193abcafb79f8; reward=9.99649394 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 916, 9.99695046 PER",
-      "url": "mining-reward://perihelion/916/9722e8ab4d0701f8",
-      "published": "2026-09-20T16:19:14.170384+00:00",
-      "first_seen": "2026-09-20T16:19:14.170384+00:00",
-      "last_seen": "2026-09-20T16:19:14.170384+00:00",
+      "title": "Perihelion mining reward: block 1052, 9.99649727 PER",
+      "url": "mining-reward://perihelion/1052/eab751ad924fd3be",
+      "published": "2026-09-20T18:32:37.299669+00:00",
+      "first_seen": "2026-09-20T18:32:37.299669+00:00",
+      "last_seen": "2026-09-20T18:32:37.299669+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=916; hash_prefix=9722e8ab4d0701f8; reward=9.99695046 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1052; hash_prefix=eab751ad924fd3be; reward=9.99649727 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 915, 9.99695379 PER",
-      "url": "mining-reward://perihelion/915/16959d1fc0cd3daf",
-      "published": "2026-09-20T16:18:37.376569+00:00",
-      "first_seen": "2026-09-20T16:18:37.376569+00:00",
-      "last_seen": "2026-09-20T16:18:37.376569+00:00",
+      "title": "Perihelion mining reward: block 1051, 9.99650061 PER",
+      "url": "mining-reward://perihelion/1051/aa0c85fe01cce3e7",
+      "published": "2026-09-20T18:31:36.756849+00:00",
+      "first_seen": "2026-09-20T18:31:36.756849+00:00",
+      "last_seen": "2026-09-20T18:31:36.756849+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=915; hash_prefix=16959d1fc0cd3daf; reward=9.99695379 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1051; hash_prefix=aa0c85fe01cce3e7; reward=9.99650061 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 914, 9.99695712 PER",
-      "url": "mining-reward://perihelion/914/3027436c009e715e",
-      "published": "2026-09-20T16:18:15.779062+00:00",
-      "first_seen": "2026-09-20T16:18:15.779062+00:00",
-      "last_seen": "2026-09-20T16:18:15.779062+00:00",
+      "title": "Perihelion mining reward: block 1050, 9.99650394 PER",
+      "url": "mining-reward://perihelion/1050/2a0ce12bc24a1320",
+      "published": "2026-09-20T18:31:15.759241+00:00",
+      "first_seen": "2026-09-20T18:31:15.759241+00:00",
+      "last_seen": "2026-09-20T18:31:15.759241+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=914; hash_prefix=3027436c009e715e; reward=9.99695712 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1050; hash_prefix=2a0ce12bc24a1320; reward=9.99650394 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 913, 9.99696046 PER",
-      "url": "mining-reward://perihelion/913/fb8d038c60b6af5d",
-      "published": "2026-09-20T16:18:15.767587+00:00",
-      "first_seen": "2026-09-20T16:18:15.767587+00:00",
-      "last_seen": "2026-09-20T16:18:15.767587+00:00",
+      "title": "Perihelion mining reward: block 1049, 9.99650727 PER",
+      "url": "mining-reward://perihelion/1049/1274403812bd6032",
+      "published": "2026-09-20T18:29:46.185937+00:00",
+      "first_seen": "2026-09-20T18:29:46.185937+00:00",
+      "last_seen": "2026-09-20T18:29:46.185937+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=913; hash_prefix=fb8d038c60b6af5d; reward=9.99696046 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1049; hash_prefix=1274403812bd6032; reward=9.99650727 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 912, 9.99696379 PER",
-      "url": "mining-reward://perihelion/912/03f742fccb92fac4",
-      "published": "2026-09-20T16:18:15.752560+00:00",
-      "first_seen": "2026-09-20T16:18:15.752560+00:00",
-      "last_seen": "2026-09-20T16:18:15.752560+00:00",
+      "title": "Perihelion mining reward: block 1048, 9.9965106 PER",
+      "url": "mining-reward://perihelion/1048/022f7b6e595860f9",
+      "published": "2026-09-20T18:29:28.544257+00:00",
+      "first_seen": "2026-09-20T18:29:28.544257+00:00",
+      "last_seen": "2026-09-20T18:29:28.544257+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=912; hash_prefix=03f742fccb92fac4; reward=9.99696379 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1048; hash_prefix=022f7b6e595860f9; reward=9.9965106 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 911, 9.99696712 PER",
-      "url": "mining-reward://perihelion/911/d7c931815d4cc1f7",
-      "published": "2026-09-20T16:18:15.731994+00:00",
-      "first_seen": "2026-09-20T16:18:15.731994+00:00",
-      "last_seen": "2026-09-20T16:18:15.731994+00:00",
+      "title": "Perihelion mining reward: block 1047, 9.99651394 PER",
+      "url": "mining-reward://perihelion/1047/bdd2bd257ebd17bd",
+      "published": "2026-09-20T18:29:17.226136+00:00",
+      "first_seen": "2026-09-20T18:29:17.226136+00:00",
+      "last_seen": "2026-09-20T18:29:17.226136+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=911; hash_prefix=d7c931815d4cc1f7; reward=9.99696712 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1047; hash_prefix=bdd2bd257ebd17bd; reward=9.99651394 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 910, 9.99697045 PER",
-      "url": "mining-reward://perihelion/910/91e8c9cfa40b6cfb",
-      "published": "2026-09-20T16:18:14.859893+00:00",
-      "first_seen": "2026-09-20T16:18:14.859893+00:00",
-      "last_seen": "2026-09-20T16:18:14.859893+00:00",
+      "title": "Perihelion mining reward: block 1046, 9.99651727 PER",
+      "url": "mining-reward://perihelion/1046/6e69a9a611baa1d7",
+      "published": "2026-09-20T18:27:50.891162+00:00",
+      "first_seen": "2026-09-20T18:27:50.891162+00:00",
+      "last_seen": "2026-09-20T18:27:50.891162+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=910; hash_prefix=91e8c9cfa40b6cfb; reward=9.99697045 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1046; hash_prefix=6e69a9a611baa1d7; reward=9.99651727 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 909, 9.99697379 PER",
-      "url": "mining-reward://perihelion/909/449e3003e57f7519",
-      "published": "2026-09-20T16:11:32.223549+00:00",
-      "first_seen": "2026-09-20T16:11:32.223549+00:00",
-      "last_seen": "2026-09-20T16:11:32.223549+00:00",
+      "title": "Perihelion mining reward: block 1045, 9.9965206 PER",
+      "url": "mining-reward://perihelion/1045/45fee1553f9331fd",
+      "published": "2026-09-20T18:27:33.128469+00:00",
+      "first_seen": "2026-09-20T18:27:33.128469+00:00",
+      "last_seen": "2026-09-20T18:27:33.128469+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=909; hash_prefix=449e3003e57f7519; reward=9.99697379 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1045; hash_prefix=45fee1553f9331fd; reward=9.9965206 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 908, 9.99697712 PER",
-      "url": "mining-reward://perihelion/908/bc0776c53da38ed5",
-      "published": "2026-09-20T16:07:45.612170+00:00",
-      "first_seen": "2026-09-20T16:07:45.612170+00:00",
-      "last_seen": "2026-09-20T16:07:45.612170+00:00",
+      "title": "Perihelion mining reward: block 1044, 9.99652393 PER",
+      "url": "mining-reward://perihelion/1044/28fcb091e102f384",
+      "published": "2026-09-20T18:26:59.480803+00:00",
+      "first_seen": "2026-09-20T18:26:59.480803+00:00",
+      "last_seen": "2026-09-20T18:26:59.480803+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=908; hash_prefix=bc0776c53da38ed5; reward=9.99697712 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1044; hash_prefix=28fcb091e102f384; reward=9.99652393 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 907, 9.99698045 PER",
-      "url": "mining-reward://perihelion/907/9420ce03ff4936e8",
-      "published": "2026-09-20T16:07:25.467012+00:00",
-      "first_seen": "2026-09-20T16:07:25.467012+00:00",
-      "last_seen": "2026-09-20T16:07:25.467012+00:00",
+      "title": "Perihelion mining reward: block 1043, 9.99652726 PER",
+      "url": "mining-reward://perihelion/1043/f96844cb475e45b0",
+      "published": "2026-09-20T18:26:25.724957+00:00",
+      "first_seen": "2026-09-20T18:26:25.724957+00:00",
+      "last_seen": "2026-09-20T18:26:25.724957+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=907; hash_prefix=9420ce03ff4936e8; reward=9.99698045 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1043; hash_prefix=f96844cb475e45b0; reward=9.99652726 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 906, 9.99698378 PER",
-      "url": "mining-reward://perihelion/906/38a376aba6e9c892",
-      "published": "2026-09-20T16:04:35.832710+00:00",
-      "first_seen": "2026-09-20T16:04:35.832710+00:00",
-      "last_seen": "2026-09-20T16:04:35.832710+00:00",
+      "title": "Perihelion mining reward: block 1042, 9.9965306 PER",
+      "url": "mining-reward://perihelion/1042/c83051d9e23fffdf",
+      "published": "2026-09-20T18:25:57.643551+00:00",
+      "first_seen": "2026-09-20T18:25:57.643551+00:00",
+      "last_seen": "2026-09-20T18:25:57.643551+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=906; hash_prefix=38a376aba6e9c892; reward=9.99698378 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1042; hash_prefix=c83051d9e23fffdf; reward=9.9965306 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 905, 9.99698712 PER",
-      "url": "mining-reward://perihelion/905/ce2f002dea6d12cd",
-      "published": "2026-09-20T16:03:18.927397+00:00",
-      "first_seen": "2026-09-20T16:03:18.927397+00:00",
-      "last_seen": "2026-09-20T16:03:18.927397+00:00",
+      "title": "Perihelion mining reward: block 1041, 9.99653393 PER",
+      "url": "mining-reward://perihelion/1041/3397a49c662a0f80",
+      "published": "2026-09-20T18:22:02.457689+00:00",
+      "first_seen": "2026-09-20T18:22:02.457689+00:00",
+      "last_seen": "2026-09-20T18:22:02.457689+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=905; hash_prefix=ce2f002dea6d12cd; reward=9.99698712 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1041; hash_prefix=3397a49c662a0f80; reward=9.99653393 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 904, 9.99699045 PER",
-      "url": "mining-reward://perihelion/904/d470d43f48ce5cbc",
-      "published": "2026-09-20T16:02:11.469846+00:00",
-      "first_seen": "2026-09-20T16:02:11.469846+00:00",
-      "last_seen": "2026-09-20T16:02:11.469846+00:00",
+      "title": "Perihelion mining reward: block 1040, 9.99653726 PER",
+      "url": "mining-reward://perihelion/1040/f498b50f47acc725",
+      "published": "2026-09-20T18:22:02.443632+00:00",
+      "first_seen": "2026-09-20T18:22:02.443632+00:00",
+      "last_seen": "2026-09-20T18:22:02.443632+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=904; hash_prefix=d470d43f48ce5cbc; reward=9.99699045 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1040; hash_prefix=f498b50f47acc725; reward=9.99653726 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 903, 9.99699378 PER",
-      "url": "mining-reward://perihelion/903/98292b902e379cb3",
-      "published": "2026-09-20T16:02:00.750616+00:00",
-      "first_seen": "2026-09-20T16:02:00.750616+00:00",
-      "last_seen": "2026-09-20T16:02:00.750616+00:00",
+      "title": "Perihelion mining reward: block 1039, 9.99654059 PER",
+      "url": "mining-reward://perihelion/1039/dfa716697c311dd4",
+      "published": "2026-09-20T18:22:02.419160+00:00",
+      "first_seen": "2026-09-20T18:22:02.419160+00:00",
+      "last_seen": "2026-09-20T18:22:02.419160+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=903; hash_prefix=98292b902e379cb3; reward=9.99699378 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1039; hash_prefix=dfa716697c311dd4; reward=9.99654059 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 902, 9.99699711 PER",
-      "url": "mining-reward://perihelion/902/8cc659ddc42bb1c2",
-      "published": "2026-09-20T16:00:49.198003+00:00",
-      "first_seen": "2026-09-20T16:00:49.198003+00:00",
-      "last_seen": "2026-09-20T16:00:49.198003+00:00",
+      "title": "Perihelion mining reward: block 1038, 9.99654393 PER",
+      "url": "mining-reward://perihelion/1038/7c23a07422029efc",
+      "published": "2026-09-20T18:22:02.414346+00:00",
+      "first_seen": "2026-09-20T18:22:02.414346+00:00",
+      "last_seen": "2026-09-20T18:22:02.414346+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=902; hash_prefix=8cc659ddc42bb1c2; reward=9.99699711 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1038; hash_prefix=7c23a07422029efc; reward=9.99654393 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 901, 9.99700044 PER",
-      "url": "mining-reward://perihelion/901/d17c42620974ba5f",
-      "published": "2026-09-20T16:00:01.812306+00:00",
-      "first_seen": "2026-09-20T16:00:01.812306+00:00",
-      "last_seen": "2026-09-20T16:00:01.812306+00:00",
+      "title": "Perihelion mining reward: block 1037, 9.99654726 PER",
+      "url": "mining-reward://perihelion/1037/8dfdb949381c917a",
+      "published": "2026-09-20T18:22:02.406034+00:00",
+      "first_seen": "2026-09-20T18:22:02.406034+00:00",
+      "last_seen": "2026-09-20T18:22:02.406034+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=901; hash_prefix=d17c42620974ba5f; reward=9.99700044 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1037; hash_prefix=8dfdb949381c917a; reward=9.99654726 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 900, 9.99700378 PER",
-      "url": "mining-reward://perihelion/900/0b917f5d8322eec4",
-      "published": "2026-09-20T15:59:46.653450+00:00",
-      "first_seen": "2026-09-20T15:59:46.653450+00:00",
-      "last_seen": "2026-09-20T15:59:46.653450+00:00",
+      "title": "Perihelion mining reward: block 1036, 9.99655059 PER",
+      "url": "mining-reward://perihelion/1036/bb78f03003320424",
+      "published": "2026-09-20T18:22:02.397950+00:00",
+      "first_seen": "2026-09-20T18:22:02.397950+00:00",
+      "last_seen": "2026-09-20T18:22:02.397950+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=900; hash_prefix=0b917f5d8322eec4; reward=9.99700378 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1036; hash_prefix=bb78f03003320424; reward=9.99655059 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 899, 9.99700711 PER",
-      "url": "mining-reward://perihelion/899/6bd2d2ecf208e6ec",
-      "published": "2026-09-20T15:59:02.370947+00:00",
-      "first_seen": "2026-09-20T15:59:02.370947+00:00",
-      "last_seen": "2026-09-20T15:59:02.370947+00:00",
+      "title": "Perihelion mining reward: block 1035, 9.99655392 PER",
+      "url": "mining-reward://perihelion/1035/3052a7a849446b71",
+      "published": "2026-09-20T18:22:02.392639+00:00",
+      "first_seen": "2026-09-20T18:22:02.392639+00:00",
+      "last_seen": "2026-09-20T18:22:02.392639+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=899; hash_prefix=6bd2d2ecf208e6ec; reward=9.99700711 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1035; hash_prefix=3052a7a849446b71; reward=9.99655392 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 898, 9.99701044 PER",
-      "url": "mining-reward://perihelion/898/54d331d812b7c658",
-      "published": "2026-09-20T15:57:47.009345+00:00",
-      "first_seen": "2026-09-20T15:57:47.009345+00:00",
-      "last_seen": "2026-09-20T15:57:47.009345+00:00",
+      "title": "Perihelion mining reward: block 1034, 9.99655725 PER",
+      "url": "mining-reward://perihelion/1034/5809ae1ca468ef4e",
+      "published": "2026-09-20T18:22:02.386843+00:00",
+      "first_seen": "2026-09-20T18:22:02.386843+00:00",
+      "last_seen": "2026-09-20T18:22:02.386843+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=898; hash_prefix=54d331d812b7c658; reward=9.99701044 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1034; hash_prefix=5809ae1ca468ef4e; reward=9.99655725 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 897, 9.99701377 PER",
-      "url": "mining-reward://perihelion/897/2a2f6237d8d319c4",
-      "published": "2026-09-20T15:57:35.258101+00:00",
-      "first_seen": "2026-09-20T15:57:35.258101+00:00",
-      "last_seen": "2026-09-20T15:57:35.258101+00:00",
+      "title": "Perihelion mining reward: block 1033, 9.99656059 PER",
+      "url": "mining-reward://perihelion/1033/4cc626c9695f4bcd",
+      "published": "2026-09-20T18:22:02.380459+00:00",
+      "first_seen": "2026-09-20T18:22:02.380459+00:00",
+      "last_seen": "2026-09-20T18:22:02.380459+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=897; hash_prefix=2a2f6237d8d319c4; reward=9.99701377 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1033; hash_prefix=4cc626c9695f4bcd; reward=9.99656059 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 896, 9.99701711 PER",
-      "url": "mining-reward://perihelion/896/0c4a4f5423956b80",
-      "published": "2026-09-20T15:57:02.085914+00:00",
-      "first_seen": "2026-09-20T15:57:02.085914+00:00",
-      "last_seen": "2026-09-20T15:57:02.085914+00:00",
+      "title": "Perihelion mining reward: block 1032, 9.99656392 PER",
+      "url": "mining-reward://perihelion/1032/29945b889542b402",
+      "published": "2026-09-20T18:22:02.369301+00:00",
+      "first_seen": "2026-09-20T18:22:02.369301+00:00",
+      "last_seen": "2026-09-20T18:22:02.369301+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=896; hash_prefix=0c4a4f5423956b80; reward=9.99701711 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1032; hash_prefix=29945b889542b402; reward=9.99656392 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 895, 9.99702044 PER",
-      "url": "mining-reward://perihelion/895/0eb992825f342485",
-      "published": "2026-09-20T15:54:50.422621+00:00",
-      "first_seen": "2026-09-20T15:54:50.422621+00:00",
-      "last_seen": "2026-09-20T15:54:50.422621+00:00",
+      "title": "Perihelion mining reward: block 1031, 9.99656725 PER",
+      "url": "mining-reward://perihelion/1031/577869d9d5b16fdf",
+      "published": "2026-09-20T18:21:54.109131+00:00",
+      "first_seen": "2026-09-20T18:21:54.109131+00:00",
+      "last_seen": "2026-09-20T18:21:54.109131+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=895; hash_prefix=0eb992825f342485; reward=9.99702044 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1031; hash_prefix=577869d9d5b16fdf; reward=9.99656725 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 894, 9.99702377 PER",
-      "url": "mining-reward://perihelion/894/54462e2614658b12",
-      "published": "2026-09-20T15:52:22.730851+00:00",
-      "first_seen": "2026-09-20T15:52:22.730851+00:00",
-      "last_seen": "2026-09-20T15:52:22.730851+00:00",
-      "score": 100,
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Nonsense (NNN) | CPU Mining | Beautifully Unnecessary | GHOSTDAG PoW",
+      "url": "https://bitcointalk.org/index.php?topic=5593782.0",
+      "published": null,
+      "first_seen": "2026-09-20T18:16:24.212575+00:00",
+      "last_seen": "2026-09-20T18:47:32.954273+00:00",
+      "score": 29,
       "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
+        "+5:mainnet",
+        "+5:genesis",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+3:compute",
+        "-8:premine"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=894; hash_prefix=54462e2614658b12; reward=9.99702377 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "NONSENSE Beautifully Unnecessary NNN · Proof of Work · GHOSTDAG · FishHashPlus Some things deserve to exist just because someone wanted to make them. nonsense.rodeo | Explorer | GitHub | Discord Nonsense is a currency for things people make without asking whether the world needs them: strange software, improbable art, midnight side projects, and ideas that escaped the notebook. The idea is to use NNN to support those experiments and exchange what comes out of them. Its foundation is concrete: an independent proof-of-work network, a GHOSTDAG ledger, open-source software, and a defined emission schedule. What people choose to build around it can be wonderfully unreasonable. GHOSTDAG + FishHash"
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 893, 9.9970271 PER",
-      "url": "mining-reward://perihelion/893/05709d04bec8cd33",
-      "published": "2026-09-20T15:48:38.573045+00:00",
-      "first_seen": "2026-09-20T15:48:38.573045+00:00",
-      "last_seen": "2026-09-20T15:48:38.573045+00:00",
+      "title": "Perihelion mining reward: block 1030, 9.99657058 PER",
+      "url": "mining-reward://perihelion/1030/093fc9289cb65e6d",
+      "published": "2026-09-20T18:13:33.962503+00:00",
+      "first_seen": "2026-09-20T18:13:33.962503+00:00",
+      "last_seen": "2026-09-20T18:13:33.962503+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=893; hash_prefix=05709d04bec8cd33; reward=9.9970271 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1030; hash_prefix=093fc9289cb65e6d; reward=9.99657058 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 892, 9.99703044 PER",
-      "url": "mining-reward://perihelion/892/f384d53c412d16c4",
-      "published": "2026-09-20T15:47:56.133212+00:00",
-      "first_seen": "2026-09-20T15:47:56.133212+00:00",
-      "last_seen": "2026-09-20T15:47:56.133212+00:00",
+      "title": "Perihelion mining reward: block 1029, 9.99657391 PER",
+      "url": "mining-reward://perihelion/1029/f4af78f6a2abdfbc",
+      "published": "2026-09-20T18:13:28.094685+00:00",
+      "first_seen": "2026-09-20T18:13:28.094685+00:00",
+      "last_seen": "2026-09-20T18:13:28.094685+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=892; hash_prefix=f384d53c412d16c4; reward=9.99703044 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1029; hash_prefix=f4af78f6a2abdfbc; reward=9.99657391 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 891, 9.99703377 PER",
-      "url": "mining-reward://perihelion/891/0f44a846c2d4200c",
-      "published": "2026-09-20T15:47:41.743940+00:00",
-      "first_seen": "2026-09-20T15:47:41.743940+00:00",
-      "last_seen": "2026-09-20T15:47:41.743940+00:00",
+      "title": "Perihelion mining reward: block 1028, 9.99657725 PER",
+      "url": "mining-reward://perihelion/1028/5df24f8e403e5118",
+      "published": "2026-09-20T18:13:06.922746+00:00",
+      "first_seen": "2026-09-20T18:13:06.922746+00:00",
+      "last_seen": "2026-09-20T18:13:06.922746+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=891; hash_prefix=0f44a846c2d4200c; reward=9.99703377 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1028; hash_prefix=5df24f8e403e5118; reward=9.99657725 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 890, 9.9970371 PER",
-      "url": "mining-reward://perihelion/890/c25620d5f19bb970",
-      "published": "2026-09-20T15:47:17.460537+00:00",
-      "first_seen": "2026-09-20T15:47:17.460537+00:00",
-      "last_seen": "2026-09-20T15:47:17.460537+00:00",
+      "title": "Perihelion mining reward: block 1027, 9.99658058 PER",
+      "url": "mining-reward://perihelion/1027/df2bf67182d78486",
+      "published": "2026-09-20T18:10:26.905562+00:00",
+      "first_seen": "2026-09-20T18:10:26.905562+00:00",
+      "last_seen": "2026-09-20T18:10:26.905562+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=890; hash_prefix=c25620d5f19bb970; reward=9.9970371 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1027; hash_prefix=df2bf67182d78486; reward=9.99658058 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 889, 9.99704043 PER",
-      "url": "mining-reward://perihelion/889/dcaac25b61d16021",
-      "published": "2026-09-20T15:47:17.435610+00:00",
-      "first_seen": "2026-09-20T15:47:17.435610+00:00",
-      "last_seen": "2026-09-20T15:47:17.435610+00:00",
+      "title": "Perihelion mining reward: block 1026, 9.99658391 PER",
+      "url": "mining-reward://perihelion/1026/d96628f72307af77",
+      "published": "2026-09-20T18:09:25.414924+00:00",
+      "first_seen": "2026-09-20T18:09:25.414924+00:00",
+      "last_seen": "2026-09-20T18:09:25.414924+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=889; hash_prefix=dcaac25b61d16021; reward=9.99704043 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1026; hash_prefix=d96628f72307af77; reward=9.99658391 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 888, 9.99704376 PER",
-      "url": "mining-reward://perihelion/888/d80b76b136395fb4",
-      "published": "2026-09-20T15:47:17.407394+00:00",
-      "first_seen": "2026-09-20T15:47:17.407394+00:00",
-      "last_seen": "2026-09-20T15:47:17.407394+00:00",
+      "title": "Perihelion mining reward: block 1025, 9.99658724 PER",
+      "url": "mining-reward://perihelion/1025/fd071c54a394876b",
+      "published": "2026-09-20T18:07:29.100683+00:00",
+      "first_seen": "2026-09-20T18:07:29.100683+00:00",
+      "last_seen": "2026-09-20T18:07:29.100683+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=888; hash_prefix=d80b76b136395fb4; reward=9.99704376 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1025; hash_prefix=fd071c54a394876b; reward=9.99658724 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 887, 9.9970471 PER",
-      "url": "mining-reward://perihelion/887/d7130c0a46a184fa",
-      "published": "2026-09-20T15:47:17.384452+00:00",
-      "first_seen": "2026-09-20T15:47:17.384452+00:00",
-      "last_seen": "2026-09-20T15:47:17.384452+00:00",
+      "title": "Perihelion mining reward: block 1024, 9.99659058 PER",
+      "url": "mining-reward://perihelion/1024/496bec55d6999aff",
+      "published": "2026-09-20T18:03:49.248413+00:00",
+      "first_seen": "2026-09-20T18:03:49.248413+00:00",
+      "last_seen": "2026-09-20T18:03:49.248413+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=887; hash_prefix=d7130c0a46a184fa; reward=9.9970471 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1024; hash_prefix=496bec55d6999aff; reward=9.99659058 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 886, 9.99705043 PER",
-      "url": "mining-reward://perihelion/886/d2a4d2ead3d49534",
-      "published": "2026-09-20T15:47:17.365090+00:00",
-      "first_seen": "2026-09-20T15:47:17.365090+00:00",
-      "last_seen": "2026-09-20T15:47:17.365090+00:00",
+      "title": "Perihelion mining reward: block 1023, 9.99659391 PER",
+      "url": "mining-reward://perihelion/1023/cc058fa7b232ed01",
+      "published": "2026-09-20T18:03:10.564687+00:00",
+      "first_seen": "2026-09-20T18:03:10.564687+00:00",
+      "last_seen": "2026-09-20T18:03:10.564687+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=886; hash_prefix=d2a4d2ead3d49534; reward=9.99705043 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1023; hash_prefix=cc058fa7b232ed01; reward=9.99659391 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 885, 9.99705376 PER",
-      "url": "mining-reward://perihelion/885/4e5593c4b664d506",
-      "published": "2026-09-20T15:47:17.347706+00:00",
-      "first_seen": "2026-09-20T15:47:17.347706+00:00",
-      "last_seen": "2026-09-20T15:47:17.347706+00:00",
+      "title": "Perihelion mining reward: block 1022, 9.99659724 PER",
+      "url": "mining-reward://perihelion/1022/9794567fb9cdbb5b",
+      "published": "2026-09-20T18:01:55.239838+00:00",
+      "first_seen": "2026-09-20T18:01:55.239838+00:00",
+      "last_seen": "2026-09-20T18:01:55.239838+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=885; hash_prefix=4e5593c4b664d506; reward=9.99705376 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1022; hash_prefix=9794567fb9cdbb5b; reward=9.99659724 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 884, 9.99705709 PER",
-      "url": "mining-reward://perihelion/884/1f5947d29d2439c8",
-      "published": "2026-09-20T15:47:17.328641+00:00",
-      "first_seen": "2026-09-20T15:47:17.328641+00:00",
-      "last_seen": "2026-09-20T15:47:17.328641+00:00",
+      "title": "Perihelion mining reward: block 1021, 9.99660057 PER",
+      "url": "mining-reward://perihelion/1021/0b62a8be1d163781",
+      "published": "2026-09-20T17:59:42.406077+00:00",
+      "first_seen": "2026-09-20T17:59:42.406077+00:00",
+      "last_seen": "2026-09-20T17:59:42.406077+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=884; hash_prefix=1f5947d29d2439c8; reward=9.99705709 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1021; hash_prefix=0b62a8be1d163781; reward=9.99660057 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 883, 9.99706043 PER",
-      "url": "mining-reward://perihelion/883/fcd9224340f7d216",
-      "published": "2026-09-20T15:47:17.309515+00:00",
-      "first_seen": "2026-09-20T15:47:17.309515+00:00",
-      "last_seen": "2026-09-20T15:47:17.309515+00:00",
+      "title": "Perihelion mining reward: block 1020, 9.9966039 PER",
+      "url": "mining-reward://perihelion/1020/1acd8b2932dbfb86",
+      "published": "2026-09-20T17:59:30.486033+00:00",
+      "first_seen": "2026-09-20T17:59:30.486033+00:00",
+      "last_seen": "2026-09-20T17:59:30.486033+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=883; hash_prefix=fcd9224340f7d216; reward=9.99706043 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1020; hash_prefix=1acd8b2932dbfb86; reward=9.9966039 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 882, 9.99706376 PER",
-      "url": "mining-reward://perihelion/882/4a911dc509b7c7da",
-      "published": "2026-09-20T15:47:17.289214+00:00",
-      "first_seen": "2026-09-20T15:47:17.289214+00:00",
-      "last_seen": "2026-09-20T15:47:17.289214+00:00",
+      "title": "Perihelion mining reward: block 1019, 9.99660724 PER",
+      "url": "mining-reward://perihelion/1019/a36b04dc9776cf85",
+      "published": "2026-09-20T17:59:04.879026+00:00",
+      "first_seen": "2026-09-20T17:59:04.879026+00:00",
+      "last_seen": "2026-09-20T17:59:04.879026+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=882; hash_prefix=4a911dc509b7c7da; reward=9.99706376 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1019; hash_prefix=a36b04dc9776cf85; reward=9.99660724 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 881, 9.99706709 PER",
-      "url": "mining-reward://perihelion/881/3b6691ac297f3cd0",
-      "published": "2026-09-20T15:47:17.267181+00:00",
-      "first_seen": "2026-09-20T15:47:17.267181+00:00",
-      "last_seen": "2026-09-20T15:47:17.267181+00:00",
+      "title": "Perihelion mining reward: block 1018, 9.99661057 PER",
+      "url": "mining-reward://perihelion/1018/45bfb6ad92e63233",
+      "published": "2026-09-20T17:59:04.376330+00:00",
+      "first_seen": "2026-09-20T17:59:04.376330+00:00",
+      "last_seen": "2026-09-20T17:59:04.376330+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=881; hash_prefix=3b6691ac297f3cd0; reward=9.99706709 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1018; hash_prefix=45bfb6ad92e63233; reward=9.99661057 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 880, 9.99707042 PER",
-      "url": "mining-reward://perihelion/880/763d4a9ef5c01232",
-      "published": "2026-09-20T15:47:17.248895+00:00",
-      "first_seen": "2026-09-20T15:47:17.248895+00:00",
-      "last_seen": "2026-09-20T15:47:17.248895+00:00",
+      "title": "Perihelion mining reward: block 1017, 9.9966139 PER",
+      "url": "mining-reward://perihelion/1017/ccf544abc65294f9",
+      "published": "2026-09-20T17:58:41.841236+00:00",
+      "first_seen": "2026-09-20T17:58:41.841236+00:00",
+      "last_seen": "2026-09-20T17:58:41.841236+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=880; hash_prefix=763d4a9ef5c01232; reward=9.99707042 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1017; hash_prefix=ccf544abc65294f9; reward=9.9966139 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     },
     {
       "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 879, 9.99707376 PER",
-      "url": "mining-reward://perihelion/879/91678cd4fbf4b9a2",
-      "published": "2026-09-20T15:47:17.227963+00:00",
-      "first_seen": "2026-09-20T15:47:17.227963+00:00",
-      "last_seen": "2026-09-20T15:47:17.227963+00:00",
+      "title": "Perihelion mining reward: block 1016, 9.99661723 PER",
+      "url": "mining-reward://perihelion/1016/a9ba6aba1cf7fb13",
+      "published": "2026-09-20T17:58:07.742617+00:00",
+      "first_seen": "2026-09-20T17:58:07.742617+00:00",
+      "last_seen": "2026-09-20T17:58:07.742617+00:00",
       "score": 100,
       "flags": [
         "mined-block",
         "wallet-reward",
         "perihelion"
       ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=879; hash_prefix=91678cd4fbf4b9a2; reward=9.99707376 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
+      "snippet": "Locally mined Perihelion block accepted by the node. height=1016; hash_prefix=a9ba6aba1cf7fb13; reward=9.99661723 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1217,7 +1226,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-20T16:49:03.527812+00:00",
+      "checked": "2026-09-20T18:53:06.710937+00:00",
       "last_state_change": null
     },
     {
@@ -1225,7 +1234,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-20T16:48:55.515364+00:00",
+      "checked": "2026-09-20T18:52:58.690607+00:00",
       "last_state_change": null
     },
     {
@@ -1233,7 +1242,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-20T16:48:59.521151+00:00",
+      "checked": "2026-09-20T18:53:02.703557+00:00",
       "last_state_change": null
     }
   ]
