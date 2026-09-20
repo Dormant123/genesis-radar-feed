@@ -1,0 +1,46 @@
+name: Refresh Genesis Radar Feed
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: genesis-radar-feed-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch sanitized feed
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-delay 5 \
+            "https://89-125-209-50.sslip.io/13f46995dd02804e627ebac6ecf08c4480cd922729983de4/feed.json" \
+            -o feed.json.new
+          python3 -m json.tool feed.json.new >/dev/null
+          mv feed.json.new feed.json
+
+      - name: Commit only when changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- feed.json && git ls-files --error-unmatch feed.json >/dev/null 2>&1; then
+            echo "No feed change."
+            exit 0
+          fi
+
+          git config user.name "genesis-radar-bot"
+          git config user.email "genesis-radar-bot@users.noreply.github.com"
+          git add feed.json
+          git commit -m "Update Genesis Radar feed"
+          git push
