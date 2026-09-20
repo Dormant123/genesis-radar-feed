@@ -1,0 +1,482 @@
+{
+  "schema": "genesis-radar-feed-v1",
+  "generated_at": "2026-09-20T04:54:38.611043+00:00",
+  "privacy": {
+    "raw_discord_messages_exposed": false,
+    "credentials_exposed": false,
+    "wallet_data_exposed": false,
+    "note": "This feed contains sanitized derived radar findings and public-source excerpts only."
+  },
+  "public_findings": [
+    {
+      "source": "page:QMS",
+      "title": "QMS — A Layer-1 Blockchain for the Post-Quantum Era",
+      "url": "https://qms.finance/",
+      "published": null,
+      "first_seen": "2026-09-20T03:22:23.541907+00:00",
+      "last_seen": "2026-09-20T04:24:15.841082+00:00",
+      "score": 25,
+      "flags": [
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+3:compute",
+        "+3:optimization",
+        "+2:post-quantum",
+        "+1:decentralized"
+      ],
+      "snippet": "QMS — A Layer-1 Blockchain for the Post-Quantum Era QMS Protocol Solution How It Works Use Case News Docs Testnet Incoming Join Waitlist QMS — Quantum-Monetary System A Layer-1 purpose-built for the post-quantum era The QMS Network (“QMS”) is a Layer-1 blockchain purpose-built for the post-quantum era. Its consensus layer is quantum-resistant by design, and it is built to accommodate quantum hardware in its miner network. Read Docs Join waitlist Proof-of-useful-work without the waste. Every Bitcoin block is secured by computations that exist only to be discarded. QMS takes that same energy and aims it at problems paying clients want solved: logistics, portfolio optimization, vehicle routing."
+    },
+    {
+      "source": "page:TensorCash blog",
+      "title": "Blog Â· TensorCash",
+      "url": "https://tensorcash.org/blog/",
+      "published": null,
+      "first_seen": "2026-09-20T03:21:31.183490+00:00",
+      "last_seen": "2026-09-20T04:23:23.834486+00:00",
+      "score": 40,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+5:block 0",
+        "+5:block zero",
+        "+1:testnet",
+        "+2:open source",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+4:inference",
+        "+3:compute",
+        "+2:post-quantum",
+        "+3:no exchange",
+        "+2:otc",
+        "-7:ico",
+        "-5:points"
+      ],
+      "snippet": "Blog Â· TensorCash TensorCash Protocol Get involved Docs Blog EN â¾ Language Choose a language English English en Ø§ÙØ¹Ø±Ø¨ÙØ© Arabic ar à½à½¼à½à¼à½¦à¾à½à¼ Tibetan bo Bosanski Bosnian bs CatalÃ Catalan ca ÄeÅ¡tina Czech cs Dansk Danish da Deutsch German de EspaÃ±ol Spanish es Eesti Estonian et ÙØ§Ø±Ø³Û Persian fa Suomi Finnish fi FranÃ§ais French fr ×¢××¨××ª Hebrew he Magyar Hungarian hu Bahasa Indonesia Indonesian id Italiano Italian it æ¥æ¬èª Japanese ja á¥áá áá£áá Georgian ka íêµ­ì´ Korean ko LatvieÅ¡u Latvian lv Norsk bokmÃ¥l Norwegian BokmÃ¥l nb Nederlands Dutch nl Polski Polish pl PortuguÃªs (BR) Portuguese (Brazil) pt-BR PortuguÃªs (PT) Portuguese (Portu"
+    },
+    {
+      "source": "bitcointalk:Mining (Altcoins)",
+      "title": "[POOL / GUIDE] Cortex Protocol ($CTX) - RandomX rx/0 CPU Mining | 100% Fair Laun",
+      "url": "https://bitcointalk.org/index.php?topic=5593627.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:17.673373+00:00",
+      "last_seen": "2026-09-20T04:19:10.713554+00:00",
+      "score": 32,
+      "flags": [
+        "+7:fair launch",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining"
+      ],
+      "snippet": "⚡ CORTEX PROTOCOL ($CTX)  OFFICIAL CPU MINING GUIDE & STRATUM POOL ⚡ Native RandomX (rx/0)  High-Performance Stratum TCP  VarDiff Enabled  100% Fair Launch Hello Miners, Cortex Protocol ($CTX) is a Layer-1 Proof-of-Work blockchain built with native RandomX (rx/0) consensus, designed as the state and persistent memory layer for autonomous AI agents. We are currently running our Public Incentivized Testnet 1.0 (Passed Block #11,400+ with over 81,000 transactions). 🎁 Miner Incentive Allocation: 70% of the Genesis Bootstrap Pool (147,000 $CTX) is reserved for active hardware CPU miners. All testnet tokens ($tCTX) accumulated via pool mining are convertible to Mainnet Genesis tokens upon gene"
+    },
+    {
+      "source": "bitcointalk:Mining (Altcoins)",
+      "title": "[ANN] Quantum Bitcoin (Q-BTC) | Post-Quantum P2P Cash | CPU-Only Fair Mining",
+      "url": "https://bitcointalk.org/index.php?topic=5589393.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:16.231319+00:00",
+      "last_seen": "2026-09-20T04:19:09.253957+00:00",
+      "score": 36,
+      "flags": [
+        "+7:fair launch",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:storage",
+        "+2:post-quantum",
+        "+1:decentralized",
+        "+1:p2p",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Quantum Bitcoin (Q-BTC) Mainnet \"17/May/2026: The quantum age dawns. The 21,000,000 truth shines eternal.\" GitHub Source: https://github.com/Q-Jack-core/quantum-btc Miners, the Q-BTC mainnet has successfully and safely crossed block height 20,000+. The network architecture has proven to be incredibly stable, but we are still in the absolute early genesis dividend period. We are looking for more decentralized solo miners to join the network and secure the post-quantum frontier. We saw other \"post-quantum\" projects struggling with broken wallets, 0-conf vulnerabilities, and crashing explorers. Q-BTC is different. It is a fundamental architectural redesign built from the ground up in pure Rust."
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Vexta (VTX) | SHA-256D PoW | Open Source | Mainnet Live",
+      "url": "https://bitcointalk.org/index.php?topic=5589924.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:12.713785+00:00",
+      "last_seen": "2026-09-20T04:19:06.288863+00:00",
+      "score": 37,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:open source",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:storage",
+        "+2:post-quantum",
+        "+1:p2p",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "V E X T A Independent Proof-of-Work Blockchain OPEN SOURCE  UTXO  SEGWIT  TAPROOT  COMMUNITY DRIVEN WEBSITE | DESKTOP WALLETS | ANDROID WALLET | EXPLORER | GITHUB | MINING POOL | DISCORD ABOUT VEXTA Vexta (VTX) is an independent, open-source, UTXO-based cryptocurrency secured by Proof of Work. The project is built on proven Bitcoin-style blockchain architecture and is focused on transparent development, network security, public accessibility and long-term community growth. VTX is the native asset of its own blockchain. It is not a token issued on another network. The Vexta mainnet is live and supported by publicly available source code, Windows and Linux wallet software, an official Andr"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "MONEU blockchain SHA-256 PoW/ mainnet live and its on MIT License",
+      "url": "https://bitcointalk.org/index.php?topic=5592489.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:11.140406+00:00",
+      "last_seen": "2026-09-20T04:19:04.839010+00:00",
+      "score": 28,
+      "flags": [
+        "+6:no ico",
+        "+6:no token sale",
+        "+5:mainnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:compute",
+        "+2:storage",
+        "-7:ico",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "This is the only announcement from me that will be posted here on this subject. Install a Blockchain MONEU node and join the miners to mine blocks. The initial reward is 77 coins. All questions should go to the developer by email: natusor@tutamail.com MONEU mainnet is running. Source code is public. The node ships with built in mining software so Anyone who installs a node can mine coins . No separate miner. No pool required. Existing miners may not work correctly with this chain so please use the mining software built into the node. Specs MONEU Signatures use Ed25519 (ed25519-donna taken from Trezor firmware). Algorithm: SHA-256 proof-of-work Supply cap: 30,000,000 Each wallet holds a local"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Monetarium (VAR) - hybrid PoW/PoS, CPU mining, 50% to miners",
+      "url": "https://bitcointalk.org/index.php?topic=5592839.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:09.552023+00:00",
+      "last_seen": "2026-09-20T04:19:03.125388+00:00",
+      "score": 34,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+3:not listed"
+      ],
+      "snippet": "No premine. No treasury. The genesis coinbase is zero VAR. Every VAR in circulation was mined, under the same rules offered to you here. Check that before reading further, it takes one request: https://monetarium.online/block/0 Monetarium is a hybrid PoW/PoS network, live on mainnet since May 2026, built on the Decred codebase. However, unlike Decred, Monetarium is a network with two native tokens: Varta (VAR) ensures network security through a \"proof-of-stake\" mechanism; Skarb (SKA) is a non-inflationary currency that replaces fiat money and supports up to 255 independent national monetary systems within a single network. And there's one more figure that sets Monetarium apart from Decred: m"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] CivicNet (CIVIC) | Hybrid PoW+PoS Live Now , ASIC-Resistant | CPU Mining",
+      "url": "https://bitcointalk.org/index.php?topic=5588125.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:08.047955+00:00",
+      "last_seen": "2026-09-20T04:19:02.037497+00:00",
+      "score": 38,
+      "flags": [
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:mainnet",
+        "+2:launch",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+1:decentralized",
+        "-7:ico",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "CivicNet (CIVIC) The Decentralized Community Grid Open-Source  CPU-Friendly  ASIC-Resistant  Proof of Work GitHub | Wallets & Releases | Block Explorer | Official Pool | Website UPDATES July 14, 2026  New, more stable pool infrastructure is now live July 15, 2026  Network hashrate breaks 1 GH/s ! (see reply below for details) July 16, 2026  Web Wallet is now live! No download needed, generate a CIVIC wallet directly in your browser https://webwallet.civiclight.xyz/ July 17, 2026  Windows GUI wallet released (v1.0.1), includes pchMessageStart fix, auto-connect to official node, and ticker fixes (see reply below) July 19, 2026  Official domain live: civiclight.xyz, with pool/explorer/w"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[PRE-ANN][WCASH] Wcash - Merge-Mined with Zcash | 21M | No Premine | No Dev tax",
+      "url": "https://bitcointalk.org/index.php?topic=5593282.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:06.461461+00:00",
+      "last_seen": "2026-09-20T04:19:00.861913+00:00",
+      "score": 32,
+      "flags": [
+        "+9:no premine",
+        "+9:zero premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy",
+        "+5:pre-ann",
+        "-8:presale",
+        "-7:ico",
+        "-10:founder allocation",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Wcash Zcash shielded transactions. Equihash proof of work. 21 million maximum. w.cash PRE-ANN. Mainnet is not live. No mainnet WCASH exists. Current Testnet in a slowstart. W.Cash Mainnet launches September 19, 2026, at 12:00 UTC. 🐺 Wcash is an independent proof-of-work chain derived from Zcash. It retains Zcash-family shielded and transparent transactions and uses Equihash with the Zcash parameters N=200 and K=9. Wcash may be mined directly or merge-mined with Zcash. These are two proof forms on the same Wcash chain. They do not create separate networks, separate supplies or separate classes of coins. There is no premine, ICO, presale, founder allocation, treasury reward or protocol develop"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][GAP] Gapcoin - Prime Gap Search - New Math Algo - CPU / GPU - Zero Premine",
+      "url": "https://bitcointalk.org/index.php?topic=822498.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:05.075157+00:00",
+      "last_seen": "2026-09-20T04:18:59.699124+00:00",
+      "score": 23,
+      "flags": [
+        "+9:zero premine",
+        "+7:fair launch",
+        "+2:launch",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+1:p2p",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Website: gapcoin.org Twitter: Gapcoin Reddit: http://www.reddit.com/r/gapcoin Block explorer: https://bchain.info/GAP/ http://coinia.net/gapcoin/blockexplorer.php http://www.multifaucet.tk/index.php?blockexplorer=GAP Statistics: http://coinia.net/gapcoin/stat.php Chat: http://coinia.net/gapcoin/chat/ CPU Cloud Mining Guide : http://gapcoin.grn.cc Gapcoin faucet: http://coinia.net/gapcoin/faucet.php https://bchain.info/GAP/faucet http://multifaucet.tk/index.php?faucet=GAP Exchanges : https://askcoin.net/trading/GAP/BTC https://poloniex.com/exchange/btc_gap https://lazycoins.com/trade#gap-btc https://coin-swap.net/market/GAP/BTC Bounties: 1000 GAP for working cuda miner binaries + source code "
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] QRX Chain(QUB) Post-Quantum L1 Decentralized AI/Compute Storage Markets",
+      "url": "https://bitcointalk.org/index.php?topic=5580957.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:03.318156+00:00",
+      "last_seen": "2026-09-20T04:18:58.468543+00:00",
+      "score": 27,
+      "flags": [
+        "+5:genesis",
+        "+2:launch",
+        "+4:proof-of-work",
+        "+3:compute",
+        "+2:storage",
+        "+2:post-quantum",
+        "+1:decentralized",
+        "+5:pre-ann",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "██████╗ ██████╗ ██╗ ██╗ ██╔═══██╗██╔══██╗╚██╗██╔╝ ██║ ██║██████╔╝ ╚███╔╝ ██║▄▄ ██║██╔══██╗ ██╔██╗ ╚██████╔╝██║ ██║██╔╝ ██╗ ╚══▀▀═╝ ╚═╝ ╚═╝╚═╝ ╚═╝ FUTURE-PROOF VALUE PROTECTION QRX NETWORK  QUBITCOIN QRX Alpha Network / QubitCoin [QUB] PRE-ANNOUNCEMENT  Public Community Alpha  Experimental 🌐 Website: qrxchain.org  🔎 Explorer: qrxscan.com ⚠️ PRE-ANNOUNCEMENT STATUS QRX is currently in a pre-announcement phase .  Genesis block has not been finalized yet  Network parameters may still change  Launch timeline is flexible  Community input is actively shaping the design This is the phase to get in early and help define the network. What is QRX? QRX is a future-oriented blockchain ecosystem f"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][ZCD] Zycord | A P2P network of self-certifying state | Mainnet Oct 1",
+      "url": "https://bitcointalk.org/index.php?topic=5592720.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:02.079963+00:00",
+      "last_seen": "2026-09-20T04:18:57.146099+00:00",
+      "score": 55,
+      "flags": [
+        "+9:no premine",
+        "+9:zero premine",
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+5:block 0",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+3:compute",
+        "+2:privacy",
+        "+2:post-quantum",
+        "+1:decentralized",
+        "+1:p2p",
+        "-7:ico",
+        "-10:founder allocation"
+      ],
+      "snippet": "ZYCORD A peer-to-peer network of self-certifying state transitions RandomX CPU proof of work · zero premine · zero admin keys · mainnet 1 October 2026 Website | Source | Whitepaper | Explorer | Downloads | Subscribe 🟡 Mainnet: 1 October 2026, 00:00 UTC 🟢 Testnet: live since 15 September 2026, 00:00 UTC ⚡ REAL SCALABILITY Born doing 90 transactions per second and grows, with real usage, past 1,000,000. No architecture swap along the way, no \"sharding in 2029\", no committee deciding. The engine that carries the top of that curve already runs today on an ordinary desktop  measured, and re-measurable by you. ⚙ PARALLEL cEVM  the first real one, in the genesis binary Other chains parallelize ex"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Korsh Network ($KSH) | Fair Launch PoW | L3 & Mobile Mining",
+      "url": "https://bitcointalk.org/index.php?topic=5594602.0",
+      "published": null,
+      "first_seen": "2026-09-20T03:17:00.868837+00:00",
+      "last_seen": "2026-09-20T04:18:55.640335+00:00",
+      "score": 32,
+      "flags": [
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:mainnet",
+        "+2:launch",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:mining",
+        "+3:compute",
+        "+3:optimization",
+        "+1:decentralized",
+        "-7:ico"
+      ],
+      "snippet": "🚀 Korsh Network ($KSH) 🚀 Fair Launch Proof-of-Work | Built for Everyone 💻 GitHub Repository | 💬 Discord Community ⚡ About Korsh ($KSH) ⚡ Korsh Network is an open-source, decentralized cryptocurrency designed from the ground up to return to the core principles of crypto. 0% Pre-mine, no ICO, no developer tax, and absolute transparency. As detailed in our official repository, our codebase is engineered to break away from massive industrial monopolies and bring mining capabilities directly back to accessible hardware. 🔥 Low-Resource & Efficient Mining 🔥 We focus on optimizing performance so that participation is open to everyday users and legacy hardware: 🛠️ L3 Hardware Optimization: Tailoring "
+    },
+    {
+      "source": "github-events",
+      "title": "Keryx-Labs/keryx-node: IssueCommentEvent 14952829874",
+      "url": "https://github.com/Keryx-Labs/keryx-node#event-14952829874",
+      "published": "2026-09-13T19:12:13Z",
+      "first_seen": "2026-09-20T03:15:59.141567+00:00",
+      "last_seen": "2026-09-20T04:17:53.838092+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+1:testnet",
+        "+2:pow",
+        "+2:miner",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40\", \"repository_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node\", \"labels_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/events\", \"html_url\": \"https://github.com/Keryx-Labs/keryx-node/pull/40\", \"id\": 5414919149, \"node_id\": \"PR_kwDOSAl4Fc8AAAABDBnPGA\", \"number\": 40, \"title\": \"PoC: shard-possession PoM (network-fatia) — incomplete, exploratory\", \"user\": {\"login\": \"nectopower\", \"id\": 19475"
+    },
+    {
+      "source": "github-events",
+      "title": "Keryx-Labs/keryx-node: IssueCommentEvent 14952266520",
+      "url": "https://github.com/Keryx-Labs/keryx-node#event-14952266520",
+      "published": "2026-09-13T18:50:51Z",
+      "first_seen": "2026-09-20T03:15:59.146602+00:00",
+      "last_seen": "2026-09-20T04:17:53.844923+00:00",
+      "score": 13,
+      "flags": [
+        "+2:miner",
+        "+2:mining",
+        "+4:inference",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/39\", \"repository_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node\", \"labels_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/39/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/39/comments\", \"events_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/39/events\", \"html_url\": \"https://github.com/Keryx-Labs/keryx-node/pull/39\", \"id\": 5340957912, \"node_id\": \"PR_kwDOSAl4Fc8AAAABCHAolQ\", \"number\": 39, \"title\": \"Reference: per-address payout/tier/burn indexes and getHolderReward (data contract for explorer-served mining dat"
+    },
+    {
+      "source": "github-events",
+      "title": "perihelion-dev/perihelion: ForkEvent 14923565151",
+      "url": "https://github.com/perihelion-dev/perihelion#event-14923565151",
+      "published": "2026-09-12T21:13:07Z",
+      "first_seen": "2026-09-20T03:15:54.971312+00:00",
+      "last_seen": "2026-09-20T04:17:49.408887+00:00",
+      "score": 19,
+      "flags": [
+        "+7:fair launch",
+        "+2:launch",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:privacy",
+        "+2:post-quantum"
+      ],
+      "snippet": "{\"action\": \"forked\", \"forkee\": {\"id\": 1367690473, \"node_id\": \"R_kgDOUYVM6Q\", \"name\": \"perihelion\", \"full_name\": \"Nothing54/perihelion\", \"private\": false, \"owner\": {\"login\": \"Nothing54\", \"id\": 152267006, \"node_id\": \"U_kgDOCRNo_g\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/152267006?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/Nothing54\", \"html_url\": \"https://github.com/Nothing54\", \"followers_url\": \"https://api.github.com/users/Nothing54/followers\", \"following_url\": \"https://api.github.com/users/Nothing54/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/Nothing54/gists{/gist_id}\", \"starred_url\": \"https://api.github.com/users/Nothing54/starred{/o"
+    },
+    {
+      "source": "github-events",
+      "title": "perihelion-dev/perihelion: IssueCommentEvent 14492772455",
+      "url": "https://github.com/perihelion-dev/perihelion#event-14492772455",
+      "published": "2026-09-05T18:26:50Z",
+      "first_seen": "2026-09-20T03:15:54.972347+00:00",
+      "last_seen": "2026-09-20T04:17:49.422570+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+2:mining",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7\", \"repository_url\": \"https://api.github.com/repos/perihelion-dev/perihelion\", \"labels_url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7/comments\", \"events_url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7/events\", \"html_url\": \"https://github.com/perihelion-dev/perihelion/issues/7\", \"id\": 5347928497, \"node_id\": \"I_kwDOTywTis8AAAABPsLpsQ\", \"number\": 7, \"title\": \"Mainnet seed nodes unreachable - node stuck at 0 peers / height 0\", \"user\": {\"login\": \"xiss198"
+    },
+    {
+      "source": "github-events",
+      "title": "perihelion-dev/perihelion: IssueCommentEvent 14492489911",
+      "url": "https://github.com/perihelion-dev/perihelion#event-14492489911",
+      "published": "2026-09-05T18:16:28Z",
+      "first_seen": "2026-09-20T03:15:54.973483+00:00",
+      "last_seen": "2026-09-20T04:17:49.435310+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+2:mining",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7\", \"repository_url\": \"https://api.github.com/repos/perihelion-dev/perihelion\", \"labels_url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7/comments\", \"events_url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7/events\", \"html_url\": \"https://github.com/perihelion-dev/perihelion/issues/7\", \"id\": 5347928497, \"node_id\": \"I_kwDOTywTis8AAAABPsLpsQ\", \"number\": 7, \"title\": \"Mainnet seed nodes unreachable - node stuck at 0 peers / height 0\", \"user\": {\"login\": \"xiss198"
+    },
+    {
+      "source": "github-events",
+      "title": "perihelion-dev/perihelion: IssuesEvent 14429760806",
+      "url": "https://github.com/perihelion-dev/perihelion#event-14429760806",
+      "published": "2026-09-04T12:13:12Z",
+      "first_seen": "2026-09-20T03:15:54.974580+00:00",
+      "last_seen": "2026-09-20T04:17:49.444715+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+2:mining",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7\", \"repository_url\": \"https://api.github.com/repos/perihelion-dev/perihelion\", \"labels_url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7/comments\", \"events_url\": \"https://api.github.com/repos/perihelion-dev/perihelion/issues/7/events\", \"html_url\": \"https://github.com/perihelion-dev/perihelion/issues/7\", \"id\": 5347928497, \"node_id\": \"I_kwDOTywTis8AAAABPsLpsQ\", \"number\": 7, \"title\": \"Mainnet seed nodes unreachable - node stuck at 0 peers / height 0\", \"user\": {\"login\": \"xiss1980"
+    },
+    {
+      "source": "github-events",
+      "title": "Rexemre/blockzero-core: IssuesEvent 14280304427",
+      "url": "https://github.com/Rexemre/blockzero-core#event-14280304427",
+      "published": "2026-09-02T12:42:31Z",
+      "first_seen": "2026-09-20T03:16:02.394435+00:00",
+      "last_seen": "2026-09-20T04:17:57.052443+00:00",
+      "score": 12,
+      "flags": [
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/Rexemre/blockzero-core/issues/1\", \"repository_url\": \"https://api.github.com/repos/Rexemre/blockzero-core\", \"labels_url\": \"https://api.github.com/repos/Rexemre/blockzero-core/issues/1/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Rexemre/blockzero-core/issues/1/comments\", \"events_url\": \"https://api.github.com/repos/Rexemre/blockzero-core/issues/1/events\", \"html_url\": \"https://github.com/Rexemre/blockzero-core/issues/1\", \"id\": 5324024569, \"node_id\": \"I_kwDOSsRwMs8AAAABPVYq-Q\", \"number\": 1, \"title\": \"Clarification on BLOZ block reward split\", \"user\": {\"login\": \"xiss1980\", \"id\": 324046845, \"node_id\": \"U_kgDOE1CP_"
+    }
+  ],
+  "announcement_backtraces": [],
+  "source_learning": [],
+  "endpoint_watches": [
+    {
+      "name": "AriaPool PER",
+      "host": "per.ariabrain.com",
+      "port": 16200,
+      "open": false,
+      "checked": "2026-09-20T04:24:24.660868+00:00",
+      "last_state_change": null
+    },
+    {
+      "name": "Perihelion seed 1",
+      "host": "186.240.157.169",
+      "port": 16180,
+      "open": false,
+      "checked": "2026-09-20T04:24:16.646350+00:00",
+      "last_state_change": null
+    },
+    {
+      "name": "Perihelion seed 2",
+      "host": "187.124.167.107",
+      "port": 16180,
+      "open": false,
+      "checked": "2026-09-20T04:24:20.655910+00:00",
+      "last_state_change": null
+    }
+  ]
+}
