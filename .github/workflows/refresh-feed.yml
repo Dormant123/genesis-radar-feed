@@ -23,28 +23,35 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Fetch sanitized feed
+      - name: Fetch sanitized feeds
         shell: bash
         run: |
           set -euo pipefail
+          BASE="https://89-125-209-50.sslip.io/13f46995dd02804e627ebac6ecf08c4480cd922729983de4"
+
           curl --fail --silent --show-error --location \
             --retry 3 --retry-delay 5 \
-            "https://89-125-209-50.sslip.io/13f46995dd02804e627ebac6ecf08c4480cd922729983de4/feed.json" \
-            -o feed.json.new
+            "$BASE/feed.json" -o feed.json.new
           python3 -m json.tool feed.json.new >/dev/null
           mv feed.json.new feed.json
+
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-delay 5 \
+            "$BASE/miners.json" -o miners.json.new
+          python3 -m json.tool miners.json.new >/dev/null
+          mv miners.json.new miners.json
 
       - name: Commit only when changed
         shell: bash
         run: |
           set -euo pipefail
-          if git diff --quiet -- feed.json && git ls-files --error-unmatch feed.json >/dev/null 2>&1; then
-            echo "No feed change."
+          git add feed.json miners.json
+          if git diff --cached --quiet; then
+            echo "No relay change."
             exit 0
           fi
 
           git config user.name "genesis-radar-bot"
           git config user.email "genesis-radar-bot@users.noreply.github.com"
-          git add feed.json
-          git commit -m "Update Genesis Radar feed"
+          git commit -m "Update Genesis Radar relay"
           git push
