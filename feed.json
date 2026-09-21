@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-21T13:02:04.455752+00:00",
+  "generated_at": "2026-09-21T18:35:05.418949+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,60 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][TSC] TensorCash: Useful Proof-of-Work for Verifiable AI | mainnet live",
+      "url": "https://bitcointalk.org/index.php?topic=5588724.0",
+      "published": null,
+      "first_seen": "2026-09-21T17:57:09.641428+00:00",
+      "last_seen": "2026-09-21T18:28:01.947920+00:00",
+      "score": 17,
+      "flags": [
+        "+5:mainnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+5:useful work",
+        "+4:inference",
+        "+3:compute",
+        "-8:presale",
+        "-7:ico"
+      ],
+      "snippet": "https://tensorcash.org/brand/og-default.png TensorCash: useful proof-of-work for verifiable AI The same GPU forward pass that answers a prompt produces the proof that extends the chain. Mainnet is live. Disclosure: I work on TensorCash. This is a technical intro, not a financial promotion. There is no sale, presale, airdrop, or price talk in this thread and I will not discuss any. The point of the thread is the mechanism, so tear it apart. The one-line claim Proof-of-work does not have to be wasted. On TensorCash the \"work\" is a real model forward pass serving an actual prompt, and the proof that the model ran is what secures the block. Same security argument as any PoW (costly to produce, c"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] KERYX | Live ON-CHAIN AI Inference | Proof of Model | GPU PoW | 10 BPS",
+      "url": "https://bitcointalk.org/index.php?topic=5580923.0",
+      "published": null,
+      "first_seen": "2026-09-21T14:20:43.225786+00:00",
+      "last_seen": "2026-09-21T18:28:03.697457+00:00",
+      "score": 37,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+6:no ico",
+        "+2:launch",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+4:inference",
+        "+3:compute",
+        "+1:decentralized",
+        "-7:ico",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Keryx is not just another PoW coin. It is a decentralized infrastructure layer for verifiable AI. We are building a BlockDAG-based network where mining serves a dual purpose: securing the ledger and providing verifiable compute power for Small Language Models (SLM). 🧠 The Core Thesis Current AI inference is either closed-source and centralized or lacks cryptographic proof of execution. Keryx changes this by integrating Proof-of-Inference (OPoI) directly into the consensus mechanism. Miners do not just solve hashes; they execute deterministic AI tasks that the network can validate. 🛠 Technical Specifications Consensus: BlockDAG (High throughput, low latency). Mining Algorithm (KeryxHash): A s"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Bitcoin Cash II (BCH2)  SHA-256 PoW | 32MB Blocks | ASERT | No Premine",
       "url": "https://bitcointalk.org/index.php?topic=5575145.0",
       "published": null,
       "first_seen": "2026-09-21T11:15:16.029906+00:00",
-      "last_seen": "2026-09-21T12:47:57.656186+00:00",
+      "last_seen": "2026-09-21T18:28:05.459911+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -1192,36 +1241,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1774; hash_prefix=55a3f0d7b2394295; reward=9.99409174 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1773, 9.99409507 PER",
-      "url": "mining-reward://perihelion/1773/7889a9ef6f7d6c34",
-      "published": "2026-09-21T06:46:53.010006+00:00",
-      "first_seen": "2026-09-21T06:46:53.010006+00:00",
-      "last_seen": "2026-09-21T06:46:53.010006+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1773; hash_prefix=7889a9ef6f7d6c34; reward=9.99409507 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1772, 9.9940984 PER",
-      "url": "mining-reward://perihelion/1772/d09338b4fdd4183f",
-      "published": "2026-09-21T06:46:16.271145+00:00",
-      "first_seen": "2026-09-21T06:46:16.271145+00:00",
-      "last_seen": "2026-09-21T06:46:16.271145+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1772; hash_prefix=d09338b4fdd4183f; reward=9.9940984 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1232,7 +1251,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-21T12:53:27.245198+00:00",
+      "checked": "2026-09-21T18:33:36.015560+00:00",
       "last_state_change": null
     },
     {
@@ -1240,7 +1259,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-21T12:53:19.233475+00:00",
+      "checked": "2026-09-21T18:33:28.002688+00:00",
       "last_state_change": null
     },
     {
@@ -1248,7 +1267,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-21T12:53:23.239813+00:00",
+      "checked": "2026-09-21T18:33:32.010082+00:00",
       "last_state_change": null
     }
   ]
