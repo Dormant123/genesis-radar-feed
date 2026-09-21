@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-21T09:22:41.092911+00:00",
+  "generated_at": "2026-09-21T09:58:28.946388+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -1217,7 +1217,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-21T09:18:24.586422+00:00",
+      "checked": "2026-09-21T09:50:05.346873+00:00",
       "last_state_change": null
     },
     {
@@ -1225,7 +1225,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-21T09:18:16.575638+00:00",
+      "checked": "2026-09-21T09:49:57.339756+00:00",
       "last_state_change": null
     },
     {
@@ -1233,7 +1233,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-21T09:18:20.581753+00:00",
+      "checked": "2026-09-21T09:50:01.341923+00:00",
       "last_state_change": null
     }
   ]
