@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-21T09:58:28.946388+00:00",
+  "generated_at": "2026-09-21T13:02:04.455752+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -8,6 +8,36 @@
     "note": "This feed contains sanitized derived radar findings and public-source excerpts only."
   },
   "public_findings": [
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Bitcoin Cash II (BCH2)  SHA-256 PoW | 32MB Blocks | ASERT | No Premine",
+      "url": "https://bitcointalk.org/index.php?topic=5575145.0",
+      "published": null,
+      "first_seen": "2026-09-21T11:15:16.029906+00:00",
+      "last_seen": "2026-09-21T12:47:57.656186+00:00",
+      "score": 33,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+1:decentralized",
+        "+1:p2p",
+        "-7:ico",
+        "-8:dev fee",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Bitcoin Cash II (BCH2) A Return to Decentralized Mining Through Fair Distribution What is BCH2? BCH2 (Bitcoin Cash II) is a SHA-256 proof-of-work cryptocurrency that forks from BC2 (BitcoinII) at block height 53,200, upgrading to full Bitcoin Cash consensus rules. Every BC2 holder at the fork block receives an equal amount of BCH2 at a 1:1 ratio  no registration, no claims process, no KYC. No premine. No dev fee. No ICO. 100% of new coins go to miners. Estimated mainnet launch: March 79, 2026 Why BC2? BC2 (BitcoinII) deserves credit as a well-executed Bitcoin implementation. It launched in 2025 with a clean genesis block, fair distribution, and a working network that has produced over 53,0"
+    },
     {
       "source": "mining-reward:perihelion",
       "title": "Perihelion mining reward: block 1850, 9.99383856 PER",
@@ -1192,21 +1222,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1772; hash_prefix=d09338b4fdd4183f; reward=9.9940984 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1771, 9.99410173 PER",
-      "url": "mining-reward://perihelion/1771/56282f95df371993",
-      "published": "2026-09-21T06:46:12.449781+00:00",
-      "first_seen": "2026-09-21T06:46:12.449781+00:00",
-      "last_seen": "2026-09-21T06:46:12.449781+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1771; hash_prefix=56282f95df371993; reward=9.99410173 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1217,7 +1232,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-21T09:50:05.346873+00:00",
+      "checked": "2026-09-21T12:53:27.245198+00:00",
       "last_state_change": null
     },
     {
@@ -1225,7 +1240,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-21T09:49:57.339756+00:00",
+      "checked": "2026-09-21T12:53:19.233475+00:00",
       "last_state_change": null
     },
     {
@@ -1233,7 +1248,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-21T09:50:01.341923+00:00",
+      "checked": "2026-09-21T12:53:23.239813+00:00",
       "last_state_change": null
     }
   ]
