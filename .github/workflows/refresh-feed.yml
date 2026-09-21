@@ -1,5 +1,4 @@
 name: Refresh Genesis Radar Feed
-# manual status refresh 2026-09-21T09:58Z
 # relay smoke-check refresh
 
 on:
@@ -37,17 +36,11 @@ jobs:
           python3 -m json.tool feed.json.new >/dev/null
           mv feed.json.new feed.json
 
-          curl --fail --silent --show-error --location \
-            --retry 3 --retry-delay 5 \
-            "$BASE/miners.json" -o miners.json.new
-          python3 -m json.tool miners.json.new >/dev/null
-          mv miners.json.new miners.json
-
       - name: Commit only when changed
         shell: bash
         run: |
           set -euo pipefail
-          git add feed.json miners.json
+          git add feed.json
           if git diff --cached --quiet; then
             echo "No relay change."
             exit 0
