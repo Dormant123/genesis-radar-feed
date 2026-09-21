@@ -1,4 +1,5 @@
 name: Refresh Genesis Radar Feed
+# relay smoke-check refresh
 
 on:
   push:
