@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-21T18:35:05.418949+00:00",
+  "generated_at": "2026-09-21T22:07:52.995719+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,41 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "⛏️ [ANN][ZQV][RANDOMX] Zerqavon  Launch 🚀Mainnet Live🚀| Exchange SOON🚀",
+      "url": "https://bitcointalk.org/index.php?topic=5590497.0",
+      "published": null,
+      "first_seen": "2026-09-21T21:32:29.352795+00:00",
+      "last_seen": "2026-09-21T21:32:29.352795+00:00",
+      "score": 12,
+      "flags": [
+        "+9:no premine",
+        "+7:no presale",
+        "+6:no ico",
+        "+5:mainnet",
+        "+2:launch",
+        "+4:proof of work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy",
+        "-8:presale",
+        "-7:ico",
+        "-10:founder allocation",
+        "-5:points",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "ZERQAVON (ZQV) Open-source CPU mining · RandomX · Privacy-focused Proof of Work MAINNET August 15 No premine · No ICO · No presale · No founder allocation What is Zerqavon? Zerqavon is an open-source, CPU-mineable privacy cryptocurrency built on a CryptoNote-derived codebase. Its proof of work, ZQVXPOW v1 , uses the established RandomX workload with a Zerqavon-specific, domain-separated mining blob. The network was created around a simple principle: transparent code, public mining and no privately allocated supply. Anyone can inspect the wallet, daemon and miner repositories, run a node and verify the monetary rules independently. Why mine ZQV? CPU-oriented RandomX mining with the official o"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][TSC] TensorCash: Useful Proof-of-Work for Verifiable AI | mainnet live",
       "url": "https://bitcointalk.org/index.php?topic=5588724.0",
       "published": null,
       "first_seen": "2026-09-21T17:57:09.641428+00:00",
-      "last_seen": "2026-09-21T18:28:01.947920+00:00",
+      "last_seen": "2026-09-21T21:32:33.161924+00:00",
       "score": 17,
       "flags": [
         "+5:mainnet",
@@ -38,7 +68,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-09-21T18:28:03.697457+00:00",
+      "last_seen": "2026-09-21T21:32:30.677390+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -63,7 +93,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5575145.0",
       "published": null,
       "first_seen": "2026-09-21T11:15:16.029906+00:00",
-      "last_seen": "2026-09-21T18:28:05.459911+00:00",
+      "last_seen": "2026-09-21T21:32:34.824547+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -1226,21 +1256,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1775; hash_prefix=70f4beb3002ace2b; reward=9.99408841 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1774, 9.99409174 PER",
-      "url": "mining-reward://perihelion/1774/55a3f0d7b2394295",
-      "published": "2026-09-21T06:48:33.758236+00:00",
-      "first_seen": "2026-09-21T06:48:33.758236+00:00",
-      "last_seen": "2026-09-21T06:48:33.758236+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1774; hash_prefix=55a3f0d7b2394295; reward=9.99409174 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1251,7 +1266,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-21T18:33:36.015560+00:00",
+      "checked": "2026-09-21T21:38:00.488948+00:00",
       "last_state_change": null
     },
     {
@@ -1259,7 +1274,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-21T18:33:28.002688+00:00",
+      "checked": "2026-09-21T21:37:52.479556+00:00",
       "last_state_change": null
     },
     {
@@ -1267,7 +1282,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-21T18:33:32.010082+00:00",
+      "checked": "2026-09-21T21:37:56.484997+00:00",
       "last_state_change": null
     }
   ]
