@@ -1,9 +1,38 @@
 {
-  "generated_at": "2026-09-21T07:06:01.136885+00:00",
+  "generated_at": "2026-09-21T07:10:07.067677+00:00",
   "serversguru_balance_eur": 42.01,
   "monthly_committed_eur": 0.0,
   "miners": [],
   "rewards": [],
-  "jobs": [],
-  "events": []
+  "jobs": [
+    {
+      "id": "smoke-budget-guard-20260921",
+      "project": "SMOKE_TEST",
+      "manifest_path": "/opt/genesis-miner-control/jobs/smoke-budget-guard-20260921.yml",
+      "state": "failed",
+      "created_at": "2026-09-21T07:07:04.199893+00:00",
+      "updated_at": "2026-09-21T07:08:36.211780+00:00",
+      "error": "No VPS satisfies requirements under EUR 0.01/month",
+      "server_id": null,
+      "server_ip": null,
+      "wallet_address": null,
+      "monthly_price_eur": 0.0
+    }
+  ],
+  "events": [
+    {
+      "id": 2,
+      "ts": "2026-09-21T07:08:36.187892+00:00",
+      "level": "ERROR",
+      "job_id": "smoke-budget-guard-20260921",
+      "message": "No VPS satisfies requirements under EUR 0.01/month"
+    },
+    {
+      "id": 1,
+      "ts": "2026-09-21T07:07:04.180483+00:00",
+      "level": "INFO",
+      "job_id": "smoke-budget-guard-20260921",
+      "message": "Starting approved deployment for SMOKE_TEST"
+    }
+  ]
 }
