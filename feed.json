@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-22T00:46:40.037186+00:00",
+  "generated_at": "2026-09-22T05:25:13.325401+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-21T22:03:54.305826+00:00",
-      "last_seen": "2026-09-22T00:38:34.644396+00:00",
+      "last_seen": "2026-09-22T05:16:49.737261+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -39,7 +39,7 @@
         "+4:dated-launch",
         "+3:runnable-artifact"
       ],
-      "snippet": "Zecnero (ZMR) Shielded payments from Zcash. RandomX mining for the computer you already own. PRE-ANNOUNCEMENT · No testnet yet · No launch date set Website | Protocol Specification | GitHub | Discord | X What this is Zecnero is a fork of Zebra, the Rust node for Zcash. It keeps the Sapling and Orchard shielded pools and swaps Equihash for RandomX, the CPU-oriented proof of work that has secured Monero since 2019. The goal is narrow. No machine class should hold a large efficiency edge per watt over a normal desktop CPU. Farms can still win on scale. They can't win by owning better hardware, because better hardware for RandomX looks like the CPU you already have. This thread exists so the des"
+      "snippet": "Zecnero (ZMR) Shielded payments from Zcash. RandomX mining for the computer you already own. PRE-ANNOUNCEMENT · No testnet yet · No launch date set Website | Protocol Specification | GitLab | Discord | X What this is Zecnero is a fork of Zebra, the Rust node for Zcash. It keeps the Sapling and Orchard shielded pools and swaps Equihash for RandomX, the CPU-oriented proof of work that has secured Monero since 2019. The goal is narrow. No machine class should hold a large efficiency edge per watt over a normal desktop CPU. Farms can still win on scale. They can't win by owning better hardware, because better hardware for RandomX looks like the CPU you already have. This thread exists so the des"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -47,7 +47,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5590497.0",
       "published": null,
       "first_seen": "2026-09-21T21:32:29.352795+00:00",
-      "last_seen": "2026-09-22T00:38:35.875177+00:00",
+      "last_seen": "2026-09-22T05:16:53.289125+00:00",
       "score": 12,
       "flags": [
         "+9:no premine",
@@ -77,7 +77,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5588724.0",
       "published": null,
       "first_seen": "2026-09-21T17:57:09.641428+00:00",
-      "last_seen": "2026-09-22T00:38:39.582640+00:00",
+      "last_seen": "2026-09-22T05:16:56.917883+00:00",
       "score": 17,
       "flags": [
         "+5:mainnet",
@@ -101,7 +101,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-09-22T00:38:37.155602+00:00",
+      "last_seen": "2026-09-22T05:16:54.502442+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -126,7 +126,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5575145.0",
       "published": null,
       "first_seen": "2026-09-21T11:15:16.029906+00:00",
-      "last_seen": "2026-09-22T00:38:40.879590+00:00",
+      "last_seen": "2026-09-22T05:16:58.131524+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -1284,7 +1284,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-22T00:44:05.202396+00:00",
+      "checked": "2026-09-22T05:22:17.886551+00:00",
       "last_state_change": null
     },
     {
@@ -1292,7 +1292,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-22T00:43:57.192568+00:00",
+      "checked": "2026-09-22T05:22:09.879420+00:00",
       "last_state_change": null
     },
     {
@@ -1300,7 +1300,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-22T00:44:01.197711+00:00",
+      "checked": "2026-09-22T05:22:13.882903+00:00",
       "last_state_change": null
     }
   ]
