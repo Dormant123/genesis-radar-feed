@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-23T12:08:10.290911+00:00",
+  "generated_at": "2026-09-23T16:51:17.520057+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,66 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][MAJ] Majolica | RandomX PoW | CPU-Mineable | Fixed Before Block Zero",
+      "url": "https://bitcointalk.org/index.php?topic=5594922.0",
+      "published": null,
+      "first_seen": "2026-09-23T16:38:19.045541+00:00",
+      "last_seen": "2026-09-23T16:38:19.045541+00:00",
+      "score": 27,
+      "flags": [
+        "+5:genesis",
+        "+5:block zero",
+        "+2:launch",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+1:p2p",
+        "-8:dev fee",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "About Built to a fixed recipe, fired once. Majolica (MAJ) is a proof-of-work network running RandomX on ordinary processors. The name comes from tin-glazed pottery: the painter completes the whole picture while the surface is still raw, and the kiln then simply preserves it - nothing can be retouched afterwards. The same order governs this network. The cap, the block cadence, the stage-1 reward, the halving rhythm and the difficulty rule were written into public source code and published before block zero existed, so nothing was tuned after launch, because there was no launch decision left to make. Zero coins existed before the genesis block. Every coin in existence came out of a block rewar"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][HRG] HIDERING  Privacy Coin | Fair Launch | RandomX CPU | Ring 32-64 | Mi",
+      "url": "https://bitcointalk.org/index.php?topic=5582991.0",
+      "published": null,
+      "first_seen": "2026-09-23T15:36:22.492171+00:00",
+      "last_seen": "2026-09-23T16:38:22.021026+00:00",
+      "score": 35,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+7:no presale",
+        "+5:mainnet",
+        "+5:genesis",
+        "+5:block 0",
+        "+2:launch",
+        "+4:proof-of-work",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:privacy",
+        "+2:post-quantum",
+        "+1:p2p",
+        "-8:presale",
+        "-8:team allocation",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "HIDERING (HRG) Privacy first. Premine zero. CPU-only. Website: https://hidering.org | GitHub: https://github.com/AB-lab113/hidering | Explorer: https://explorer.hidering.org ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ What is HIDERING? ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ HIDERING is a privacy-focused cryptocurrency forked from Monero v0.18.1 with hardened defaults and additional privacy primitives baked in at the consensus layer. The chain launched as a 100% fair-launch proof-of-work network: no premine, no presale, no team allocation, no instamine  block 0 contains a NUMS (Nothing-Up-My-Sleeve) coinbase that is cryptographically unspendable (see GENESIS_PROOF.md in repo). ━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] ReSatoshi | Bitcoin Core + 100-Year UTXO Recycling | No Premine",
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-09-23T12:00:32.774867+00:00",
+      "last_seen": "2026-09-23T16:38:33.969850+00:00",
       "score": 31,
       "flags": [
         "+9:no premine",
@@ -34,7 +89,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594823.0",
       "published": null,
       "first_seen": "2026-09-22T17:01:55.358360+00:00",
-      "last_seen": "2026-09-23T12:00:22.576685+00:00",
+      "last_seen": "2026-09-23T16:38:17.838641+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -55,7 +110,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-21T22:03:54.305826+00:00",
-      "last_seen": "2026-09-23T12:00:23.719461+00:00",
+      "last_seen": "2026-09-23T16:38:23.491853+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -88,7 +143,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5590497.0",
       "published": null,
       "first_seen": "2026-09-21T21:32:29.352795+00:00",
-      "last_seen": "2026-09-23T10:58:59.016921+00:00",
+      "last_seen": "2026-09-23T16:38:20.816890+00:00",
       "score": 12,
       "flags": [
         "+9:no premine",
@@ -167,7 +222,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5575145.0",
       "published": null,
       "first_seen": "2026-09-21T11:15:16.029906+00:00",
-      "last_seen": "2026-09-23T12:00:30.091927+00:00",
+      "last_seen": "2026-09-23T16:38:31.071998+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -1255,36 +1310,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1780; hash_prefix=31a70b96dceaa82f; reward=9.99407175 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1779, 9.99407508 PER",
-      "url": "mining-reward://perihelion/1779/7aa44d290ce7b366",
-      "published": "2026-09-21T06:56:14.768233+00:00",
-      "first_seen": "2026-09-21T06:56:14.768233+00:00",
-      "last_seen": "2026-09-21T06:56:14.768233+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1779; hash_prefix=7aa44d290ce7b366; reward=9.99407508 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1778, 9.99407841 PER",
-      "url": "mining-reward://perihelion/1778/8722ae85b742cd16",
-      "published": "2026-09-21T06:55:24.834476+00:00",
-      "first_seen": "2026-09-21T06:55:24.834476+00:00",
-      "last_seen": "2026-09-21T06:55:24.834476+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1778; hash_prefix=8722ae85b742cd16; reward=9.99407841 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1295,7 +1320,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-23T12:06:00.636517+00:00",
+      "checked": "2026-09-23T16:43:53.621777+00:00",
       "last_state_change": null
     },
     {
@@ -1303,7 +1328,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-23T12:05:52.625455+00:00",
+      "checked": "2026-09-23T16:43:45.610041+00:00",
       "last_state_change": null
     },
     {
@@ -1311,7 +1336,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-23T12:05:56.631532+00:00",
+      "checked": "2026-09-23T16:43:49.615340+00:00",
       "last_state_change": null
     }
   ]
