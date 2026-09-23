@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-23T01:44:29.923381+00:00",
+  "generated_at": "2026-09-23T06:41:38.916148+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-09-23T01:14:35.215633+00:00",
+      "last_seen": "2026-09-23T06:22:11.992018+00:00",
       "score": 31,
       "flags": [
         "+9:no premine",
@@ -34,7 +34,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594823.0",
       "published": null,
       "first_seen": "2026-09-22T17:01:55.358360+00:00",
-      "last_seen": "2026-09-23T01:14:36.593203+00:00",
+      "last_seen": "2026-09-23T06:22:05.532296+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -55,7 +55,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-21T22:03:54.305826+00:00",
-      "last_seen": "2026-09-23T01:14:29.423648+00:00",
+      "last_seen": "2026-09-23T06:22:06.943864+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -88,7 +88,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5590497.0",
       "published": null,
       "first_seen": "2026-09-21T21:32:29.352795+00:00",
-      "last_seen": "2026-09-23T01:14:39.388911+00:00",
+      "last_seen": "2026-09-23T06:22:15.866960+00:00",
       "score": 12,
       "flags": [
         "+9:no premine",
@@ -142,7 +142,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-09-23T01:14:41.049395+00:00",
+      "last_seen": "2026-09-23T06:22:17.299234+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -1295,7 +1295,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-23T01:20:01.652444+00:00",
+      "checked": "2026-09-23T06:27:39.090106+00:00",
       "last_state_change": null
     },
     {
@@ -1303,7 +1303,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-23T01:19:53.632229+00:00",
+      "checked": "2026-09-23T06:27:31.074675+00:00",
       "last_state_change": null
     },
     {
@@ -1311,7 +1311,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-23T01:19:57.644456+00:00",
+      "checked": "2026-09-23T06:27:35.081173+00:00",
       "last_state_change": null
     }
   ]
