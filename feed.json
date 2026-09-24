@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-24T19:03:34.623139+00:00",
+  "generated_at": "2026-09-24T22:14:19.833511+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,45 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Zecnero (ZMR) | Zcash-derived privacy | RandomX CPU mining | No premine",
+      "url": "https://bitcointalk.org/index.php?topic=5594747.0",
+      "published": null,
+      "first_seen": "2026-09-24T21:19:12.305678+00:00",
+      "last_seen": "2026-09-24T21:49:21.696676+00:00",
+      "score": 30,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+3:compute",
+        "+2:privacy",
+        "+1:decentralized",
+        "+1:p2p",
+        "+5:pre-ann",
+        "-8:presale",
+        "-7:ico",
+        "-5:points",
+        "-8:premine",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Zecnero (ZMR) Shielded payments from Zcash. RandomX mining for the computer you already own. PRE-ANNOUNCEMENT · No testnet yet · No launch date set Website | Protocol Specification | GitLab | Discord | X What this is Zecnero is a fork of Zebra, the Rust node for Zcash. It keeps the Sapling and Orchard shielded pools and swaps Equihash for RandomX, the CPU-oriented proof of work that has secured Monero since 2019. The goal is narrow. No machine class should hold a large efficiency edge per watt over a normal desktop CPU. Farms can still win on scale. They can't win by owning better hardware, because better hardware for RandomX looks like the CPU you already have. This thread exists so the des"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Orange (OAG) | RandomX CPU-only | No premine | Solo mining | Rust",
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-24T18:45:20.596467+00:00",
+      "last_seen": "2026-09-24T21:49:17.896766+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -117,7 +151,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594823.0",
       "published": null,
       "first_seen": "2026-09-22T17:01:55.358360+00:00",
-      "last_seen": "2026-09-24T18:45:25.412983+00:00",
+      "last_seen": "2026-09-24T21:49:25.198449+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -138,7 +172,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-21T22:03:54.305826+00:00",
-      "last_seen": "2026-09-24T18:45:26.601545+00:00",
+      "last_seen": "2026-09-24T20:48:29.317160+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -1308,21 +1342,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1782; hash_prefix=7c8a56113092b749; reward=9.99406509 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1781, 9.99406842 PER",
-      "url": "mining-reward://perihelion/1781/46c82b3483378fdc",
-      "published": "2026-09-21T06:58:24.749624+00:00",
-      "first_seen": "2026-09-21T06:58:24.749624+00:00",
-      "last_seen": "2026-09-21T06:58:24.749624+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1781; hash_prefix=46c82b3483378fdc; reward=9.99406842 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1333,7 +1352,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-24T18:50:45.360638+00:00",
+      "checked": "2026-09-24T21:54:42.555310+00:00",
       "last_state_change": null
     },
     {
@@ -1341,7 +1360,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-24T18:50:37.349694+00:00",
+      "checked": "2026-09-24T21:54:34.544738+00:00",
       "last_state_change": null
     },
     {
@@ -1349,7 +1368,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-24T18:50:41.355051+00:00",
+      "checked": "2026-09-24T21:54:38.550571+00:00",
       "last_state_change": null
     }
   ]
