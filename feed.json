@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-24T10:14:29.855583+00:00",
+  "generated_at": "2026-09-24T15:07:11.353890+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -8,6 +8,34 @@
     "note": "This feed contains sanitized derived radar findings and public-source excerpts only."
   },
   "public_findings": [
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Orange (OAG) | RandomX CPU-only | No premine | Solo mining | Rust",
+      "url": "https://bitcointalk.org/index.php?topic=5594978.0",
+      "published": null,
+      "first_seen": "2026-09-24T12:35:32.711794+00:00",
+      "last_seen": "2026-09-24T14:38:40.028747+00:00",
+      "score": 36,
+      "flags": [
+        "+9:no premine",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+4:proof of work",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+2:privacy",
+        "+3:no exchange",
+        "+1:p2p",
+        "-7:ico",
+        "-8:premine",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Orange (OAG) A small CPU-mined UTXO coin. RandomX proof of work, written in Rust. What this is Orange is a plain UTXO blockchain: no smart contracts, no script language, no privacy features. It is a hobby project by one university student in Japan. Mainnet has been running since September 2026 with very few participants, and I am looking for people who will mine it and run nodes. What this is not There is no exchange listing and no price . You mine it and hold it. There is no ICO, no premine and no developer reward . I mine under the same rules as everyone else. I am not selling anything and I will never ask you for money. Specifications Proof of work RandomX (CPU) Accounting UTXO Signatures"
+    },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][MAJ] Majolica | RandomX PoW | CPU-Mineable | Fixed Before Block Zero",
@@ -39,7 +67,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5582991.0",
       "published": null,
       "first_seen": "2026-09-23T15:36:22.492171+00:00",
-      "last_seen": "2026-09-24T10:01:07.839018+00:00",
+      "last_seen": "2026-09-24T14:38:49.701792+00:00",
       "score": 35,
       "flags": [
         "+9:no premine",
@@ -89,7 +117,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594823.0",
       "published": null,
       "first_seen": "2026-09-22T17:01:55.358360+00:00",
-      "last_seen": "2026-09-24T10:00:59.763947+00:00",
+      "last_seen": "2026-09-24T14:38:42.254634+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -110,7 +138,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-21T22:03:54.305826+00:00",
-      "last_seen": "2026-09-24T10:01:02.358585+00:00",
+      "last_seen": "2026-09-24T14:38:46.045126+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -143,7 +171,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5590497.0",
       "published": null,
       "first_seen": "2026-09-21T21:32:29.352795+00:00",
-      "last_seen": "2026-09-24T10:01:06.583473+00:00",
+      "last_seen": "2026-09-24T14:38:48.504203+00:00",
       "score": 12,
       "flags": [
         "+9:no premine",
@@ -1295,21 +1323,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1781; hash_prefix=46c82b3483378fdc; reward=9.99406842 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1780, 9.99407175 PER",
-      "url": "mining-reward://perihelion/1780/31a70b96dceaa82f",
-      "published": "2026-09-21T06:57:18.456271+00:00",
-      "first_seen": "2026-09-21T06:57:18.456271+00:00",
-      "last_seen": "2026-09-21T06:57:18.456271+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1780; hash_prefix=31a70b96dceaa82f; reward=9.99407175 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1320,7 +1333,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-24T10:06:31.928854+00:00",
+      "checked": "2026-09-24T14:44:08.858401+00:00",
       "last_state_change": null
     },
     {
@@ -1328,7 +1341,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-24T10:06:23.912775+00:00",
+      "checked": "2026-09-24T14:44:00.845101+00:00",
       "last_state_change": null
     },
     {
@@ -1336,7 +1349,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-24T10:06:27.918555+00:00",
+      "checked": "2026-09-24T14:44:04.853640+00:00",
       "last_state_change": null
     }
   ]
