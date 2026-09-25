@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-25T00:31:41.086878+00:00",
+  "generated_at": "2026-09-25T05:15:33.451759+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-09-25T00:23:14.499054+00:00",
+      "last_seen": "2026-09-25T05:00:49.722680+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -34,7 +34,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580644.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:13.274412+00:00",
-      "last_seen": "2026-09-25T00:23:13.274412+00:00",
+      "last_seen": "2026-09-25T05:00:48.455470+00:00",
       "score": 20,
       "flags": [
         "+5:mainnet",
@@ -53,8 +53,8 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-25T00:23:18.092799+00:00",
-      "score": 30,
+      "last_seen": "2026-09-25T05:00:47.290363+00:00",
+      "score": 25,
       "flags": [
         "+9:no premine",
         "+5:mainnet",
@@ -71,7 +71,6 @@
         "+2:privacy",
         "+1:decentralized",
         "+1:p2p",
-        "+5:pre-ann",
         "-8:presale",
         "-7:ico",
         "-5:points",
@@ -79,7 +78,7 @@
         "+4:dated-launch",
         "+3:runnable-artifact"
       ],
-      "snippet": "Zecnero (ZMR) Shielded payments from Zcash. RandomX mining for the computer you already own. PRE-ANNOUNCEMENT · No testnet yet · No launch date set Website | Protocol Specification | GitLab | Discord | X What this is Zecnero is a fork of Zebra, the Rust node for Zcash. It keeps the Sapling and Orchard shielded pools and swaps Equihash for RandomX, the CPU-oriented proof of work that has secured Monero since 2019. The goal is narrow. No machine class should hold a large efficiency edge per watt over a normal desktop CPU. Farms can still win on scale. They can't win by owning better hardware, because better hardware for RandomX looks like the CPU you already have. This thread exists so the des"
+      "snippet": "Zecnero (ZMR) Shielded payments from Zcash. RandomX mining for the computer you already own. ANNOUNCEMENT · Testnet Live · No launch date set Website | Protocol Specification | GitLab | Discord | X What this is Zecnero is a fork of Zebra, the Rust node for Zcash. It keeps the Sapling and Orchard shielded pools and swaps Equihash for RandomX, the CPU-oriented proof of work that has secured Monero since 2019. The goal is narrow. No machine class should hold a large efficiency edge per watt over a normal desktop CPU. Farms can still win on scale. They can't win by owning better hardware, because better hardware for RandomX looks like the CPU you already have. This thread exists so the design ge"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -87,8 +86,8 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-25T00:23:09.500932+00:00",
-      "score": 36,
+      "last_seen": "2026-09-25T05:00:44.774935+00:00",
+      "score": 39,
       "flags": [
         "+9:no premine",
         "+6:no ico",
@@ -99,6 +98,7 @@
         "+2:mining",
         "+3:block reward",
         "+2:emission",
+        "+3:compute",
         "+2:privacy",
         "+3:no exchange",
         "+1:p2p",
@@ -107,7 +107,7 @@
         "+4:dated-launch",
         "+3:runnable-artifact"
       ],
-      "snippet": "Orange (OAG) A small CPU-mined UTXO coin. RandomX proof of work, written in Rust. What this is Orange is a plain UTXO blockchain: no smart contracts, no script language, no privacy features. It is a hobby project by one university student in Japan. Mainnet has been running since September 2026 with very few participants, and I am looking for people who will mine it and run nodes. What this is not There is no exchange listing and no price . You mine it and hold it. There is no ICO, no premine and no developer reward . I mine under the same rules as everyone else. I am not selling anything and I will never ask you for money. Specifications Proof of work RandomX (CPU) Accounting UTXO Signatures"
+      "snippet": "Orange (OAG) Much of the code was written with an AI assistant (Claude). The commit history shows this openly. I made the design decisions and reviewed the changes, and the specification explains the reasoning behind each rule. A small CPU-mined UTXO coin. RandomX proof of work, written in Rust. What this is Orange is a plain UTXO blockchain: no smart contracts, no script language, no privacy features. It is a hobby project by one university student in Japan. Mainnet has been running since September 2026 with very few participants, and I am looking for people who will mine it and run nodes. What this is not There is no exchange listing and no price . You mine it and hold it. There is no ICO,"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -190,7 +190,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594823.0",
       "published": null,
       "first_seen": "2026-09-22T17:01:55.358360+00:00",
-      "last_seen": "2026-09-24T23:52:58.482664+00:00",
+      "last_seen": "2026-09-25T04:29:44.835382+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -1361,7 +1361,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-25T00:28:42.909995+00:00",
+      "checked": "2026-09-25T05:06:10.783588+00:00",
       "last_state_change": null
     },
     {
@@ -1369,7 +1369,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-25T00:28:34.900659+00:00",
+      "checked": "2026-09-25T05:06:02.773800+00:00",
       "last_state_change": null
     },
     {
@@ -1377,7 +1377,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-25T00:28:38.905167+00:00",
+      "checked": "2026-09-25T05:06:06.779003+00:00",
       "last_state_change": null
     }
   ]
