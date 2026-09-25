@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-25T10:12:33.844431+00:00",
+  "generated_at": "2026-09-25T15:15:44.903653+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,30 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "Keryx-Labs/keryx-node: IssueCommentEvent 15757786116",
+      "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
+      "published": "2026-09-25T14:11:35Z",
+      "first_seen": "2026-09-25T14:14:49.098403+00:00",
+      "last_seen": "2026-09-25T14:46:05.087563+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+1:testnet",
+        "+2:pow",
+        "+2:miner",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40\", \"repository_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node\", \"labels_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/events\", \"html_url\": \"https://github.com/Keryx-Labs/keryx-node/pull/40\", \"id\": 5414919149, \"node_id\": \"PR_kwDOSAl4Fc8AAAABDBnPGA\", \"number\": 40, \"title\": \"PoC: shard-possession PoM (network-fatia) — incomplete, exploratory\", \"user\": {\"login\": \"nectopower\", \"id\": 19475"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] [PoW] Bitcoin Oil - Bitcoin On Steroids, Faster. [NO PREMINE] [LOW SUPPLY]",
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-09-25T09:38:27.955155+00:00",
+      "last_seen": "2026-09-25T14:47:07.399987+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -34,7 +52,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580644.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:13.274412+00:00",
-      "last_seen": "2026-09-25T09:38:26.693825+00:00",
+      "last_seen": "2026-09-25T14:47:11.035923+00:00",
       "score": 20,
       "flags": [
         "+5:mainnet",
@@ -53,7 +71,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-25T09:38:25.531748+00:00",
+      "last_seen": "2026-09-25T14:47:09.853938+00:00",
       "score": 25,
       "flags": [
         "+9:no premine",
@@ -86,7 +104,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-25T09:38:24.309745+00:00",
+      "last_seen": "2026-09-25T14:47:06.100505+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1336,21 +1354,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1785; hash_prefix=f22fc71bb31b3135; reward=9.9940551 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1784, 9.99405843 PER",
-      "url": "mining-reward://perihelion/1784/026508846731b60d",
-      "published": "2026-09-21T07:02:07.632773+00:00",
-      "first_seen": "2026-09-21T07:02:07.632773+00:00",
-      "last_seen": "2026-09-21T07:02:07.632773+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1784; hash_prefix=026508846731b60d; reward=9.99405843 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1361,7 +1364,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-25T09:43:56.281588+00:00",
+      "checked": "2026-09-25T14:52:31.335622+00:00",
       "last_state_change": null
     },
     {
@@ -1369,7 +1372,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-25T09:43:48.271468+00:00",
+      "checked": "2026-09-25T14:52:23.325778+00:00",
       "last_state_change": null
     },
     {
@@ -1377,7 +1380,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-25T09:43:52.276951+00:00",
+      "checked": "2026-09-25T14:52:27.331140+00:00",
       "last_state_change": null
     }
   ]
