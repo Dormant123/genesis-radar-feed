@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-26T00:39:17.594428+00:00",
+  "generated_at": "2026-09-26T05:27:01.079294+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595159.0",
       "published": null,
       "first_seen": "2026-09-26T00:02:24.316713+00:00",
-      "last_seen": "2026-09-26T00:33:27.233049+00:00",
+      "last_seen": "2026-09-26T05:09:32.331906+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -38,7 +38,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-26T00:33:29.552672+00:00",
+      "last_seen": "2026-09-26T05:09:33.346553+00:00",
       "score": 18,
       "flags": [
         "+5:mainnet",
@@ -58,7 +58,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-26T00:32:22.734425+00:00",
+      "last_seen": "2026-09-26T05:08:26.576956+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -76,7 +76,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-09-26T00:33:24.911440+00:00",
+      "last_seen": "2026-09-26T05:09:28.814373+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -148,7 +148,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-26T00:33:23.680379+00:00",
+      "last_seen": "2026-09-26T05:09:27.579654+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1378,7 +1378,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-26T00:38:48.002133+00:00",
+      "checked": "2026-09-26T05:14:50.763177+00:00",
       "last_state_change": null
     },
     {
@@ -1386,7 +1386,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-26T00:38:39.990548+00:00",
+      "checked": "2026-09-26T05:14:42.753669+00:00",
       "last_state_change": null
     },
     {
@@ -1394,7 +1394,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-26T00:38:43.997198+00:00",
+      "checked": "2026-09-26T05:14:46.758560+00:00",
       "last_state_change": null
     }
   ]
