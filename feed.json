@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-26T05:27:01.079294+00:00",
+  "generated_at": "2026-09-26T10:01:41.104087+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,32 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN]NADO - PoSEA: mine a post-quantum chain from your phone. Fair launch, no premine",
+      "url": "https://bitcointalk.org/index.php?topic=5425042.0",
+      "published": null,
+      "first_seen": "2026-09-26T07:43:12.424431+00:00",
+      "last_seen": "2026-09-26T09:47:29.126273+00:00",
+      "score": 24,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+2:launch",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:post-quantum",
+        "-5:points",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "NADO Mine a post-quantum chain from a browser tab on your phone. No rig. No install. No signup. No premine. Open the wallet  GitHub  Whitepaper  Discord  Forum Deflationary. Harder than BTC. No premine. No dev fund. PoSEA identity + hash lottery + FFG quorum finality. Post-quantum ML-DSA-44, zk-STARK shielded pool, exec node, HTLC, 1-click mining, zstd, shares for all. Python/Rust/JS, 30/70. betanet-7: every mining identity is now a real device The free mining lane was being farmed. About a thousand fake identities, run by two or three people on rented servers, were taking roughly 42% of all emission . Every rule we had was written per identity, so every rule cost an honest miner exactly"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Veld Network (VELD) | CPU Mining, Staking & Co-Mining | Mainnet Live",
       "url": "https://bitcointalk.org/index.php?topic=5595159.0",
       "published": null,
       "first_seen": "2026-09-26T00:02:24.316713+00:00",
-      "last_seen": "2026-09-26T05:09:32.331906+00:00",
+      "last_seen": "2026-09-26T09:47:31.488438+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -38,7 +59,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-26T05:09:33.346553+00:00",
+      "last_seen": "2026-09-26T09:47:32.592843+00:00",
       "score": 18,
       "flags": [
         "+5:mainnet",
@@ -58,7 +79,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-26T05:08:26.576956+00:00",
+      "last_seen": "2026-09-26T09:46:24.256068+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -76,7 +97,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-09-26T05:09:28.814373+00:00",
+      "last_seen": "2026-09-26T09:47:26.350982+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -148,7 +169,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-26T05:09:27.579654+00:00",
+      "last_seen": "2026-09-26T09:47:25.081527+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1353,21 +1374,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1788; hash_prefix=2382e29865afd87a; reward=9.9940451 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1787, 9.99404843 PER",
-      "url": "mining-reward://perihelion/1787/e7f6deaa6737e6fc",
-      "published": "2026-09-21T07:04:19.795752+00:00",
-      "first_seen": "2026-09-21T07:04:19.795752+00:00",
-      "last_seen": "2026-09-21T07:04:19.795752+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1787; hash_prefix=e7f6deaa6737e6fc; reward=9.99404843 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1378,7 +1384,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-26T05:14:50.763177+00:00",
+      "checked": "2026-09-26T09:52:50.080946+00:00",
       "last_state_change": null
     },
     {
@@ -1386,7 +1392,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-26T05:14:42.753669+00:00",
+      "checked": "2026-09-26T09:52:42.071565+00:00",
       "last_state_change": null
     },
     {
@@ -1394,7 +1400,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-26T05:14:46.758560+00:00",
+      "checked": "2026-09-26T09:52:46.076993+00:00",
       "last_state_change": null
     }
   ]
