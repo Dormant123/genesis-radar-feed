@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-25T22:21:50.083445+00:00",
+  "generated_at": "2026-09-26T00:39:17.594428+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,35 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Veld Network (VELD) | CPU Mining, Staking & Co-Mining | Mainnet Live",
+      "url": "https://bitcointalk.org/index.php?topic=5595159.0",
+      "published": null,
+      "first_seen": "2026-09-26T00:02:24.316713+00:00",
+      "last_seen": "2026-09-26T00:33:27.233049+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+2:launch",
+        "+2:open source",
+        "+4:proof of work",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+3:compute",
+        "-10:founder allocation",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Veld Network (VELD) CPU proof of work  Native staking  Co-mining rewards Live mainnet  Open source  21 million maximum supply Veld is a UTXO blockchain that launched its public mainnet on 2 September 2026. Its VeldHash proof of work is designed for CPU mining using a 1 GiB dataset. Full nodes validate the chain locally, and the Windows client supports both solo and pool mining. This is our first announcement on Bitcointalk and my name is Mendo, the founder of Veld. I've put a significant part of my time and life into building it, with a direct goal; a currency people can earn, use and hold, with rewarding ways to participate within the network over the long term. Network facts  Network:"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] VargaMesh (VMESH)  Live Mainnet + Public Testnet | SHA-256d AuxPoW | Open",
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-25T21:57:59.136761+00:00",
+      "last_seen": "2026-09-26T00:33:29.552672+00:00",
       "score": 18,
       "flags": [
         "+5:mainnet",
@@ -34,7 +58,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-25T21:56:54.864489+00:00",
+      "last_seen": "2026-09-26T00:32:22.734425+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -52,7 +76,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-09-25T21:57:56.766564+00:00",
+      "last_seen": "2026-09-26T00:33:24.911440+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -91,7 +115,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-25T21:58:00.323667+00:00",
+      "last_seen": "2026-09-25T22:59:53.363705+00:00",
       "score": 25,
       "flags": [
         "+9:no premine",
@@ -124,7 +148,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-25T21:57:55.518759+00:00",
+      "last_seen": "2026-09-26T00:33:23.680379+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1344,21 +1368,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1787; hash_prefix=e7f6deaa6737e6fc; reward=9.99404843 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1786, 9.99405176 PER",
-      "url": "mining-reward://perihelion/1786/d58e28037ac31ea7",
-      "published": "2026-09-21T07:03:00.595769+00:00",
-      "first_seen": "2026-09-21T07:03:00.595769+00:00",
-      "last_seen": "2026-09-21T07:03:00.595769+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1786; hash_prefix=d58e28037ac31ea7; reward=9.99405176 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1369,7 +1378,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-25T22:03:19.203839+00:00",
+      "checked": "2026-09-26T00:38:48.002133+00:00",
       "last_state_change": null
     },
     {
@@ -1377,7 +1386,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-25T22:03:11.194377+00:00",
+      "checked": "2026-09-26T00:38:39.990548+00:00",
       "last_state_change": null
     },
     {
@@ -1385,7 +1394,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-25T22:03:15.199146+00:00",
+      "checked": "2026-09-26T00:38:43.997198+00:00",
       "last_state_change": null
     }
   ]
