@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-26T10:01:41.104087+00:00",
+  "generated_at": "2026-09-26T14:14:39.869365+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5425042.0",
       "published": null,
       "first_seen": "2026-09-26T07:43:12.424431+00:00",
-      "last_seen": "2026-09-26T09:47:29.126273+00:00",
+      "last_seen": "2026-09-26T13:52:49.453610+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -35,7 +35,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595159.0",
       "published": null,
       "first_seen": "2026-09-26T00:02:24.316713+00:00",
-      "last_seen": "2026-09-26T09:47:31.488438+00:00",
+      "last_seen": "2026-09-26T13:52:51.799452+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -59,7 +59,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-26T09:47:32.592843+00:00",
+      "last_seen": "2026-09-26T13:52:48.160860+00:00",
       "score": 18,
       "flags": [
         "+5:mainnet",
@@ -79,7 +79,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-26T09:46:24.256068+00:00",
+      "last_seen": "2026-09-26T13:51:45.091781+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -97,7 +97,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-09-26T09:47:26.350982+00:00",
+      "last_seen": "2026-09-26T13:52:47.116974+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -169,7 +169,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-26T09:47:25.081527+00:00",
+      "last_seen": "2026-09-26T13:52:45.812115+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -190,7 +190,7 @@
         "+4:dated-launch",
         "+3:runnable-artifact"
       ],
-      "snippet": "Orange (OAG) Much of the code was written with an AI assistant (Claude). The commit history shows this openly. I made the design decisions and reviewed the changes, and the specification explains the reasoning behind each rule. A small CPU-mined UTXO coin. RandomX proof of work, written in Rust. What this is Orange is a plain UTXO blockchain: no smart contracts, no script language, no privacy features. It is a hobby project by one university student in Japan. Mainnet has been running since September 2026 with very few participants, and I am looking for people who will mine it and run nodes. What this is not There is no exchange listing and no price . You mine it and hold it. There is no ICO,"
+      "snippet": "Orange (OAG) A small CPU-mined UTXO coin. RandomX proof of work, written in Rust. Website | Explorer | Source | Download | Discord Much of the code was written with an AI assistant (Claude). The commit history shows this openly. I made the design decisions and reviewed the changes, and the specification explains the reasoning behind each rule. What this is Orange is a plain UTXO blockchain: no smart contracts, no script language, no privacy features. It is a hobby project by one university student in Japan. Mainnet has been running since September 2026 with very few participants, and I am looking for people who will mine it and run nodes. What this is not There is no exchange listing and no "
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -1384,7 +1384,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-26T09:52:50.080946+00:00",
+      "checked": "2026-09-26T13:58:09.870083+00:00",
       "last_state_change": null
     },
     {
@@ -1392,7 +1392,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-26T09:52:42.071565+00:00",
+      "checked": "2026-09-26T13:58:01.860139+00:00",
       "last_state_change": null
     },
     {
@@ -1400,7 +1400,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-26T09:52:46.076993+00:00",
+      "checked": "2026-09-26T13:58:05.865222+00:00",
       "last_state_change": null
     }
   ]
