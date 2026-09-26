@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-26T20:08:17.037522+00:00",
+  "generated_at": "2026-09-26T22:42:41.802688+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595209.0",
       "published": null,
       "first_seen": "2026-09-26T19:30:43.631139+00:00",
-      "last_seen": "2026-09-26T20:02:08.160371+00:00",
+      "last_seen": "2026-09-26T22:35:40.890607+00:00",
       "score": 20,
       "flags": [
         "+5:mainnet",
@@ -36,7 +36,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5425042.0",
       "published": null,
       "first_seen": "2026-09-26T07:43:12.424431+00:00",
-      "last_seen": "2026-09-26T20:02:11.738382+00:00",
+      "last_seen": "2026-09-26T22:35:44.753686+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -81,19 +81,26 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-26T20:02:10.428537+00:00",
-      "score": 18,
+      "last_seen": "2026-09-26T22:35:43.472668+00:00",
+      "score": 30,
       "flags": [
+        "+9:no premine",
         "+5:mainnet",
+        "+5:genesis",
         "+1:testnet",
         "+2:open source",
+        "+4:proof of work",
+        "+4:proof-of-work",
         "+2:pow",
         "+2:miner",
         "+2:mining",
+        "+3:block reward",
         "+1:p2p",
+        "-5:points",
+        "-8:premine",
         "+3:runnable-artifact"
       ],
-      "snippet": "VargaMesh (VMESH) Independent SHA-256d AuxPoW Blockchain MAINNET LIVE · PUBLIC TESTNET AVAILABLE · OPEN SOURCE https://vargacoin.com/ VMESH is the native asset of the VargaMesh blockchain. It is not a token on Ethereum, BNB Chain, Solana or another smart-contract platform. https://vargacoin.com/assets/vmesh-coin.png Project Status VargaMesh is an operational independent blockchain with a live Mainnet. The project currently provides: Live VMESH Mainnet Public blockchain explorer Self-custody Web Wallet SHA-256d / AuxPoW mining infrastructure Public node infrastructure Developer and blockchain APIs Open-source VargaMesh Core Public Testnet v1 Dedicated Testnet Explorer Dedicated Testnet Wallet"
+      "snippet": "VARGAMESH (VMESH) Independent SHA-256d Proof-of-Work Blockchain MAINNET LIVE  AUXPOW  BTC + VMESH MERGED SOLO  NO PREMINE  OPEN SOURCE vargacoin.com https://vargacoin.com/assets/vmesh-coin.png What is VargaMesh? VargaMesh (VMESH) is an independent Bitcoin-style UTXO blockchain using SHA-256d Proof-of-Work, ASERT difficulty adjustment and AuxPoW merged-mining support. VMESH is the native cryptocurrency of the VargaMesh blockchain. VMESH is not a token on Ethereum, BNB Chain, Solana or another smart-contract platform. The VargaMesh Mainnet is already operational and can be independently inspected through public infrastructure, open-source node software and the VargaMesh blockchain explorer"
     },
     {
       "source": "github-events",
@@ -101,7 +108,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-26T20:01:03.899972+00:00",
+      "last_seen": "2026-09-26T22:34:36.606848+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -119,7 +126,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-09-26T20:02:04.524692+00:00",
+      "last_seen": "2026-09-26T22:35:37.347224+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -158,7 +165,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-26T20:02:09.356659+00:00",
+      "last_seen": "2026-09-26T22:35:42.284624+00:00",
       "score": 25,
       "flags": [
         "+9:no premine",
@@ -191,7 +198,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-26T20:02:05.789326+00:00",
+      "last_seen": "2026-09-26T22:35:38.668304+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1391,7 +1398,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-26T20:07:31.731611+00:00",
+      "checked": "2026-09-26T22:41:03.898805+00:00",
       "last_state_change": null
     },
     {
@@ -1399,7 +1406,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-26T20:07:23.721009+00:00",
+      "checked": "2026-09-26T22:40:55.889567+00:00",
       "last_state_change": null
     },
     {
@@ -1407,7 +1414,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-26T20:07:27.726826+00:00",
+      "checked": "2026-09-26T22:40:59.894870+00:00",
       "last_state_change": null
     }
   ]
