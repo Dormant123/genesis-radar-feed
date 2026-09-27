@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-27T05:52:16.805185+00:00",
+  "generated_at": "2026-09-27T10:50:20.861860+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,29 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "pearl-research-labs/pearl: IssueCommentEvent 15843200085",
+      "url": "https://github.com/pearl-research-labs/pearl#event-15843200085",
+      "published": "2026-09-27T06:49:19Z",
+      "first_seen": "2026-09-27T07:17:31.392754+00:00",
+      "last_seen": "2026-09-27T10:22:13.973171+00:00",
+      "score": 12,
+      "flags": [
+        "+2:pow",
+        "+2:miner",
+        "+3:compute",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/340\", \"repository_url\": \"https://api.github.com/repos/pearl-research-labs/pearl\", \"labels_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/340/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/340/comments\", \"events_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/340/events\", \"html_url\": \"https://github.com/pearl-research-labs/pearl/pull/340\", \"id\": 5600507907, \"node_id\": \"PR_kwDOSGtMDc8AAAABFUrQ8g\", \"number\": 340, \"title\": \"refactor(miner-base): remove the CPU reference miner and GPU emulation\", \"user\": {\""
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] KORSH ($KSH) - Mainnet Live",
       "url": "https://bitcointalk.org/index.php?topic=5595209.0",
       "published": null,
       "first_seen": "2026-09-26T19:30:43.631139+00:00",
-      "last_seen": "2026-09-27T05:45:59.136802+00:00",
+      "last_seen": "2026-09-27T10:23:19.314517+00:00",
       "score": 20,
       "flags": [
         "+5:mainnet",
@@ -36,7 +53,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5425042.0",
       "published": null,
       "first_seen": "2026-09-26T07:43:12.424431+00:00",
-      "last_seen": "2026-09-27T05:46:01.636904+00:00",
+      "last_seen": "2026-09-27T10:23:21.777423+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -81,7 +98,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-27T05:46:00.331034+00:00",
+      "last_seen": "2026-09-27T10:23:20.501036+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -108,7 +125,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-27T05:44:55.146004+00:00",
+      "last_seen": "2026-09-27T10:22:14.948190+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -165,7 +182,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-27T05:45:56.872932+00:00",
+      "last_seen": "2026-09-27T10:23:16.860532+00:00",
       "score": 25,
       "flags": [
         "+9:no premine",
@@ -198,7 +215,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-27T05:45:55.683606+00:00",
+      "last_seen": "2026-09-27T10:23:15.682020+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1373,21 +1390,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1790; hash_prefix=f6d8b9b57da3f839; reward=9.99403844 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1789, 9.99404177 PER",
-      "url": "mining-reward://perihelion/1789/abf6de229ebba0ae",
-      "published": "2026-09-21T07:06:50.205585+00:00",
-      "first_seen": "2026-09-21T07:06:50.205585+00:00",
-      "last_seen": "2026-09-21T07:06:50.205585+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1789; hash_prefix=abf6de229ebba0ae; reward=9.99404177 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1398,7 +1400,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-27T05:51:21.249020+00:00",
+      "checked": "2026-09-27T10:28:40.585624+00:00",
       "last_state_change": null
     },
     {
@@ -1406,7 +1408,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-27T05:51:13.235098+00:00",
+      "checked": "2026-09-27T10:28:32.577067+00:00",
       "last_state_change": null
     },
     {
@@ -1414,7 +1416,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-27T05:51:17.243767+00:00",
+      "checked": "2026-09-27T10:28:36.581461+00:00",
       "last_state_change": null
     }
   ]
