@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-28T05:31:03.482471+00:00",
+  "generated_at": "2026-09-28T11:52:33.815199+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,76 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[PRE-ANN][WEC] Wcash - Merge-Mined with Zcash | 21M | No Premine | No Dev tax",
+      "url": "https://bitcointalk.org/index.php?topic=5593282.0",
+      "published": null,
+      "first_seen": "2026-09-28T10:58:21.305162+00:00",
+      "last_seen": "2026-09-28T11:28:34.537395+00:00",
+      "score": 32,
+      "flags": [
+        "+9:no premine",
+        "+9:zero premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy",
+        "+5:pre-ann",
+        "-8:presale",
+        "-7:ico",
+        "-10:founder allocation",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Wcash Zcash shielded transactions. Equihash proof of work. 21 million maximum. w.cash PRE-ANN. Mainnet is not live. No mainnet WCASH exists. Current Testnet in a slowstart. W.Cash Mainnet launches September 19, 2026, at 12:00 UTC. 🐺 Wcash is an independent proof-of-work chain derived from Zcash. It retains Zcash-family shielded and transparent transactions and uses Equihash with the Zcash parameters N=200 and K=9. Wcash may be mined directly or merge-mined with Zcash. These are two proof forms on the same Wcash chain. They do not create separate networks, separate supplies or separate classes of coins. There is no premine, ICO, presale, founder allocation, treasury reward or protocol develop"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][PRANA] Etchash PoW L1  mine the compute the people own | Fair launch",
+      "url": "https://bitcointalk.org/index.php?topic=5592761.0",
+      "published": null,
+      "first_seen": "2026-09-28T07:54:27.577982+00:00",
+      "last_seen": "2026-09-28T11:28:37.077164+00:00",
+      "score": 36,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+7:no presale",
+        "+5:mainnet",
+        "+5:genesis",
+        "+5:block 0",
+        "+5:block zero",
+        "+2:launch",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+5:useful work",
+        "+4:inference",
+        "+3:compute",
+        "-8:presale",
+        "-7:ico",
+        "-8:team allocation",
+        "-5:protocol fee",
+        "-8:premine"
+      ],
+      "snippet": "PRANA The chain that mines by doing real work. An EVM Proof-of-Work Layer-1 where you earn by doing useful AI work, not by burning electricity. Ordinary Etchash hashing is only a thin security layer underneath  the real reward is the compute that runs a community-owned AI. Fair launch. No premine. No presale. Live since 29 Aug 2026. ▚ What PRANA is (30-second version) A sovereign EVM chain (MetaMask, Solidity, foundry  all the tools you know) secured by Proof-of-Work. Its one twist: the chain IS the mining pool, and mining means doing useful work. Two lanes feed one reward pool, but they are not equals: a thin HASH lane (ordinary Etchash PoW) does just enough to keep blocks secure and in o"
+    },
+    {
       "source": "github-events",
       "title": "brisvia/brisvia: ForkEvent 15887907210",
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-09-28T05:20:12.182330+00:00",
+      "last_seen": "2026-09-28T11:27:37.316695+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -31,7 +95,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-09-27T19:04:13.704985+00:00",
-      "last_seen": "2026-09-28T05:21:18.103559+00:00",
+      "last_seen": "2026-09-28T11:28:45.881329+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -73,7 +137,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595209.0",
       "published": null,
       "first_seen": "2026-09-26T19:30:43.631139+00:00",
-      "last_seen": "2026-09-28T05:21:20.283628+00:00",
+      "last_seen": "2026-09-28T11:28:48.068901+00:00",
       "score": 20,
       "flags": [
         "+5:mainnet",
@@ -95,7 +159,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5425042.0",
       "published": null,
       "first_seen": "2026-09-26T07:43:12.424431+00:00",
-      "last_seen": "2026-09-28T05:21:10.795923+00:00",
+      "last_seen": "2026-09-28T11:28:40.709905+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -140,7 +204,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-28T05:21:16.881579+00:00",
+      "last_seen": "2026-09-28T11:28:44.625061+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -167,7 +231,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-28T05:20:04.017305+00:00",
+      "last_seen": "2026-09-28T11:27:29.726054+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -224,7 +288,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-28T05:21:14.466798+00:00",
+      "last_seen": "2026-09-28T11:28:39.426745+00:00",
       "score": 25,
       "flags": [
         "+9:no premine",
@@ -257,7 +321,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-28T05:21:15.706499+00:00",
+      "last_seen": "2026-09-28T11:28:35.775009+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1372,36 +1436,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1794; hash_prefix=a2f7e28453d71cc0; reward=9.99402511 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1793, 9.99402844 PER",
-      "url": "mining-reward://perihelion/1793/d57b10e9c995e839",
-      "published": "2026-09-21T07:08:52.399710+00:00",
-      "first_seen": "2026-09-21T07:08:52.399710+00:00",
-      "last_seen": "2026-09-21T07:08:52.399710+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1793; hash_prefix=d57b10e9c995e839; reward=9.99402844 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1792, 9.99403178 PER",
-      "url": "mining-reward://perihelion/1792/7344386d0c434112",
-      "published": "2026-09-21T07:08:10.071954+00:00",
-      "first_seen": "2026-09-21T07:08:10.071954+00:00",
-      "last_seen": "2026-09-21T07:08:10.071954+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1792; hash_prefix=7344386d0c434112; reward=9.99403178 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1412,7 +1446,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-28T05:26:37.872151+00:00",
+      "checked": "2026-09-28T11:34:04.510035+00:00",
       "last_state_change": null
     },
     {
@@ -1420,7 +1454,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-28T05:26:29.861420+00:00",
+      "checked": "2026-09-28T11:33:56.496974+00:00",
       "last_state_change": null
     },
     {
@@ -1428,7 +1462,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-28T05:26:33.867818+00:00",
+      "checked": "2026-09-28T11:34:00.502957+00:00",
       "last_state_change": null
     }
   ]
