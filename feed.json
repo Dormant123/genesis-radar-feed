@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-28T00:16:27.058964+00:00",
+  "generated_at": "2026-09-28T05:31:03.482471+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,29 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "brisvia/brisvia: ForkEvent 15887907210",
+      "url": "https://github.com/brisvia/brisvia#event-15887907210",
+      "published": "2026-09-28T05:07:46Z",
+      "first_seen": "2026-09-28T05:20:12.182330+00:00",
+      "last_seen": "2026-09-28T05:20:12.182330+00:00",
+      "score": 17,
+      "flags": [
+        "+7:fair launch",
+        "+2:launch",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"forked\", \"forkee\": {\"id\": 1391846400, \"node_id\": \"R_kgDOUvXkAA\", \"name\": \"brisvia\", \"full_name\": \"egiaggata/brisvia\", \"private\": false, \"owner\": {\"login\": \"egiaggata\", \"id\": 143687064, \"node_id\": \"U_kgDOCJB9mA\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/143687064?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/egiaggata\", \"html_url\": \"https://github.com/egiaggata\", \"followers_url\": \"https://api.github.com/users/egiaggata/followers\", \"following_url\": \"https://api.github.com/users/egiaggata/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/egiaggata/gists{/gist_id}\", \"starred_url\": \"https://api.github.com/users/egiaggata/starred{/owner}{"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Quantum Bitcoin (Q-BTC) - CPU PoW Mainnet Live (ML-DSA-65, No Premine)",
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-09-27T19:04:13.704985+00:00",
-      "last_seen": "2026-09-27T23:42:41.339785+00:00",
+      "last_seen": "2026-09-28T05:21:18.103559+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -56,7 +73,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595209.0",
       "published": null,
       "first_seen": "2026-09-26T19:30:43.631139+00:00",
-      "last_seen": "2026-09-27T23:42:43.564782+00:00",
+      "last_seen": "2026-09-28T05:21:20.283628+00:00",
       "score": 20,
       "flags": [
         "+5:mainnet",
@@ -78,7 +95,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5425042.0",
       "published": null,
       "first_seen": "2026-09-26T07:43:12.424431+00:00",
-      "last_seen": "2026-09-27T23:42:44.832424+00:00",
+      "last_seen": "2026-09-28T05:21:10.795923+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -123,7 +140,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-27T23:42:40.090050+00:00",
+      "last_seen": "2026-09-28T05:21:16.881579+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -150,7 +167,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-27T23:41:35.661600+00:00",
+      "last_seen": "2026-09-28T05:20:04.017305+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -207,7 +224,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-27T23:42:37.523501+00:00",
+      "last_seen": "2026-09-28T05:21:14.466798+00:00",
       "score": 25,
       "flags": [
         "+9:no premine",
@@ -240,7 +257,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-27T23:42:38.747427+00:00",
+      "last_seen": "2026-09-28T05:21:15.706499+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1385,21 +1402,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1792; hash_prefix=7344386d0c434112; reward=9.99403178 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1791, 9.99403511 PER",
-      "url": "mining-reward://perihelion/1791/db9499d7ee8ad7e9",
-      "published": "2026-09-21T07:07:28.036981+00:00",
-      "first_seen": "2026-09-21T07:07:28.036981+00:00",
-      "last_seen": "2026-09-21T07:07:28.036981+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1791; hash_prefix=db9499d7ee8ad7e9; reward=9.99403511 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1410,7 +1412,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-27T23:48:04.286752+00:00",
+      "checked": "2026-09-28T05:26:37.872151+00:00",
       "last_state_change": null
     },
     {
@@ -1418,7 +1420,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-27T23:47:56.276830+00:00",
+      "checked": "2026-09-28T05:26:29.861420+00:00",
       "last_state_change": null
     },
     {
@@ -1426,7 +1428,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-27T23:48:00.282443+00:00",
+      "checked": "2026-09-28T05:26:33.867818+00:00",
       "last_state_change": null
     }
   ]
