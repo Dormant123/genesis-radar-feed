@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-27T21:58:15.840223+00:00",
+  "generated_at": "2026-09-28T00:16:27.058964+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-09-27T19:04:13.704985+00:00",
-      "last_seen": "2026-09-27T21:38:42.374408+00:00",
+      "last_seen": "2026-09-27T23:42:41.339785+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -56,7 +56,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595209.0",
       "published": null,
       "first_seen": "2026-09-26T19:30:43.631139+00:00",
-      "last_seen": "2026-09-27T21:38:46.982004+00:00",
+      "last_seen": "2026-09-27T23:42:43.564782+00:00",
       "score": 20,
       "flags": [
         "+5:mainnet",
@@ -78,7 +78,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5425042.0",
       "published": null,
       "first_seen": "2026-09-26T07:43:12.424431+00:00",
-      "last_seen": "2026-09-27T21:38:49.510307+00:00",
+      "last_seen": "2026-09-27T23:42:44.832424+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -123,7 +123,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-27T21:38:43.562355+00:00",
+      "last_seen": "2026-09-27T23:42:40.090050+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -150,7 +150,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-27T21:37:40.331129+00:00",
+      "last_seen": "2026-09-27T23:41:35.661600+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -207,7 +207,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-27T21:38:44.757132+00:00",
+      "last_seen": "2026-09-27T23:42:37.523501+00:00",
       "score": 25,
       "flags": [
         "+9:no premine",
@@ -240,7 +240,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-27T21:38:48.262682+00:00",
+      "last_seen": "2026-09-27T23:42:38.747427+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -261,7 +261,7 @@
         "+4:dated-launch",
         "+3:runnable-artifact"
       ],
-      "snippet": "Orange (OAG) A small CPU-mined UTXO coin. RandomX proof of work, written in Rust. No premine, no ICO, no price  just a coin you can mine on your own PC. Website | Explorer | Web wallet | Download | Source | Discord Latest version: v0.1.4  questions and chat on Discord What this is Orange is a plain UTXO blockchain: no smart contracts, no script language, no privacy features. It is a hobby project by one university student in Japan. Mainnet has been running since September 2026 with a handful of miners, and I am looking for people who will mine it, run nodes, or just try it out. Live numbers (hashrate, holders, how the coins are spread) are on the explorer: explorer.oagcoin.org/stats What t"
+      "snippet": "Orange (OAG) A small CPU-mined UTXO coin. RandomX proof of work, written in Rust. No premine, no ICO, no price  just a coin you can mine on your own PC. Website | Explorer | Web wallet | Download | Source | Discord Latest version: v0.1.7  questions and chat on Discord What this is Orange is a plain UTXO blockchain: no smart contracts, no script language, no privacy features. It is a hobby project by one university student in Japan. Mainnet has been running since September 2026 with a handful of miners, and I am looking for people who will mine it, run nodes, or just try it out. Live numbers (hashrate, holders, how the coins are spread) are on the explorer: explorer.oagcoin.org/stats What t"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -1410,7 +1410,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-27T21:44:09.316675+00:00",
+      "checked": "2026-09-27T23:48:04.286752+00:00",
       "last_state_change": null
     },
     {
@@ -1418,7 +1418,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-27T21:44:01.303995+00:00",
+      "checked": "2026-09-27T23:47:56.276830+00:00",
       "last_state_change": null
     },
     {
@@ -1426,7 +1426,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-27T21:44:05.312091+00:00",
+      "checked": "2026-09-27T23:48:00.282443+00:00",
       "last_state_change": null
     }
   ]
