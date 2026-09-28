@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-28T18:46:14.109981+00:00",
+  "generated_at": "2026-09-28T23:30:25.066335+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,33 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Mining (Altcoins)",
+      "title": "[ANN] MeshMiner | Multi-Coin NVIDIA GPU & CPU Miner | Riecoin GPU Mining!",
+      "url": "https://bitcointalk.org/index.php?topic=5595383.0",
+      "published": null,
+      "first_seen": "2026-09-28T20:13:26.373049+00:00",
+      "last_seen": "2026-09-28T23:18:36.061128+00:00",
+      "score": 28,
+      "flags": [
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:optimization",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "MESHMINER Multi-Coin GPU & CPU Mining Software NVIDIA GPU | 64-bit CPU | Windows | Linux | HiveOS | Docker [ DOWNLOAD MESHMINER ] MESHPOOL | DISCORD WHAT IS MESHMINER? MeshMiner is a multi-algorithm cryptocurrency miner developed by the Meshpool team. It supports both NVIDIA GPU and 64-bit CPU mining, with support for Windows, Linux, HiveOS and Docker. The miner can be used with Meshpool or compatible third-party pools. MeshMiner is closed source, with public binaries available through GitHub. SUPPORTED COINS & ALGORITHMS LUMENITE  LMT HomeScrypt v1.2 NVIDIA GPU + CPU NONSENSE  NNN FishHashPlus NVIDIA GPU Minimum 6 GB VRAM PLAINE  PLNE Isochron CPU + GPU acceleration DRAGONCHAIN yespower "
+    },
+    {
       "source": "github-events",
       "title": "pearl-research-labs/pearl: IssueCommentEvent 15926889759",
       "url": "https://github.com/pearl-research-labs/pearl#event-15926889759",
       "published": "2026-09-28T14:44:49Z",
       "first_seen": "2026-09-28T15:04:32.662298+00:00",
-      "last_seen": "2026-09-28T18:39:15.227594+00:00",
+      "last_seen": "2026-09-28T19:10:43.887824+00:00",
       "score": 13,
       "flags": [
         "+5:genesis",
@@ -31,7 +52,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-09-28T18:40:22.848790+00:00",
+      "last_seen": "2026-09-28T23:18:22.207353+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -61,7 +82,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592761.0",
       "published": null,
       "first_seen": "2026-09-28T07:54:27.577982+00:00",
-      "last_seen": "2026-09-28T18:40:24.162733+00:00",
+      "last_seen": "2026-09-28T23:18:27.253349+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -95,7 +116,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-09-28T18:39:21.981048+00:00",
+      "last_seen": "2026-09-28T23:17:25.689027+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -112,7 +133,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-09-27T19:04:13.704985+00:00",
-      "last_seen": "2026-09-28T18:40:30.867897+00:00",
+      "last_seen": "2026-09-28T23:18:33.522176+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -176,7 +197,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5425042.0",
       "published": null,
       "first_seen": "2026-09-26T07:43:12.424431+00:00",
-      "last_seen": "2026-09-28T18:40:27.779910+00:00",
+      "last_seen": "2026-09-28T23:18:30.880955+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -221,7 +242,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-28T18:40:21.371664+00:00",
+      "last_seen": "2026-09-28T23:18:26.003469+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -248,7 +269,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-28T18:39:16.209124+00:00",
+      "last_seen": "2026-09-28T23:17:20.046994+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -305,7 +326,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-28T18:40:26.533650+00:00",
+      "last_seen": "2026-09-28T23:18:29.609169+00:00",
       "score": 25,
       "flags": [
         "+9:no premine",
@@ -338,7 +359,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-28T18:40:20.019132+00:00",
+      "last_seen": "2026-09-28T23:18:24.772647+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1423,21 +1444,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1796; hash_prefix=eeb0d74c24d0d358; reward=9.99401845 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1795, 9.99402178 PER",
-      "url": "mining-reward://perihelion/1795/0e102a0f104ab95d",
-      "published": "2026-09-21T07:16:10.176365+00:00",
-      "first_seen": "2026-09-21T07:16:10.176365+00:00",
-      "last_seen": "2026-09-21T07:16:10.176365+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1795; hash_prefix=0e102a0f104ab95d; reward=9.99402178 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1448,7 +1454,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-28T18:45:49.208967+00:00",
+      "checked": "2026-09-28T23:23:51.412625+00:00",
       "last_state_change": null
     },
     {
@@ -1456,7 +1462,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-28T18:45:41.198891+00:00",
+      "checked": "2026-09-28T23:23:43.405788+00:00",
       "last_state_change": null
     },
     {
@@ -1464,7 +1470,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-28T18:45:45.204181+00:00",
+      "checked": "2026-09-28T23:23:47.410881+00:00",
       "last_state_change": null
     }
   ]
