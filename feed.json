@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-29T09:00:31.087073+00:00",
+  "generated_at": "2026-09-29T15:32:06.712991+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,38 @@
   "public_findings": [
     {
       "source": "bitcointalk:Mining (Altcoins)",
+      "title": "NEV369 | Post-quantum PoW Layer 1 | Dilithium5 signatures | CPU mining |",
+      "url": "https://bitcointalk.org/index.php?topic=5595438.0",
+      "published": null,
+      "first_seen": "2026-09-29T14:09:59.842525+00:00",
+      "last_seen": "2026-09-29T15:12:03.666325+00:00",
+      "score": 24,
+      "flags": [
+        "+6:no ico",
+        "+5:genesis",
+        "+2:launch",
+        "+2:open source",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:post-quantum",
+        "+3:not listed",
+        "+1:p2p",
+        "-7:ico",
+        "-8:premine"
+      ],
+      "snippet": "NEV369: a proof-of-work blockchain with post-quantum signatures Website: https://q-lock-ecosystem.com Explorer: https://q-lock-ecosystem.com/explorer/ Code (open source): https://github.com/ThearchitectQlock/qlock-ecosystem Downloads: https://github.com/ThearchitectQlock/qlock-ecosystem/releases/latest WHAT IT IS NEV369 is a independent blockchain I wrote from scratch in Rust. Every transaction is signed with Dilithium5, a post-quantum signature scheme (NIST security level 5). - Hashing: SHA3-512 → BLAKE3 → SHA3-512 - Wallets: Argon2id + AES-256-GCM encryption - Networking: libp2p SPECS - Proof of work, mined on a normal CPU - 60-second blocks - 369 NEV per block, halving every 437,000 block"
+    },
+    {
+      "source": "bitcointalk:Mining (Altcoins)",
       "title": "[ANN] MeshMiner | Multi-Coin NVIDIA GPU & CPU Miner | Riecoin GPU Mining!",
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-09-29T08:31:43.669419+00:00",
+      "last_seen": "2026-09-29T15:12:04.713703+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -52,7 +79,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-09-29T08:31:29.331384+00:00",
+      "last_seen": "2026-09-29T15:11:50.487195+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -82,7 +109,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592761.0",
       "published": null,
       "first_seen": "2026-09-28T07:54:27.577982+00:00",
-      "last_seen": "2026-09-29T08:31:34.716623+00:00",
+      "last_seen": "2026-09-29T15:11:55.780345+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -116,7 +143,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-09-29T08:30:32.605755+00:00",
+      "last_seen": "2026-09-29T15:10:52.390826+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -133,7 +160,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-09-27T19:04:13.704985+00:00",
-      "last_seen": "2026-09-29T08:31:39.744984+00:00",
+      "last_seen": "2026-09-29T15:12:00.909647+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -197,7 +224,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5425042.0",
       "published": null,
       "first_seen": "2026-09-26T07:43:12.424431+00:00",
-      "last_seen": "2026-09-29T08:31:38.378267+00:00",
+      "last_seen": "2026-09-29T15:11:59.471781+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -242,7 +269,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-29T08:31:33.427095+00:00",
+      "last_seen": "2026-09-29T15:11:54.474318+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -269,7 +296,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-29T08:30:26.776751+00:00",
+      "last_seen": "2026-09-29T15:10:46.541232+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -326,7 +353,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-09-29T08:31:37.104882+00:00",
+      "last_seen": "2026-09-29T15:11:58.174536+00:00",
       "score": 25,
       "flags": [
         "+9:no premine",
@@ -359,7 +386,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-29T08:31:32.197731+00:00",
+      "last_seen": "2026-09-29T15:11:53.248166+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1429,21 +1456,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1797; hash_prefix=8ef9f231deb5a110; reward=9.99401512 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1796, 9.99401845 PER",
-      "url": "mining-reward://perihelion/1796/eeb0d74c24d0d358",
-      "published": "2026-09-21T07:16:10.191452+00:00",
-      "first_seen": "2026-09-21T07:16:10.191452+00:00",
-      "last_seen": "2026-09-21T07:16:10.191452+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1796; hash_prefix=eeb0d74c24d0d358; reward=9.99401845 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1454,7 +1466,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-29T08:36:58.485715+00:00",
+      "checked": "2026-09-29T15:17:19.644839+00:00",
       "last_state_change": null
     },
     {
@@ -1462,7 +1474,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-29T08:36:50.475564+00:00",
+      "checked": "2026-09-29T15:17:11.635081+00:00",
       "last_state_change": null
     },
     {
@@ -1470,7 +1482,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-29T08:36:54.480907+00:00",
+      "checked": "2026-09-29T15:17:15.640118+00:00",
       "last_state_change": null
     }
   ]
