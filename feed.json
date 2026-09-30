@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-30T08:42:45.822276+00:00",
+  "generated_at": "2026-09-30T15:18:32.885063+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,36 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] xCoin (XID) post-quantum PoW, mainnet Sept 26, 2026. No premine.",
+      "url": "https://bitcointalk.org/index.php?topic=5595517.0",
+      "published": null,
+      "first_seen": "2026-09-30T12:42:32.746363+00:00",
+      "last_seen": "2026-09-30T14:45:48.985236+00:00",
+      "score": 22,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+5:block 0",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+2:post-quantum",
+        "-7:ico",
+        "-10:founder allocation",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "🌐 Site: https://xcoinproject.com/ 🔎 Explorer: https://superknet.com/ 💬 Forum: https://minedifferent.com/ What it is xCoin is a proof-of-work coin. Ticker XID. Mainnet started September 26, 2026, 00:00 UTC. Rules were frozen at genesis. Every spend is signed with ML-DSA-65 (NIST FIPS 204) from block 1. SLH-DSA-SHA2-128s is also valid. There is no classical signature type on this chain. Node connections use hybrid ML-KEM-768. Source (open) 📦 Node, pool, explorer bits and wallet CLI: https://github.com/SystemThreat/xCoin ⛏️ Mac miner (MMM): https://github.com/SystemThreat/MMM Read the repos before you run binaries. Build from source if you can. Do not paste a seed into mining software. Mining A"
+    },
+    {
       "source": "bitcointalk:Mining (Altcoins)",
       "title": "NEV369 | Post-quantum PoW Layer 1 | Dilithium5 signatures | CPU mining |",
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-09-30T08:36:37.349195+00:00",
+      "last_seen": "2026-09-30T14:45:59.426863+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -41,7 +65,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-09-30T08:36:38.411552+00:00",
+      "last_seen": "2026-09-30T14:45:58.348812+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -79,7 +103,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-09-30T08:36:32.182640+00:00",
+      "last_seen": "2026-09-30T12:42:37.779559+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -143,7 +167,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-09-30T08:35:31.777127+00:00",
+      "last_seen": "2026-09-30T14:44:53.654485+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -269,7 +293,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-09-30T08:36:34.754495+00:00",
+      "last_seen": "2026-09-30T10:08:18.188819+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -296,7 +320,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-30T08:35:25.544239+00:00",
+      "last_seen": "2026-09-30T14:44:47.513147+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -386,7 +410,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-30T08:36:33.522075+00:00",
+      "last_seen": "2026-09-30T14:45:54.491463+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -598,7 +622,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-09-30T08:36:30.927337+00:00",
+      "last_seen": "2026-09-30T14:45:53.197495+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -1441,21 +1465,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1798; hash_prefix=b004ad327eb901a6; reward=9.99401179 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1797, 9.99401512 PER",
-      "url": "mining-reward://perihelion/1797/8ef9f231deb5a110",
-      "published": "2026-09-21T07:16:10.203338+00:00",
-      "first_seen": "2026-09-21T07:16:10.203338+00:00",
-      "last_seen": "2026-09-21T07:16:10.203338+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1797; hash_prefix=8ef9f231deb5a110; reward=9.99401512 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1466,7 +1475,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-30T08:41:53.506529+00:00",
+      "checked": "2026-09-30T14:51:14.356149+00:00",
       "last_state_change": null
     },
     {
@@ -1474,7 +1483,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-30T08:41:45.496405+00:00",
+      "checked": "2026-09-30T14:51:06.346111+00:00",
       "last_state_change": null
     },
     {
@@ -1482,7 +1491,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-30T08:41:49.501804+00:00",
+      "checked": "2026-09-30T14:51:10.351487+00:00",
       "last_state_change": null
     }
   ]
