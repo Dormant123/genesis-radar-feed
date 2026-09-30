@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-09-30T15:18:32.885063+00:00",
+  "generated_at": "2026-09-30T20:03:21.082815+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,48 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssuesEvent 16127526007",
+      "url": "https://github.com/btxchain/btx#event-16127526007",
+      "published": "2026-09-30T18:42:38Z",
+      "first_seen": "2026-09-30T18:50:26.794316+00:00",
+      "last_seen": "2026-09-30T19:51:19.441291+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+2:miner",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/213\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/213/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/213/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/213/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/213\", \"id\": 5651324569, \"node_id\": \"I_kwDOR8Ja_88AAAABUNhemQ\", \"number\": 213, \"title\": \"Test report: adversarial HTLC testing on v0.34.12 regtest — no fund loss found in 62 checks\", \"user\": {\"login\": \"bs1812\", \"id\": 336226107, \"node_id\": \"U_kgDOFApn"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] [CASH] CYPHES: Private AI Cybersecurity| Powered by Zcash |Mainnet Revenue",
+      "url": "https://bitcointalk.org/index.php?topic=5589620.0",
+      "published": null,
+      "first_seen": "2026-09-30T17:19:31.396504+00:00",
+      "last_seen": "2026-09-30T19:52:20.357634+00:00",
+      "score": 22,
+      "flags": [
+        "+5:mainnet",
+        "+2:launch",
+        "+1:testnet",
+        "+2:pow",
+        "+2:miner",
+        "+5:useful work",
+        "+4:inference",
+        "+1:decentralized"
+      ],
+      "snippet": "CYPHES Mainnet: Mine Cyber Defense with Local AI Bittensor-style incentives for autonomous security work. Ethereum-aligned settlement vibes. Early miners wanted. CYPHES is a new mainnet for agentic cyber defense. The idea is simple: Local AI models should not sit idle. They should defend open finance. CYPHES nodes run local AI agents against real open-source crypto targets, produce signed Cognition Proof receipts, and receive ATP credits only after independent verifier finality. This is not another network. This is a machine-labor network for cybersecurity. Launching Discord Today: https://discord.gg/GSZEuR8fuf Why This Matters Bitcoin turned computation into monetary security. Bittensor tur"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] xCoin (XID) post-quantum PoW, mainnet Sept 26, 2026. No premine.",
       "url": "https://bitcointalk.org/index.php?topic=5595517.0",
       "published": null,
       "first_seen": "2026-09-30T12:42:32.746363+00:00",
-      "last_seen": "2026-09-30T14:45:48.985236+00:00",
+      "last_seen": "2026-09-30T19:52:16.510448+00:00",
       "score": 22,
       "flags": [
         "+9:no premine",
@@ -38,7 +74,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-09-30T14:45:59.426863+00:00",
+      "last_seen": "2026-09-30T19:52:28.290934+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -65,7 +101,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-09-30T14:45:58.348812+00:00",
+      "last_seen": "2026-09-30T19:52:27.123545+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -167,7 +203,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-09-30T14:44:53.654485+00:00",
+      "last_seen": "2026-09-30T19:51:20.215677+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -320,7 +356,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-09-30T14:44:47.513147+00:00",
+      "last_seen": "2026-09-30T19:51:14.307127+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -410,7 +446,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-09-30T14:45:54.491463+00:00",
+      "last_seen": "2026-09-30T19:52:23.291652+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -622,7 +658,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-09-30T14:45:53.197495+00:00",
+      "last_seen": "2026-09-30T19:52:21.899344+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -1435,36 +1471,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1800; hash_prefix=a1c01bacbe91f402; reward=9.99400512 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1799, 9.99400846 PER",
-      "url": "mining-reward://perihelion/1799/b92c3e711d6d1efe",
-      "published": "2026-09-21T07:16:10.227523+00:00",
-      "first_seen": "2026-09-21T07:16:10.227523+00:00",
-      "last_seen": "2026-09-21T07:16:10.227523+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1799; hash_prefix=b92c3e711d6d1efe; reward=9.99400846 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1798, 9.99401179 PER",
-      "url": "mining-reward://perihelion/1798/b004ad327eb901a6",
-      "published": "2026-09-21T07:16:10.214992+00:00",
-      "first_seen": "2026-09-21T07:16:10.214992+00:00",
-      "last_seen": "2026-09-21T07:16:10.214992+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1798; hash_prefix=b004ad327eb901a6; reward=9.99401179 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1475,7 +1481,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-09-30T14:51:14.356149+00:00",
+      "checked": "2026-09-30T19:57:43.644122+00:00",
       "last_state_change": null
     },
     {
@@ -1483,7 +1489,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-30T14:51:06.346111+00:00",
+      "checked": "2026-09-30T19:57:35.633371+00:00",
       "last_state_change": null
     },
     {
@@ -1491,7 +1497,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-09-30T14:51:10.351487+00:00",
+      "checked": "2026-09-30T19:57:39.639397+00:00",
       "last_state_change": null
     }
   ]
