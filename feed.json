@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-01T16:19:37.091042+00:00",
+  "generated_at": "2026-10-01T21:04:25.094199+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-01T15:52:13.622590+00:00",
+      "last_seen": "2026-10-01T20:31:34.712065+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -39,7 +39,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592720.0",
       "published": null,
       "first_seen": "2026-10-01T08:11:48.037779+00:00",
-      "last_seen": "2026-10-01T15:52:12.411608+00:00",
+      "last_seen": "2026-10-01T20:31:33.497119+00:00",
       "score": 55,
       "flags": [
         "+9:no premine",
@@ -105,7 +105,7 @@
       "url": "https://github.com/btxchain/btx#event-16127526007",
       "published": "2026-09-30T18:42:38Z",
       "first_seen": "2026-09-30T18:50:26.794316+00:00",
-      "last_seen": "2026-10-01T15:51:14.111007+00:00",
+      "last_seen": "2026-10-01T20:30:33.909669+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -141,7 +141,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595517.0",
       "published": null,
       "first_seen": "2026-09-30T12:42:32.746363+00:00",
-      "last_seen": "2026-10-01T15:52:09.841437+00:00",
+      "last_seen": "2026-10-01T20:31:29.781098+00:00",
       "score": 22,
       "flags": [
         "+9:no premine",
@@ -165,7 +165,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-01T15:52:21.790955+00:00",
+      "last_seen": "2026-10-01T20:31:40.803133+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -192,7 +192,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-01T15:52:20.735864+00:00",
+      "last_seen": "2026-10-01T20:31:39.639352+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -230,7 +230,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-09-30T12:42:37.779559+00:00",
+      "last_seen": "2026-10-01T20:31:32.220841+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -294,7 +294,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-01T15:51:14.884923+00:00",
+      "last_seen": "2026-10-01T20:30:34.701055+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -447,7 +447,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-10-01T15:51:08.991224+00:00",
+      "last_seen": "2026-10-01T20:30:28.842776+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -504,7 +504,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-10-01T15:52:18.163050+00:00",
+      "last_seen": "2026-10-01T19:28:51.729849+00:00",
       "score": 21,
       "flags": [
         "+9:no premine",
@@ -616,7 +616,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-10-01T15:52:14.970346+00:00",
+      "last_seen": "2026-10-01T20:31:35.846577+00:00",
       "score": 31,
       "flags": [
         "+9:no premine",
@@ -1522,7 +1522,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-01T15:57:38.348539+00:00",
+      "checked": "2026-10-01T20:36:55.635776+00:00",
       "last_state_change": null
     },
     {
@@ -1530,7 +1530,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-01T15:57:30.339045+00:00",
+      "checked": "2026-10-01T20:36:47.623810+00:00",
       "last_state_change": null
     },
     {
@@ -1538,7 +1538,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-01T15:57:34.345103+00:00",
+      "checked": "2026-10-01T20:36:51.629836+00:00",
       "last_state_change": null
     }
   ]
