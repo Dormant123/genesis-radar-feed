@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-01T21:04:25.094199+00:00",
+  "generated_at": "2026-10-02T00:40:33.490182+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-01T20:31:34.712065+00:00",
+      "last_seen": "2026-10-02T00:06:24.570061+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -39,7 +39,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592720.0",
       "published": null,
       "first_seen": "2026-10-01T08:11:48.037779+00:00",
-      "last_seen": "2026-10-01T20:31:33.497119+00:00",
+      "last_seen": "2026-10-02T00:06:23.369889+00:00",
       "score": 55,
       "flags": [
         "+9:no premine",
@@ -105,7 +105,7 @@
       "url": "https://github.com/btxchain/btx#event-16127526007",
       "published": "2026-09-30T18:42:38Z",
       "first_seen": "2026-09-30T18:50:26.794316+00:00",
-      "last_seen": "2026-10-01T20:30:33.909669+00:00",
+      "last_seen": "2026-10-02T00:05:23.812103+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -141,7 +141,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595517.0",
       "published": null,
       "first_seen": "2026-09-30T12:42:32.746363+00:00",
-      "last_seen": "2026-10-01T20:31:29.781098+00:00",
+      "last_seen": "2026-10-02T00:06:19.571781+00:00",
       "score": 22,
       "flags": [
         "+9:no premine",
@@ -165,7 +165,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-01T20:31:40.803133+00:00",
+      "last_seen": "2026-10-02T00:06:28.205304+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -192,7 +192,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-01T20:31:39.639352+00:00",
+      "last_seen": "2026-10-02T00:06:27.160855+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -230,7 +230,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-10-01T20:31:32.220841+00:00",
+      "last_seen": "2026-10-02T00:06:22.057466+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -252,7 +252,7 @@
         "-10:founder allocation",
         "+3:runnable-artifact"
       ],
-      "snippet": "Wcash Zcash shielded transactions. Equihash proof of work. 21 million maximum. w.cash PRE-ANN. Mainnet is not live. No mainnet WCASH exists. Current Testnet in a slowstart. W.Cash Mainnet launches September 19, 2026, at 12:00 UTC. 🐺 Wcash is an independent proof-of-work chain derived from Zcash. It retains Zcash-family shielded and transparent transactions and uses Equihash with the Zcash parameters N=200 and K=9. Wcash may be mined directly or merge-mined with Zcash. These are two proof forms on the same Wcash chain. They do not create separate networks, separate supplies or separate classes of coins. There is no premine, ICO, presale, founder allocation, treasury reward or protocol develop"
+      "snippet": "Wcash Shielded and transparent transactions. Equihash proof of work. Merge-mined with Zcash. w.cash PRE-ANN. Mainnet is not live. No mainnet WCASH exists. Current Testnet in a slowstart. W.Cash Mainnet launches September 19, 2026, at 12:00 UTC. 🐺 Wcash is an independent proof-of-work chain derived from Zcash. It retains Zcash-family shielded and transparent transactions and uses Equihash with the Zcash parameters N=200 and K=9. Wcash may be mined directly or merge-mined with Zcash. These are two proof forms on the same Wcash chain. They do not create separate networks, separate supplies or separate classes of coins. There is no premine, ICO, presale, founder allocation, treasury reward or pr"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -294,7 +294,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-01T20:30:34.701055+00:00",
+      "last_seen": "2026-10-02T00:05:24.582231+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -447,7 +447,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-10-01T20:30:28.842776+00:00",
+      "last_seen": "2026-10-02T00:05:18.917740+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -616,7 +616,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-10-01T20:31:35.846577+00:00",
+      "last_seen": "2026-10-01T23:05:09.099807+00:00",
       "score": 31,
       "flags": [
         "+9:no premine",
@@ -1522,7 +1522,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-01T20:36:55.635776+00:00",
+      "checked": "2026-10-02T00:11:43.040174+00:00",
       "last_state_change": null
     },
     {
@@ -1530,7 +1530,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-01T20:36:47.623810+00:00",
+      "checked": "2026-10-02T00:11:35.030053+00:00",
       "last_state_change": null
     },
     {
@@ -1538,7 +1538,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-01T20:36:51.629836+00:00",
+      "checked": "2026-10-02T00:11:39.035625+00:00",
       "last_state_change": null
     }
   ]
