@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-03T00:42:20.823458+00:00",
+  "generated_at": "2026-10-03T05:42:51.033000+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595702.0",
       "published": null,
       "first_seen": "2026-10-02T13:23:54.858597+00:00",
-      "last_seen": "2026-10-03T00:36:17.883761+00:00",
+      "last_seen": "2026-10-03T05:11:36.163827+00:00",
       "score": 38,
       "flags": [
         "+5:mainnet",
@@ -63,8 +63,8 @@
       "url": "https://bitcointalk.org/index.php?topic=5592720.0",
       "published": null,
       "first_seen": "2026-10-01T08:11:48.037779+00:00",
-      "last_seen": "2026-10-03T00:36:21.787376+00:00",
-      "score": 55,
+      "last_seen": "2026-10-03T05:11:39.811106+00:00",
+      "score": 65,
       "flags": [
         "+9:no premine",
         "+9:zero premine",
@@ -85,10 +85,9 @@
         "+2:post-quantum",
         "+1:decentralized",
         "+1:p2p",
-        "-7:ico",
-        "-10:founder allocation"
+        "-7:ico"
       ],
-      "snippet": "ZYCORD A peer-to-peer network of self-certifying state transitions CPU proof of work · zero premine · zero admin keys · mainnet 3 October 2026 Website | Source | Whitepaper | Explorer | Downloads Subscribe | Discord | Telegram 🟡 Mainnet: relaunch on 7 October 2026  exact time posted in this thread 🟢 Testnet: 1 October 2026, 00:00 UTC ⚡ REAL SCALABILITY Born doing 90 transactions per second and grows, with real usage, past 1,000,000. No architecture swap along the way, no \"sharding in 2029\", no committee deciding. The engine that carries the top of that curve already runs today on an ordinary desktop  measured, and re-measurable by you. ⚙ PARALLEL cEVM  the first real one, in the genesis b"
+      "snippet": "ZYCORD A peer-to-peer network of self-certifying state transitions CPU proof of work · zero premine · zero ICO · zero admin keys · mainnet 7 October 2026 Website | Source | Whitepaper | Explorer | Downloads Subscribe | Discord | Telegram 🟡 Mainnet launch: 7 October 2026, 00:00 UTC 🟡 Testnet: 5 October 2026, 00:00 UTC  launch rehearsal Same binary, same launch, two days earlier. Mine it solo or in a pool and help validate the mainnet launch. ⚡ REAL SCALABILITY Born doing 90 transactions per second and grows, with real usage, past 1,000,000. No architecture swap along the way, no \"sharding in 2029\", no committee deciding. The engine that carries the top of that curve already runs today on an "
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -129,7 +128,7 @@
       "url": "https://github.com/btxchain/btx#event-16127526007",
       "published": "2026-09-30T18:42:38Z",
       "first_seen": "2026-09-30T18:50:26.794316+00:00",
-      "last_seen": "2026-10-03T00:35:22.306038+00:00",
+      "last_seen": "2026-10-03T05:10:40.414779+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -165,7 +164,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595517.0",
       "published": null,
       "first_seen": "2026-09-30T12:42:32.746363+00:00",
-      "last_seen": "2026-10-03T00:36:25.359953+00:00",
+      "last_seen": "2026-10-03T05:11:43.355224+00:00",
       "score": 22,
       "flags": [
         "+9:no premine",
@@ -189,7 +188,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-03T00:36:29.005021+00:00",
+      "last_seen": "2026-10-03T05:11:46.934755+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -216,7 +215,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-03T00:36:27.963617+00:00",
+      "last_seen": "2026-10-03T05:11:45.902394+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -254,7 +253,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-10-03T00:36:24.223712+00:00",
+      "last_seen": "2026-10-03T05:11:42.233686+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -318,7 +317,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-03T00:35:23.083621+00:00",
+      "last_seen": "2026-10-03T05:10:41.160589+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -444,7 +443,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-10-03T00:36:20.364824+00:00",
+      "last_seen": "2026-10-03T05:11:38.587576+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -471,7 +470,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-10-03T00:35:17.403971+00:00",
+      "last_seen": "2026-10-03T05:10:35.474053+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -556,7 +555,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-03T00:36:23.038839+00:00",
+      "last_seen": "2026-10-03T05:11:41.044709+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1531,7 +1530,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-03T00:41:45.549630+00:00",
+      "checked": "2026-10-03T05:17:02.075826+00:00",
       "last_state_change": null
     },
     {
@@ -1539,7 +1538,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-03T00:41:37.540319+00:00",
+      "checked": "2026-10-03T05:16:54.065697+00:00",
       "last_state_change": null
     },
     {
@@ -1547,7 +1546,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-03T00:41:41.545189+00:00",
+      "checked": "2026-10-03T05:16:58.070706+00:00",
       "last_state_change": null
     }
   ]
