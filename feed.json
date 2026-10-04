@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-04T18:38:46.836163+00:00",
+  "generated_at": "2026-10-04T21:53:48.295648+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-04T18:09:34.424630+00:00",
+      "last_seen": "2026-10-04T21:43:54.780416+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -48,7 +48,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-04T18:09:33.063226+00:00",
+      "last_seen": "2026-10-04T21:43:53.432174+00:00",
       "score": 38,
       "flags": [
         "+5:mainnet",
@@ -96,7 +96,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-04T18:09:35.649552+00:00",
+      "last_seen": "2026-10-04T21:43:55.975320+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -121,7 +121,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592720.0",
       "published": null,
       "first_seen": "2026-10-01T08:11:48.037779+00:00",
-      "last_seen": "2026-10-04T18:09:26.799739+00:00",
+      "last_seen": "2026-10-04T21:43:46.091163+00:00",
       "score": 65,
       "flags": [
         "+9:no premine",
@@ -246,7 +246,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-04T18:09:39.507716+00:00",
+      "last_seen": "2026-10-04T21:43:59.707985+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -273,7 +273,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-04T18:09:38.356422+00:00",
+      "last_seen": "2026-10-04T21:43:58.656736+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -375,7 +375,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-04T18:08:29.298989+00:00",
+      "last_seen": "2026-10-04T21:42:50.018690+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -501,7 +501,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-10-04T18:09:31.887603+00:00",
+      "last_seen": "2026-10-04T21:43:52.286529+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -528,7 +528,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-10-04T18:08:23.537809+00:00",
+      "last_seen": "2026-10-04T21:42:44.415645+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -613,7 +613,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-04T18:09:29.286489+00:00",
+      "last_seen": "2026-10-04T21:43:49.811010+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -825,7 +825,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-10-04T18:09:25.519651+00:00",
+      "last_seen": "2026-10-04T21:43:47.332068+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -1558,7 +1558,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-04T18:14:54.407913+00:00",
+      "checked": "2026-10-04T21:49:14.610640+00:00",
       "last_state_change": null
     },
     {
@@ -1566,7 +1566,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-04T18:14:46.401740+00:00",
+      "checked": "2026-10-04T21:49:06.600927+00:00",
       "last_state_change": null
     },
     {
@@ -1574,7 +1574,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-04T18:14:50.406775+00:00",
+      "checked": "2026-10-04T21:49:10.606455+00:00",
       "last_state_change": null
     }
   ]
