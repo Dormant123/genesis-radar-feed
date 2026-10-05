@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-05T05:39:56.693126+00:00",
+  "generated_at": "2026-10-05T12:36:24.848053+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,82 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[MINING] Eureka Nexus (EKNX)  CPU + GPU Mining | Official Pool | BNB Smart Chai",
+      "url": "https://bitcointalk.org/index.php?topic=5595945.0",
+      "published": null,
+      "first_seen": "2026-10-05T10:34:15.880729+00:00",
+      "last_seen": "2026-10-05T12:06:42.985593+00:00",
+      "score": 28,
+      "flags": [
+        "+5:mainnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "EUREKA NEXUS (EKNX)  OFFICIAL MINING THREAD Project: Eureka Nexus Ticker: EKNX Network: BNB Smart Chain Mainnet Contract: 0xF54913A8d5E2AEBD0B62c6411cCf1b5B4aB069c9 Official Website: https://eurekanexus.pt Official Miner: Eureka Nexus Miner 1.1.2 Official GitHub: https://github.com/Eureka-Nexus Official Pool / Network Status: https://eurekanexus.pt/network.html Mining Server API: https://pool.eurekanexus.pt/v1/public/stats Algorithms GPU: KAWPOW-EUREKA-V1 CPU: RANDOMX-EUREKA-V1 The official Eureka Nexus Miner supports CPU and GPU mining and connects directly to the Eureka Nexus Mining Server. Pool Fee 1% Miner Share 99% Minimum Claim 50 EKNX Mining Model EKNX is a BEP-20 token on BNB Smart "
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Tenebra Network (TNB) | Privacy-First L1 Ecosystem | Live Mainnet | Cross-",
+      "url": "https://bitcointalk.org/index.php?topic=5595940.0",
+      "published": null,
+      "first_seen": "2026-10-05T09:32:26.099887+00:00",
+      "last_seen": "2026-10-05T12:06:45.254925+00:00",
+      "score": 19,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+2:miner",
+        "+2:mining",
+        "+2:privacy",
+        "+1:decentralized"
+      ],
+      "snippet": "👁️‍🗨️ TENEBRA NETWORK (TNB) 👁️‍🗨️ The Complete Privacy-First Layer 1 Ecosystem  Private Value, Public Infrastructure Public Mainnet is LIVE | Native Cross-Chain DEX | 100M Fixed Supply 🌐 Official Website | 📊 Network Scan (Explorer) | 🔄 Launch DEX [/size] 🔹 What is Tenebra Network? Tenebra Network (TNB) is a next-generation, high-performance Layer 1 blockchain engineered around the philosophy of \"Private value, public infrastructure\" . While traditional blockchains leak sensitive alpha, commercial strategies, and individual balances, Tenebra enables fully confidential asset transfers and secure execution paths on top of a deterministic, publicly verifiable decentralized ledger. We don't sell"
+    },
+    {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 16437010121",
+      "url": "https://github.com/btxchain/btx#event-16437010121",
+      "published": "2026-10-05T09:32:02Z",
+      "first_seen": "2026-10-05T10:02:32.333115+00:00",
+      "last_seen": "2026-10-05T12:05:43.845887+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/222\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/222/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/222/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/222/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/222\", \"id\": 5708909821, \"node_id\": \"PR_kwDOR8Ja_88AAAABGqkp2g\", \"number\": 222, \"title\": \"release: ship 0.34.14\", \"user\": {\"login\": \"numair\", \"id\": 625823, \"node_id\": \"MDQ6VXNlcjYyNTgyMw==\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/62582"
+    },
+    {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssuesEvent 16425264443",
+      "url": "https://github.com/Instinctes/nightfall#event-16425264443",
+      "published": "2026-10-05T06:32:37Z",
+      "first_seen": "2026-10-05T06:57:59.979000+00:00",
+      "last_seen": "2026-10-05T12:05:45.501612+00:00",
+      "score": 14,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:mining",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/issues/40\", \"id\": 5707486406, \"node_id\": \"I_kwDOT2kZwM8AAAABVDFUxg\", \"number\": 40, \"title\": \"Node permanently stalled on a fork: 19h at the same height, no recovery path, reports mining:true throughout\", \"user\": "
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Eureka Nexus [EKNX] | CPU + GPU Mining | KAWPOW + RandomX | BNB Chain",
       "url": "https://bitcointalk.org/index.php?topic=5595921.0",
       "published": null,
       "first_seen": "2026-10-05T01:51:24.204735+00:00",
-      "last_seen": "2026-10-05T05:26:27.688683+00:00",
+      "last_seen": "2026-10-05T12:06:46.422118+00:00",
       "score": 27,
       "flags": [
         "+5:mainnet",
@@ -54,7 +125,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-05T05:25:27.584995+00:00",
+      "last_seen": "2026-10-05T12:05:42.032568+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -73,7 +144,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-05T05:26:37.635678+00:00",
+      "last_seen": "2026-10-05T12:06:53.934857+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -107,7 +178,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-05T05:26:36.412475+00:00",
+      "last_seen": "2026-10-05T12:06:52.701022+00:00",
       "score": 38,
       "flags": [
         "+5:mainnet",
@@ -155,7 +226,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-05T05:26:38.814607+00:00",
+      "last_seen": "2026-10-05T10:03:42.856815+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -180,7 +251,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592720.0",
       "published": null,
       "first_seen": "2026-10-01T08:11:48.037779+00:00",
-      "last_seen": "2026-10-05T05:26:26.516379+00:00",
+      "last_seen": "2026-10-05T12:06:41.965034+00:00",
       "score": 65,
       "flags": [
         "+9:no premine",
@@ -305,7 +376,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-05T05:26:42.604889+00:00",
+      "last_seen": "2026-10-05T12:06:57.621033+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -332,7 +403,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-05T05:26:41.474771+00:00",
+      "last_seen": "2026-10-05T12:06:56.567886+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -434,7 +505,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-05T05:25:30.164334+00:00",
+      "last_seen": "2026-10-05T12:05:44.647210+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -560,7 +631,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-10-05T05:26:35.163389+00:00",
+      "last_seen": "2026-10-05T12:06:51.547783+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -587,7 +658,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-10-05T05:25:24.520616+00:00",
+      "last_seen": "2026-10-05T12:05:38.580289+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -644,7 +715,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-10-05T05:26:30.098865+00:00",
+      "last_seen": "2026-10-05T12:06:47.611191+00:00",
       "score": 21,
       "flags": [
         "+9:no premine",
@@ -672,7 +743,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-05T05:26:33.951200+00:00",
+      "last_seen": "2026-10-05T12:06:50.221890+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -884,7 +955,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-10-05T05:26:31.311180+00:00",
+      "last_seen": "2026-10-05T12:06:40.678471+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -1502,66 +1573,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1813; hash_prefix=8338daa14c554a84; reward=9.99396182 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1812, 9.99396515 PER",
-      "url": "mining-reward://perihelion/1812/7a91597a6b87fc34",
-      "published": "2026-09-21T07:24:36.532146+00:00",
-      "first_seen": "2026-09-21T07:24:36.532146+00:00",
-      "last_seen": "2026-09-21T07:24:36.532146+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1812; hash_prefix=7a91597a6b87fc34; reward=9.99396515 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1811, 9.99396848 PER",
-      "url": "mining-reward://perihelion/1811/652c1df09bd74474",
-      "published": "2026-09-21T07:24:07.721162+00:00",
-      "first_seen": "2026-09-21T07:24:07.721162+00:00",
-      "last_seen": "2026-09-21T07:24:07.721162+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1811; hash_prefix=652c1df09bd74474; reward=9.99396848 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1810, 9.99397181 PER",
-      "url": "mining-reward://perihelion/1810/f7277dd74a9914ec",
-      "published": "2026-09-21T07:23:52.514111+00:00",
-      "first_seen": "2026-09-21T07:23:52.514111+00:00",
-      "last_seen": "2026-09-21T07:23:52.514111+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1810; hash_prefix=f7277dd74a9914ec; reward=9.99397181 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1809, 9.99397514 PER",
-      "url": "mining-reward://perihelion/1809/34ab77b56bcae6b4",
-      "published": "2026-09-21T07:21:30.758206+00:00",
-      "first_seen": "2026-09-21T07:21:30.758206+00:00",
-      "last_seen": "2026-09-21T07:21:30.758206+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1809; hash_prefix=34ab77b56bcae6b4; reward=9.99397514 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1572,7 +1583,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-05T05:31:57.812368+00:00",
+      "checked": "2026-10-05T12:12:12.443676+00:00",
       "last_state_change": null
     },
     {
@@ -1580,7 +1591,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-05T05:31:49.802559+00:00",
+      "checked": "2026-10-05T12:12:04.434041+00:00",
       "last_state_change": null
     },
     {
@@ -1588,7 +1599,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-05T05:31:53.807632+00:00",
+      "checked": "2026-10-05T12:12:08.439440+00:00",
       "last_state_change": null
     }
   ]
