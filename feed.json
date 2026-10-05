@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-05T00:12:47.290884+00:00",
+  "generated_at": "2026-10-05T05:39:56.693126+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,52 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Eureka Nexus [EKNX] | CPU + GPU Mining | KAWPOW + RandomX | BNB Chain",
+      "url": "https://bitcointalk.org/index.php?topic=5595921.0",
+      "published": null,
+      "first_seen": "2026-10-05T01:51:24.204735+00:00",
+      "last_seen": "2026-10-05T05:26:27.688683+00:00",
+      "score": 27,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:compute"
+      ],
+      "snippet": "============================================================ E U R E K A N E X U S EKNX | AI | MINING | BLOCKCHAIN | DIGITAL INTELLIGENCE Mine today. Build the intelligence of tomorrow. ============================================================ Eureka Nexus is an independent technology ecosystem combining CPU/GPU mining, blockchain utility and the development of a new generation of personal artificial intelligence. Website: https://eurekanexus.pt GitHub: https://github.com/Eureka-Nexus Official Mining Pool: https://pool.eurekanexus.pt WHAT IS EUREKA NEXUS? Eureka Nexus is not being created as just another cryptocurrency. The project is being developed as a complete technological ecosystem "
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Eureka Nexus [EKNX] | 100M Max Supply | CPU + GPU Mining | KAWPOW + Random",
+      "url": "https://bitcointalk.org/index.php?topic=5595922.0",
+      "published": null,
+      "first_seen": "2026-10-05T01:51:23.062759+00:00",
+      "last_seen": "2026-10-05T01:51:23.062759+00:00",
+      "score": 27,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:compute"
+      ],
+      "snippet": "============================================================ E U R E K A N E X U S EKNX | AI | MINING | BLOCKCHAIN | DIGITAL INTELLIGENCE Mine today. Build the intelligence of tomorrow. ============================================================ Eureka Nexus is an independent technology ecosystem combining CPU/GPU mining, blockchain utility and the development of a new generation of personal artificial intelligence. Website: https://eurekanexus.pt GitHub: https://github.com/Eureka-Nexus Official Mining Pool: https://pool.eurekanexus.pt WHAT IS EUREKA NEXUS? Eureka Nexus is not being created as just another cryptocurrency. The project is being developed as a complete technological ecosystem "
+    },
+    {
       "source": "github-events",
       "title": "Rexemre/blockzero-core: CreateEvent 23005896069",
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-04T23:47:16.272146+00:00",
+      "last_seen": "2026-10-05T05:25:27.584995+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -33,7 +73,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-04T23:48:25.001928+00:00",
+      "last_seen": "2026-10-05T05:26:37.635678+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -67,7 +107,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-04T23:48:23.646354+00:00",
+      "last_seen": "2026-10-05T05:26:36.412475+00:00",
       "score": 38,
       "flags": [
         "+5:mainnet",
@@ -115,7 +155,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-04T23:48:26.205755+00:00",
+      "last_seen": "2026-10-05T05:26:38.814607+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -140,7 +180,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592720.0",
       "published": null,
       "first_seen": "2026-10-01T08:11:48.037779+00:00",
-      "last_seen": "2026-10-04T23:48:16.244940+00:00",
+      "last_seen": "2026-10-05T05:26:26.516379+00:00",
       "score": 65,
       "flags": [
         "+9:no premine",
@@ -265,7 +305,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-04T23:48:29.813874+00:00",
+      "last_seen": "2026-10-05T05:26:42.604889+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -292,7 +332,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-04T23:48:28.774521+00:00",
+      "last_seen": "2026-10-05T05:26:41.474771+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -394,7 +434,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-04T23:47:18.801265+00:00",
+      "last_seen": "2026-10-05T05:25:30.164334+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -520,7 +560,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-10-04T23:48:22.492799+00:00",
+      "last_seen": "2026-10-05T05:26:35.163389+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -547,7 +587,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-10-04T23:47:13.212175+00:00",
+      "last_seen": "2026-10-05T05:25:24.520616+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -604,7 +644,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-10-04T23:48:14.980906+00:00",
+      "last_seen": "2026-10-05T05:26:30.098865+00:00",
       "score": 21,
       "flags": [
         "+9:no premine",
@@ -632,7 +672,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-04T23:48:19.922805+00:00",
+      "last_seen": "2026-10-05T05:26:33.951200+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -844,7 +884,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-10-04T23:48:17.466276+00:00",
+      "last_seen": "2026-10-05T05:26:31.311180+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -1522,36 +1562,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1809; hash_prefix=34ab77b56bcae6b4; reward=9.99397514 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1808, 9.99397847 PER",
-      "url": "mining-reward://perihelion/1808/d906cd6ca1d7e51e",
-      "published": "2026-09-21T07:21:30.170964+00:00",
-      "first_seen": "2026-09-21T07:21:30.170964+00:00",
-      "last_seen": "2026-09-21T07:21:30.170964+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1808; hash_prefix=d906cd6ca1d7e51e; reward=9.99397847 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1807, 9.99398181 PER",
-      "url": "mining-reward://perihelion/1807/7526b2ece8dd8757",
-      "published": "2026-09-21T07:19:37.852806+00:00",
-      "first_seen": "2026-09-21T07:19:37.852806+00:00",
-      "last_seen": "2026-09-21T07:19:37.852806+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1807; hash_prefix=7526b2ece8dd8757; reward=9.99398181 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1562,7 +1572,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-04T23:53:44.496351+00:00",
+      "checked": "2026-10-05T05:31:57.812368+00:00",
       "last_state_change": null
     },
     {
@@ -1570,7 +1580,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-04T23:53:36.486597+00:00",
+      "checked": "2026-10-05T05:31:49.802559+00:00",
       "last_state_change": null
     },
     {
@@ -1578,7 +1588,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-04T23:53:40.491695+00:00",
+      "checked": "2026-10-05T05:31:53.807632+00:00",
       "last_state_change": null
     }
   ]
