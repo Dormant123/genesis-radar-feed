@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-04T21:53:48.295648+00:00",
+  "generated_at": "2026-10-05T00:12:47.290884+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,31 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "Rexemre/blockzero-core: CreateEvent 23005896069",
+      "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
+      "published": "2026-10-04T22:49:49Z",
+      "first_seen": "2026-10-04T23:16:11.435840+00:00",
+      "last_seen": "2026-10-04T23:47:16.272146+00:00",
+      "score": 34,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+5:mainnet",
+        "+5:block zero",
+        "+2:launch",
+        "+4:cpu mining",
+        "+2:mining"
+      ],
+      "snippet": "{\"ref\": \"qt-rename-sat-rex-full-cleanup\", \"ref_type\": \"branch\", \"full_ref\": \"refs/heads/qt-rename-sat-rex-full-cleanup\", \"master_branch\": \"main\", \"description\": \"Block Zero (BLOZ) — Bitcoin-style CPU mining on RandomX. No ASIC/GPU farms. Fair launch, no premine. Mainnet live. Wallet + node → discord.gg/FbJzrwAU2W\", \"pusher_type\": \"user\"}"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Block Zero (BLOZ) | A Second Chance at Genesis | RandomX CPU PoW | No Prem",
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-04T21:43:54.780416+00:00",
+      "last_seen": "2026-10-04T23:48:25.001928+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -48,7 +67,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-04T21:43:53.432174+00:00",
+      "last_seen": "2026-10-04T23:48:23.646354+00:00",
       "score": 38,
       "flags": [
         "+5:mainnet",
@@ -96,7 +115,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-04T21:43:55.975320+00:00",
+      "last_seen": "2026-10-04T23:48:26.205755+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -121,7 +140,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592720.0",
       "published": null,
       "first_seen": "2026-10-01T08:11:48.037779+00:00",
-      "last_seen": "2026-10-04T21:43:46.091163+00:00",
+      "last_seen": "2026-10-04T23:48:16.244940+00:00",
       "score": 65,
       "flags": [
         "+9:no premine",
@@ -246,7 +265,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-04T21:43:59.707985+00:00",
+      "last_seen": "2026-10-04T23:48:29.813874+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -273,7 +292,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-04T21:43:58.656736+00:00",
+      "last_seen": "2026-10-04T23:48:28.774521+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -375,7 +394,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-04T21:42:50.018690+00:00",
+      "last_seen": "2026-10-04T23:47:18.801265+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -501,7 +520,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-10-04T21:43:52.286529+00:00",
+      "last_seen": "2026-10-04T23:48:22.492799+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -528,7 +547,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-10-04T21:42:44.415645+00:00",
+      "last_seen": "2026-10-04T23:47:13.212175+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -585,7 +604,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-10-01T19:28:51.729849+00:00",
+      "last_seen": "2026-10-04T23:48:14.980906+00:00",
       "score": 21,
       "flags": [
         "+9:no premine",
@@ -613,7 +632,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-04T21:43:49.811010+00:00",
+      "last_seen": "2026-10-04T23:48:19.922805+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -825,7 +844,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-10-04T21:43:47.332068+00:00",
+      "last_seen": "2026-10-04T23:48:17.466276+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -1533,21 +1552,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1807; hash_prefix=7526b2ece8dd8757; reward=9.99398181 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1806, 9.99398514 PER",
-      "url": "mining-reward://perihelion/1806/50345e7607fdbb73",
-      "published": "2026-09-21T07:18:13.991708+00:00",
-      "first_seen": "2026-09-21T07:18:13.991708+00:00",
-      "last_seen": "2026-09-21T07:18:13.991708+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1806; hash_prefix=50345e7607fdbb73; reward=9.99398514 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1558,7 +1562,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-04T21:49:14.610640+00:00",
+      "checked": "2026-10-04T23:53:44.496351+00:00",
       "last_state_change": null
     },
     {
@@ -1566,7 +1570,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-04T21:49:06.600927+00:00",
+      "checked": "2026-10-04T23:53:36.486597+00:00",
       "last_state_change": null
     },
     {
@@ -1574,7 +1578,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-04T21:49:10.606455+00:00",
+      "checked": "2026-10-04T23:53:40.491695+00:00",
       "last_state_change": null
     }
   ]
