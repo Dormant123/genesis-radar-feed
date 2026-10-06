@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-05T12:36:24.848053+00:00",
+  "generated_at": "2026-10-06T01:25:55.797167+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -8,6 +8,151 @@
     "note": "This feed contains sanitized derived radar findings and public-source excerpts only."
   },
   "public_findings": [
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][MAINNET] Lumenite (LMT)  HomeScrypt v1.2 | CPU + GPU Mining",
+      "url": "https://bitcointalk.org/index.php?topic=5592225.0",
+      "published": null,
+      "first_seen": "2026-10-05T20:49:57.978084+00:00",
+      "last_seen": "2026-10-06T00:55:28.564028+00:00",
+      "score": 29,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:mainnet",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "-8:presale",
+        "-7:ico",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "LUMENITE (LMT) HomeScrypt v1.2  CPU/GPU Mining  No Premine  Fair Launch Proof of Work built for home miners. MAINNET IS LIVE Discord Code: https://discord.com/invite/JjJj4v3vth GitHub / Source Code What is Lumenite? Lumenite (LMT) is a Proof-of-Work cryptocurrency focused on making mining accessible to home CPU and GPU miners. Lumenite uses HomeScrypt v1.2 , a custom memory-intensive Proof-of-Work algorithm developed specifically for Lumenite rather than standard Litecoin Scrypt. The network uses a Bitcoin-style UTXO blockchain, fixed block rewards, a fixed monetary supply and LWMA-45 difficulty adjustment. Lumenite Mainnet launched publicly on September 3, 2026 at 21:00 UTC. Mainnet Spec"
+    },
+    {
+      "source": "bitcointalk:Mining (Altcoins)",
+      "title": "[ANN] Eureka Nexus (EKNX) | CPU/GPU Mining  BNB Chain  Eureka AI  100M Fixed",
+      "url": "https://bitcointalk.org/index.php?topic=5596002.0",
+      "published": null,
+      "first_seen": "2026-10-05T19:18:06.426189+00:00",
+      "last_seen": "2026-10-05T19:18:06.426189+00:00",
+      "score": 20,
+      "flags": [
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:compute",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "🚀 EUREKA NEXUS (EKNX) AI  CPU/GPU MINING  BLOCKCHAIN UTILITY  REAL ECOSYSTEM Website: https://eurekanexus.pt Discord: https://discord.gg/Y8de7HuDdx X: https://x.com/EurekaNexus GitHub: https://github.com/Eureka-Nexus ================================================== WHAT IS EUREKA NEXUS? ================================================== Eureka Nexus is a technology ecosystem being built around three main pillars: ⛏ CPU & GPU cryptocurrency mining 🤖 Artificial Intelligence 🔗 Blockchain utility through EKNX Our goal is not to create just another token. Eureka Nexus is being developed as an ecosystem where miners, users, developers and future AI services can interact through a single digit"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Eureka Nexus (EKNX) | CPU/GPU Mining  BNB Chain  Eureka AI  100M Fixed",
+      "url": "https://bitcointalk.org/index.php?topic=5596003.0",
+      "published": null,
+      "first_seen": "2026-10-05T19:17:52.502685+00:00",
+      "last_seen": "2026-10-05T19:17:52.502685+00:00",
+      "score": 20,
+      "flags": [
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:compute",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "🚀 EUREKA NEXUS (EKNX) AI  CPU/GPU MINING  BLOCKCHAIN UTILITY  REAL ECOSYSTEM Website: https://eurekanexus.pt Discord: https://discord.gg/Y8de7HuDdx X: https://x.com/EurekaNexus GitHub: https://github.com/Eureka-Nexus ================================================== WHAT IS EUREKA NEXUS? ================================================== Eureka Nexus is a technology ecosystem being built around three main pillars: ⛏ CPU & GPU cryptocurrency mining 🤖 Artificial Intelligence 🔗 Blockchain utility through EKNX Our goal is not to create just another token. Eureka Nexus is being developed as an ecosystem where miners, users, developers and future AI services can interact through a single digit"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[PRE-ANN] Mercatura (MCA) | PoW | MercaHash | Post-Quantum ML-DSA-65 | Adaptive",
+      "url": "https://bitcointalk.org/index.php?topic=5595967.0",
+      "published": null,
+      "first_seen": "2026-10-05T13:38:26.787504+00:00",
+      "last_seen": "2026-10-06T00:55:23.669959+00:00",
+      "score": 43,
+      "flags": [
+        "+9:no premine",
+        "+6:no ico",
+        "+6:no token sale",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+2:post-quantum",
+        "+1:decentralized",
+        "+5:pre-ann",
+        "-7:ico",
+        "-10:founder allocation",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "MERCATURA MCA Proof of Work  Post-Quantum Authorization  Adaptive Block Reward PRE-ANN  Mercatura is under active development. Public testnet and official binaries are not yet released. What is Mercatura? Mercatura (MCA) is an independent proof-of-work cryptocurrency being developed from a modern Bitcoin Core foundation. Mercatura is being designed around several core principles:  Pure Proof of Work  CPU-oriented MercaHash mining  ML-DSA-65 post-quantum transaction authorization  Adaptive, deterministic block rewards  Decentralized participation  Long-term monetary discipline  Modern Bitcoin Core security, networking and wallet foundations Mercatura is still under active developmen"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Vearl | Proof of Useful Work: miners run verified AI models Public testnet",
+      "url": "https://bitcointalk.org/index.php?topic=5595958.0",
+      "published": null,
+      "first_seen": "2026-10-05T13:07:07.137458+00:00",
+      "last_seen": "2026-10-06T00:55:29.676716+00:00",
+      "score": 40,
+      "flags": [
+        "+5:mainnet",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+7:proof of useful work",
+        "+5:useful work",
+        "+4:inference",
+        "+3:compute",
+        "+2:post-quantum",
+        "+1:p2p"
+      ],
+      "snippet": "https://vearl.org/og-image.png?v=3 Vearl Proof of Useful Work · Verified Compute Bitcoin mines hashes. Vearl mines AI. Website: https://vearl.org Whitepaper: https://vearl.org/whitepaper Discord: https://discord.gg/jya8meKnvM Contact: contact@vearl.org Team: public (doxxed), Clovis Anicet (founder) and Idan Sugarman Public testnet: planned for 23 October 2026 What is Vearl? Vearl is a proof-of-work blockchain where the work that secures the chain can also be a paying client's computation. Instead of hashing for hashing's sake, miners multiply 8-bit integer matrices on GPUs. Every 16 x 16 tile of a noised product is a lottery ticket, and a ticket below the difficulty target is a block. The sa"
+    },
+    {
+      "source": "bitcointalk:Mining (Altcoins)",
+      "title": "[MINING] Eureka Nexus (EKNX)  CPU + GPU Mining | Official Pool | BNB Smart Chai",
+      "url": "https://bitcointalk.org/index.php?topic=5595945.0",
+      "published": null,
+      "first_seen": "2026-10-05T12:36:57.636163+00:00",
+      "last_seen": "2026-10-06T00:55:39.481277+00:00",
+      "score": 28,
+      "flags": [
+        "+5:mainnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "EUREKA NEXUS (EKNX)  OFFICIAL MINING THREAD Project: Eureka Nexus Ticker: EKNX Network: BNB Smart Chain Mainnet Contract: 0xF54913A8d5E2AEBD0B62c6411cCf1b5B4aB069c9 Official Website: https://eurekanexus.pt Official Miner: Eureka Nexus Miner 1.1.2 Official GitHub: https://github.com/Eureka-Nexus Official Pool / Network Status: https://eurekanexus.pt/network.html Mining Server API: https://pool.eurekanexus.pt/v1/public/stats Algorithms GPU: KAWPOW-EUREKA-V1 CPU: RANDOMX-EUREKA-V1 The official Eureka Nexus Miner supports CPU and GPU mining and connects directly to the Eureka Nexus Mining Server. Pool Fee 1% Miner Share 99% Minimum Claim 50 EKNX Mining Model EKNX is a BEP-20 token on BNB Smart "
+    },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[MINING] Eureka Nexus (EKNX)  CPU + GPU Mining | Official Pool | BNB Smart Chai",
@@ -35,7 +180,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595940.0",
       "published": null,
       "first_seen": "2026-10-05T09:32:26.099887+00:00",
-      "last_seen": "2026-10-05T12:06:45.254925+00:00",
+      "last_seen": "2026-10-06T00:55:33.192935+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -54,7 +199,7 @@
       "url": "https://github.com/btxchain/btx#event-16437010121",
       "published": "2026-10-05T09:32:02Z",
       "first_seen": "2026-10-05T10:02:32.333115+00:00",
-      "last_seen": "2026-10-05T12:05:43.845887+00:00",
+      "last_seen": "2026-10-06T00:54:28.161107+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -69,7 +214,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16425264443",
       "published": "2026-10-05T06:32:37Z",
       "first_seen": "2026-10-05T06:57:59.979000+00:00",
-      "last_seen": "2026-10-05T12:05:45.501612+00:00",
+      "last_seen": "2026-10-06T00:54:29.691584+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -85,7 +230,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595921.0",
       "published": null,
       "first_seen": "2026-10-05T01:51:24.204735+00:00",
-      "last_seen": "2026-10-05T12:06:46.422118+00:00",
+      "last_seen": "2026-10-06T00:55:34.351559+00:00",
       "score": 27,
       "flags": [
         "+5:mainnet",
@@ -125,7 +270,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-05T12:05:42.032568+00:00",
+      "last_seen": "2026-10-06T00:54:26.405167+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -144,7 +289,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-05T12:06:53.934857+00:00",
+      "last_seen": "2026-10-05T13:07:21.158090+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -178,7 +323,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-05T12:06:52.701022+00:00",
+      "last_seen": "2026-10-05T13:07:19.917109+00:00",
       "score": 38,
       "flags": [
         "+5:mainnet",
@@ -251,7 +396,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592720.0",
       "published": null,
       "first_seen": "2026-10-01T08:11:48.037779+00:00",
-      "last_seen": "2026-10-05T12:06:41.965034+00:00",
+      "last_seen": "2026-10-06T00:55:30.934666+00:00",
       "score": 65,
       "flags": [
         "+9:no premine",
@@ -275,7 +420,7 @@
         "+1:p2p",
         "-7:ico"
       ],
-      "snippet": "ZYCORD A peer-to-peer network of self-certifying state transitions CPU proof of work · zero premine · zero ICO · zero admin keys · mainnet 7 October 2026 Website | Source | Whitepaper | Explorer | Downloads Subscribe | Discord | Telegram 🟡 Mainnet launch: 7 October 2026, 00:00 UTC 🟡 Testnet: 5 October 2026, 00:00 UTC  launch rehearsal Same binary, same launch, two days earlier. Mine it solo or in a pool and help validate the mainnet launch. ⚡ REAL SCALABILITY Born doing 90 transactions per second and grows, with real usage, past 1,000,000. No architecture swap along the way, no \"sharding in 2029\", no committee deciding. The engine that carries the top of that curve already runs today on an "
+      "snippet": "ZYCORD A peer-to-peer network of self-certifying state transitions CPU proof of work · zero premine · zero ICO · zero admin keys · mainnet 7 October 2026 Website | Source | Whitepaper | Explorer | Downloads Subscribe | Discord | Telegram 🟡 Mainnet launch: 7 October 2026, 00:00 UTC 🟢 Testnet: 5 October 2026, 00:00 UTC Same binary, same launch, two days earlier. Mine it solo or in a pool and help validate the mainnet launch. ⚡ REAL SCALABILITY Born doing 90 transactions per second and grows, with real usage, past 1,000,000. No architecture swap along the way, no \"sharding in 2029\", no committee deciding. The engine that carries the top of that curve already runs today on an ordinary desktop  "
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -376,7 +521,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-05T12:06:57.621033+00:00",
+      "last_seen": "2026-10-06T00:55:41.722343+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -403,7 +548,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-05T12:06:56.567886+00:00",
+      "last_seen": "2026-10-06T00:55:40.603675+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -505,7 +650,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-05T12:05:44.647210+00:00",
+      "last_seen": "2026-10-06T00:54:28.896094+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -631,7 +776,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-10-05T12:06:51.547783+00:00",
+      "last_seen": "2026-10-05T13:38:40.120443+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -658,7 +803,7 @@
       "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
       "published": "2026-09-25T14:11:35Z",
       "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-10-05T12:05:38.580289+00:00",
+      "last_seen": "2026-10-05T14:08:49.837715+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -715,7 +860,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594747.0",
       "published": null,
       "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-10-05T12:06:47.611191+00:00",
+      "last_seen": "2026-10-06T00:55:35.537578+00:00",
       "score": 21,
       "flags": [
         "+9:no premine",
@@ -743,7 +888,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-05T12:06:50.221890+00:00",
+      "last_seen": "2026-10-05T21:20:10.385815+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -955,7 +1100,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-10-05T12:06:40.678471+00:00",
+      "last_seen": "2026-10-06T00:55:32.170794+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -1483,96 +1628,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1819; hash_prefix=9928a233c1f87d25; reward=9.99394183 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1818, 9.99394516 PER",
-      "url": "mining-reward://perihelion/1818/5d995f6f78bc9b83",
-      "published": "2026-09-21T07:30:10.090495+00:00",
-      "first_seen": "2026-09-21T07:30:10.090495+00:00",
-      "last_seen": "2026-09-21T07:30:10.090495+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1818; hash_prefix=5d995f6f78bc9b83; reward=9.99394516 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1817, 9.99394849 PER",
-      "url": "mining-reward://perihelion/1817/2f536da1cedb42fc",
-      "published": "2026-09-21T07:29:20.666585+00:00",
-      "first_seen": "2026-09-21T07:29:20.666585+00:00",
-      "last_seen": "2026-09-21T07:29:20.666585+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1817; hash_prefix=2f536da1cedb42fc; reward=9.99394849 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1816, 9.99395182 PER",
-      "url": "mining-reward://perihelion/1816/b63f035083e72f8e",
-      "published": "2026-09-21T07:28:00.975067+00:00",
-      "first_seen": "2026-09-21T07:28:00.975067+00:00",
-      "last_seen": "2026-09-21T07:28:00.975067+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1816; hash_prefix=b63f035083e72f8e; reward=9.99395182 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1815, 9.99395516 PER",
-      "url": "mining-reward://perihelion/1815/f23c1401c7f5dd1b",
-      "published": "2026-09-21T07:25:58.179039+00:00",
-      "first_seen": "2026-09-21T07:25:58.179039+00:00",
-      "last_seen": "2026-09-21T07:25:58.179039+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1815; hash_prefix=f23c1401c7f5dd1b; reward=9.99395516 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1814, 9.99395849 PER",
-      "url": "mining-reward://perihelion/1814/fec24d9d04cb11cd",
-      "published": "2026-09-21T07:25:26.180390+00:00",
-      "first_seen": "2026-09-21T07:25:26.180390+00:00",
-      "last_seen": "2026-09-21T07:25:26.180390+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1814; hash_prefix=fec24d9d04cb11cd; reward=9.99395849 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1813, 9.99396182 PER",
-      "url": "mining-reward://perihelion/1813/8338daa14c554a84",
-      "published": "2026-09-21T07:25:14.924646+00:00",
-      "first_seen": "2026-09-21T07:25:14.924646+00:00",
-      "last_seen": "2026-09-21T07:25:14.924646+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1813; hash_prefix=8338daa14c554a84; reward=9.99396182 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1583,7 +1638,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-05T12:12:12.443676+00:00",
+      "checked": "2026-10-06T01:00:56.414616+00:00",
       "last_state_change": null
     },
     {
@@ -1591,7 +1646,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-05T12:12:04.434041+00:00",
+      "checked": "2026-10-06T01:00:48.404696+00:00",
       "last_state_change": null
     },
     {
@@ -1599,7 +1654,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-05T12:12:08.439440+00:00",
+      "checked": "2026-10-06T01:00:52.409848+00:00",
       "last_state_change": null
     }
   ]
