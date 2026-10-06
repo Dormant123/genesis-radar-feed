@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-06T19:42:04.586009+00:00",
+  "generated_at": "2026-10-06T23:15:40.761594+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,29 @@
   "public_findings": [
     {
       "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 16577961690",
+      "url": "https://github.com/Instinctes/nightfall#event-16577961690",
+      "published": "2026-10-06T19:35:20Z",
+      "first_seen": "2026-10-06T19:55:28.444850+00:00",
+      "last_seen": "2026-10-06T22:59:33.406819+00:00",
+      "score": 15,
+      "flags": [
+        "+5:genesis",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
+    },
+    {
+      "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 16573370152",
       "url": "https://github.com/Instinctes/nightfall#event-16573370152",
       "published": "2026-10-06T18:34:58Z",
       "first_seen": "2026-10-06T18:53:29.516694+00:00",
-      "last_seen": "2026-10-06T19:24:53.771885+00:00",
+      "last_seen": "2026-10-06T22:59:33.414469+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -32,7 +50,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16572709612",
       "published": "2026-10-06T18:26:10Z",
       "first_seen": "2026-10-06T18:53:29.519748+00:00",
-      "last_seen": "2026-10-06T19:24:53.775820+00:00",
+      "last_seen": "2026-10-06T22:59:33.418866+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -48,7 +66,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596024.0",
       "published": null,
       "first_seen": "2026-10-06T04:31:15.305167+00:00",
-      "last_seen": "2026-10-06T19:25:55.402556+00:00",
+      "last_seen": "2026-10-06T23:00:35.567975+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -78,7 +96,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592225.0",
       "published": null,
       "first_seen": "2026-10-05T20:49:57.978084+00:00",
-      "last_seen": "2026-10-06T19:25:56.679264+00:00",
+      "last_seen": "2026-10-06T23:00:36.774149+00:00",
       "score": 29,
       "flags": [
         "+9:no premine",
@@ -144,7 +162,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595967.0",
       "published": null,
       "first_seen": "2026-10-05T13:38:26.787504+00:00",
-      "last_seen": "2026-10-06T19:25:47.828396+00:00",
+      "last_seen": "2026-10-06T23:00:29.671416+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -178,7 +196,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595958.0",
       "published": null,
       "first_seen": "2026-10-05T13:07:07.137458+00:00",
-      "last_seen": "2026-10-06T19:25:51.502544+00:00",
+      "last_seen": "2026-10-06T23:00:32.040598+00:00",
       "score": 40,
       "flags": [
         "+5:mainnet",
@@ -202,7 +220,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-06T19:26:03.331343+00:00",
+      "last_seen": "2026-10-06T23:00:44.172917+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -244,7 +262,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595940.0",
       "published": null,
       "first_seen": "2026-10-05T09:32:26.099887+00:00",
-      "last_seen": "2026-10-06T18:24:10.528824+00:00",
+      "last_seen": "2026-10-06T23:00:40.229834+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -278,7 +296,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16425264443",
       "published": "2026-10-05T06:32:37Z",
       "first_seen": "2026-10-05T06:57:59.979000+00:00",
-      "last_seen": "2026-10-06T19:24:53.791312+00:00",
+      "last_seen": "2026-10-06T22:59:33.431193+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -334,7 +352,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-06T19:24:50.250052+00:00",
+      "last_seen": "2026-10-06T22:59:29.849616+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -387,7 +405,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-06T19:25:50.377025+00:00",
+      "last_seen": "2026-10-06T23:00:30.908912+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -587,7 +605,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-06T19:26:05.609210+00:00",
+      "last_seen": "2026-10-06T23:00:46.352605+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -614,7 +632,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-06T19:26:04.517298+00:00",
+      "last_seen": "2026-10-06T23:00:45.310645+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -716,7 +734,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-06T19:24:52.815008+00:00",
+      "last_seen": "2026-10-06T22:59:32.475320+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -842,7 +860,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595123.0",
       "published": null,
       "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-10-06T19:25:54.250806+00:00",
+      "last_seen": "2026-10-06T23:00:34.424816+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -1166,7 +1184,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5580923.0",
       "published": null,
       "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-10-06T19:25:59.266437+00:00",
+      "last_seen": "2026-10-06T23:00:39.210148+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -1634,21 +1652,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1823; hash_prefix=0f7baaaa5ada1048; reward=9.9939285 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1822, 9.99393184 PER",
-      "url": "mining-reward://perihelion/1822/3a599e83c322ff08",
-      "published": "2026-09-21T07:32:52.911297+00:00",
-      "first_seen": "2026-09-21T07:32:52.911297+00:00",
-      "last_seen": "2026-09-21T07:32:52.911297+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1822; hash_prefix=3a599e83c322ff08; reward=9.99393184 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1659,7 +1662,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-06T19:31:20.355519+00:00",
+      "checked": "2026-10-06T23:06:00.898075+00:00",
       "last_state_change": null
     },
     {
@@ -1667,7 +1670,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-06T19:31:12.344942+00:00",
+      "checked": "2026-10-06T23:05:52.887829+00:00",
       "last_state_change": null
     },
     {
@@ -1675,7 +1678,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-06T19:31:16.350326+00:00",
+      "checked": "2026-10-06T23:05:56.893334+00:00",
       "last_state_change": null
     }
   ]
