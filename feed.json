@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-07T15:49:26.174031+00:00",
+  "generated_at": "2026-10-07T20:47:24.276328+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,37 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] X Coin (XFER) | Own L1 UTXO chain that tokenizes X accounts | No premine",
+      "url": "https://bitcointalk.org/index.php?topic=5596193.0",
+      "published": null,
+      "first_seen": "2026-10-07T20:36:02.801804+00:00",
+      "last_seen": "2026-10-07T20:36:02.801804+00:00",
+      "score": 32,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:genesis",
+        "+5:block 0",
+        "+2:launch",
+        "+2:open source",
+        "+4:proof-of-work",
+        "+2:mining",
+        "+3:block reward",
+        "+1:p2p",
+        "-7:ico",
+        "-10:founder allocation",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "X Coin (XFER) Its own Layer-1 UTXO blockchain where your X account becomes an on-chain name No mining | No staking | ~60-second blocks | Fair launch: no premine, no ICO, no dev allocation Website | Wiki | Whitepaper | Downloads | Explorer | Trade XFER_USDT | X | Telegram Overview XFER is the native coin of X Coin , an independent Layer-1 UTXO blockchain. X Coin is a hard fork of the Ravencoin v4.8.0 code base (itself Bitcoin-derived) with its own genesis block, network, ports and addresses. It is not a token on another chain and not a copy of Ravencoin's coins. X Coin keeps what works in Ravencoin (coins, addresses, the 12-word wallet, native named assets, IPFS metadata) and replaces mining "
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[PRE-ANN][REGTEST] Clarity - Authority rotates, the chain doesn't",
       "url": "https://bitcointalk.org/index.php?topic=5596146.0",
       "published": null,
       "first_seen": "2026-10-07T12:20:22.910119+00:00",
-      "last_seen": "2026-10-07T15:25:22.008036+00:00",
+      "last_seen": "2026-10-07T20:36:03.939673+00:00",
       "score": 18,
       "flags": [
         "+7:no presale",
@@ -37,7 +63,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-07T09:15:12.376143+00:00",
-      "last_seen": "2026-10-07T15:25:25.297947+00:00",
+      "last_seen": "2026-10-07T20:05:50.898422+00:00",
       "score": 12,
       "flags": [
         "+1:testnet",
@@ -53,7 +79,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596113.0",
       "published": null,
       "first_seen": "2026-10-07T01:34:29.001399+00:00",
-      "last_seen": "2026-10-07T15:25:24.264792+00:00",
+      "last_seen": "2026-10-07T20:36:11.147775+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -85,7 +111,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16577961690",
       "published": "2026-10-06T19:35:20Z",
       "first_seen": "2026-10-06T19:55:28.444850+00:00",
-      "last_seen": "2026-10-07T15:24:21.893610+00:00",
+      "last_seen": "2026-10-07T20:35:05.029839+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -103,7 +129,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16573370152",
       "published": "2026-10-06T18:34:58Z",
       "first_seen": "2026-10-06T18:53:29.516694+00:00",
-      "last_seen": "2026-10-07T15:24:21.900173+00:00",
+      "last_seen": "2026-10-07T20:35:05.036461+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -121,7 +147,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16572709612",
       "published": "2026-10-06T18:26:10Z",
       "first_seen": "2026-10-06T18:53:29.519748+00:00",
-      "last_seen": "2026-10-07T15:24:21.903622+00:00",
+      "last_seen": "2026-10-07T20:35:05.039778+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -137,7 +163,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596024.0",
       "published": null,
       "first_seen": "2026-10-06T04:31:15.305167+00:00",
-      "last_seen": "2026-10-07T15:25:19.767026+00:00",
+      "last_seen": "2026-10-07T20:36:07.620818+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -267,7 +293,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595958.0",
       "published": null,
       "first_seen": "2026-10-05T13:07:07.137458+00:00",
-      "last_seen": "2026-10-07T15:25:20.902326+00:00",
+      "last_seen": "2026-10-07T20:36:08.847908+00:00",
       "score": 40,
       "flags": [
         "+5:mainnet",
@@ -291,7 +317,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-07T15:25:31.731035+00:00",
+      "last_seen": "2026-10-07T20:36:15.206794+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -367,7 +393,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16425264443",
       "published": "2026-10-05T06:32:37Z",
       "first_seen": "2026-10-05T06:57:59.979000+00:00",
-      "last_seen": "2026-10-07T15:24:21.918428+00:00",
+      "last_seen": "2026-10-07T20:35:05.054029+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -423,7 +449,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-07T15:24:18.230740+00:00",
+      "last_seen": "2026-10-07T20:35:01.364990+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -476,7 +502,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-07T15:25:27.747281+00:00",
+      "last_seen": "2026-10-07T19:03:44.041992+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -526,7 +552,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-05T10:03:42.856815+00:00",
+      "last_seen": "2026-10-07T20:36:05.160019+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -676,7 +702,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-07T15:25:34.086913+00:00",
+      "last_seen": "2026-10-07T20:36:17.389993+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -703,7 +729,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-07T15:25:32.943135+00:00",
+      "last_seen": "2026-10-07T20:36:16.336449+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -741,7 +767,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-10-07T15:25:23.232969+00:00",
+      "last_seen": "2026-10-07T20:36:10.102184+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -805,7 +831,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-07T15:24:20.931929+00:00",
+      "last_seen": "2026-10-07T20:35:04.106188+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -822,7 +848,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-09-27T19:04:13.704985+00:00",
-      "last_seen": "2026-10-07T15:25:18.546578+00:00",
+      "last_seen": "2026-10-07T20:36:01.644378+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -886,7 +912,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5425042.0",
       "published": null,
       "first_seen": "2026-09-26T07:43:12.424431+00:00",
-      "last_seen": "2026-10-07T15:25:15.931949+00:00",
+      "last_seen": "2026-10-07T20:35:59.058031+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -1043,7 +1069,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-07T15:25:26.550305+00:00",
+      "last_seen": "2026-10-07T19:35:01.674227+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1663,21 +1689,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1827; hash_prefix=b97583a63b91828b; reward=9.99391518 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1826, 9.99391851 PER",
-      "url": "mining-reward://perihelion/1826/4eedc242cfcaa830",
-      "published": "2026-09-21T07:35:50.667525+00:00",
-      "first_seen": "2026-09-21T07:35:50.667525+00:00",
-      "last_seen": "2026-09-21T07:35:50.667525+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1826; hash_prefix=4eedc242cfcaa830; reward=9.99391851 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1688,7 +1699,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-07T15:30:50.905851+00:00",
+      "checked": "2026-10-07T20:41:32.108178+00:00",
       "last_state_change": null
     },
     {
@@ -1696,7 +1707,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-07T15:30:42.896117+00:00",
+      "checked": "2026-10-07T20:41:24.098381+00:00",
       "last_state_change": null
     },
     {
@@ -1704,7 +1715,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-07T15:30:46.901227+00:00",
+      "checked": "2026-10-07T20:41:28.103511+00:00",
       "last_state_change": null
     }
   ]
