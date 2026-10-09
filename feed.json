@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-09T03:07:49.137732+00:00",
+  "generated_at": "2026-10-09T10:24:51.055977+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,69 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] NACRE (NACR) - Merge-mined with Pearl, 21M supply, no premine, TESTNET",
+      "url": "https://bitcointalk.org/index.php?topic=5596330.0",
+      "published": null,
+      "first_seen": "2026-10-09T08:29:53.043058+00:00",
+      "last_seen": "2026-10-09T10:02:19.456454+00:00",
+      "score": 17,
+      "flags": [
+        "+9:no premine",
+        "+7:no presale",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "-8:presale",
+        "-7:ico",
+        "-8:team allocation",
+        "-8:premine"
+      ],
+      "snippet": "NACRE public testnet starts Sunday 11 October 2026, 16:00 UTC Fresh genesis, everyone starts at the same time. Mainnet comes later, no date yet. What is NACRE? NACRE is a proof-of-work chain that is merge-mined with Pearl (AuxPoW). If you mine Pearl with a GPU, you can mine NACRE at the same time, with the same work and no extra hashrate. NACRE is a fork of the Pearl node code (via modelOS), with its own chain, its own genesis and its own coin. Parameters Ticker: NACR Max supply: 21,000,000 Block reward: 10 NACR Halving: every 1,050,000 blocks Block time: 120 seconds Difficulty adjustment: ASERT Consensus: PoW, merge-mined with Pearl (AuxPoW) Premine: none. No presale, no ICO, no team alloca"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][TESTNET][PoW] (TNR)Tenero | matmulhash v2 | Privacy coin | FCMP++",
+      "url": "https://bitcointalk.org/index.php?topic=5596024.0",
+      "published": null,
+      "first_seen": "2026-10-09T04:25:02.790927+00:00",
+      "last_seen": "2026-10-09T10:02:22.032221+00:00",
+      "score": 41,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+3:compute",
+        "+2:privacy",
+        "+1:decentralized",
+        "+1:p2p",
+        "-8:premine"
+      ],
+      "snippet": "TENERO (TNR) GPU-FOCUSED PROOF-OF-WORK CRYPTOCURRENCY PUBLIC ALPHA TESTNET IS LIVE FCMP++ and carrot is LIVE on gamma GitHub Repository | Downloads / Releases | GitHub Discussions Reddit | Discord 🟢 Mainnet launch: 1 November 2026 🟡 Public Alpha Testnet: LIVE Mine the testnet, run a node, benchmark your GPU, and help prepare for mainnet. An experimental proof-of-work cryptocurrency built around modern GPU hardware, with a long-term goal of Monero-style privacy. DISCLAIMER Tenero is currently an experimental alpha testnet . The project is developed by one person and has not received independent cryptographic, security, or hardware review. It should not be considered a finished cryptocurrency."
+    },
+    {
       "source": "github-events",
       "title": "pearl-research-labs/pearl: IssueCommentEvent 16713400109",
       "url": "https://github.com/pearl-research-labs/pearl#event-16713400109",
       "published": "2026-10-08T08:24:38Z",
       "first_seen": "2026-10-08T08:55:19.692749+00:00",
-      "last_seen": "2026-10-09T02:52:33.699538+00:00",
+      "last_seen": "2026-10-09T10:01:16.885667+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -29,7 +86,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596193.0",
       "published": null,
       "first_seen": "2026-10-07T20:36:02.801804+00:00",
-      "last_seen": "2026-10-09T02:53:42.593366+00:00",
+      "last_seen": "2026-10-09T10:02:29.107275+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -55,7 +112,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596146.0",
       "published": null,
       "first_seen": "2026-10-07T12:20:22.910119+00:00",
-      "last_seen": "2026-10-09T02:53:36.562556+00:00",
+      "last_seen": "2026-10-09T10:02:23.210124+00:00",
       "score": 18,
       "flags": [
         "+7:no presale",
@@ -78,7 +135,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-07T09:15:12.376143+00:00",
-      "last_seen": "2026-10-09T02:53:40.226627+00:00",
+      "last_seen": "2026-10-09T10:02:26.701472+00:00",
       "score": 12,
       "flags": [
         "+1:testnet",
@@ -86,7 +143,7 @@
         "+4:inference",
         "+3:compute"
       ],
-      "snippet": "Vela: A Peer-to-Peer Proof-of-Inference Network Proof-of-work secures a peer-to-peer electronic cash system without a trusted party, but the work itself, repeated hashing, has no value outside the protocol. We propose a system in which every proof-of-work attempt must first execute a deterministic text-to-image model, so that block production consumes exactly the computation of generating images. The block header commits to the model output, and the seed of the model's initial noise is derived from the header itself, so changing the nonce requires running the model again and no attempt can be reused or precomputed. To let every node verify a block by re-running the same inference, the model "
+      "snippet": "Vela: A Generative Media Proof-of-Inference Network Proof-of-work secures a peer-to-peer electronic cash system without a trusted party, but the work itself, repeated hashing, has no value outside the protocol. We propose a system in which every proof-of-work attempt must first execute a deterministic text-to-image model, so that block production consumes exactly the computation of generating images. The block header commits to the model output, and the seed of the model's initial noise is derived from the header itself, so changing the nonce requires running the model again and no attempt can be reused or precomputed. To let every node verify a block by re-running the same inference, the mo"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -126,7 +183,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16577961690",
       "published": "2026-10-06T19:35:20Z",
       "first_seen": "2026-10-06T19:55:28.444850+00:00",
-      "last_seen": "2026-10-09T02:52:41.562818+00:00",
+      "last_seen": "2026-10-09T10:01:24.349365+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -144,7 +201,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16573370152",
       "published": "2026-10-06T18:34:58Z",
       "first_seen": "2026-10-06T18:53:29.516694+00:00",
-      "last_seen": "2026-10-09T02:52:41.567065+00:00",
+      "last_seen": "2026-10-09T10:01:24.355633+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -162,7 +219,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16572709612",
       "published": "2026-10-06T18:26:10Z",
       "first_seen": "2026-10-06T18:53:29.519748+00:00",
-      "last_seen": "2026-10-09T02:52:41.569751+00:00",
+      "last_seen": "2026-10-09T10:01:24.359266+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -178,7 +235,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596024.0",
       "published": null,
       "first_seen": "2026-10-06T04:31:15.305167+00:00",
-      "last_seen": "2026-10-09T02:53:43.809558+00:00",
+      "last_seen": "2026-10-09T03:54:34.824792+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -308,7 +365,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595958.0",
       "published": null,
       "first_seen": "2026-10-05T13:07:07.137458+00:00",
-      "last_seen": "2026-10-09T02:53:39.166703+00:00",
+      "last_seen": "2026-10-09T10:02:25.667387+00:00",
       "score": 40,
       "flags": [
         "+5:mainnet",
@@ -332,7 +389,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-09T02:53:48.959062+00:00",
+      "last_seen": "2026-10-09T10:02:33.087707+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -408,7 +465,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16425264443",
       "published": "2026-10-05T06:32:37Z",
       "first_seen": "2026-10-05T06:57:59.979000+00:00",
-      "last_seen": "2026-10-09T02:52:41.579655+00:00",
+      "last_seen": "2026-10-09T10:01:24.373791+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -464,7 +521,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-09T02:52:37.688503+00:00",
+      "last_seen": "2026-10-09T10:01:20.865826+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -717,7 +774,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-09T02:53:51.235698+00:00",
+      "last_seen": "2026-10-09T10:02:35.488867+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -744,7 +801,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-09T02:53:50.096959+00:00",
+      "last_seen": "2026-10-09T10:02:34.240965+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -782,7 +839,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-10-08T04:19:45.277454+00:00",
+      "last_seen": "2026-10-09T10:02:18.429660+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -846,7 +903,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-09T02:52:40.558335+00:00",
+      "last_seen": "2026-10-09T10:01:23.413321+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -863,7 +920,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-09-27T19:04:13.704985+00:00",
-      "last_seen": "2026-10-09T02:53:35.443873+00:00",
+      "last_seen": "2026-10-09T03:24:22.515910+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -1084,7 +1141,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-09T02:53:41.462353+00:00",
+      "last_seen": "2026-10-09T10:02:27.963031+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1659,36 +1716,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1830; hash_prefix=e17c6c71ec9fcbac; reward=9.99390519 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1829, 9.99390852 PER",
-      "url": "mining-reward://perihelion/1829/6d2b3e1f49d9c6b5",
-      "published": "2026-09-21T07:39:12.479086+00:00",
-      "first_seen": "2026-09-21T07:39:12.479086+00:00",
-      "last_seen": "2026-09-21T07:39:12.479086+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1829; hash_prefix=6d2b3e1f49d9c6b5; reward=9.99390852 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1828, 9.99391185 PER",
-      "url": "mining-reward://perihelion/1828/ab8f720d32242d55",
-      "published": "2026-09-21T07:37:11.837959+00:00",
-      "first_seen": "2026-09-21T07:37:11.837959+00:00",
-      "last_seen": "2026-09-21T07:37:11.837959+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1828; hash_prefix=ab8f720d32242d55; reward=9.99391185 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1699,7 +1726,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-09T02:59:06.210831+00:00",
+      "checked": "2026-10-09T10:07:50.326677+00:00",
       "last_state_change": null
     },
     {
@@ -1707,7 +1734,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-09T02:58:58.201822+00:00",
+      "checked": "2026-10-09T10:07:42.314848+00:00",
       "last_state_change": null
     },
     {
@@ -1715,7 +1742,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-09T02:59:02.206282+00:00",
+      "checked": "2026-10-09T10:07:46.322332+00:00",
       "last_state_change": null
     }
   ]
