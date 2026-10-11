@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-11T15:32:31.355055+00:00",
+  "generated_at": "2026-10-11T19:39:01.054634+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,35 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] [CPU mining] Yenten v6.0.4 [YTN] [YespowerR16] [Exchange available]",
+      "url": "https://bitcointalk.org/index.php?topic=5098631.0",
+      "published": null,
+      "first_seen": "2026-10-11T16:21:38.899596+00:00",
+      "last_seen": "2026-10-11T19:27:02.962435+00:00",
+      "score": 19,
+      "flags": [
+        "+9:no premine",
+        "+6:no ico",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+3:compute",
+        "+1:p2p",
+        "-7:ico",
+        "-8:premine"
+      ],
+      "snippet": "Yenten Yenten is a cryptocurrency of the cpu, by the cpu, for the cpu. No ASIC mineable. No ICO. No premine. Website http://yentencoin.info/ Twitter https://twitter.com/yentencoin Discord Discord channels Telegram t.me/Yenten_RUS t.me/yententip - we give each visitor coins t.me/yenten Abstruct Algorithm: YespowerR16 ( yespower-1.0 ,N=4096,r=16), GPU is slower than CPU (changed from YescryptR16 on and after 30 March 2019) Block time: 2 minutes Max Block size: 2M Block reward of block #1: 50 YTN Max Supply: 80,000,000 YTN SubsidyHalvingInterval: 800,000 blocks Difficulty re-target: every block (DarkGravityWave v3-1 ) Premine: none P2P Port: 9981 RPC Port: 9982 Download binary (Win64, macOS x64"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][MYT] MYT  Privacy Settlement Layer for Machines | PoW | Fair Launch",
       "url": "https://bitcointalk.org/index.php?topic=5577468.0",
       "published": null,
       "first_seen": "2026-10-10T20:18:53.707954+00:00",
-      "last_seen": "2026-10-11T15:20:36.303705+00:00",
+      "last_seen": "2026-10-11T19:27:10.459661+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -44,7 +68,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-10-11T15:20:38.728699+00:00",
+      "last_seen": "2026-10-11T16:21:49.065484+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -148,7 +172,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596024.0",
       "published": null,
       "first_seen": "2026-10-09T04:25:02.790927+00:00",
-      "last_seen": "2026-10-11T15:20:34.904099+00:00",
+      "last_seen": "2026-10-11T19:27:09.094611+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -192,7 +216,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596193.0",
       "published": null,
       "first_seen": "2026-10-07T20:36:02.801804+00:00",
-      "last_seen": "2026-10-11T15:20:37.463361+00:00",
+      "last_seen": "2026-10-11T19:27:11.746968+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -289,7 +313,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16577961690",
       "published": "2026-10-06T19:35:20Z",
       "first_seen": "2026-10-06T19:55:28.444850+00:00",
-      "last_seen": "2026-10-11T15:19:36.133698+00:00",
+      "last_seen": "2026-10-11T19:26:07.676392+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -307,7 +331,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16573370152",
       "published": "2026-10-06T18:34:58Z",
       "first_seen": "2026-10-06T18:53:29.516694+00:00",
-      "last_seen": "2026-10-11T15:19:36.140352+00:00",
+      "last_seen": "2026-10-11T19:26:07.684411+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -325,7 +349,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16572709612",
       "published": "2026-10-06T18:26:10Z",
       "first_seen": "2026-10-06T18:53:29.519748+00:00",
-      "last_seen": "2026-10-11T15:19:36.144088+00:00",
+      "last_seen": "2026-10-11T19:26:07.689952+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -471,10 +495,11 @@
       "url": "https://bitcointalk.org/index.php?topic=5595958.0",
       "published": null,
       "first_seen": "2026-10-05T13:07:07.137458+00:00",
-      "last_seen": "2026-10-11T15:20:32.364044+00:00",
-      "score": 40,
+      "last_seen": "2026-10-11T19:27:06.551162+00:00",
+      "score": 48,
       "flags": [
         "+5:mainnet",
+        "+5:genesis",
         "+1:testnet",
         "+4:proof-of-work",
         "+4:cpu mining",
@@ -485,9 +510,10 @@
         "+4:inference",
         "+3:compute",
         "+2:post-quantum",
-        "+1:p2p"
+        "+1:p2p",
+        "+3:runnable-artifact"
       ],
-      "snippet": "https://vearl.org/og-image.png?v=3 Vearl Proof of Useful Work · Verified Compute Bitcoin mines hashes. Vearl mines AI. Website: https://vearl.org Whitepaper: https://vearl.org/whitepaper X (Twitter): https://x.com/vearl_org Discord: https://discord.gg/jya8meKnvM Contact: contact@vearl.org Team: public (doxxed), co-founders Clovis Anicet and Idan Sugarman Public testnet: planned for 23 October 2026 What is Vearl? Vearl is a proof-of-work blockchain where the work that secures the chain can also be a paying client's computation. Instead of hashing for hashing's sake, miners multiply 8-bit integer matrices on GPUs. Every 16 x 16 tile of a noised product is a lottery ticket, and a ticket below t"
+      "snippet": "https://vearl.org/og-image.png?v=3 Vearl Proof of Useful Work · Verified Compute Bitcoin mines hashes. Vearl mines AI. Website: https://vearl.org Whitepaper: https://vearl.org/whitepaper Source code (Apache-2.0): https://github.com/vearl-verified-compute/vearl How to take part: https://vearl.org/participate/ Leaderboard: https://vearl.org/leaderboard/ X (Twitter): https://x.com/vearl_org Discord: https://discord.gg/jya8meKnvM Contact: contact@vearl.org Founder: Clovis Anicet (public, doxxed) Public testnet: planned for 23 October 2026, 16:00 UTC What is Vearl? Vearl is a proof-of-work blockchain in which the work that secures the chain can also be a paying client's computation. Miners do not"
     },
     {
       "source": "bitcointalk:Mining (Altcoins)",
@@ -495,7 +521,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-11T15:20:44.396040+00:00",
+      "last_seen": "2026-10-11T19:27:17.109579+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -571,7 +597,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16425264443",
       "published": "2026-10-05T06:32:37Z",
       "first_seen": "2026-10-05T06:57:59.979000+00:00",
-      "last_seen": "2026-10-11T15:19:36.159478+00:00",
+      "last_seen": "2026-10-11T19:26:07.708938+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -627,7 +653,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-11T15:19:32.671773+00:00",
+      "last_seen": "2026-10-11T19:26:04.102348+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -680,7 +706,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-11T15:20:33.599332+00:00",
+      "last_seen": "2026-10-11T19:27:07.780895+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -880,7 +906,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595438.0",
       "published": null,
       "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-11T15:20:46.596675+00:00",
+      "last_seen": "2026-10-11T19:27:19.413080+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -907,7 +933,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-11T15:20:45.547314+00:00",
+      "last_seen": "2026-10-11T19:27:18.262504+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1009,7 +1035,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-11T15:19:35.203213+00:00",
+      "last_seen": "2026-10-11T19:26:06.697950+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1331,7 +1357,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-10-11T15:20:29.954418+00:00",
+      "last_seen": "2026-10-11T19:27:04.140588+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1748,21 +1774,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1835; hash_prefix=fedcfa4ae7dde053; reward=9.99388853 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1834, 9.99389186 PER",
-      "url": "mining-reward://perihelion/1834/902b20035925b2ef",
-      "published": "2026-09-21T07:46:41.778115+00:00",
-      "first_seen": "2026-09-21T07:46:41.778115+00:00",
-      "last_seen": "2026-09-21T07:46:41.778115+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1834; hash_prefix=902b20035925b2ef; reward=9.99389186 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1773,7 +1784,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-11T15:26:02.427484+00:00",
+      "checked": "2026-10-11T19:32:34.395652+00:00",
       "last_state_change": null
     },
     {
@@ -1781,7 +1792,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-11T15:25:54.417288+00:00",
+      "checked": "2026-10-11T19:32:26.383497+00:00",
       "last_state_change": null
     },
     {
@@ -1789,7 +1800,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-11T15:25:58.422533+00:00",
+      "checked": "2026-10-11T19:32:30.390726+00:00",
       "last_state_change": null
     }
   ]
