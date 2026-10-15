@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-15T11:57:41.074795+00:00",
+  "generated_at": "2026-10-15T16:21:09.066047+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,44 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssuesEvent 17304310889",
+      "url": "https://github.com/Instinctes/nightfall#event-17304310889",
+      "published": "2026-10-15T14:32:52Z",
+      "first_seen": "2026-10-15T14:46:32.527170+00:00",
+      "last_seen": "2026-10-15T16:17:42.157297+00:00",
+      "score": 14,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:mining",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"closed\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/issues/40\", \"id\": 5707486406, \"node_id\": \"I_kwDOT2kZwM8AAAABVDFUxg\", \"number\": 40, \"title\": \"Node permanently stalled on a fork: 19h at the same height, no recovery path, reports mining:true throughout\", \"user\": "
+    },
+    {
+      "source": "github-search",
+      "title": "rok291142-prog/16S-blockchain",
+      "url": "https://github.com/rok291142-prog/16S-blockchain",
+      "published": "2026-10-15T12:25:19Z",
+      "first_seen": "2026-10-15T12:43:25.781288+00:00",
+      "last_seen": "2026-10-15T16:17:23.840093+00:00",
+      "score": 17,
+      "flags": [
+        "+9:no premine",
+        "+4:proof of work",
+        "+2:mining",
+        "+2:post-quantum"
+      ],
+      "snippet": "16S: an experimental post-quantum blockchain written in Python. ML-DSA (Dilithium) signatures, post-quantum TLS between nodes (X25519MLKEM768), Proof of Work mining, BIP-39 seed phrases, open peer-to-peer network with peer discovery. Max supply 88 million coins, no premine. Educational project, not audited. created 2026-10-15T12:25:19Z updated 2026-10-15T13:12:42Z language Python topics"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Vela | AI Modes Proof-of-Inference Network | Mainnet is live",
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-15T11:41:37.967190+00:00",
+      "last_seen": "2026-10-15T16:17:53.644984+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -79,7 +111,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596751.0",
       "published": null,
       "first_seen": "2026-10-14T08:28:00.481613+00:00",
-      "last_seen": "2026-10-15T11:41:41.424074+00:00",
+      "last_seen": "2026-10-15T16:17:55.827506+00:00",
       "score": 24,
       "flags": [
         "+5:mainnet",
@@ -170,7 +202,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-13T04:12:53.389972+00:00",
-      "last_seen": "2026-10-15T11:41:42.596297+00:00",
+      "last_seen": "2026-10-15T16:17:56.971851+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -478,22 +510,22 @@
       "url": "https://bitcointalk.org/index.php?topic=5596146.0",
       "published": null,
       "first_seen": "2026-10-07T12:20:22.910119+00:00",
-      "last_seen": "2026-10-12T16:25:04.698698+00:00",
-      "score": 18,
+      "last_seen": "2026-10-15T16:17:51.313624+00:00",
+      "score": 20,
       "flags": [
         "+7:no presale",
         "+6:no ico",
         "+6:no token sale",
+        "+5:mainnet",
         "+2:launch",
         "+1:testnet",
-        "+3:block reward",
         "+2:storage",
         "+1:p2p",
         "+5:pre-ann",
         "-8:presale",
         "-7:ico"
       ],
-      "snippet": "What this is Clarity is a Proof of Rotating Authority (PoRA) consensus, a native currency, a general-purpose token system, an automated market maker, a limit-order book, and a validator reward model that includes a smoothing pot and automatic slashing for equivocation. It is not a fork of anything. The block format, consensus protocol, state model, and reward math are original. It uses well-established cryptographic primitives  Ed25519, Blake2b, SHA-512, ChaCha20-Poly1305, Argon2id  but the protocol itself is not derived from an existing chain. The project is code-complete and pre-launch. There is no token sale, no presale, no ICO . This post is to put the work in front of people who might"
+      "snippet": "What this is Clarity is a working blockchain built from scratch. It is not a fork, not a token, not a whitepaper. It has a native currency, a general-purpose token system, an automated market maker, a limit-order book, NFTs with optional on-chain reward schedules, and a validator reward model with a smoothing pot and automatic slashing for equivocation. It is code-complete and pre-launch. There is no token sale, no presale, no ICO . The point of this post is to put the work in front of people who might have useful things to say about it, and to find early users willing to run a node and poke at it before a public testnet exists. What you can actually do with it today If you run the daemon on"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -549,7 +581,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16577961690",
       "published": "2026-10-06T19:35:20Z",
       "first_seen": "2026-10-06T19:55:28.444850+00:00",
-      "last_seen": "2026-10-15T11:41:30.122739+00:00",
+      "last_seen": "2026-10-15T16:17:42.159743+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -567,7 +599,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16573370152",
       "published": "2026-10-06T18:34:58Z",
       "first_seen": "2026-10-06T18:53:29.516694+00:00",
-      "last_seen": "2026-10-15T11:41:30.130162+00:00",
+      "last_seen": "2026-10-15T16:17:42.166811+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -585,7 +617,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16572709612",
       "published": "2026-10-06T18:26:10Z",
       "first_seen": "2026-10-06T18:53:29.519748+00:00",
-      "last_seen": "2026-10-15T11:41:30.134658+00:00",
+      "last_seen": "2026-10-15T16:17:42.173333+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -757,7 +789,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-15T11:41:49.266796+00:00",
+      "last_seen": "2026-10-15T16:18:02.425653+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -833,7 +865,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16425264443",
       "published": "2026-10-05T06:32:37Z",
       "first_seen": "2026-10-05T06:57:59.979000+00:00",
-      "last_seen": "2026-10-15T11:41:30.147817+00:00",
+      "last_seen": "2026-10-15T16:17:42.199642+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -889,7 +921,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-15T11:41:23.425724+00:00",
+      "last_seen": "2026-10-15T16:17:38.103736+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -942,7 +974,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-15T11:41:34.125956+00:00",
+      "last_seen": "2026-10-15T16:17:46.086582+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -1173,7 +1205,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-15T11:41:50.439024+00:00",
+      "last_seen": "2026-10-15T16:18:03.552895+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1275,7 +1307,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-15T11:41:29.044574+00:00",
+      "last_seen": "2026-10-15T16:17:40.983091+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1446,7 +1478,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-09-26T22:35:37.347224+00:00",
+      "last_seen": "2026-10-15T16:17:50.160655+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -1597,7 +1629,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-10-15T11:41:40.389156+00:00",
+      "last_seen": "2026-10-15T16:17:54.795932+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1834,36 +1866,6 @@
         "perihelion"
       ],
       "snippet": "Locally mined Perihelion block accepted by the node. height=1847; hash_prefix=9f8a4494b03a223f; reward=9.99384855 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1846, 9.99385188 PER",
-      "url": "mining-reward://perihelion/1846/e19768cb7b0c57c5",
-      "published": "2026-09-21T07:57:36.266445+00:00",
-      "first_seen": "2026-09-21T07:57:36.266445+00:00",
-      "last_seen": "2026-09-21T07:57:36.266445+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1846; hash_prefix=e19768cb7b0c57c5; reward=9.99385188 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
-    },
-    {
-      "source": "mining-reward:perihelion",
-      "title": "Perihelion mining reward: block 1845, 9.99385522 PER",
-      "url": "mining-reward://perihelion/1845/3d2e088092bfe377",
-      "published": "2026-09-21T07:57:34.283484+00:00",
-      "first_seen": "2026-09-21T07:57:34.283484+00:00",
-      "last_seen": "2026-09-21T07:57:34.283484+00:00",
-      "score": 100,
-      "flags": [
-        "mined-block",
-        "wallet-reward",
-        "perihelion"
-      ],
-      "snippet": "Locally mined Perihelion block accepted by the node. height=1845; hash_prefix=3d2e088092bfe377; reward=9.99385522 PER; payout_address=per195ac8bba24fabbcc360a1c2bb6f4d308f9d4b38a0cd0138c8456abdcc464900418b17f8c; coinbase rewards mature after 20 blocks."
     }
   ],
   "announcement_backtraces": [],
@@ -1874,7 +1876,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-15T11:42:03.935060+00:00",
+      "checked": "2026-10-15T16:18:18.300830+00:00",
       "last_state_change": null
     },
     {
@@ -1882,7 +1884,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-15T11:41:55.925488+00:00",
+      "checked": "2026-10-15T16:18:10.290058+00:00",
       "last_state_change": null
     },
     {
@@ -1890,7 +1892,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-15T11:41:59.930519+00:00",
+      "checked": "2026-10-15T16:18:14.295881+00:00",
       "last_state_change": null
     }
   ]
