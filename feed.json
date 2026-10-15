@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-15T06:32:18.063794+00:00",
+  "generated_at": "2026-10-15T11:57:41.074795+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-15T06:02:13.887693+00:00",
+      "last_seen": "2026-10-15T11:41:37.967190+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -79,7 +79,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596751.0",
       "published": null,
       "first_seen": "2026-10-14T08:28:00.481613+00:00",
-      "last_seen": "2026-10-15T06:02:18.583739+00:00",
+      "last_seen": "2026-10-15T11:41:41.424074+00:00",
       "score": 24,
       "flags": [
         "+5:mainnet",
@@ -170,7 +170,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-13T04:12:53.389972+00:00",
-      "last_seen": "2026-10-15T06:02:19.727038+00:00",
+      "last_seen": "2026-10-15T11:41:42.596297+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -549,7 +549,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16577961690",
       "published": "2026-10-06T19:35:20Z",
       "first_seen": "2026-10-06T19:55:28.444850+00:00",
-      "last_seen": "2026-10-15T06:01:13.571586+00:00",
+      "last_seen": "2026-10-15T11:41:30.122739+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -567,7 +567,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16573370152",
       "published": "2026-10-06T18:34:58Z",
       "first_seen": "2026-10-06T18:53:29.516694+00:00",
-      "last_seen": "2026-10-15T06:01:13.577449+00:00",
+      "last_seen": "2026-10-15T11:41:30.130162+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -585,7 +585,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16572709612",
       "published": "2026-10-06T18:26:10Z",
       "first_seen": "2026-10-06T18:53:29.519748+00:00",
-      "last_seen": "2026-10-15T06:01:13.580932+00:00",
+      "last_seen": "2026-10-15T11:41:30.134658+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -757,7 +757,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-15T06:02:26.412336+00:00",
+      "last_seen": "2026-10-15T11:41:49.266796+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -833,7 +833,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-16425264443",
       "published": "2026-10-05T06:32:37Z",
       "first_seen": "2026-10-05T06:57:59.979000+00:00",
-      "last_seen": "2026-10-15T06:01:13.595370+00:00",
+      "last_seen": "2026-10-15T11:41:30.147817+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -889,7 +889,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-15T06:01:09.275993+00:00",
+      "last_seen": "2026-10-15T11:41:23.425724+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -942,7 +942,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-15T06:02:17.568434+00:00",
+      "last_seen": "2026-10-15T11:41:34.125956+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -1173,7 +1173,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-15T06:02:27.544810+00:00",
+      "last_seen": "2026-10-15T11:41:50.439024+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1275,7 +1275,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-15T06:01:12.089545+00:00",
+      "last_seen": "2026-10-15T11:41:29.044574+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1597,7 +1597,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-10-15T06:02:16.331488+00:00",
+      "last_seen": "2026-10-15T11:41:40.389156+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1874,7 +1874,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-15T06:07:41.232547+00:00",
+      "checked": "2026-10-15T11:42:03.935060+00:00",
       "last_state_change": null
     },
     {
@@ -1882,7 +1882,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-15T06:07:33.223687+00:00",
+      "checked": "2026-10-15T11:41:55.925488+00:00",
       "last_state_change": null
     },
     {
@@ -1890,7 +1890,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-15T06:07:37.228836+00:00",
+      "checked": "2026-10-15T11:41:59.930519+00:00",
       "last_state_change": null
     }
   ]
