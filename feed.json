@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-16T18:03:26.590259+00:00",
+  "generated_at": "2026-10-16T20:55:17.280832+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-16T17:38:28.115661+00:00",
+      "last_seen": "2026-10-16T20:42:34.019603+00:00",
       "score": 46,
       "flags": [
         "+9:no premine",
@@ -41,6 +41,22 @@
     },
     {
       "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 17416185364",
+      "url": "https://github.com/Instinctes/nightfall#event-17416185364",
+      "published": "2026-10-15T20:57:21Z",
+      "first_seen": "2026-10-16T18:08:45.651450+00:00",
+      "last_seen": "2026-10-16T20:42:28.832159+00:00",
+      "score": 14,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:mining",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/issues/40\", \"id\": 5707486406, \"node_id\": \"I_kwDOT2kZwM8AAAABVDFUxg\", \"number\": 40, \"title\": \"Node permanently stalled on a fork: 19h at the same height, no recovery path, reports mining:true throughout\", \"user\":"
+    },
+    {
+      "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 17338659545",
       "url": "https://github.com/Instinctes/nightfall#event-17338659545",
       "published": "2026-10-15T20:57:19Z",
@@ -63,7 +79,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17411519812",
       "published": "2026-10-15T19:47:48Z",
       "first_seen": "2026-10-16T17:38:23.153422+00:00",
-      "last_seen": "2026-10-16T17:38:23.153422+00:00",
+      "last_seen": "2026-10-16T20:42:28.851600+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -113,7 +129,7 @@
       "url": "https://github.com/rok291142-prog/16S-blockchain",
       "published": "2026-10-15T12:25:19Z",
       "first_seen": "2026-10-15T12:43:25.781288+00:00",
-      "last_seen": "2026-10-16T17:38:05.206730+00:00",
+      "last_seen": "2026-10-16T20:42:10.535999+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -129,7 +145,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-16T17:38:29.304599+00:00",
+      "last_seen": "2026-10-16T20:42:35.280050+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -244,7 +260,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596695.0",
       "published": null,
       "first_seen": "2026-10-13T14:29:17.983286+00:00",
-      "last_seen": "2026-10-16T17:38:31.469225+00:00",
+      "last_seen": "2026-10-16T20:42:37.515846+00:00",
       "score": 15,
       "flags": [
         "+4:cpu mining",
@@ -285,7 +301,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-13T04:12:53.389972+00:00",
-      "last_seen": "2026-10-16T17:38:30.443311+00:00",
+      "last_seen": "2026-10-16T20:42:36.466762+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -593,7 +609,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596146.0",
       "published": null,
       "first_seen": "2026-10-07T12:20:22.910119+00:00",
-      "last_seen": "2026-10-16T17:38:36.308948+00:00",
+      "last_seen": "2026-10-16T20:42:42.682772+00:00",
       "score": 20,
       "flags": [
         "+7:no presale",
@@ -872,7 +888,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-16T17:38:42.834998+00:00",
+      "last_seen": "2026-10-16T20:42:49.245853+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1004,7 +1020,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-16T17:38:19.181945+00:00",
+      "last_seen": "2026-10-16T20:42:24.681816+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1057,7 +1073,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-16T17:38:26.977522+00:00",
+      "last_seen": "2026-10-16T20:42:32.867275+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -1288,7 +1304,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-16T17:38:43.960152+00:00",
+      "last_seen": "2026-10-16T20:42:50.387189+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1356,7 +1372,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592761.0",
       "published": null,
       "first_seen": "2026-09-28T07:54:27.577982+00:00",
-      "last_seen": "2026-10-16T17:38:32.719990+00:00",
+      "last_seen": "2026-10-16T20:42:38.816161+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -1390,7 +1406,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-16T17:38:21.931670+00:00",
+      "last_seen": "2026-10-16T20:42:27.558675+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1561,7 +1577,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-10-16T17:38:35.181231+00:00",
+      "last_seen": "2026-10-16T20:42:41.499446+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -1859,36 +1875,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "Keryx is not just another PoW coin. It is a decentralized infrastructure layer for verifiable AI. We are building a BlockDAG-based network where mining serves a dual purpose: securing the ledger and providing verifiable compute power for Small Language Models (SLM). 🧠 The Core Thesis Current AI inference is either closed-source and centralized or lacks cryptographic proof of execution. Keryx changes this by integrating Proof-of-Inference (OPoI) directly into the consensus mechanism. Miners do not just solve hashes; they execute deterministic AI tasks that the network can validate. 🛠 Technical Specifications Consensus: BlockDAG (High throughput, low latency). Mining Algorithm (KeryxHash): A s"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Bitcoin Cash II (BCH2)  SHA-256 PoW | 32MB Blocks | ASERT | No Premine",
-      "url": "https://bitcointalk.org/index.php?topic=5575145.0",
-      "published": null,
-      "first_seen": "2026-09-21T11:15:16.029906+00:00",
-      "last_seen": "2026-09-24T04:56:25.480508+00:00",
-      "score": 33,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+6:no ico",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+1:decentralized",
-        "+1:p2p",
-        "-7:ico",
-        "-8:dev fee",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Bitcoin Cash II (BCH2) A Return to Decentralized Mining Through Fair Distribution What is BCH2? BCH2 (Bitcoin Cash II) is a SHA-256 proof-of-work cryptocurrency that forks from BC2 (BitcoinII) at block height 53,200, upgrading to full Bitcoin Cash consensus rules. Every BC2 holder at the fork block receives an equal amount of BCH2 at a 1:1 ratio  no registration, no claims process, no KYC. No premine. No dev fee. No ICO. 100% of new coins go to miners. Estimated mainnet launch: March 79, 2026 Why BC2? BC2 (BitcoinII) deserves credit as a well-executed Bitcoin implementation. It launched in 2025 with a clean genesis block, fair distribution, and a working network that has produced over 53,0"
     }
   ],
   "announcement_backtraces": [],
@@ -1899,7 +1885,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-16T17:38:58.394154+00:00",
+      "checked": "2026-10-16T20:43:03.830056+00:00",
       "last_state_change": null
     },
     {
@@ -1907,7 +1893,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-16T17:38:50.386938+00:00",
+      "checked": "2026-10-16T20:42:55.820645+00:00",
       "last_state_change": null
     },
     {
@@ -1915,7 +1901,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-16T17:38:54.391691+00:00",
+      "checked": "2026-10-16T20:42:59.825377+00:00",
       "last_state_change": null
     }
   ]
