@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-16T05:07:41.321069+00:00",
+  "generated_at": "2026-10-16T09:40:46.584100+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17338659545",
       "published": "2026-10-15T20:57:19Z",
       "first_seen": "2026-10-15T21:24:11.262365+00:00",
-      "last_seen": "2026-10-16T05:01:46.361149+00:00",
+      "last_seen": "2026-10-16T09:09:42.734910+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -66,7 +66,7 @@
       "url": "https://github.com/rok291142-prog/16S-blockchain",
       "published": "2026-10-15T12:25:19Z",
       "first_seen": "2026-10-15T12:43:25.781288+00:00",
-      "last_seen": "2026-10-16T05:01:28.730619+00:00",
+      "last_seen": "2026-10-16T09:09:24.734265+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -74,7 +74,7 @@
         "+2:mining",
         "+2:post-quantum"
       ],
-      "snippet": "16S: an experimental post-quantum blockchain written in Python. ML-DSA (Dilithium) signatures, post-quantum TLS between nodes (X25519MLKEM768), Proof of Work mining, BIP-39 seed phrases, open peer-to-peer network with peer discovery. Max supply 88 million coins, no premine. Educational project, not audited. created 2026-10-15T12:25:19Z updated 2026-10-15T13:12:42Z language Python topics"
+      "snippet": "16S: an experimental post-quantum blockchain written in Python. ML-DSA (Dilithium) signatures, post-quantum TLS between nodes (X25519MLKEM768), Proof of Work mining, BIP-39 seed phrases, open peer-to-peer network with peer discovery. Max supply 88 million coins, no premine. Educational project, not audited. created 2026-10-15T12:25:19Z updated 2026-10-16T05:29:40Z language Python topics"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -82,7 +82,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-16T05:01:58.330587+00:00",
+      "last_seen": "2026-10-16T09:09:55.920434+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -197,7 +197,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596695.0",
       "published": null,
       "first_seen": "2026-10-13T14:29:17.983286+00:00",
-      "last_seen": "2026-10-16T05:01:51.188573+00:00",
+      "last_seen": "2026-10-16T09:09:48.796480+00:00",
       "score": 15,
       "flags": [
         "+4:cpu mining",
@@ -238,7 +238,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-13T04:12:53.389972+00:00",
-      "last_seen": "2026-10-16T00:28:12.308742+00:00",
+      "last_seen": "2026-10-16T09:09:47.731299+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -546,7 +546,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596146.0",
       "published": null,
       "first_seen": "2026-10-07T12:20:22.910119+00:00",
-      "last_seen": "2026-10-16T05:01:56.031397+00:00",
+      "last_seen": "2026-10-16T09:09:53.623711+00:00",
       "score": 20,
       "flags": [
         "+7:no presale",
@@ -825,7 +825,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-16T05:02:06.203361+00:00",
+      "last_seen": "2026-10-16T09:10:02.859341+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -957,7 +957,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-16T05:01:42.319328+00:00",
+      "last_seen": "2026-10-16T09:09:38.792825+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1010,7 +1010,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-16T05:01:50.168815+00:00",
+      "last_seen": "2026-10-16T09:09:46.585753+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -1241,7 +1241,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-16T05:02:07.334170+00:00",
+      "last_seen": "2026-10-16T09:10:03.984386+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1309,7 +1309,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592761.0",
       "published": null,
       "first_seen": "2026-09-28T07:54:27.577982+00:00",
-      "last_seen": "2026-10-16T05:01:52.486390+00:00",
+      "last_seen": "2026-10-16T09:09:50.035571+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -1343,7 +1343,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-16T05:01:45.186420+00:00",
+      "last_seen": "2026-10-16T09:09:41.571216+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1514,7 +1514,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-10-16T05:01:54.909082+00:00",
+      "last_seen": "2026-10-16T09:09:52.497713+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -1665,7 +1665,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-10-16T05:02:00.642696+00:00",
+      "last_seen": "2026-10-16T08:39:47.673877+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1882,7 +1882,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-16T05:02:25.712170+00:00",
+      "checked": "2026-10-16T09:10:17.547191+00:00",
       "last_state_change": null
     },
     {
@@ -1890,7 +1890,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-16T05:02:17.702171+00:00",
+      "checked": "2026-10-16T09:10:09.537606+00:00",
       "last_state_change": null
     },
     {
@@ -1898,7 +1898,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-16T05:02:21.707614+00:00",
+      "checked": "2026-10-16T09:10:13.542647+00:00",
       "last_state_change": null
     }
   ]
