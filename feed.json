@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-16T20:55:17.280832+00:00",
+  "generated_at": "2026-10-16T23:06:09.633778+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-16T20:42:34.019603+00:00",
+      "last_seen": "2026-10-16T22:45:57.015716+00:00",
       "score": 46,
       "flags": [
         "+9:no premine",
@@ -45,7 +45,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17416185364",
       "published": "2026-10-15T20:57:21Z",
       "first_seen": "2026-10-16T18:08:45.651450+00:00",
-      "last_seen": "2026-10-16T20:42:28.832159+00:00",
+      "last_seen": "2026-10-16T22:45:53.300465+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -79,7 +79,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17411519812",
       "published": "2026-10-15T19:47:48Z",
       "first_seen": "2026-10-16T17:38:23.153422+00:00",
-      "last_seen": "2026-10-16T20:42:28.851600+00:00",
+      "last_seen": "2026-10-16T21:20:18.505569+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -129,7 +129,7 @@
       "url": "https://github.com/rok291142-prog/16S-blockchain",
       "published": "2026-10-15T12:25:19Z",
       "first_seen": "2026-10-15T12:43:25.781288+00:00",
-      "last_seen": "2026-10-16T20:42:10.535999+00:00",
+      "last_seen": "2026-10-16T22:45:36.016835+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -137,7 +137,7 @@
         "+2:mining",
         "+2:post-quantum"
       ],
-      "snippet": "16S: an experimental post-quantum blockchain written in Python. ML-DSA (Dilithium) signatures, post-quantum TLS between nodes (X25519MLKEM768), Proof of Work mining, BIP-39 seed phrases, open peer-to-peer network with peer discovery. Max supply 88 million coins, no premine. Educational project, not audited. created 2026-10-15T12:25:19Z updated 2026-10-16T05:29:40Z language Python topics"
+      "snippet": "16S: an experimental post-quantum blockchain written in Python. ML-DSA (Dilithium) signatures, post-quantum TLS between nodes (X25519MLKEM768), Proof of Work mining, BIP-39 seed phrases, open peer-to-peer network with peer discovery. Max supply 88 million coins, no premine. Educational project, not audited. created 2026-10-15T12:25:19Z updated 2026-10-16T22:09:02Z language Python topics"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -145,7 +145,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-16T20:42:35.280050+00:00",
+      "last_seen": "2026-10-16T22:45:58.192084+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -260,7 +260,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596695.0",
       "published": null,
       "first_seen": "2026-10-13T14:29:17.983286+00:00",
-      "last_seen": "2026-10-16T20:42:37.515846+00:00",
+      "last_seen": "2026-10-16T22:46:00.447283+00:00",
       "score": 15,
       "flags": [
         "+4:cpu mining",
@@ -301,7 +301,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-13T04:12:53.389972+00:00",
-      "last_seen": "2026-10-16T20:42:36.466762+00:00",
+      "last_seen": "2026-10-16T22:45:59.409707+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -609,7 +609,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596146.0",
       "published": null,
       "first_seen": "2026-10-07T12:20:22.910119+00:00",
-      "last_seen": "2026-10-16T20:42:42.682772+00:00",
+      "last_seen": "2026-10-16T22:46:05.524178+00:00",
       "score": 20,
       "flags": [
         "+7:no presale",
@@ -888,7 +888,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-16T20:42:49.245853+00:00",
+      "last_seen": "2026-10-16T22:46:14.063108+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1020,7 +1020,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-16T20:42:24.681816+00:00",
+      "last_seen": "2026-10-16T22:45:49.587958+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1073,7 +1073,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-16T20:42:32.867275+00:00",
+      "last_seen": "2026-10-16T22:46:06.834504+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -1304,7 +1304,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-16T20:42:50.387189+00:00",
+      "last_seen": "2026-10-16T22:46:15.180928+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1372,7 +1372,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592761.0",
       "published": null,
       "first_seen": "2026-09-28T07:54:27.577982+00:00",
-      "last_seen": "2026-10-16T20:42:38.816161+00:00",
+      "last_seen": "2026-10-16T22:46:01.778821+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -1406,7 +1406,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-16T20:42:27.558675+00:00",
+      "last_seen": "2026-10-16T22:45:52.298100+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1577,7 +1577,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-10-16T20:42:41.499446+00:00",
+      "last_seen": "2026-10-16T22:46:04.367612+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -1885,7 +1885,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-16T20:43:03.830056+00:00",
+      "checked": "2026-10-16T22:46:28.544707+00:00",
       "last_state_change": null
     },
     {
@@ -1893,7 +1893,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-16T20:42:55.820645+00:00",
+      "checked": "2026-10-16T22:46:20.536195+00:00",
       "last_state_change": null
     },
     {
@@ -1901,7 +1901,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-16T20:42:59.825377+00:00",
+      "checked": "2026-10-16T22:46:24.540964+00:00",
       "last_state_change": null
     }
   ]
