@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-17T01:13:02.376393+00:00",
+  "generated_at": "2026-10-17T05:34:38.647351+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,29 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 17451765617",
+      "url": "https://github.com/Instinctes/nightfall#event-17451765617",
+      "published": "2026-10-16T17:43:14Z",
+      "first_seen": "2026-10-17T01:19:54.747007+00:00",
+      "last_seen": "2026-10-17T05:26:38.985100+00:00",
+      "score": 16,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/53\", \"id\": 5888364768, \"node_id\": \"PR_kwDOT2kZwM8AAAABI5RsQw\", \"number\": 53, \"title\": \"research(ledger): confidential Merkle-sum state evidence\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Monzero (XMZ) | RandomX CPU privacy coin | no premine | pool live",
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-17T00:48:27.779385+00:00",
+      "last_seen": "2026-10-17T05:26:46.135019+00:00",
       "score": 46,
       "flags": [
         "+9:no premine",
@@ -45,7 +62,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17416185364",
       "published": "2026-10-15T20:57:21Z",
       "first_seen": "2026-10-16T18:08:45.651450+00:00",
-      "last_seen": "2026-10-17T00:48:23.193808+00:00",
+      "last_seen": "2026-10-17T05:26:39.046321+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -129,7 +146,7 @@
       "url": "https://github.com/rok291142-prog/16S-blockchain",
       "published": "2026-10-15T12:25:19Z",
       "first_seen": "2026-10-15T12:43:25.781288+00:00",
-      "last_seen": "2026-10-17T00:48:05.809028+00:00",
+      "last_seen": "2026-10-17T05:26:21.665676+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -145,7 +162,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-17T00:48:28.948982+00:00",
+      "last_seen": "2026-10-17T05:26:42.732413+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -260,7 +277,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596695.0",
       "published": null,
       "first_seen": "2026-10-13T14:29:17.983286+00:00",
-      "last_seen": "2026-10-17T00:48:31.114414+00:00",
+      "last_seen": "2026-10-17T05:26:48.272878+00:00",
       "score": 15,
       "flags": [
         "+4:cpu mining",
@@ -301,7 +318,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-13T04:12:53.389972+00:00",
-      "last_seen": "2026-10-17T00:48:30.101777+00:00",
+      "last_seen": "2026-10-17T05:26:47.259937+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -583,7 +600,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596193.0",
       "published": null,
       "first_seen": "2026-10-07T20:36:02.801804+00:00",
-      "last_seen": "2026-10-11T20:28:36.479538+00:00",
+      "last_seen": "2026-10-17T05:26:43.873533+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -609,7 +626,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596146.0",
       "published": null,
       "first_seen": "2026-10-07T12:20:22.910119+00:00",
-      "last_seen": "2026-10-17T00:48:35.975165+00:00",
+      "last_seen": "2026-10-17T03:53:29.826645+00:00",
       "score": 20,
       "flags": [
         "+7:no presale",
@@ -648,7 +665,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596113.0",
       "published": null,
       "first_seen": "2026-10-07T01:34:29.001399+00:00",
-      "last_seen": "2026-10-17T00:48:26.660785+00:00",
+      "last_seen": "2026-10-17T05:26:44.978409+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -888,7 +905,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-17T00:48:42.887907+00:00",
+      "last_seen": "2026-10-17T05:26:54.786708+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1020,7 +1037,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-17T00:48:19.396851+00:00",
+      "last_seen": "2026-10-17T05:26:35.049389+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1073,7 +1090,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595802.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:51.529088+00:00",
-      "last_seen": "2026-10-17T00:48:37.259316+00:00",
+      "last_seen": "2026-10-17T01:20:09.176462+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -1304,7 +1321,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-17T00:48:44.110561+00:00",
+      "last_seen": "2026-10-17T05:26:55.906117+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1372,7 +1389,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592761.0",
       "published": null,
       "first_seen": "2026-09-28T07:54:27.577982+00:00",
-      "last_seen": "2026-10-17T00:48:32.344298+00:00",
+      "last_seen": "2026-10-17T05:26:49.513333+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -1406,7 +1423,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-17T00:48:22.156877+00:00",
+      "last_seen": "2026-10-17T05:26:38.008177+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1577,7 +1594,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-10-17T00:48:34.816912+00:00",
+      "last_seen": "2026-10-17T04:24:00.288386+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -1850,31 +1867,6 @@
         "-7:ico"
       ],
       "snippet": "https://tensorcash.org/brand/og-default.png TensorCash: useful proof-of-work for verifiable AI The same GPU forward pass that answers a prompt produces the proof that extends the chain. Mainnet is live. Disclosure: I work on TensorCash. This is a technical intro, not a financial promotion. There is no sale, presale, airdrop, or price talk in this thread and I will not discuss any. The point of the thread is the mechanism, so tear it apart. The one-line claim Proof-of-work does not have to be wasted. On TensorCash the \"work\" is a real model forward pass serving an actual prompt, and the proof that the model ran is what secures the block. Same security argument as any PoW (costly to produce, c"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] KERYX | Live ON-CHAIN AI Inference | Proof of Model | GPU PoW | 10 BPS",
-      "url": "https://bitcointalk.org/index.php?topic=5580923.0",
-      "published": null,
-      "first_seen": "2026-09-21T14:20:43.225786+00:00",
-      "last_seen": "2026-10-11T05:33:16.023812+00:00",
-      "score": 37,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+6:no ico",
-        "+2:launch",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+4:inference",
-        "+3:compute",
-        "+1:decentralized",
-        "-7:ico",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Keryx is not just another PoW coin. It is a decentralized infrastructure layer for verifiable AI. We are building a BlockDAG-based network where mining serves a dual purpose: securing the ledger and providing verifiable compute power for Small Language Models (SLM). 🧠 The Core Thesis Current AI inference is either closed-source and centralized or lacks cryptographic proof of execution. Keryx changes this by integrating Proof-of-Inference (OPoI) directly into the consensus mechanism. Miners do not just solve hashes; they execute deterministic AI tasks that the network can validate. 🛠 Technical Specifications Consensus: BlockDAG (High throughput, low latency). Mining Algorithm (KeryxHash): A s"
     }
   ],
   "announcement_backtraces": [],
@@ -1885,7 +1877,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-17T00:48:58.785931+00:00",
+      "checked": "2026-10-17T05:27:09.306220+00:00",
       "last_state_change": null
     },
     {
@@ -1893,7 +1885,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-17T00:48:50.776411+00:00",
+      "checked": "2026-10-17T05:27:01.292531+00:00",
       "last_state_change": null
     },
     {
@@ -1901,7 +1893,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-17T00:48:54.781293+00:00",
+      "checked": "2026-10-17T05:27:05.301255+00:00",
       "last_state_change": null
     }
   ]
