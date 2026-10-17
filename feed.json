@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-17T18:33:24.488133+00:00",
+  "generated_at": "2026-10-17T20:52:38.589651+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,52 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][NRB] NERBUS | CPU Mining | PoW/PoS | Zero Premine | 209M NRB",
+      "url": "https://bitcointalk.org/index.php?topic=5597169.0",
+      "published": null,
+      "first_seen": "2026-10-17T20:50:53.106423+00:00",
+      "last_seen": "2026-10-17T20:50:53.106423+00:00",
+      "score": 26,
+      "flags": [
+        "+9:zero premine",
+        "+5:genesis",
+        "+4:proof of work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "NERBUS NRB · VerusHash 2.2 · Hybrid PoW/PoS · Zero premine Website | Block Explorer | Mining Pool | How to Mine | Source Introducing Nerbus Nerbus is an independent cryptocurrency network with NRB as its native coin. It combines CPU mining through VerusHash 2.2 with the hybrid Proof of Work / Proof of Stake consensus inherited from VerusCoin. The core parameters are straightforward: a 30-second target block interval, an initial reward of 100 NRB per block, zero premine and a maximum cumulative block reward schedule of 209,000,000 NRB. The genesis block pays no reward. The project is based on VerusCoin v1.2.18. Nerbus has its own network identity, genesis block and issuance parameters. Its pu"
+    },
+    {
+      "source": "bitcointalk:Mining (Altcoins)",
+      "title": "parnianminer v2.5  CPU + NVIDIA GPU Mining for PARC",
+      "url": "https://bitcointalk.org/index.php?topic=5597148.0",
+      "published": null,
+      "first_seen": "2026-10-17T18:47:46.794982+00:00",
+      "last_seen": "2026-10-17T20:51:06.167861+00:00",
+      "score": 21,
+      "flags": [
+        "+2:open source",
+        "+4:proof-of-work",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "⛏ parnianminer v2.5 The official CPU + NVIDIA GPU miner for ParnianCoin (PARC) RandomHash2 · Open source · Windows · Linux · HiveOS · mmpOS 📥 DOWNLOAD | 🌐 POOL | 🏠 WEBSITE | 💬 DISCORD 🚀 Introduction parnianminer is the open-source miner for ParnianCoin (PARC) , a proof-of-work coin based on the RandomHash2 algorithm. With v2.5 , PARC is no longer CPU-only: you can now mine on NVIDIA GPUs , on CPUs , or on both at the same time , using every piece of hardware you have. PARC already has a full live ecosystem: web wallet , block explorer , mining pools , a PARC/LTC market and a payment gateway for online shops. 🔥 What's New in v2.5 NVIDIA GPU mining added alongside CPU mining Driver only : no C"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] [BTCK] Bitcoin K | kHeavyHash BlockDAG | Mainnet v3.2.13 | SOLO + PPLNS",
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-17T18:16:17.486631+00:00",
+      "last_seen": "2026-10-17T20:50:55.465693+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -39,7 +80,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597102.0",
       "published": null,
       "first_seen": "2026-10-17T11:06:47.611720+00:00",
-      "last_seen": "2026-10-17T18:16:22.077867+00:00",
+      "last_seen": "2026-10-17T20:50:59.879421+00:00",
       "score": 22,
       "flags": [
         "+9:no premine",
@@ -60,7 +101,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17451765617",
       "published": "2026-10-16T17:43:14Z",
       "first_seen": "2026-10-17T01:19:54.747007+00:00",
-      "last_seen": "2026-10-17T18:16:12.387640+00:00",
+      "last_seen": "2026-10-17T20:50:43.080141+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -77,8 +118,8 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-17T18:16:27.525584+00:00",
-      "score": 46,
+      "last_seen": "2026-10-17T20:50:54.260804+00:00",
+      "score": 43,
       "flags": [
         "+9:no premine",
         "+6:no ico",
@@ -94,7 +135,6 @@
         "+2:emission",
         "+2:privacy",
         "+3:not listed",
-        "+3:no exchange",
         "+1:p2p",
         "-7:ico",
         "-8:developer fee",
@@ -192,7 +232,7 @@
       "url": "https://github.com/rok291142-prog/16S-blockchain",
       "published": "2026-10-15T12:25:19Z",
       "first_seen": "2026-10-15T12:43:25.781288+00:00",
-      "last_seen": "2026-10-17T18:15:54.906996+00:00",
+      "last_seen": "2026-10-17T20:20:10.225739+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -208,7 +248,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-17T18:16:16.280159+00:00",
+      "last_seen": "2026-10-17T20:50:52.073626+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -323,7 +363,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596695.0",
       "published": null,
       "first_seen": "2026-10-13T14:29:17.983286+00:00",
-      "last_seen": "2026-10-17T18:16:19.876892+00:00",
+      "last_seen": "2026-10-17T20:50:57.701656+00:00",
       "score": 15,
       "flags": [
         "+4:cpu mining",
@@ -646,7 +686,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596193.0",
       "published": null,
       "first_seen": "2026-10-07T20:36:02.801804+00:00",
-      "last_seen": "2026-10-17T18:16:25.259073+00:00",
+      "last_seen": "2026-10-17T20:51:02.317192+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -711,7 +751,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596113.0",
       "published": null,
       "first_seen": "2026-10-07T01:34:29.001399+00:00",
-      "last_seen": "2026-10-17T18:16:26.434089+00:00",
+      "last_seen": "2026-10-17T20:51:03.455088+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -825,7 +865,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592225.0",
       "published": null,
       "first_seen": "2026-10-05T20:49:57.978084+00:00",
-      "last_seen": "2026-10-17T18:16:23.423281+00:00",
+      "last_seen": "2026-10-17T20:51:01.139436+00:00",
       "score": 29,
       "flags": [
         "+9:no premine",
@@ -951,7 +991,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-17T18:16:33.374917+00:00",
+      "last_seen": "2026-10-17T20:51:10.196733+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1083,7 +1123,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-17T18:16:08.588392+00:00",
+      "last_seen": "2026-10-17T20:50:39.305575+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1190,7 +1230,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-17T18:16:18.784745+00:00",
+      "last_seen": "2026-10-17T20:50:56.673697+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -1367,7 +1407,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-17T18:16:34.515186+00:00",
+      "last_seen": "2026-10-17T20:51:11.346763+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1469,7 +1509,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-17T18:16:11.401820+00:00",
+      "last_seen": "2026-10-17T20:50:42.126828+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1791,7 +1831,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-10-17T18:16:21.046879+00:00",
+      "last_seen": "2026-10-17T20:50:58.853134+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -1804,60 +1844,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "ReSatoshi An independent Proof-of-Work blockchain with UTXO recycling ReSatoshi is an independent SHA-256d blockchain based on Bitcoin Core 31.0. It starts from its own genesis block, with no inherited Bitcoin balances. Its main feature is simple: unspent outputs eventually expire, and their value returns to circulation through mining. ReSatoshi is not affiliated with Satoshi Nakamoto, Bitcoin, or the Bitcoin Core project. How recycling works A transaction output is a piece of your balance that you can spend. These unspent outputs are called UTXOs. Each output expires 5,256,000 blocks after its creationabout 100 years at the 10-minute target block time. Expired value moves into the Recycle "
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][TESTNET] Slithy Tove (SLTHY) | CPU mining | Windows and Linux beta",
-      "url": "https://bitcointalk.org/index.php?topic=5594823.0",
-      "published": null,
-      "first_seen": "2026-09-22T17:01:55.358360+00:00",
-      "last_seen": "2026-09-25T04:29:44.835382+00:00",
-      "score": 17,
-      "flags": [
-        "+9:no premine",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+2:mining",
-        "+3:compute",
-        "-10:private sale"
-      ],
-      "snippet": "Hi everyone, Im Dan. I am hoping this is the right place for this post. If not please let me know and I'll move it somewhere else. We are developing Slithy Tove, which is a fork from Bitcoin Core, and looking for people to try the public beta on Windows and Linux. https://www.slithy.io The mission is to help more kids learn to read. Slithy uses CPU mining and directs 10% of each blocks newly created coins to a literacy treasury. The intention is to use that fund for books and reading programs. After a successful beta and we are able to prove that everything is working correctly, the plan is to eventually get the coin trading on various exchanges to gain value for the literacy treasury. We'"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[PRE-ANN] Zecnero (ZMR) | Zcash-derived privacy | RandomX CPU mining | No premin",
-      "url": "https://bitcointalk.org/index.php?topic=5594747.0",
-      "published": null,
-      "first_seen": "2026-09-21T22:03:54.305826+00:00",
-      "last_seen": "2026-09-24T20:48:29.317160+00:00",
-      "score": 21,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof of work",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+3:compute",
-        "+2:privacy",
-        "+1:decentralized",
-        "+1:p2p",
-        "+5:pre-ann",
-        "-8:presale",
-        "-7:ico",
-        "-5:points",
-        "-8:premine",
-        "+4:dated-launch",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Zecnero (ZMR) Shielded payments from Zcash. RandomX mining for the computer you already own. PRE-ANNOUNCEMENT · No testnet yet · No launch date set Website | Protocol Specification | GitLab | Discord | X What this is Zecnero is a fork of Zebra, the Rust node for Zcash. It keeps the Sapling and Orchard shielded pools and swaps Equihash for RandomX, the CPU-oriented proof of work that has secured Monero since 2019. The goal is narrow. No machine class should hold a large efficiency edge per watt over a normal desktop CPU. Farms can still win on scale. They can't win by owning better hardware, because better hardware for RandomX looks like the CPU you already have. This thread exists so the des"
     }
   ],
   "announcement_backtraces": [],
@@ -1868,7 +1854,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-17T18:16:49.832750+00:00",
+      "checked": "2026-10-17T20:51:24.806637+00:00",
       "last_state_change": null
     },
     {
@@ -1876,7 +1862,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-17T18:16:41.823552+00:00",
+      "checked": "2026-10-17T20:51:16.796715+00:00",
       "last_state_change": null
     },
     {
@@ -1884,7 +1870,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-17T18:16:45.828226+00:00",
+      "checked": "2026-10-17T20:51:20.801961+00:00",
       "last_state_change": null
     }
   ]
