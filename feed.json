@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-17T16:21:39.549316+00:00",
+  "generated_at": "2026-10-17T18:33:24.488133+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,36 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] [BTCK] Bitcoin K | kHeavyHash BlockDAG | Mainnet v3.2.13 | SOLO + PPLNS",
+      "url": "https://bitcointalk.org/index.php?topic=5596646.0",
+      "published": null,
+      "first_seen": "2026-10-17T18:16:17.486631+00:00",
+      "last_seen": "2026-10-17T18:16:17.486631+00:00",
+      "score": 21,
+      "flags": [
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+4:proof-of-work",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+4:inference",
+        "+3:compute",
+        "+2:privacy",
+        "-10:private sale",
+        "-7:ico"
+      ],
+      "snippet": "Latest release: BTC-K 3.2.13 Wallet synchronization and multiwallet switching fixes, bounded node transaction processing, and PPLNS accounting/payment fixes are live. PPLNS automatic payouts are enabled. An operator-triggered initial catch-up batch of 17 transactions paid 8,194.10896699 BTC-K and was settled by the production confirmation observer. New-payment batches are scheduled at UTC 00:00, 06:00, 12:00 and 18:00, with a 5 BTC-K minimum and six-confirmation settlement. Balances below the minimum remain credited; large balances may be paid in parts. Signed v3.2.13 release and checksums Mining setup, hashrate tiers, fees and payment details Original mainnet announcement (v3.2.6; retained "
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] 16S  post-quantum PoW coin in Python | No premine | Mainnet live",
       "url": "https://bitcointalk.org/index.php?topic=5597102.0",
       "published": null,
       "first_seen": "2026-10-17T11:06:47.611720+00:00",
-      "last_seen": "2026-10-17T16:13:18.465653+00:00",
+      "last_seen": "2026-10-17T18:16:22.077867+00:00",
       "score": 22,
       "flags": [
         "+9:no premine",
@@ -35,7 +60,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17451765617",
       "published": "2026-10-16T17:43:14Z",
       "first_seen": "2026-10-17T01:19:54.747007+00:00",
-      "last_seen": "2026-10-17T16:13:12.123472+00:00",
+      "last_seen": "2026-10-17T18:16:12.387640+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -52,7 +77,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-17T16:13:24.505070+00:00",
+      "last_seen": "2026-10-17T18:16:27.525584+00:00",
       "score": 46,
       "flags": [
         "+9:no premine",
@@ -167,7 +192,7 @@
       "url": "https://github.com/rok291142-prog/16S-blockchain",
       "published": "2026-10-15T12:25:19Z",
       "first_seen": "2026-10-15T12:43:25.781288+00:00",
-      "last_seen": "2026-10-17T16:12:54.503184+00:00",
+      "last_seen": "2026-10-17T18:15:54.906996+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -183,7 +208,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-17T16:13:16.210045+00:00",
+      "last_seen": "2026-10-17T18:16:16.280159+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -298,7 +323,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596695.0",
       "published": null,
       "first_seen": "2026-10-13T14:29:17.983286+00:00",
-      "last_seen": "2026-10-17T16:13:19.559466+00:00",
+      "last_seen": "2026-10-17T18:16:19.876892+00:00",
       "score": 15,
       "flags": [
         "+4:cpu mining",
@@ -339,7 +364,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-13T04:12:53.389972+00:00",
-      "last_seen": "2026-10-17T16:13:25.667603+00:00",
+      "last_seen": "2026-10-17T17:46:17.095864+00:00",
       "score": 24,
       "flags": [
         "+6:no ico",
@@ -621,7 +646,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596193.0",
       "published": null,
       "first_seen": "2026-10-07T20:36:02.801804+00:00",
-      "last_seen": "2026-10-17T16:13:22.154508+00:00",
+      "last_seen": "2026-10-17T18:16:25.259073+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -686,7 +711,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596113.0",
       "published": null,
       "first_seen": "2026-10-07T01:34:29.001399+00:00",
-      "last_seen": "2026-10-17T16:13:23.325822+00:00",
+      "last_seen": "2026-10-17T18:16:26.434089+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -800,7 +825,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592225.0",
       "published": null,
       "first_seen": "2026-10-05T20:49:57.978084+00:00",
-      "last_seen": "2026-10-17T16:13:20.911569+00:00",
+      "last_seen": "2026-10-17T18:16:23.423281+00:00",
       "score": 29,
       "flags": [
         "+9:no premine",
@@ -926,7 +951,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-17T16:13:31.380171+00:00",
+      "last_seen": "2026-10-17T18:16:33.374917+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1058,7 +1083,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-17T16:13:08.354603+00:00",
+      "last_seen": "2026-10-17T18:16:08.588392+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1165,7 +1190,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-08T15:38:58.601005+00:00",
+      "last_seen": "2026-10-17T18:16:18.784745+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -1342,7 +1367,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-17T16:13:32.559414+00:00",
+      "last_seen": "2026-10-17T18:16:34.515186+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1444,7 +1469,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-17T16:13:11.154692+00:00",
+      "last_seen": "2026-10-17T18:16:11.401820+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1766,7 +1791,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593547.0",
       "published": null,
       "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-10-17T16:13:17.425709+00:00",
+      "last_seen": "2026-10-17T18:16:21.046879+00:00",
       "score": 30,
       "flags": [
         "+9:no premine",
@@ -1833,36 +1858,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "Zecnero (ZMR) Shielded payments from Zcash. RandomX mining for the computer you already own. PRE-ANNOUNCEMENT · No testnet yet · No launch date set Website | Protocol Specification | GitLab | Discord | X What this is Zecnero is a fork of Zebra, the Rust node for Zcash. It keeps the Sapling and Orchard shielded pools and swaps Equihash for RandomX, the CPU-oriented proof of work that has secured Monero since 2019. The goal is narrow. No machine class should hold a large efficiency edge per watt over a normal desktop CPU. Farms can still win on scale. They can't win by owning better hardware, because better hardware for RandomX looks like the CPU you already have. This thread exists so the des"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "⛏️ [ANN][ZQV][RANDOMX] Zerqavon  Launch 🚀Mainnet Live🚀| Exchange SOON🚀",
-      "url": "https://bitcointalk.org/index.php?topic=5590497.0",
-      "published": null,
-      "first_seen": "2026-09-21T21:32:29.352795+00:00",
-      "last_seen": "2026-09-24T17:43:34.448356+00:00",
-      "score": 12,
-      "flags": [
-        "+9:no premine",
-        "+7:no presale",
-        "+6:no ico",
-        "+5:mainnet",
-        "+2:launch",
-        "+4:proof of work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+2:privacy",
-        "-8:presale",
-        "-7:ico",
-        "-10:founder allocation",
-        "-5:points",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "ZERQAVON (ZQV) Open-source CPU mining · RandomX · Privacy-focused Proof of Work MAINNET August 15 No premine · No ICO · No presale · No founder allocation What is Zerqavon? Zerqavon is an open-source, CPU-mineable privacy cryptocurrency built on a CryptoNote-derived codebase. Its proof of work, ZQVXPOW v1 , uses the established RandomX workload with a Zerqavon-specific, domain-separated mining blob. The network was created around a simple principle: transparent code, public mining and no privately allocated supply. Anyone can inspect the wallet, daemon and miner repositories, run a node and verify the monetary rules independently. Why mine ZQV? CPU-oriented RandomX mining with the official o"
     }
   ],
   "announcement_backtraces": [],
@@ -1873,7 +1868,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-17T16:13:46.010455+00:00",
+      "checked": "2026-10-17T18:16:49.832750+00:00",
       "last_state_change": null
     },
     {
@@ -1881,7 +1876,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-17T16:13:38.000754+00:00",
+      "checked": "2026-10-17T18:16:41.823552+00:00",
       "last_state_change": null
     },
     {
@@ -1889,7 +1884,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-17T16:13:42.005704+00:00",
+      "checked": "2026-10-17T18:16:45.828226+00:00",
       "last_state_change": null
     }
   ]
