@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-18T13:09:40.175883+00:00",
+  "generated_at": "2026-10-18T16:30:16.647574+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,30 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "Finalis testnet-1: BFT finality and confidential transactions from genesis",
+      "url": "https://bitcointalk.org/index.php?topic=5597234.0",
+      "published": null,
+      "first_seen": "2026-10-18T15:51:25.051643+00:00",
+      "last_seen": "2026-10-18T16:22:13.018559+00:00",
+      "score": 22,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+2:open source",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Finalis testnet-1: BFT finality and confidential transactions from genesis Announcing the first public testnet of Finalis. Finalis is a UTXO blockchain where blocks are final once a quorum of the validator committee signs them. There are no reorgs and no waiting for confirmations: a transaction in a finalized block cannot be reversed. Amounts can be hidden. A confidential output carries a Pedersen commitment instead of a value, with a range proof that it is not negative. Validators check that inputs and outputs balance without learning the amounts. This is on from the first block, not added later. The cryptography is secp256k1-zkp, the same library used by Elements and Liquid. Some propertie"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][NRB] NERBUS | CPU Mining | PoW/PoS | Zero Premine | 209M NRB",
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-18T12:46:34.111737+00:00",
+      "last_seen": "2026-10-18T16:22:10.556719+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -36,7 +55,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-18T12:46:47.295017+00:00",
+      "last_seen": "2026-10-18T16:22:22.896771+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -55,7 +74,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-18T12:46:37.704011+00:00",
+      "last_seen": "2026-10-18T16:22:16.791944+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -101,7 +120,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17451765617",
       "published": "2026-10-16T17:43:14Z",
       "first_seen": "2026-10-17T01:19:54.747007+00:00",
-      "last_seen": "2026-10-18T12:46:29.082699+00:00",
+      "last_seen": "2026-10-18T16:22:05.440301+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -118,7 +137,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-18T12:46:33.068851+00:00",
+      "last_seen": "2026-10-18T16:22:09.407429+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -248,7 +267,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-18T12:46:35.307622+00:00",
+      "last_seen": "2026-10-18T15:51:23.982441+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -363,7 +382,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596695.0",
       "published": null,
       "first_seen": "2026-10-13T14:29:17.983286+00:00",
-      "last_seen": "2026-10-18T12:46:39.984387+00:00",
+      "last_seen": "2026-10-18T16:22:19.097166+00:00",
       "score": 15,
       "flags": [
         "+4:cpu mining",
@@ -686,7 +705,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596193.0",
       "published": null,
       "first_seen": "2026-10-07T20:36:02.801804+00:00",
-      "last_seen": "2026-10-18T12:46:43.561876+00:00",
+      "last_seen": "2026-10-18T13:48:19.872785+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -865,7 +884,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592225.0",
       "published": null,
       "first_seen": "2026-10-05T20:49:57.978084+00:00",
-      "last_seen": "2026-10-18T12:46:42.396146+00:00",
+      "last_seen": "2026-10-18T16:22:14.333116+00:00",
       "score": 29,
       "flags": [
         "+9:no premine",
@@ -991,7 +1010,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-18T12:46:51.391745+00:00",
+      "last_seen": "2026-10-18T16:22:27.012113+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1123,7 +1142,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-18T12:46:25.489268+00:00",
+      "last_seen": "2026-10-18T16:22:01.715289+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1142,7 +1161,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-18T12:46:36.620307+00:00",
+      "last_seen": "2026-10-18T16:22:15.607544+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1230,7 +1249,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-18T12:46:38.925612+00:00",
+      "last_seen": "2026-10-18T16:22:18.036196+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -1407,7 +1426,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595383.0",
       "published": null,
       "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-18T12:46:52.535170+00:00",
+      "last_seen": "2026-10-18T14:50:41.506793+00:00",
       "score": 28,
       "flags": [
         "+4:proof of work",
@@ -1509,7 +1528,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-18T12:46:28.143715+00:00",
+      "last_seen": "2026-10-18T16:22:04.497996+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1824,26 +1843,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "HIDERING (HRG) Privacy first. Premine zero. CPU-only. Website: https://hidering.org | GitHub: https://github.com/AB-lab113/hidering | Explorer: https://explorer.hidering.org ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ What is HIDERING? ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ HIDERING is a privacy-focused cryptocurrency forked from Monero v0.18.1 with hardened defaults and additional privacy primitives baked in at the consensus layer. The chain launched as a 100% fair-launch proof-of-work network: no premine, no presale, no team allocation, no instamine  block 0 contains a NUMS (Nothing-Up-My-Sleeve) coinbase that is cryptographically unspendable (see GENESIS_PROOF.md in repo). ━━━━━━━━━━━━━━━━━━━━━━━"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] ReSatoshi | Bitcoin Core + 100-Year UTXO Recycling | No Premine",
-      "url": "https://bitcointalk.org/index.php?topic=5593547.0",
-      "published": null,
-      "first_seen": "2026-09-22T18:04:44.128490+00:00",
-      "last_seen": "2026-10-18T12:46:41.094640+00:00",
-      "score": 30,
-      "flags": [
-        "+9:no premine",
-        "+5:genesis",
-        "+4:proof-of-work",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+1:p2p",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "ReSatoshi An independent Proof-of-Work blockchain with UTXO recycling ReSatoshi is an independent SHA-256d blockchain based on Bitcoin Core 31.0. It starts from its own genesis block, with no inherited Bitcoin balances. Its main feature is simple: unspent outputs eventually expire, and their value returns to circulation through mining. ReSatoshi is not affiliated with Satoshi Nakamoto, Bitcoin, or the Bitcoin Core project. How recycling works A transaction output is a piece of your balance that you can spend. These unspent outputs are called UTXOs. Each output expires 5,256,000 blocks after its creationabout 100 years at the 10-minute target block time. Expired value moves into the Recycle "
     }
   ],
   "announcement_backtraces": [],
@@ -1854,7 +1853,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-18T12:47:07.398909+00:00",
+      "checked": "2026-10-18T16:22:40.479103+00:00",
       "last_state_change": null
     },
     {
@@ -1862,7 +1861,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-18T12:46:59.391685+00:00",
+      "checked": "2026-10-18T16:22:32.469920+00:00",
       "last_state_change": null
     },
     {
@@ -1870,7 +1869,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-18T12:47:03.394113+00:00",
+      "checked": "2026-10-18T16:22:36.474648+00:00",
       "last_state_change": null
     }
   ]
