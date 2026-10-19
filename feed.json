@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-19T17:17:36.241690+00:00",
+  "generated_at": "2026-10-19T21:33:08.626371+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,47 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 17638108509",
+      "url": "https://github.com/Instinctes/nightfall#event-17638108509",
+      "published": "2026-10-19T17:34:13Z",
+      "first_seen": "2026-10-19T20:02:25.227818+00:00",
+      "last_seen": "2026-10-19T21:05:18.869963+00:00",
+      "score": 15,
+      "flags": [
+        "+5:genesis",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
+    },
+    {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 17637996652",
+      "url": "https://github.com/Instinctes/nightfall#event-17637996652",
+      "published": "2026-10-19T17:32:00Z",
+      "first_seen": "2026-10-19T19:31:32.304918+00:00",
+      "last_seen": "2026-10-19T21:05:18.873272+00:00",
+      "score": 12,
+      "flags": [
+        "+5:genesis",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy",
+        "+1:p2p"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/54\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/54/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/54/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/54/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/54\", \"id\": 5928050891, \"node_id\": \"PR_kwDOT2kZwM8AAAABJYVqPw\", \"number\": 54, \"title\": \"ci(release): enforce Cargo.lock for all official release builds\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][TESTNET] Midwimble | MimbleWimble, merge-mined with Midstate | No premine",
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-19T13:20:46.671506+00:00",
-      "last_seen": "2026-10-19T16:56:35.444400+00:00",
+      "last_seen": "2026-10-19T21:05:28.908331+00:00",
       "score": 35,
       "flags": [
         "+9:no premine",
@@ -39,7 +74,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597234.0",
       "published": null,
       "first_seen": "2026-10-18T15:51:25.051643+00:00",
-      "last_seen": "2026-10-19T16:56:40.309861+00:00",
+      "last_seen": "2026-10-19T21:05:33.729054+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -58,7 +93,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-19T16:56:36.657308+00:00",
+      "last_seen": "2026-10-19T21:05:30.085240+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -80,7 +115,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-19T16:56:45.619019+00:00",
+      "last_seen": "2026-10-19T21:05:38.828581+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -99,7 +134,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-19T16:56:34.280859+00:00",
+      "last_seen": "2026-10-19T21:05:27.757957+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -145,7 +180,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17451765617",
       "published": "2026-10-16T17:43:14Z",
       "first_seen": "2026-10-17T01:19:54.747007+00:00",
-      "last_seen": "2026-10-19T16:56:26.480977+00:00",
+      "last_seen": "2026-10-19T21:05:18.884222+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -162,7 +197,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-19T16:56:31.769939+00:00",
+      "last_seen": "2026-10-19T21:05:25.338778+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -503,7 +538,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-13T19:08:45.057296+00:00",
+      "last_seen": "2026-10-19T21:05:37.777264+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -582,13 +617,15 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-10-11T16:21:49.065484+00:00",
-      "score": 29,
+      "last_seen": "2026-10-19T21:05:26.614664+00:00",
+      "score": 43,
       "flags": [
+        "+9:no premine",
         "+7:fair launch",
         "+6:no ico",
         "+5:mainnet",
         "+5:genesis",
+        "+5:block 0",
         "+2:launch",
         "+2:pow",
         "+4:gpu mining",
@@ -602,7 +639,7 @@
         "-8:dev fee",
         "+3:runnable-artifact"
       ],
-      "snippet": "The physical qubit threshold required to break secp256k1 is dropping faster than anticipated. However, mere algorithmic substitution is insufficient. In existing PoW networks, Shor's algorithm doesn't just threaten static addresses; it transforms the 10-minute mempool confirmation delay into a lethal attack surface for quantum front-running. I have published the architectural blueprint for Quantum Bitcoin (QBTC) . Core Implementations: Consensus Layer: Full deprecation of ECDSA. L1 integration of NIST-certified ML-DSA (Module-Lattice-Based Digital Signature). Mempool Isolation: A base-layer Commit-Reveal scheme. Initiators broadcast a hashed intent (SHA256(PK || Tx_data || Salt)) first, reve"
+      "snippet": "Background: Why Quantum Bitcoin (Q-BTC)? The physical qubit threshold required to break elliptic-curve cryptography (secp256k1) is dropping faster than anticipated. In legacy PoW networks, Shor's algorithm does not just threaten dormant addresses with exposed public keys; broadcasting a standard transaction exposes the public key in the mempool, turning the 10-minute confirmation window into a direct attack surface. Meanwhile, retrofitting legacy chains faces severe coordination bottlenecks, millions of unmigrated coins, and block-size bloat from large post-quantum signatures. Quantum Bitcoin (Q-BTC) was built from scratch in Rust to solve this cleanly from Block 0 - combining Bitcoin's soun"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -909,7 +946,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592225.0",
       "published": null,
       "first_seen": "2026-10-05T20:49:57.978084+00:00",
-      "last_seen": "2026-10-19T16:56:41.568044+00:00",
+      "last_seen": "2026-10-19T21:05:35.116642+00:00",
       "score": 29,
       "flags": [
         "+9:no premine",
@@ -1035,7 +1072,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-19T16:56:49.618174+00:00",
+      "last_seen": "2026-10-19T21:05:42.669709+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1167,7 +1204,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-19T16:56:22.717752+00:00",
+      "last_seen": "2026-10-19T21:05:15.188128+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1186,7 +1223,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-19T16:56:43.010799+00:00",
+      "last_seen": "2026-10-19T17:59:04.627030+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1553,7 +1590,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-19T16:56:25.485756+00:00",
+      "last_seen": "2026-10-19T21:05:17.939225+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1724,7 +1761,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-10-19T16:56:30.563283+00:00",
+      "last_seen": "2026-10-19T21:05:22.896259+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -1784,60 +1821,6 @@
         "-8:premine"
       ],
       "snippet": "Zecnero (ZMR) Every payment shielded. Mined on the computer you already own. ANNOUNCEMENT · Testnet live since September 24, 2026 · Mainnet planned for Q4 2026 Website | Mining guide | Explorer | Pool | Protocol Specification | GitLab | Discord | X What Zecnero is Zecnero is a shielded-only privacy coin. Every payment goes through a zero-knowledge shielded pool, so sender, receiver and amount stay private on-chain. There is no transparent payment to fall back on and no opt-in step to forget. It's a fork of Zebra, the Rust node for Zcash. It keeps Zcash's Sapling and Orchard shielded pools and replaces Equihash with RandomX, the CPU-oriented proof of work that has secured Monero since 2019. N"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Orange (OAG) | RandomX CPU-only | No premine | Solo mining | Rust",
-      "url": "https://bitcointalk.org/index.php?topic=5594978.0",
-      "published": null,
-      "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-19T16:56:37.911779+00:00",
-      "score": 39,
-      "flags": [
-        "+9:no premine",
-        "+6:no ico",
-        "+5:mainnet",
-        "+5:genesis",
-        "+4:proof of work",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+3:compute",
-        "+2:privacy",
-        "+3:no exchange",
-        "+1:p2p",
-        "-7:ico",
-        "-8:premine",
-        "+4:dated-launch",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Orange (OAG) A small CPU-mined UTXO coin. RandomX proof of work, written in Rust. No premine, no ICO, no price  just a coin you can mine on your own PC. Website | Explorer | Web wallet | Download | Source | Discord Latest version: v0.5.0  questions and chat on Discord What this is Orange is a plain UTXO blockchain: no smart contracts, no script language, no privacy features. It is a hobby project by one university student in Japan. Mainnet has been running since September 2026 with a handful of miners, and I am looking for people who will mine it, run nodes, or just try it out. Live numbers (hashrate, holders, how the coins are spread) are on the explorer: explorer.oagcoin.org/stats What t"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][MAJ] Majolica | RandomX PoW | CPU-Mineable | Fixed Before Block Zero",
-      "url": "https://bitcointalk.org/index.php?topic=5594922.0",
-      "published": null,
-      "first_seen": "2026-09-23T16:38:19.045541+00:00",
-      "last_seen": "2026-09-23T17:38:53.954408+00:00",
-      "score": 27,
-      "flags": [
-        "+5:genesis",
-        "+5:block zero",
-        "+2:launch",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+1:p2p",
-        "-8:dev fee",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "About Built to a fixed recipe, fired once. Majolica (MAJ) is a proof-of-work network running RandomX on ordinary processors. The name comes from tin-glazed pottery: the painter completes the whole picture while the surface is still raw, and the kiln then simply preserves it - nothing can be retouched afterwards. The same order governs this network. The cap, the block cadence, the stage-1 reward, the halving rhythm and the difficulty rule were written into public source code and published before block zero existed, so nothing was tuned after launch, because there was no launch decision left to make. Zero coins existed before the genesis block. Every coin in existence came out of a block rewar"
     }
   ],
   "announcement_backtraces": [],
@@ -1848,7 +1831,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-19T16:57:03.139874+00:00",
+      "checked": "2026-10-19T21:05:56.002328+00:00",
       "last_state_change": null
     },
     {
@@ -1856,7 +1839,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-19T16:56:55.130028+00:00",
+      "checked": "2026-10-19T21:05:47.992940+00:00",
       "last_state_change": null
     },
     {
@@ -1864,7 +1847,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-19T16:56:59.135102+00:00",
+      "checked": "2026-10-19T21:05:51.997851+00:00",
       "last_state_change": null
     }
   ]
