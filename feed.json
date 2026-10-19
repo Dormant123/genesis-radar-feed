@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-19T10:57:47.584820+00:00",
+  "generated_at": "2026-10-19T17:17:36.241690+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,36 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][TESTNET] Midwimble | MimbleWimble, merge-mined with Midstate | No premine",
+      "url": "https://bitcointalk.org/index.php?topic=5597306.0",
+      "published": null,
+      "first_seen": "2026-10-19T13:20:46.671506+00:00",
+      "last_seen": "2026-10-19T16:56:35.444400+00:00",
+      "score": 35,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+2:miner",
+        "+2:mining",
+        "+3:compute",
+        "+2:privacy",
+        "+2:post-quantum",
+        "-5:points",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Midwimble MimbleWimble privacy chain, merge-mined with Midstate, with hash-based recovery if ECC is broken Status: testnet. Research code, not audited. Do not put real value on it. Mainnet is planned for 31 October 2026 unless testnet finds something that needs more time. Launch parameters will be posted here before genesis. Code (GPL-3.0): https://github.com/ciphernom/midwimble Website: https://ciphernom.github.io/midwimble/ Browser wallet (testnet): https://ciphernom.github.io/midwimble/wallet/ Explorer (testnet): https://mw.cypherpunk.gold I first described this in the Midstate thread ( https://bitcointalk.org/index.php?topic=5586180.0 ). It needs its own thread now, and some numbers have"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "Finalis testnet-1: BFT finality and confidential transactions from genesis",
       "url": "https://bitcointalk.org/index.php?topic=5597234.0",
       "published": null,
       "first_seen": "2026-10-18T15:51:25.051643+00:00",
-      "last_seen": "2026-10-19T10:46:09.735453+00:00",
+      "last_seen": "2026-10-19T16:56:40.309861+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -33,7 +58,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-19T10:46:05.964305+00:00",
+      "last_seen": "2026-10-19T16:56:36.657308+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -55,7 +80,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-19T10:46:18.334762+00:00",
+      "last_seen": "2026-10-19T16:56:45.619019+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -74,7 +99,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-19T10:46:13.466614+00:00",
+      "last_seen": "2026-10-19T16:56:34.280859+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -120,7 +145,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17451765617",
       "published": "2026-10-16T17:43:14Z",
       "first_seen": "2026-10-17T01:19:54.747007+00:00",
-      "last_seen": "2026-10-19T10:45:59.584868+00:00",
+      "last_seen": "2026-10-19T16:56:26.480977+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -137,7 +162,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-19T10:46:03.422778+00:00",
+      "last_seen": "2026-10-19T16:56:31.769939+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -382,7 +407,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596695.0",
       "published": null,
       "first_seen": "2026-10-13T14:29:17.983286+00:00",
-      "last_seen": "2026-10-19T10:46:15.685968+00:00",
+      "last_seen": "2026-10-19T13:51:54.779029+00:00",
       "score": 15,
       "flags": [
         "+4:cpu mining",
@@ -884,7 +909,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592225.0",
       "published": null,
       "first_seen": "2026-10-05T20:49:57.978084+00:00",
-      "last_seen": "2026-10-19T10:46:11.024952+00:00",
+      "last_seen": "2026-10-19T16:56:41.568044+00:00",
       "score": 29,
       "flags": [
         "+9:no premine",
@@ -1010,7 +1035,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-19T10:46:22.494039+00:00",
+      "last_seen": "2026-10-19T16:56:49.618174+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1142,7 +1167,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-19T10:45:55.781952+00:00",
+      "last_seen": "2026-10-19T16:56:22.717752+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1161,7 +1186,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-19T10:46:12.287396+00:00",
+      "last_seen": "2026-10-19T16:56:43.010799+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1249,7 +1274,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594105.0",
       "published": null,
       "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-19T10:46:14.638679+00:00",
+      "last_seen": "2026-10-19T15:25:08.808401+00:00",
       "score": 36,
       "flags": [
         "+9:no premine",
@@ -1528,7 +1553,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-19T10:45:58.622843+00:00",
+      "last_seen": "2026-10-19T16:56:25.485756+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1699,7 +1724,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-10-17T04:24:00.288386+00:00",
+      "last_seen": "2026-10-19T16:56:30.563283+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -1766,7 +1791,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5594978.0",
       "published": null,
       "first_seen": "2026-09-24T12:35:32.711794+00:00",
-      "last_seen": "2026-10-19T10:46:07.263969+00:00",
+      "last_seen": "2026-10-19T16:56:37.911779+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1813,36 +1838,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "About Built to a fixed recipe, fired once. Majolica (MAJ) is a proof-of-work network running RandomX on ordinary processors. The name comes from tin-glazed pottery: the painter completes the whole picture while the surface is still raw, and the kiln then simply preserves it - nothing can be retouched afterwards. The same order governs this network. The cap, the block cadence, the stage-1 reward, the halving rhythm and the difficulty rule were written into public source code and published before block zero existed, so nothing was tuned after launch, because there was no launch decision left to make. Zero coins existed before the genesis block. Every coin in existence came out of a block rewar"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][HRG] HIDERING  Privacy Coin | Fair Launch | RandomX CPU | Ring 32-64 | Mi",
-      "url": "https://bitcointalk.org/index.php?topic=5582991.0",
-      "published": null,
-      "first_seen": "2026-09-23T15:36:22.492171+00:00",
-      "last_seen": "2026-09-24T16:41:24.723521+00:00",
-      "score": 35,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+7:no presale",
-        "+5:mainnet",
-        "+5:genesis",
-        "+5:block 0",
-        "+2:launch",
-        "+4:proof-of-work",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:privacy",
-        "+2:post-quantum",
-        "+1:p2p",
-        "-8:presale",
-        "-8:team allocation",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "HIDERING (HRG) Privacy first. Premine zero. CPU-only. Website: https://hidering.org | GitHub: https://github.com/AB-lab113/hidering | Explorer: https://explorer.hidering.org ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ What is HIDERING? ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ HIDERING is a privacy-focused cryptocurrency forked from Monero v0.18.1 with hardened defaults and additional privacy primitives baked in at the consensus layer. The chain launched as a 100% fair-launch proof-of-work network: no premine, no presale, no team allocation, no instamine  block 0 contains a NUMS (Nothing-Up-My-Sleeve) coinbase that is cryptographically unspendable (see GENESIS_PROOF.md in repo). ━━━━━━━━━━━━━━━━━━━━━━━"
     }
   ],
   "announcement_backtraces": [],
@@ -1853,7 +1848,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-19T10:46:37.651236+00:00",
+      "checked": "2026-10-19T16:57:03.139874+00:00",
       "last_state_change": null
     },
     {
@@ -1861,7 +1856,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-19T10:46:29.640364+00:00",
+      "checked": "2026-10-19T16:56:55.130028+00:00",
       "last_state_change": null
     },
     {
@@ -1869,7 +1864,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-19T10:46:33.646395+00:00",
+      "checked": "2026-10-19T16:56:59.135102+00:00",
       "last_state_change": null
     }
   ]
