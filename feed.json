@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-19T21:33:08.626371+00:00",
+  "generated_at": "2026-10-20T00:34:16.857377+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,49 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][SCRYPT] 4547 - only 4,547 coins ever fair launch Oct 27 12:00 UTC | AuxPow",
+      "url": "https://bitcointalk.org/index.php?topic=5597340.0",
+      "published": null,
+      "first_seen": "2026-10-19T21:35:32.494101+00:00",
+      "last_seen": "2026-10-20T00:10:06.652042+00:00",
+      "score": 28,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+5:genesis",
+        "+2:launch",
+        "+2:pow",
+        "+2:mining",
+        "+1:p2p"
+      ],
+      "snippet": "45 came first. 47 came back. 4547 begins. 4547 is a mineable Scrypt coin, fork of Dogecoin Core 1.14.9, themed on the 45th and 47th presidencies. Hard cap of 4,547 coins. No premine. Same hardware that mines LTC/DOGE. Launch Mining opens Tuesday Oct 27, 2026 at 12:00:00 UTC. Nodes reject blocks before that. Code, wallets and pool go public Oct 20 so everyone can check it first. Heads up: blocks in the first hour can still get re-orged, so wait for confirmations before trusting early coins. The ramp makes a fast start worthless anyway (see below). Specs - Algo: Scrypt, 10 min blocks - Max supply: 4,547 (about 4,533.6 actually mined) - Reward: 0.0495/block, reached after a 450-block ramp (earl"
+    },
+    {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 17647598296",
+      "url": "https://github.com/Instinctes/nightfall#event-17647598296",
+      "published": "2026-10-19T20:45:00Z",
+      "first_seen": "2026-10-19T21:35:25.185144+00:00",
+      "last_seen": "2026-10-20T00:10:00.816592+00:00",
+      "score": 15,
+      "flags": [
+        "+5:genesis",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
+    },
+    {
       "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 17638108509",
       "url": "https://github.com/Instinctes/nightfall#event-17638108509",
       "published": "2026-10-19T17:34:13Z",
       "first_seen": "2026-10-19T20:02:25.227818+00:00",
-      "last_seen": "2026-10-19T21:05:18.869963+00:00",
+      "last_seen": "2026-10-20T00:10:00.821361+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -32,7 +69,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17637996652",
       "published": "2026-10-19T17:32:00Z",
       "first_seen": "2026-10-19T19:31:32.304918+00:00",
-      "last_seen": "2026-10-19T21:05:18.873272+00:00",
+      "last_seen": "2026-10-20T00:10:00.822436+00:00",
       "score": 12,
       "flags": [
         "+5:genesis",
@@ -49,7 +86,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-19T13:20:46.671506+00:00",
-      "last_seen": "2026-10-19T21:05:28.908331+00:00",
+      "last_seen": "2026-10-20T00:10:10.082860+00:00",
       "score": 35,
       "flags": [
         "+9:no premine",
@@ -74,7 +111,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597234.0",
       "published": null,
       "first_seen": "2026-10-18T15:51:25.051643+00:00",
-      "last_seen": "2026-10-19T21:05:33.729054+00:00",
+      "last_seen": "2026-10-20T00:10:14.746008+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -93,7 +130,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-19T21:05:30.085240+00:00",
+      "last_seen": "2026-10-20T00:10:11.219216+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -115,7 +152,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-19T21:05:38.828581+00:00",
+      "last_seen": "2026-10-20T00:10:20.990829+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -134,7 +171,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-19T21:05:27.757957+00:00",
+      "last_seen": "2026-10-20T00:10:08.977835+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -180,7 +217,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17451765617",
       "published": "2026-10-16T17:43:14Z",
       "first_seen": "2026-10-17T01:19:54.747007+00:00",
-      "last_seen": "2026-10-19T21:05:18.884222+00:00",
+      "last_seen": "2026-10-20T00:10:00.827516+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -197,7 +234,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-19T21:05:25.338778+00:00",
+      "last_seen": "2026-10-19T23:07:45.915581+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -538,7 +575,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-19T21:05:37.777264+00:00",
+      "last_seen": "2026-10-20T00:10:19.975805+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -617,7 +654,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-10-19T21:05:26.614664+00:00",
+      "last_seen": "2026-10-20T00:10:07.826866+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -946,7 +983,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592225.0",
       "published": null,
       "first_seen": "2026-10-05T20:49:57.978084+00:00",
-      "last_seen": "2026-10-19T21:05:35.116642+00:00",
+      "last_seen": "2026-10-20T00:10:16.005314+00:00",
       "score": 29,
       "flags": [
         "+9:no premine",
@@ -1072,7 +1109,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-19T21:05:42.669709+00:00",
+      "last_seen": "2026-10-20T00:10:23.399239+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1204,7 +1241,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-19T21:05:15.188128+00:00",
+      "last_seen": "2026-10-20T00:09:57.079348+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1590,7 +1627,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-19T21:05:17.939225+00:00",
+      "last_seen": "2026-10-20T00:09:59.864253+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1761,7 +1798,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5513786.0",
       "published": null,
       "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-10-19T21:05:22.896259+00:00",
+      "last_seen": "2026-10-20T00:10:04.396425+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -1774,53 +1811,6 @@
         "-7:ico"
       ],
       "snippet": "Introducing Bitcoin Oil: The Next Evolution of Bitcoin  Faster, Smarter, and Built for the Future! Greetings, crypto enthusiasts! We are thrilled to present Bitcoin Oil  a groundbreaking alternative to the original Bitcoin, designed to take everything great about Bitcoin and supercharge it! If youre familiar with Bitcoin Gold and Bitcoin 2, youll understand the potential of altcoins  but Bitcoin Oil brings the game to a whole new level. What Makes Bitcoin Oil Special? While Bitcoin Oil uses the same trusted SHA-256 algorithm as Bitcoin, its better and faster in key areas: BTC Faster Transactions: With a block target time of 6 minutes, Bitcoin Oil accelerates the pace. This means faster"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Dogecoin2 (DC2)  Crypto 2.0 | Merge Mineable | Fresh Genesis",
-      "url": "https://bitcointalk.org/index.php?topic=5580644.0",
-      "published": null,
-      "first_seen": "2026-09-25T00:23:13.274412+00:00",
-      "last_seen": "2026-09-25T21:58:01.585465+00:00",
-      "score": 20,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+2:open source",
-        "+2:pow",
-        "+2:mining",
-        "+2:emission"
-      ],
-      "snippet": "[ANN] Dogecoin2 (DC2)  Crypto 2.0 | Fresh Genesis | Merge Mineable | Community Project Dogecoin2 (DC2) is a community-driven experimental fork inspired by the wave of 2.0 blockchain revivals: Bitcoin2 (BC2) BitcoinCash2 (BCH2) Litecoin2 (LC2) DigiByte2 (DGB2) Launched with a fresh genesis block: \"Dogecoin 2 est 4-11-2026 Crypto2.0 is here to stay\" Dogecoin2 brings the meme-powered energy of Dogecoin into the Crypto 2.0 movement. ---------------------------------------------------------------- 🚀 Key Features  New Genesis Block  completely fresh chain  Independent Network  no shared history with Dogecoin  SegWit + CSV  activated at block 300  Dogecoin-based core with custom modificat"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Zecnero (ZMR) | Zcash-derived privacy | RandomX CPU mining | No premine",
-      "url": "https://bitcointalk.org/index.php?topic=5594747.0",
-      "published": null,
-      "first_seen": "2026-09-24T21:19:12.305678+00:00",
-      "last_seen": "2026-10-14T16:08:29.997854+00:00",
-      "score": 21,
-      "flags": [
-        "+9:no premine",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof of work",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+3:compute",
-        "+2:privacy",
-        "-8:presale",
-        "-7:ico",
-        "-8:premine"
-      ],
-      "snippet": "Zecnero (ZMR) Every payment shielded. Mined on the computer you already own. ANNOUNCEMENT · Testnet live since September 24, 2026 · Mainnet planned for Q4 2026 Website | Mining guide | Explorer | Pool | Protocol Specification | GitLab | Discord | X What Zecnero is Zecnero is a shielded-only privacy coin. Every payment goes through a zero-knowledge shielded pool, so sender, receiver and amount stay private on-chain. There is no transparent payment to fall back on and no opt-in step to forget. It's a fork of Zebra, the Rust node for Zcash. It keeps Zcash's Sapling and Orchard shielded pools and replaces Equihash with RandomX, the CPU-oriented proof of work that has secured Monero since 2019. N"
     }
   ],
   "announcement_backtraces": [],
@@ -1831,7 +1821,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-19T21:05:56.002328+00:00",
+      "checked": "2026-10-20T00:10:36.819358+00:00",
       "last_state_change": null
     },
     {
@@ -1839,7 +1829,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-19T21:05:47.992940+00:00",
+      "checked": "2026-10-20T00:10:28.813929+00:00",
       "last_state_change": null
     },
     {
@@ -1847,7 +1837,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-19T21:05:51.997851+00:00",
+      "checked": "2026-10-20T00:10:32.814877+00:00",
       "last_state_change": null
     }
   ]
