@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-20T05:11:13.579016+00:00",
+  "generated_at": "2026-10-20T09:59:04.367600+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,30 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 17677553344",
+      "url": "https://github.com/Instinctes/nightfall#event-17677553344",
+      "published": "2026-10-20T04:23:14Z",
+      "first_seen": "2026-10-20T06:20:14.115473+00:00",
+      "last_seen": "2026-10-20T09:56:50.270862+00:00",
+      "score": 15,
+      "flags": [
+        "+5:genesis",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][SCRYPT] 4547 - only 4,547 coins ever fair launch Oct 27 12:00 UTC | AuxPow",
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-20T04:48:15.474996+00:00",
+      "last_seen": "2026-10-20T09:56:56.407714+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -33,7 +51,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17647598296",
       "published": "2026-10-19T20:45:00Z",
       "first_seen": "2026-10-19T21:35:25.185144+00:00",
-      "last_seen": "2026-10-20T04:48:09.384683+00:00",
+      "last_seen": "2026-10-20T09:56:50.293491+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -51,7 +69,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17638108509",
       "published": "2026-10-19T17:34:13Z",
       "first_seen": "2026-10-19T20:02:25.227818+00:00",
-      "last_seen": "2026-10-20T04:48:09.401433+00:00",
+      "last_seen": "2026-10-20T09:56:50.305134+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -69,7 +87,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17637996652",
       "published": "2026-10-19T17:32:00Z",
       "first_seen": "2026-10-19T19:31:32.304918+00:00",
-      "last_seen": "2026-10-20T04:48:09.405956+00:00",
+      "last_seen": "2026-10-20T09:56:50.308163+00:00",
       "score": 12,
       "flags": [
         "+5:genesis",
@@ -86,7 +104,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-19T13:20:46.671506+00:00",
-      "last_seen": "2026-10-20T04:48:19.093758+00:00",
+      "last_seen": "2026-10-20T09:56:59.932353+00:00",
       "score": 35,
       "flags": [
         "+9:no premine",
@@ -111,7 +129,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597234.0",
       "published": null,
       "first_seen": "2026-10-18T15:51:25.051643+00:00",
-      "last_seen": "2026-10-20T04:48:24.176086+00:00",
+      "last_seen": "2026-10-20T06:20:28.882756+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -130,7 +148,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-20T04:48:20.266468+00:00",
+      "last_seen": "2026-10-20T09:57:01.082911+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -152,7 +170,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-20T04:48:29.633688+00:00",
+      "last_seen": "2026-10-20T09:57:07.247213+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -171,7 +189,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-20T04:48:17.948557+00:00",
+      "last_seen": "2026-10-20T09:56:58.816199+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -575,7 +593,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-20T04:48:28.599471+00:00",
+      "last_seen": "2026-10-20T09:57:06.217779+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -654,7 +672,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-10-20T04:48:16.760606+00:00",
+      "last_seen": "2026-10-20T09:56:57.670095+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -1109,7 +1127,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595945.0",
       "published": null,
       "first_seen": "2026-10-05T12:36:57.636163+00:00",
-      "last_seen": "2026-10-20T04:48:32.279931+00:00",
+      "last_seen": "2026-10-20T09:57:09.826004+00:00",
       "score": 28,
       "flags": [
         "+5:mainnet",
@@ -1241,7 +1259,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-20T04:48:05.449138+00:00",
+      "last_seen": "2026-10-20T09:56:46.378985+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1627,7 +1645,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-20T04:48:08.387332+00:00",
+      "last_seen": "2026-10-20T09:56:49.226016+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1791,26 +1809,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40\", \"repository_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node\", \"labels_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/events\", \"html_url\": \"https://github.com/Keryx-Labs/keryx-node/pull/40\", \"id\": 5414919149, \"node_id\": \"PR_kwDOSAl4Fc8AAAABDBnPGA\", \"number\": 40, \"title\": \"PoC: shard-possession PoM (network-fatia) — incomplete, exploratory\", \"user\": {\"login\": \"nectopower\", \"id\": 19475"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] [PoW] Bitcoin Oil - Bitcoin On Steroids, Faster. [NO PREMINE] [LOW SUPPLY]",
-      "url": "https://bitcointalk.org/index.php?topic=5513786.0",
-      "published": null,
-      "first_seen": "2026-09-25T00:23:14.499054+00:00",
-      "last_seen": "2026-10-20T04:48:13.193125+00:00",
-      "score": 15,
-      "flags": [
-        "+9:no premine",
-        "+2:launch",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:storage",
-        "-7:ico"
-      ],
-      "snippet": "Introducing Bitcoin Oil: The Next Evolution of Bitcoin  Faster, Smarter, and Built for the Future! Greetings, crypto enthusiasts! We are thrilled to present Bitcoin Oil  a groundbreaking alternative to the original Bitcoin, designed to take everything great about Bitcoin and supercharge it! If youre familiar with Bitcoin Gold and Bitcoin 2, youll understand the potential of altcoins  but Bitcoin Oil brings the game to a whole new level. What Makes Bitcoin Oil Special? While Bitcoin Oil uses the same trusted SHA-256 algorithm as Bitcoin, its better and faster in key areas: BTC Faster Transactions: With a block target time of 6 minutes, Bitcoin Oil accelerates the pace. This means faster"
     }
   ],
   "announcement_backtraces": [],
@@ -1821,7 +1819,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-20T04:48:47.319195+00:00",
+      "checked": "2026-10-20T09:57:23.326808+00:00",
       "last_state_change": null
     },
     {
@@ -1829,7 +1827,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-20T04:48:39.309632+00:00",
+      "checked": "2026-10-20T09:57:15.319671+00:00",
       "last_state_change": null
     },
     {
@@ -1837,7 +1835,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-20T04:48:43.314445+00:00",
+      "checked": "2026-10-20T09:57:19.323915+00:00",
       "last_state_change": null
     }
   ]
