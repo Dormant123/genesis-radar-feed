@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-21T04:39:09.313184+00:00",
+  "generated_at": "2026-10-21T09:36:23.260319+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,28 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 17779743995",
+      "url": "https://github.com/Instinctes/nightfall#event-17779743995",
+      "published": "2026-10-21T04:17:53Z",
+      "first_seen": "2026-10-21T05:27:11.406306+00:00",
+      "last_seen": "2026-10-21T09:31:35.030192+00:00",
+      "score": 14,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:mining",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/60\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/60/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/60/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/60/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/60\", \"id\": 5946140470, \"node_id\": \"PR_kwDOT2kZwM8AAAABJmsGzw\", \"number\": 60, \"title\": \"fix(node-kit): lock installer builds and expose checkout fingerprints\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Midwimble | MimbleWimble, merge-mined with Midstate | Mainnet 31 Oct",
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-21T04:25:14.276238+00:00",
+      "last_seen": "2026-10-21T09:31:43.096810+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -38,7 +54,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17677553344",
       "published": "2026-10-20T04:23:14Z",
       "first_seen": "2026-10-20T06:20:14.115473+00:00",
-      "last_seen": "2026-10-21T04:25:09.064633+00:00",
+      "last_seen": "2026-10-21T09:31:35.055523+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -56,7 +72,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-21T04:25:17.916366+00:00",
+      "last_seen": "2026-10-21T09:31:46.626064+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -75,7 +91,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17647598296",
       "published": "2026-10-19T20:45:00Z",
       "first_seen": "2026-10-19T21:35:25.185144+00:00",
-      "last_seen": "2026-10-21T04:25:09.084748+00:00",
+      "last_seen": "2026-10-21T09:31:35.088329+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -93,7 +109,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17638108509",
       "published": "2026-10-19T17:34:13Z",
       "first_seen": "2026-10-19T20:02:25.227818+00:00",
-      "last_seen": "2026-10-21T04:25:09.093508+00:00",
+      "last_seen": "2026-10-21T09:31:35.103123+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -111,7 +127,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17637996652",
       "published": "2026-10-19T17:32:00Z",
       "first_seen": "2026-10-19T19:31:32.304918+00:00",
-      "last_seen": "2026-10-21T04:25:09.096093+00:00",
+      "last_seen": "2026-10-21T09:31:35.107128+00:00",
       "score": 12,
       "flags": [
         "+5:genesis",
@@ -172,7 +188,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-21T04:25:15.766763+00:00",
+      "last_seen": "2026-10-21T09:31:44.327024+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -194,7 +210,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-21T04:25:25.199969+00:00",
+      "last_seen": "2026-10-21T09:31:52.338786+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -213,7 +229,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-21T04:25:20.328935+00:00",
+      "last_seen": "2026-10-21T08:30:25.268404+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -276,7 +292,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-21T04:25:16.908815+00:00",
+      "last_seen": "2026-10-21T09:31:45.555542+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -617,7 +633,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-21T04:25:24.191866+00:00",
+      "last_seen": "2026-10-21T09:31:51.262670+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -696,7 +712,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-10-21T04:25:19.152894+00:00",
+      "last_seen": "2026-10-21T08:30:24.088577+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -1283,7 +1299,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-21T04:25:04.990536+00:00",
+      "last_seen": "2026-10-21T09:31:30.759602+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1669,7 +1685,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-21T04:25:07.828218+00:00",
+      "last_seen": "2026-10-21T09:31:33.840644+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1788,33 +1804,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "Veld Network (VELD) CPU proof of work  Native staking  Co-mining rewards Live mainnet  Open source  21 million maximum supply Veld is a UTXO blockchain that launched its public mainnet on 2 September 2026. Its VeldHash proof of work is designed for CPU mining using a 1 GiB dataset. Full nodes validate the chain locally, and the Windows client supports both solo and pool mining. This is our first announcement on Bitcointalk and my name is Mendo, the founder of Veld. I've put a significant part of my time and life into building it, with a direct goal; a currency people can earn, use and hold, with rewarding ways to participate within the network over the long term. Network facts  Network:"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] VargaMesh (VMESH)  Live Mainnet + Public Testnet | SHA-256d AuxPoW | Open",
-      "url": "https://bitcointalk.org/index.php?topic=5595123.0",
-      "published": null,
-      "first_seen": "2026-09-25T18:22:19.320662+00:00",
-      "last_seen": "2026-10-07T11:19:35.315726+00:00",
-      "score": 30,
-      "flags": [
-        "+9:no premine",
-        "+5:mainnet",
-        "+5:genesis",
-        "+1:testnet",
-        "+2:open source",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+1:p2p",
-        "-5:points",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "VARGAMESH (VMESH) Independent SHA-256d Proof-of-Work Blockchain MAINNET LIVE  AUXPOW  BTC + VMESH MERGED SOLO  NO PREMINE  OPEN SOURCE vargacoin.com https://vargacoin.com/assets/vmesh-coin.png What is VargaMesh? VargaMesh (VMESH) is an independent Bitcoin-style UTXO blockchain using SHA-256d Proof-of-Work, ASERT difficulty adjustment and AuxPoW merged-mining support. VMESH is the native cryptocurrency of the VargaMesh blockchain. VMESH is not a token on Ethereum, BNB Chain, Solana or another smart-contract platform. The VargaMesh Mainnet is already operational and can be independently inspected through public infrastructure, open-source node software and the VargaMesh blockchain explorer"
     }
   ],
   "announcement_backtraces": [],
@@ -1825,7 +1814,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-21T04:25:40.060539+00:00",
+      "checked": "2026-10-21T09:32:07.873686+00:00",
       "last_state_change": null
     },
     {
@@ -1833,7 +1822,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-21T04:25:32.051186+00:00",
+      "checked": "2026-10-21T09:31:59.863591+00:00",
       "last_state_change": null
     },
     {
@@ -1841,7 +1830,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-21T04:25:36.056005+00:00",
+      "checked": "2026-10-21T09:32:03.869000+00:00",
       "last_state_change": null
     }
   ]
