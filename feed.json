@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-21T18:52:00.316624+00:00",
+  "generated_at": "2026-10-21T22:00:29.377467+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17779743995",
       "published": "2026-10-21T04:17:53Z",
       "first_seen": "2026-10-21T05:27:11.406306+00:00",
-      "last_seen": "2026-10-21T18:44:48.952954+00:00",
+      "last_seen": "2026-10-21T21:50:13.295574+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -54,7 +54,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17677553344",
       "published": "2026-10-20T04:23:14Z",
       "first_seen": "2026-10-20T06:20:14.115473+00:00",
-      "last_seen": "2026-10-21T18:44:48.977674+00:00",
+      "last_seen": "2026-10-21T21:50:13.321864+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -1299,7 +1299,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-21T18:44:44.641572+00:00",
+      "last_seen": "2026-10-21T21:50:09.311702+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1685,7 +1685,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-21T18:44:47.614564+00:00",
+      "last_seen": "2026-10-21T21:50:12.089932+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1814,7 +1814,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-21T18:45:05.809012+00:00",
+      "checked": "2026-10-21T21:50:31.878871+00:00",
       "last_state_change": null
     },
     {
@@ -1822,7 +1822,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-21T18:44:57.802994+00:00",
+      "checked": "2026-10-21T21:50:23.869380+00:00",
       "last_state_change": null
     },
     {
@@ -1830,7 +1830,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-21T18:45:01.807085+00:00",
+      "checked": "2026-10-21T21:50:27.874312+00:00",
       "last_state_change": null
     }
   ]
