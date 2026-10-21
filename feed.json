@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-21T00:10:42.728181+00:00",
+  "generated_at": "2026-10-21T04:39:09.313184+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,36 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Midwimble | MimbleWimble, merge-mined with Midstate | Mainnet 31 Oct",
+      "url": "https://bitcointalk.org/index.php?topic=5597306.0",
+      "published": null,
+      "first_seen": "2026-10-21T00:20:04.207964+00:00",
+      "last_seen": "2026-10-21T04:25:14.276238+00:00",
+      "score": 26,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+2:miner",
+        "+2:mining",
+        "+3:compute",
+        "+2:privacy",
+        "+2:post-quantum",
+        "-5:points",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Midwimble MimbleWimble privacy chain, merge-mined with Midstate, with hash-based recovery if ECC is broken update 21 oct 2026: the testnet becomes mainnet. blocks stamped from 31 oct 2026 00:00 utc are mainnet, on the same chain, and testnet coins carry over. struck-out lines below are the old plan, left in so the change is on the record. details: this reply Status: testnet, which becomes mainnet on 31 October 2026 00:00 UTC. Research code, not audited. Mainnet is planned for 31 October 2026 unless testnet finds something that needs more time. Launch parameters will be posted here before genesis. No new genesis: the testnet chain becomes mainnet in place (see the update above). Code (GPL-3.0"
+    },
+    {
       "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 17677553344",
       "url": "https://github.com/Instinctes/nightfall#event-17677553344",
       "published": "2026-10-20T04:23:14Z",
       "first_seen": "2026-10-20T06:20:14.115473+00:00",
-      "last_seen": "2026-10-20T23:48:31.588981+00:00",
+      "last_seen": "2026-10-21T04:25:09.064633+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -32,7 +56,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-20T23:48:40.023502+00:00",
+      "last_seen": "2026-10-21T04:25:17.916366+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -51,7 +75,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17647598296",
       "published": "2026-10-19T20:45:00Z",
       "first_seen": "2026-10-19T21:35:25.185144+00:00",
-      "last_seen": "2026-10-20T23:48:31.611072+00:00",
+      "last_seen": "2026-10-21T04:25:09.084748+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -69,7 +93,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17638108509",
       "published": "2026-10-19T17:34:13Z",
       "first_seen": "2026-10-19T20:02:25.227818+00:00",
-      "last_seen": "2026-10-20T23:48:31.623515+00:00",
+      "last_seen": "2026-10-21T04:25:09.093508+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -87,7 +111,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17637996652",
       "published": "2026-10-19T17:32:00Z",
       "first_seen": "2026-10-19T19:31:32.304918+00:00",
-      "last_seen": "2026-10-20T23:48:31.626632+00:00",
+      "last_seen": "2026-10-21T04:25:09.096093+00:00",
       "score": 12,
       "flags": [
         "+5:genesis",
@@ -148,7 +172,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-20T23:48:37.830865+00:00",
+      "last_seen": "2026-10-21T04:25:15.766763+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -170,7 +194,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-20T23:48:47.515168+00:00",
+      "last_seen": "2026-10-21T04:25:25.199969+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -189,7 +213,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-20T23:48:42.371454+00:00",
+      "last_seen": "2026-10-21T04:25:20.328935+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -252,7 +276,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-20T23:48:39.001566+00:00",
+      "last_seen": "2026-10-21T04:25:16.908815+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -593,7 +617,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-20T23:48:46.283351+00:00",
+      "last_seen": "2026-10-21T04:25:24.191866+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -672,7 +696,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-10-20T23:48:41.227788+00:00",
+      "last_seen": "2026-10-21T04:25:19.152894+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -1259,7 +1283,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-20T23:48:27.728498+00:00",
+      "last_seen": "2026-10-21T04:25:04.990536+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1645,7 +1669,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-20T23:48:30.484818+00:00",
+      "last_seen": "2026-10-21T04:25:07.828218+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1791,24 +1815,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "VARGAMESH (VMESH) Independent SHA-256d Proof-of-Work Blockchain MAINNET LIVE  AUXPOW  BTC + VMESH MERGED SOLO  NO PREMINE  OPEN SOURCE vargacoin.com https://vargacoin.com/assets/vmesh-coin.png What is VargaMesh? VargaMesh (VMESH) is an independent Bitcoin-style UTXO blockchain using SHA-256d Proof-of-Work, ASERT difficulty adjustment and AuxPoW merged-mining support. VMESH is the native cryptocurrency of the VargaMesh blockchain. VMESH is not a token on Ethereum, BNB Chain, Solana or another smart-contract platform. The VargaMesh Mainnet is already operational and can be independently inspected through public infrastructure, open-source node software and the VargaMesh blockchain explorer"
-    },
-    {
-      "source": "github-events",
-      "title": "Keryx-Labs/keryx-node: IssueCommentEvent 15757786116",
-      "url": "https://github.com/Keryx-Labs/keryx-node#event-15757786116",
-      "published": "2026-09-25T14:11:35Z",
-      "first_seen": "2026-09-25T14:14:49.098403+00:00",
-      "last_seen": "2026-10-05T14:08:49.837715+00:00",
-      "score": 15,
-      "flags": [
-        "+5:mainnet",
-        "+1:testnet",
-        "+2:pow",
-        "+2:miner",
-        "+2:privacy",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40\", \"repository_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node\", \"labels_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Keryx-Labs/keryx-node/issues/40/events\", \"html_url\": \"https://github.com/Keryx-Labs/keryx-node/pull/40\", \"id\": 5414919149, \"node_id\": \"PR_kwDOSAl4Fc8AAAABDBnPGA\", \"number\": 40, \"title\": \"PoC: shard-possession PoM (network-fatia) — incomplete, exploratory\", \"user\": {\"login\": \"nectopower\", \"id\": 19475"
     }
   ],
   "announcement_backtraces": [],
@@ -1819,7 +1825,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-20T23:49:02.338070+00:00",
+      "checked": "2026-10-21T04:25:40.060539+00:00",
       "last_state_change": null
     },
     {
@@ -1827,7 +1833,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-20T23:48:54.328322+00:00",
+      "checked": "2026-10-21T04:25:32.051186+00:00",
       "last_state_change": null
     },
     {
@@ -1835,7 +1841,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-20T23:48:58.333430+00:00",
+      "checked": "2026-10-21T04:25:36.056005+00:00",
       "last_state_change": null
     }
   ]
