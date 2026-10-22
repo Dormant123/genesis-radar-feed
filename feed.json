@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-22T15:07:06.628473+00:00",
+  "generated_at": "2026-10-22T19:11:31.136107+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,41 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][TWIST] TwistCoin | SHA256d | No premine | Solo-mine with your home ASIC",
+      "url": "https://bitcointalk.org/index.php?topic=5597586.0",
+      "published": null,
+      "first_seen": "2026-10-22T17:26:27.884839+00:00",
+      "last_seen": "2026-10-22T18:59:11.161420+00:00",
+      "score": 44,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+5:block 0",
+        "+2:launch",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+3:no exchange",
+        "+1:p2p",
+        "-7:ico",
+        "-8:dev fee",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "TwistCoin (TWIST) A Bitcoin Core fork with twisted parameters, restarted from block 0 - sized for home SHA256d miners. Website | Whitepaper | Code audit | Source (GitLab) | Explorer | Pool What is it? TwistCoin is Bitcoin Core v31.1 with a small, reviewable set of changes: its own genesis/network identity and a faster pace. Transaction format, Script, SegWit, Taproot and SHA256d PoW are unchanged. Launch difficulty was calibrated to one ~1.3 TH/s home ASIC, so a Bitaxe-class device can still find real blocks and keep the full reward. Specs Ticker TWIST Algorithm SHA256d - any Bitcoin ASIC, no firmware change Block time 2 minutes Difficulty retarget every 144 blocks (~4.8 h), max 4x Block rew"
+    },
+    {
       "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 17779743995",
       "url": "https://github.com/Instinctes/nightfall#event-17779743995",
       "published": "2026-10-21T04:17:53Z",
       "first_seen": "2026-10-21T05:27:11.406306+00:00",
-      "last_seen": "2026-10-22T14:53:50.525763+00:00",
+      "last_seen": "2026-10-22T18:59:06.160635+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -30,7 +59,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-22T14:54:01.507939+00:00",
+      "last_seen": "2026-10-22T18:59:19.636116+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -54,7 +83,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-17677553344",
       "published": "2026-10-20T04:23:14Z",
       "first_seen": "2026-10-20T06:20:14.115473+00:00",
-      "last_seen": "2026-10-22T14:53:50.546229+00:00",
+      "last_seen": "2026-10-22T18:59:06.182276+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -188,7 +217,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-22T14:53:54.425606+00:00",
+      "last_seen": "2026-10-22T18:59:12.425815+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -210,7 +239,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-22T14:54:09.339275+00:00",
+      "last_seen": "2026-10-22T18:59:26.028963+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -292,15 +321,13 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-22T14:54:04.164352+00:00",
-      "score": 43,
+      "last_seen": "2026-10-22T18:59:13.641526+00:00",
+      "score": 34,
       "flags": [
         "+9:no premine",
         "+6:no ico",
         "+6:no token sale",
-        "+5:mainnet",
         "+5:genesis",
-        "+1:testnet",
         "+4:proof of work",
         "+4:cpu mining",
         "+2:miner",
@@ -308,13 +335,12 @@
         "+3:block reward",
         "+2:emission",
         "+2:privacy",
-        "+3:not listed",
         "+1:p2p",
         "-7:ico",
         "-8:developer fee",
         "+3:runnable-artifact"
       ],
-      "snippet": "https://monzero.org/assets/monzero-xmz-coin-256.png Monzero (XMZ) Independent privacy coin · RandomX CPU mining · no premine · no ICO Website | Pool | Explorer | Whitepaper | Source | Roadmap What is Monzero? Monzero is an independent privacy currency built from the Monero codebase. It runs its own chain (genesis block 25 August 2026) with its own address prefixes, ports and emission schedule. It shares no history with Monero. Private by default: amounts are hidden with RingCT, senders are hidden in rings of 16, and every payment goes to a one-time address. Fair to mine: RandomX proof of work, built for ordinary CPUs. No premine, no ICO, no token sale, no developer fee in the block reward. P"
+      "snippet": "https://monzero.org/assets/monzero-xmz-coin-256.png Monzero (XMZ) Independent privacy coin · RandomX CPU mining · no premine · no ICO Website | Forum | Pool | Explorer | Whitepaper | Source | Roadmap What is Monzero? Monzero is an independent privacy currency built from the Monero codebase. It runs its own chain (genesis block 25 August 2026) with its own address prefixes, ports and emission schedule. It shares no history with Monero. Private by default: amounts are hidden with RingCT, senders are hidden in rings of 16, and every payment goes to a one-time address. Fair to mine: RandomX proof of work, built for ordinary CPUs. No premine, no ICO, no token sale, no developer fee in the block r"
     },
     {
       "source": "github-events",
@@ -422,7 +448,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-10-22T14:53:55.619253+00:00",
+      "last_seen": "2026-10-22T18:59:14.822249+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -633,7 +659,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-22T14:54:08.281404+00:00",
+      "last_seen": "2026-10-22T18:59:24.973046+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1299,7 +1325,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-22T14:53:46.391095+00:00",
+      "last_seen": "2026-10-22T18:59:01.877396+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1318,7 +1344,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-22T14:54:00.314852+00:00",
+      "last_seen": "2026-10-22T18:59:18.458145+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1685,7 +1711,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-22T14:53:49.325810+00:00",
+      "last_seen": "2026-10-22T18:59:04.792056+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1780,30 +1806,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "NADO Mine a post-quantum chain from a browser tab on your phone. No rig. No install. No signup. No premine. Open the wallet  GitHub  Whitepaper  Discord  Forum Deflationary. Harder than BTC. No premine. No dev fund. PoSEA identity + hash lottery + FFG quorum finality. Post-quantum ML-DSA-44, zk-STARK shielded pool, exec node, HTLC, 1-click mining, zstd, shares for all. Python/Rust/JS, 30/70. betanet-7: every mining identity is now a real device The free mining lane was being farmed. About a thousand fake identities, run by two or three people on rented servers, were taking roughly 42% of all emission . Every rule we had was written per identity, so every rule cost an honest miner exactly"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Veld Network (VELD) | CPU Mining, Staking & Co-Mining | Mainnet Live",
-      "url": "https://bitcointalk.org/index.php?topic=5595159.0",
-      "published": null,
-      "first_seen": "2026-09-26T00:02:24.316713+00:00",
-      "last_seen": "2026-09-27T17:31:42.437847+00:00",
-      "score": 12,
-      "flags": [
-        "+5:mainnet",
-        "+2:launch",
-        "+2:open source",
-        "+4:proof of work",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+3:compute",
-        "-10:founder allocation",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Veld Network (VELD) CPU proof of work  Native staking  Co-mining rewards Live mainnet  Open source  21 million maximum supply Veld is a UTXO blockchain that launched its public mainnet on 2 September 2026. Its VeldHash proof of work is designed for CPU mining using a 1 GiB dataset. Full nodes validate the chain locally, and the Windows client supports both solo and pool mining. This is our first announcement on Bitcointalk and my name is Mendo, the founder of Veld. I've put a significant part of my time and life into building it, with a direct goal; a currency people can earn, use and hold, with rewarding ways to participate within the network over the long term. Network facts  Network:"
     }
   ],
   "announcement_backtraces": [],
@@ -1814,7 +1816,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-22T14:54:24.382913+00:00",
+      "checked": "2026-10-22T18:59:46.200644+00:00",
       "last_state_change": null
     },
     {
@@ -1822,7 +1824,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-22T14:54:16.374610+00:00",
+      "checked": "2026-10-22T18:59:38.194773+00:00",
       "last_state_change": null
     },
     {
@@ -1830,7 +1832,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-22T14:54:20.379897+00:00",
+      "checked": "2026-10-22T18:59:42.195933+00:00",
       "last_state_change": null
     }
   ]
