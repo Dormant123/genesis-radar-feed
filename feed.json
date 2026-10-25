@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-25T06:13:13.648189+00:00",
+  "generated_at": "2026-10-25T11:28:08.659218+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,29 @@
   "public_findings": [
     {
       "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 18143702030",
+      "url": "https://github.com/Instinctes/nightfall#event-18143702030",
+      "published": "2026-10-25T06:45:37Z",
+      "first_seen": "2026-10-25T06:56:38.724065+00:00",
+      "last_seen": "2026-10-25T11:02:26.621352+00:00",
+      "score": 15,
+      "flags": [
+        "+5:genesis",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
+    },
+    {
+      "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 18048367205",
       "url": "https://github.com/Instinctes/nightfall#event-18048367205",
       "published": "2026-10-23T18:59:17Z",
       "first_seen": "2026-10-23T20:03:28.799231+00:00",
-      "last_seen": "2026-10-25T05:55:36.005454+00:00",
+      "last_seen": "2026-10-25T06:56:38.758069+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -255,7 +273,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-25T05:55:42.356702+00:00",
+      "last_seen": "2026-10-25T11:02:34.331192+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -277,7 +295,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-25T05:55:52.681888+00:00",
+      "last_seen": "2026-10-25T11:02:43.157971+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -697,7 +715,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-25T05:55:51.619249+00:00",
+      "last_seen": "2026-10-25T11:02:42.119672+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -722,7 +740,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5098631.0",
       "published": null,
       "first_seen": "2026-10-11T16:21:38.899596+00:00",
-      "last_seen": "2026-10-25T05:55:39.789719+00:00",
+      "last_seen": "2026-10-25T08:27:58.071154+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -1205,7 +1223,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595958.0",
       "published": null,
       "first_seen": "2026-10-05T13:07:07.137458+00:00",
-      "last_seen": "2026-10-25T05:55:46.036860+00:00",
+      "last_seen": "2026-10-25T11:02:37.994195+00:00",
       "score": 48,
       "flags": [
         "+5:mainnet",
@@ -1363,7 +1381,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-25T05:55:31.980265+00:00",
+      "last_seen": "2026-10-25T11:02:22.810070+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1382,7 +1400,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-23T09:48:30.085031+00:00",
+      "last_seen": "2026-10-25T11:02:30.630769+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1685,7 +1703,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-10-25T05:55:44.850955+00:00",
+      "last_seen": "2026-10-25T11:02:36.815027+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -1749,7 +1767,7 @@
       "url": "https://github.com/brisvia/brisvia#event-15887907210",
       "published": "2026-09-28T05:07:46Z",
       "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-25T05:55:34.776842+00:00",
+      "last_seen": "2026-10-25T11:02:25.616369+00:00",
       "score": 17,
       "flags": [
         "+7:fair launch",
@@ -1784,23 +1802,6 @@
         "-7:ico"
       ],
       "snippet": "The physical qubit threshold required to break secp256k1 is dropping faster than anticipated. However, mere algorithmic substitution is insufficient. In existing PoW networks, Shor's algorithm doesn't just threaten static addresses; it transforms the 10-minute mempool confirmation delay into a lethal attack surface for quantum front-running. I have published the architectural blueprint for Quantum Bitcoin (QBTC) . Core Implementations: Consensus Layer: Full deprecation of ECDSA. L1 integration of NIST-certified ML-DSA (Module-Lattice-Based Digital Signature). Mempool Isolation: A base-layer Commit-Reveal scheme. Initiators broadcast a hashed intent (SHA256(PK || Tx_data || Salt)) first, reve"
-    },
-    {
-      "source": "github-events",
-      "title": "pearl-research-labs/pearl: IssueCommentEvent 15843200085",
-      "url": "https://github.com/pearl-research-labs/pearl#event-15843200085",
-      "published": "2026-09-27T06:49:19Z",
-      "first_seen": "2026-09-27T07:17:31.392754+00:00",
-      "last_seen": "2026-09-27T11:23:19.782502+00:00",
-      "score": 12,
-      "flags": [
-        "+2:pow",
-        "+2:miner",
-        "+3:compute",
-        "+2:privacy",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/340\", \"repository_url\": \"https://api.github.com/repos/pearl-research-labs/pearl\", \"labels_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/340/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/340/comments\", \"events_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/340/events\", \"html_url\": \"https://github.com/pearl-research-labs/pearl/pull/340\", \"id\": 5600507907, \"node_id\": \"PR_kwDOSGtMDc8AAAABFUrQ8g\", \"number\": 340, \"title\": \"refactor(miner-base): remove the CPU reference miner and GPU emulation\", \"user\": {\""
     }
   ],
   "announcement_backtraces": [],
@@ -1811,7 +1812,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-25T05:56:08.143182+00:00",
+      "checked": "2026-10-25T11:02:59.076223+00:00",
       "last_state_change": null
     },
     {
@@ -1819,7 +1820,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-25T05:56:00.133584+00:00",
+      "checked": "2026-10-25T11:02:51.067644+00:00",
       "last_state_change": null
     },
     {
@@ -1827,7 +1828,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-25T05:56:04.138601+00:00",
+      "checked": "2026-10-25T11:02:55.071248+00:00",
       "last_state_change": null
     }
   ]
