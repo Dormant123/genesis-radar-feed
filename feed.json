@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-25T14:58:48.387321+00:00",
+  "generated_at": "2026-10-25T18:10:38.668580+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,28 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 18163785878",
+      "url": "https://github.com/btxchain/btx#event-18163785878",
+      "published": "2026-10-25T15:19:05Z",
+      "first_seen": "2026-10-25T15:40:15.864947+00:00",
+      "last_seen": "2026-10-25T17:43:26.269731+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][PoW] SHEAR (SHE) | SHE is private | CPU-mined ShearHash | Mainnet 21Dec 26",
       "url": "https://bitcointalk.org/index.php?topic=5592284.0",
       "published": null,
       "first_seen": "2026-10-25T13:36:43.830282+00:00",
-      "last_seen": "2026-10-25T14:38:18.321732+00:00",
+      "last_seen": "2026-10-25T17:43:35.759090+00:00",
       "score": 38,
       "flags": [
         "+9:no premine",
@@ -39,7 +55,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18143702030",
       "published": "2026-10-25T06:45:37Z",
       "first_seen": "2026-10-25T06:56:38.724065+00:00",
-      "last_seen": "2026-10-25T14:38:11.953433+00:00",
+      "last_seen": "2026-10-25T17:43:28.115918+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -57,7 +73,7 @@
       "url": "https://github.com/zoru-labs/zoru-miner",
       "published": "2026-10-24T14:48:57Z",
       "first_seen": "2026-10-25T14:37:59.649938+00:00",
-      "last_seen": "2026-10-25T14:37:59.649938+00:00",
+      "last_seen": "2026-10-25T16:11:16.784293+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -67,7 +83,7 @@
         "+2:mining",
         "+4:dated-launch"
       ],
-      "snippet": "ZORU Miner desktop wallet and CPU mining application for VEX EVM Mainnet created 2026-10-24T14:48:57Z updated 2026-10-25T14:37:12Z language Rust topics cryptocurrency evm mining proof-of-work qml rust vex vexanium vexevm"
+      "snippet": "ZORU Miner desktop wallet and CPU mining application for VEX EVM Mainnet created 2026-10-24T14:48:57Z updated 2026-10-25T15:47:48Z language Rust topics cryptocurrency evm mining proof-of-work qml rust vex vexanium vexevm"
     },
     {
       "source": "github-events",
@@ -200,7 +216,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-22T03:00:28.380171+00:00",
+      "last_seen": "2026-10-25T17:43:31.847318+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -316,7 +332,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-25T14:38:15.693765+00:00",
+      "last_seen": "2026-10-25T17:43:33.097427+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -338,7 +354,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-25T14:38:29.882386+00:00",
+      "last_seen": "2026-10-25T17:43:46.711687+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -758,7 +774,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-25T14:38:28.872967+00:00",
+      "last_seen": "2026-10-25T17:43:45.622280+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1424,7 +1440,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-25T14:38:08.197814+00:00",
+      "last_seen": "2026-10-25T17:43:24.232075+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1443,7 +1459,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-25T14:38:19.676771+00:00",
+      "last_seen": "2026-10-25T17:43:38.610826+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1746,7 +1762,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-10-25T14:38:24.714722+00:00",
+      "last_seen": "2026-10-25T16:11:43.288963+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -1769,40 +1785,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "Wcash Shielded and transparent transactions. Equihash proof of work. Merge-mined with Zcash. w.cash PRE-ANN. Mainnet is not live. No mainnet WCASH exists. Current Testnet in a slowstart. W.Cash Mainnet launches September 19, 2026, at 12:00 UTC. 🐺 Wcash is an independent proof-of-work chain derived from Zcash. It retains Zcash-family shielded and transparent transactions and uses Equihash with the Zcash parameters N=200 and K=9. Wcash may be mined directly or merge-mined with Zcash. These are two proof forms on the same Wcash chain. They do not create separate networks, separate supplies or separate classes of coins. There is no premine, ICO, presale, founder allocation, treasury reward or pr"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][PRANA] Etchash PoW L1  mine the compute the people own | Fair launch",
-      "url": "https://bitcointalk.org/index.php?topic=5592761.0",
-      "published": null,
-      "first_seen": "2026-09-28T07:54:27.577982+00:00",
-      "last_seen": "2026-10-17T08:32:47.882719+00:00",
-      "score": 36,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+7:no presale",
-        "+5:mainnet",
-        "+5:genesis",
-        "+5:block 0",
-        "+5:block zero",
-        "+2:launch",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+5:useful work",
-        "+4:inference",
-        "+3:compute",
-        "-8:presale",
-        "-7:ico",
-        "-8:team allocation",
-        "-5:protocol fee",
-        "-8:premine"
-      ],
-      "snippet": "PRANA The chain that mines by doing real work. An EVM Proof-of-Work Layer-1 where you earn by doing useful AI work, not by burning electricity. Ordinary Etchash hashing is only a thin security layer underneath  the real reward is the compute that runs a community-owned AI. Fair launch. No premine. No presale. Live since 29 Aug 2026. ▚ What PRANA is (30-second version) A sovereign EVM chain (MetaMask, Solidity, foundry  all the tools you know) secured by Proof-of-Work. Its one twist: the chain IS the mining pool, and mining means doing useful work. Two lanes feed one reward pool, but they are not equals: a thin HASH lane (ordinary Etchash PoW) does just enough to keep blocks secure and in o"
     }
   ],
   "announcement_backtraces": [],
@@ -1813,7 +1795,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-25T14:38:45.073641+00:00",
+      "checked": "2026-10-25T17:44:01.953396+00:00",
       "last_state_change": null
     },
     {
@@ -1821,7 +1803,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-25T14:38:37.063428+00:00",
+      "checked": "2026-10-25T17:43:53.944011+00:00",
       "last_state_change": null
     },
     {
@@ -1829,7 +1811,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-25T14:38:41.068460+00:00",
+      "checked": "2026-10-25T17:43:57.948468+00:00",
       "last_state_change": null
     }
   ]
