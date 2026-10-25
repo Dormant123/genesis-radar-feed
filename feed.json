@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-25T11:28:08.659218+00:00",
+  "generated_at": "2026-10-25T14:58:48.387321+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,37 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][PoW] SHEAR (SHE) | SHE is private | CPU-mined ShearHash | Mainnet 21Dec 26",
+      "url": "https://bitcointalk.org/index.php?topic=5592284.0",
+      "published": null,
+      "first_seen": "2026-10-25T13:36:43.830282+00:00",
+      "last_seen": "2026-10-25T14:38:18.321732+00:00",
+      "score": 38,
+      "flags": [
+        "+9:no premine",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "-7:ico",
+        "+4:dated-launch"
+      ],
+      "snippet": "SHEAR (SHE) SHE is private. A CPU-mined proof-of-work coin where amounts and links stay off the public record Mainnet genesis: Monday 21st December 2026, 2pm UK time v12 public testnet: early December 2026 Website | Docs | Whitepaper | Source | Miner | Pool What Shear is SHE is private, and we make it so. Shear is a new proof-of-work chain, built from scratch, for people who want money that doesn't broadcast what they do with it. You mine it on an ordinary CPU. There's no premine, no founder reward, no sale of SHE by the developers, no ICO and no airdrop. Every SHE that exists was mined, or minted by the protocol's own Reserve rules described below. When you send SHE, the chain doesn't publi"
+    },
+    {
       "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 18143702030",
       "url": "https://github.com/Instinctes/nightfall#event-18143702030",
       "published": "2026-10-25T06:45:37Z",
       "first_seen": "2026-10-25T06:56:38.724065+00:00",
-      "last_seen": "2026-10-25T11:02:26.621352+00:00",
+      "last_seen": "2026-10-25T14:38:11.953433+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -25,6 +50,24 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
+    },
+    {
+      "source": "github-search",
+      "title": "zoru-labs/zoru-miner",
+      "url": "https://github.com/zoru-labs/zoru-miner",
+      "published": "2026-10-24T14:48:57Z",
+      "first_seen": "2026-10-25T14:37:59.649938+00:00",
+      "last_seen": "2026-10-25T14:37:59.649938+00:00",
+      "score": 21,
+      "flags": [
+        "+5:mainnet",
+        "+4:proof-of-work",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+4:dated-launch"
+      ],
+      "snippet": "ZORU Miner desktop wallet and CPU mining application for VEX EVM Mainnet created 2026-10-24T14:48:57Z updated 2026-10-25T14:37:12Z language Rust topics cryptocurrency evm mining proof-of-work qml rust vex vexanium vexevm"
     },
     {
       "source": "github-events",
@@ -273,7 +316,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-25T11:02:34.331192+00:00",
+      "last_seen": "2026-10-25T14:38:15.693765+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -295,7 +338,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-25T11:02:43.157971+00:00",
+      "last_seen": "2026-10-25T14:38:29.882386+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -715,7 +758,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-25T11:02:42.119672+00:00",
+      "last_seen": "2026-10-25T14:38:28.872967+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1223,7 +1266,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595958.0",
       "published": null,
       "first_seen": "2026-10-05T13:07:07.137458+00:00",
-      "last_seen": "2026-10-25T11:02:37.994195+00:00",
+      "last_seen": "2026-10-25T12:04:30.492810+00:00",
       "score": 48,
       "flags": [
         "+5:mainnet",
@@ -1381,7 +1424,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-25T11:02:22.810070+00:00",
+      "last_seen": "2026-10-25T14:38:08.197814+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1400,7 +1443,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-25T11:02:30.630769+00:00",
+      "last_seen": "2026-10-25T14:38:19.676771+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1703,7 +1746,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5593282.0",
       "published": null,
       "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-10-25T11:02:36.815027+00:00",
+      "last_seen": "2026-10-25T14:38:24.714722+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -1760,48 +1803,6 @@
         "-8:premine"
       ],
       "snippet": "PRANA The chain that mines by doing real work. An EVM Proof-of-Work Layer-1 where you earn by doing useful AI work, not by burning electricity. Ordinary Etchash hashing is only a thin security layer underneath  the real reward is the compute that runs a community-owned AI. Fair launch. No premine. No presale. Live since 29 Aug 2026. ▚ What PRANA is (30-second version) A sovereign EVM chain (MetaMask, Solidity, foundry  all the tools you know) secured by Proof-of-Work. Its one twist: the chain IS the mining pool, and mining means doing useful work. Two lanes feed one reward pool, but they are not equals: a thin HASH lane (ordinary Etchash PoW) does just enough to keep blocks secure and in o"
-    },
-    {
-      "source": "github-events",
-      "title": "brisvia/brisvia: ForkEvent 15887907210",
-      "url": "https://github.com/brisvia/brisvia#event-15887907210",
-      "published": "2026-09-28T05:07:46Z",
-      "first_seen": "2026-09-28T05:20:12.182330+00:00",
-      "last_seen": "2026-10-25T11:02:25.616369+00:00",
-      "score": 17,
-      "flags": [
-        "+7:fair launch",
-        "+2:launch",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"forked\", \"forkee\": {\"id\": 1391846400, \"node_id\": \"R_kgDOUvXkAA\", \"name\": \"brisvia\", \"full_name\": \"egiaggata/brisvia\", \"private\": false, \"owner\": {\"login\": \"egiaggata\", \"id\": 143687064, \"node_id\": \"U_kgDOCJB9mA\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/143687064?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/egiaggata\", \"html_url\": \"https://github.com/egiaggata\", \"followers_url\": \"https://api.github.com/users/egiaggata/followers\", \"following_url\": \"https://api.github.com/users/egiaggata/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/egiaggata/gists{/gist_id}\", \"starred_url\": \"https://api.github.com/users/egiaggata/starred{/owner}{"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Quantum Bitcoin (Q-BTC) - CPU PoW Mainnet Live (ML-DSA-65, No Premine)",
-      "url": "https://bitcointalk.org/index.php?topic=5579705.0",
-      "published": null,
-      "first_seen": "2026-09-27T19:04:13.704985+00:00",
-      "last_seen": "2026-10-09T03:24:22.515910+00:00",
-      "score": 33,
-      "flags": [
-        "+9:no premine",
-        "+6:no ico",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+2:pow",
-        "+2:miner",
-        "+3:compute",
-        "+2:storage",
-        "+2:post-quantum",
-        "+1:decentralized",
-        "+1:p2p",
-        "-7:ico"
-      ],
-      "snippet": "The physical qubit threshold required to break secp256k1 is dropping faster than anticipated. However, mere algorithmic substitution is insufficient. In existing PoW networks, Shor's algorithm doesn't just threaten static addresses; it transforms the 10-minute mempool confirmation delay into a lethal attack surface for quantum front-running. I have published the architectural blueprint for Quantum Bitcoin (QBTC) . Core Implementations: Consensus Layer: Full deprecation of ECDSA. L1 integration of NIST-certified ML-DSA (Module-Lattice-Based Digital Signature). Mempool Isolation: A base-layer Commit-Reveal scheme. Initiators broadcast a hashed intent (SHA256(PK || Tx_data || Salt)) first, reve"
     }
   ],
   "announcement_backtraces": [],
@@ -1812,7 +1813,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-25T11:02:59.076223+00:00",
+      "checked": "2026-10-25T14:38:45.073641+00:00",
       "last_state_change": null
     },
     {
@@ -1820,7 +1821,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-25T11:02:51.067644+00:00",
+      "checked": "2026-10-25T14:38:37.063428+00:00",
       "last_state_change": null
     },
     {
@@ -1828,7 +1829,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-25T11:02:55.071248+00:00",
+      "checked": "2026-10-25T14:38:41.068460+00:00",
       "last_state_change": null
     }
   ]
