@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-26T17:21:57.643627+00:00",
+  "generated_at": "2026-10-26T21:41:03.434255+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -8,6 +8,24 @@
     "note": "This feed contains sanitized derived radar findings and public-source excerpts only."
   },
   "public_findings": [
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Zclassic, Zcash Fork No Premine, No 20% Founders Tax",
+      "url": "https://bitcointalk.org/index.php?topic=1671982.0",
+      "published": null,
+      "first_seen": "2026-10-26T20:20:15.033618+00:00",
+      "last_seen": "2026-10-26T21:21:44.483746+00:00",
+      "score": 20,
+      "flags": [
+        "+9:no premine",
+        "+2:launch",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward"
+      ],
+      "snippet": "Zclassic is a fork of Zcash 1.0.1 with minimal changes except for 2 major things. 1. 20% Founders Reward is removed. 2. Slow start is removed (blocks start at 12.5 ZCL rewards per block). Parameters: PoW: Equihash Halving rate: Every 4 years (same as Zcash and bitcoin). Starting Block Reward: 12.5 coins every 2.5 minutes (Same as Zcash. 50 coins per 10 minutes, like Bitcoin). Total eventual supply: 21,000,000 (21 million), as per Bitcoin (Unchanged from Zcash) Difficulty adjustment algorithm: Digishield V3 (Unchanged from Zcash) Difficulty adjusts each block (Unchanged from Zcash) Symbol: ZCL (pronounced \"ZICKLE\" like \"NICKEL\") Trusted Parameters Zcash (and Zclassic) relies on trust that a p"
+    },
     {
       "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 18222066505",
@@ -190,7 +208,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-26T17:16:24.474533+00:00",
+      "last_seen": "2026-10-26T21:21:48.029353+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -232,7 +250,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-26T17:16:32.127594+00:00",
+      "last_seen": "2026-10-26T21:21:52.903052+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -348,7 +366,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-26T17:16:28.362310+00:00",
+      "last_seen": "2026-10-26T21:21:43.127365+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -370,7 +388,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-26T17:16:40.954419+00:00",
+      "last_seen": "2026-10-26T21:21:59.238157+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -389,7 +407,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-21T08:30:25.268404+00:00",
+      "last_seen": "2026-10-26T21:21:46.845323+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -452,7 +470,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-26T17:16:27.120329+00:00",
+      "last_seen": "2026-10-26T21:21:45.683513+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -790,7 +808,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-26T17:16:39.888528+00:00",
+      "last_seen": "2026-10-26T21:21:58.171053+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1456,7 +1474,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-26T17:16:16.035178+00:00",
+      "last_seen": "2026-10-26T21:21:35.075136+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1754,23 +1772,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "MESHMINER Multi-Coin GPU & CPU Mining Software NVIDIA GPU | 64-bit CPU | Windows | Linux | HiveOS | Docker [ DOWNLOAD MESHMINER ] MESHPOOL | DISCORD WHAT IS MESHMINER? MeshMiner is a multi-algorithm cryptocurrency miner developed by the Meshpool team. It supports both NVIDIA GPU and 64-bit CPU mining, with support for Windows, Linux, HiveOS and Docker. The miner can be used with Meshpool or compatible third-party pools. MeshMiner is closed source, with public binaries available through GitHub. SUPPORTED COINS & ALGORITHMS LUMENITE  LMT HomeScrypt v1.2 NVIDIA GPU + CPU NONSENSE  NNN FishHashPlus NVIDIA GPU Minimum 6 GB VRAM PLAINE  PLNE Isochron CPU + GPU acceleration DRAGONCHAIN yespower "
-    },
-    {
-      "source": "github-events",
-      "title": "pearl-research-labs/pearl: IssueCommentEvent 15926889759",
-      "url": "https://github.com/pearl-research-labs/pearl#event-15926889759",
-      "published": "2026-09-28T14:44:49Z",
-      "first_seen": "2026-09-28T15:04:32.662298+00:00",
-      "last_seen": "2026-09-28T19:10:43.887824+00:00",
-      "score": 13,
-      "flags": [
-        "+5:genesis",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/344\", \"repository_url\": \"https://api.github.com/repos/pearl-research-labs/pearl\", \"labels_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/344/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/344/comments\", \"events_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/344/events\", \"html_url\": \"https://github.com/pearl-research-labs/pearl/pull/344\", \"id\": 5616446511, \"node_id\": \"PR_kwDOSGtMDc8AAAABFhJcXQ\", \"number\": 344, \"title\": \"test(miner): end-to-end vLLM mining against a regtest node on B200\", \"user\": {\"logi"
     }
   ],
   "announcement_backtraces": [],
@@ -1781,7 +1782,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-26T17:16:57.711457+00:00",
+      "checked": "2026-10-26T21:22:14.287997+00:00",
       "last_state_change": null
     },
     {
@@ -1789,7 +1790,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-26T17:16:49.700948+00:00",
+      "checked": "2026-10-26T21:22:06.277390+00:00",
       "last_state_change": null
     },
     {
@@ -1797,7 +1798,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-26T17:16:53.706643+00:00",
+      "checked": "2026-10-26T21:22:10.283041+00:00",
       "last_state_change": null
     }
   ]
