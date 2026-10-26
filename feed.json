@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-26T05:19:14.079277+00:00",
+  "generated_at": "2026-10-26T11:15:52.826310+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,27 @@
   "public_findings": [
     {
       "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 18222066505",
+      "url": "https://github.com/btxchain/btx#event-18222066505",
+      "published": "2026-10-26T10:23:11Z",
+      "first_seen": "2026-10-26T10:33:47.216686+00:00",
+      "last_seen": "2026-10-26T11:04:59.298930+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
+    },
+    {
+      "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 18163785878",
       "url": "https://github.com/btxchain/btx#event-18163785878",
       "published": "2026-10-25T15:19:05Z",
       "first_seen": "2026-10-25T15:40:15.864947+00:00",
-      "last_seen": "2026-10-26T04:56:05.470804+00:00",
+      "last_seen": "2026-10-26T11:04:59.344037+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -30,7 +46,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592284.0",
       "published": null,
       "first_seen": "2026-10-25T13:36:43.830282+00:00",
-      "last_seen": "2026-10-26T04:56:17.239924+00:00",
+      "last_seen": "2026-10-26T11:05:12.868464+00:00",
       "score": 38,
       "flags": [
         "+9:no premine",
@@ -55,7 +71,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18143702030",
       "published": "2026-10-25T06:45:37Z",
       "first_seen": "2026-10-25T06:56:38.724065+00:00",
-      "last_seen": "2026-10-26T04:56:07.241870+00:00",
+      "last_seen": "2026-10-26T08:31:41.194748+00:00",
       "score": 15,
       "flags": [
         "+5:genesis",
@@ -216,7 +232,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-26T04:56:13.410032+00:00",
+      "last_seen": "2026-10-26T11:05:09.055898+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -332,7 +348,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-26T04:56:14.639074+00:00",
+      "last_seen": "2026-10-26T11:05:10.308869+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -354,7 +370,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-26T04:56:26.338335+00:00",
+      "last_seen": "2026-10-26T11:05:22.951322+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -436,7 +452,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-23T13:56:18.590829+00:00",
+      "last_seen": "2026-10-26T11:05:05.301669+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -774,7 +790,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-26T04:56:25.309611+00:00",
+      "last_seen": "2026-10-26T11:05:21.893776+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1440,7 +1456,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-26T04:56:03.347701+00:00",
+      "last_seen": "2026-10-26T11:04:57.236129+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1459,7 +1475,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-26T04:56:19.726508+00:00",
+      "last_seen": "2026-10-26T11:05:15.420028+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1755,36 +1771,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/344\", \"repository_url\": \"https://api.github.com/repos/pearl-research-labs/pearl\", \"labels_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/344/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/344/comments\", \"events_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/344/events\", \"html_url\": \"https://github.com/pearl-research-labs/pearl/pull/344\", \"id\": 5616446511, \"node_id\": \"PR_kwDOSGtMDc8AAAABFhJcXQ\", \"number\": 344, \"title\": \"test(miner): end-to-end vLLM mining against a regtest node on B200\", \"user\": {\"logi"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[PRE-ANN][WEC] Wcash - Merge-Mined with Zcash | 21M | No Premine | No Dev tax",
-      "url": "https://bitcointalk.org/index.php?topic=5593282.0",
-      "published": null,
-      "first_seen": "2026-09-28T10:58:21.305162+00:00",
-      "last_seen": "2026-10-25T16:11:43.288963+00:00",
-      "score": 32,
-      "flags": [
-        "+9:no premine",
-        "+9:zero premine",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+2:privacy",
-        "+5:pre-ann",
-        "-8:presale",
-        "-7:ico",
-        "-10:founder allocation",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Wcash Shielded and transparent transactions. Equihash proof of work. Merge-mined with Zcash. w.cash PRE-ANN. Mainnet is not live. No mainnet WCASH exists. Current Testnet in a slowstart. W.Cash Mainnet launches September 19, 2026, at 12:00 UTC. 🐺 Wcash is an independent proof-of-work chain derived from Zcash. It retains Zcash-family shielded and transparent transactions and uses Equihash with the Zcash parameters N=200 and K=9. Wcash may be mined directly or merge-mined with Zcash. These are two proof forms on the same Wcash chain. They do not create separate networks, separate supplies or separate classes of coins. There is no premine, ICO, presale, founder allocation, treasury reward or pr"
     }
   ],
   "announcement_backtraces": [],
@@ -1795,7 +1781,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-26T04:56:41.294889+00:00",
+      "checked": "2026-10-26T11:05:39.601042+00:00",
       "last_state_change": null
     },
     {
@@ -1803,7 +1789,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-26T04:56:33.284383+00:00",
+      "checked": "2026-10-26T11:05:31.590750+00:00",
       "last_state_change": null
     },
     {
@@ -1811,7 +1797,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-26T04:56:37.289447+00:00",
+      "checked": "2026-10-26T11:05:35.596139+00:00",
       "last_state_change": null
     }
   ]
