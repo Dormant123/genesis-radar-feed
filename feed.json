@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-27T10:57:19.417162+00:00",
+  "generated_at": "2026-10-27T16:08:55.623331+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://github.com/btxchain/btx#event-18307019372",
       "published": "2026-10-27T04:35:24Z",
       "first_seen": "2026-10-27T04:35:37.261187+00:00",
-      "last_seen": "2026-10-27T10:46:05.209400+00:00",
+      "last_seen": "2026-10-27T15:53:38.016693+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -30,7 +30,7 @@
       "url": "https://bitcointalk.org/index.php?topic=1671982.0",
       "published": null,
       "first_seen": "2026-10-26T20:20:15.033618+00:00",
-      "last_seen": "2026-10-27T10:46:20.503053+00:00",
+      "last_seen": "2026-10-27T15:53:47.734058+00:00",
       "score": 20,
       "flags": [
         "+9:no premine",
@@ -224,7 +224,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-27T10:46:23.210991+00:00",
+      "last_seen": "2026-10-27T15:53:50.195062+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -266,7 +266,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-27T07:10:04.282544+00:00",
+      "last_seen": "2026-10-27T15:53:43.785367+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -382,7 +382,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-27T10:46:16.362295+00:00",
+      "last_seen": "2026-10-27T14:52:01.255006+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -404,7 +404,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-27T10:46:33.828671+00:00",
+      "last_seen": "2026-10-27T15:53:58.840895+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -423,7 +423,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-27T10:46:19.017351+00:00",
+      "last_seen": "2026-10-27T15:53:46.411565+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -441,6 +441,20 @@
         "-7:ico"
       ],
       "snippet": "Latest release: BTC-K 3.2.13 Wallet synchronization and multiwallet switching fixes, bounded node transaction processing, and PPLNS accounting/payment fixes are live. PPLNS automatic payouts are enabled. An operator-triggered initial catch-up batch of 17 transactions paid 8,194.10896699 BTC-K and was settled by the production confirmation observer. New-payment batches are scheduled at UTC 00:00, 06:00, 12:00 and 18:00, with a 5 BTC-K minimum and six-confirmation settlement. Balances below the minimum remain credited; large balances may be paid in parts. Signed v3.2.13 release and checksums Mining setup, hashrate tiers, fees and payment details Original mainnet announcement (v3.2.6; retained "
+    },
+    {
+      "source": "github-search",
+      "title": "ErtungaYusuf/green",
+      "url": "https://github.com/ErtungaYusuf/green",
+      "published": "2026-10-17T17:17:01Z",
+      "first_seen": "2026-10-27T13:51:20.842447+00:00",
+      "last_seen": "2026-10-27T13:51:20.842447+00:00",
+      "score": 12,
+      "flags": [
+        "+7:proof of useful work",
+        "+5:useful work"
+      ],
+      "snippet": "Green (GRN): a blockchain secured by proof of useful work (AI matrix multiplication) created 2026-10-17T17:17:01Z updated 2026-10-27T13:48:49Z language Python topics"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -486,7 +500,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-27T10:46:22.033329+00:00",
+      "last_seen": "2026-10-27T15:53:49.010538+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -824,7 +838,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-27T10:46:32.771890+00:00",
+      "last_seen": "2026-10-27T15:53:57.768533+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1490,7 +1504,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-27T10:46:03.101273+00:00",
+      "last_seen": "2026-10-27T15:53:35.760829+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1740,33 +1754,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "🌐 Site: https://xcoinproject.com/ 🔎 Explorer: https://superknet.com/ 💬 Forum: https://minedifferent.com/ What it is xCoin is a proof-of-work coin. Ticker XID. Mainnet started September 26, 2026, 00:00 UTC. Rules were frozen at genesis. Every spend is signed with ML-DSA-65 (NIST FIPS 204) from block 1. SLH-DSA-SHA2-128s is also valid. There is no classical signature type on this chain. Node connections use hybrid ML-KEM-768. Source (open) 📦 Node, pool, explorer bits and wallet CLI: https://github.com/SystemThreat/xCoin ⛏️ Mac miner (MMM): https://github.com/SystemThreat/MMM Read the repos before you run binaries. Build from source if you can. Do not paste a seed into mining software. Mining A"
-    },
-    {
-      "source": "bitcointalk:Mining (Altcoins)",
-      "title": "NEV369 | Post-quantum PoW Layer 1 | Dilithium5 signatures | CPU mining |",
-      "url": "https://bitcointalk.org/index.php?topic=5595438.0",
-      "published": null,
-      "first_seen": "2026-09-29T14:09:59.842525+00:00",
-      "last_seen": "2026-10-14T10:30:00.465738+00:00",
-      "score": 24,
-      "flags": [
-        "+6:no ico",
-        "+5:genesis",
-        "+2:launch",
-        "+2:open source",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+2:post-quantum",
-        "+3:not listed",
-        "+1:p2p",
-        "-7:ico",
-        "-8:premine"
-      ],
-      "snippet": "NEV369: a proof-of-work blockchain with post-quantum signatures Website: https://q-lock-ecosystem.com Explorer: https://q-lock-ecosystem.com/explorer/ Code (open source): https://github.com/ThearchitectQlock/qlock-ecosystem Downloads: https://github.com/ThearchitectQlock/qlock-ecosystem/releases/latest WHAT IT IS NEV369 is a independent blockchain I wrote from scratch in Rust. Every transaction is signed with Dilithium5, a post-quantum signature scheme (NIST security level 5). - Hashing: SHA3-512 → BLAKE3 → SHA3-512 - Wallets: Argon2id + AES-256-GCM encryption - Networking: libp2p SPECS - Proof of work, mined on a normal CPU - 60-second blocks - 369 NEV per block, halving every 437,000 block"
     }
   ],
   "announcement_backtraces": [],
@@ -1777,7 +1764,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-27T10:46:47.334929+00:00",
+      "checked": "2026-10-27T15:54:12.346858+00:00",
       "last_state_change": null
     },
     {
@@ -1785,7 +1772,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-27T10:46:39.327004+00:00",
+      "checked": "2026-10-27T15:54:04.337905+00:00",
       "last_state_change": null
     },
     {
@@ -1793,7 +1780,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-27T10:46:43.332191+00:00",
+      "checked": "2026-10-27T15:54:08.342873+00:00",
       "last_state_change": null
     }
   ]
