@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-27T16:08:55.623331+00:00",
+  "generated_at": "2026-10-27T20:37:50.679106+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,69 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] [XDS] Discrete  Post-Quantum Proof-of-Work Cryptocurrency",
+      "url": "https://bitcointalk.org/index.php?topic=5588470.0",
+      "published": null,
+      "first_seen": "2026-10-27T19:58:23.647131+00:00",
+      "last_seen": "2026-10-27T20:29:56.019759+00:00",
+      "score": 13,
+      "flags": [
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:mining",
+        "+2:emission",
+        "+2:post-quantum",
+        "-10:private sale",
+        "-7:ico"
+      ],
+      "snippet": "Discrete (XDS) A Post-Quantum Proof-of-Work Cryptocurrency Discrete (XDS) is a pre-launch proof-of-work cryptocurrency designed for post-quantum transaction validation from genesis. It uses standardized ML-KEM-768 for private output delivery and ML-DSA-65 for spend authorization. Mining uses DiscretePower , an identity-bound construction combining SHAKE-256, ML-DSA-65 and a modified yespower memory-hard core. Solo-Only no Pools. It's not 100% non-outsourceable but you're welcome to try Key features 90-second block target Post-quantum ownership and receiving Deterministic recovery from one mnemonic On-chain account numbers and derived deposit addresses Payment proofs and Dandelion++ transacti"
+    },
+    {
+      "source": "bitcointalk:Mining (Altcoins)",
+      "title": "Introducing BRminer  a C++ CPU mining project",
+      "url": "https://bitcointalk.org/index.php?topic=5598075.0",
+      "published": null,
+      "first_seen": "2026-10-27T18:57:48.539132+00:00",
+      "last_seen": "2026-10-27T20:30:06.660017+00:00",
+      "score": 14,
+      "flags": [
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:optimization",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "BRminer  C++ CPU Miner A project by Soft Production GitHub Repository | Download Releases == About BRminer == Hello Bitcointalk! I'd like to introduce BRminer , a C++ CPU mining project developed by Soft Production . BRminer is focused on mining performance, startup speed, reliability, and continuous optimization. The project is already released, and I'm working on improving it through testing, development, and community feedback. == Main Goals == Optimize CPU mining performance. Improve startup speed and data loading. Keep the software lightweight and reliable. Improve configuration and error handling. Listen to feedback from users and developers. == Looking for Testers == I'm looking for "
+    },
+    {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 18368452806",
+      "url": "https://github.com/Instinctes/nightfall#event-18368452806",
+      "published": "2026-10-27T17:31:59Z",
+      "first_seen": "2026-10-27T17:57:45.411573+00:00",
+      "last_seen": "2026-10-27T20:29:50.861763+00:00",
+      "score": 16,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/53\", \"id\": 5888364768, \"node_id\": \"PR_kwDOT2kZwM8AAAABI5RsQw\", \"number\": 53, \"title\": \"research(ledger): confidential Merkle-sum state evidence\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node"
+    },
+    {
       "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 18307019372",
       "url": "https://github.com/btxchain/btx#event-18307019372",
       "published": "2026-10-27T04:35:24Z",
       "first_seen": "2026-10-27T04:35:37.261187+00:00",
-      "last_seen": "2026-10-27T15:53:38.016693+00:00",
+      "last_seen": "2026-10-27T20:29:48.947257+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -30,7 +87,7 @@
       "url": "https://bitcointalk.org/index.php?topic=1671982.0",
       "published": null,
       "first_seen": "2026-10-26T20:20:15.033618+00:00",
-      "last_seen": "2026-10-27T15:53:47.734058+00:00",
+      "last_seen": "2026-10-27T20:30:01.377101+00:00",
       "score": 20,
       "flags": [
         "+9:no premine",
@@ -224,7 +281,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-27T15:53:50.195062+00:00",
+      "last_seen": "2026-10-27T20:30:03.905110+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -266,7 +323,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-27T15:53:43.785367+00:00",
+      "last_seen": "2026-10-27T20:29:57.161180+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -404,7 +461,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-27T15:53:58.840895+00:00",
+      "last_seen": "2026-10-27T20:30:11.884818+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -423,7 +480,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-27T15:53:46.411565+00:00",
+      "last_seen": "2026-10-27T20:30:00.005591+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -500,7 +557,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-27T15:53:49.010538+00:00",
+      "last_seen": "2026-10-27T20:30:02.690753+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -838,7 +895,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-27T15:53:57.768533+00:00",
+      "last_seen": "2026-10-27T20:30:10.769208+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1504,7 +1561,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-27T15:53:35.760829+00:00",
+      "last_seen": "2026-10-27T20:29:46.710477+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1694,66 +1751,6 @@
         "-10:founder allocation"
       ],
       "snippet": "ZYCORD A peer-to-peer network of self-certifying state transitions CPU proof of work · zero premine · zero admin keys · mainnet 3 October 2026 Website | Source | Whitepaper | Explorer | Downloads Subscribe | Discord | Telegram 🟡 Mainnet: relaunch on 3 October 2026  exact time posted in this thread 🟢 Testnet: 1 October 2026, 00:00 UTC ⚡ REAL SCALABILITY Born doing 90 transactions per second and grows, with real usage, past 1,000,000. No architecture swap along the way, no \"sharding in 2029\", no committee deciding. The engine that carries the top of that curve already runs today on an ordinary desktop  measured, and re-measurable by you. ⚙ PARALLEL cEVM  the first real one, in the genesis b"
-    },
-    {
-      "source": "github-events",
-      "title": "btxchain/btx: IssuesEvent 16127526007",
-      "url": "https://github.com/btxchain/btx#event-16127526007",
-      "published": "2026-09-30T18:42:38Z",
-      "first_seen": "2026-09-30T18:50:26.794316+00:00",
-      "last_seen": "2026-10-03T21:03:24.623029+00:00",
-      "score": 12,
-      "flags": [
-        "+5:mainnet",
-        "+2:miner",
-        "+2:privacy",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/213\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/213/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/213/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/213/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/213\", \"id\": 5651324569, \"node_id\": \"I_kwDOR8Ja_88AAAABUNhemQ\", \"number\": 213, \"title\": \"Test report: adversarial HTLC testing on v0.34.12 regtest — no fund loss found in 62 checks\", \"user\": {\"login\": \"bs1812\", \"id\": 336226107, \"node_id\": \"U_kgDOFApn"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] [CASH] CYPHES: Private AI Cybersecurity| Powered by Zcash |Mainnet Revenue",
-      "url": "https://bitcointalk.org/index.php?topic=5589620.0",
-      "published": null,
-      "first_seen": "2026-09-30T17:19:31.396504+00:00",
-      "last_seen": "2026-10-01T13:49:34.697532+00:00",
-      "score": 22,
-      "flags": [
-        "+5:mainnet",
-        "+2:launch",
-        "+1:testnet",
-        "+2:pow",
-        "+2:miner",
-        "+5:useful work",
-        "+4:inference",
-        "+1:decentralized"
-      ],
-      "snippet": "CYPHES Mainnet: Mine Cyber Defense with Local AI Bittensor-style incentives for autonomous security work. Ethereum-aligned settlement vibes. Early miners wanted. CYPHES is a new mainnet for agentic cyber defense. The idea is simple: Local AI models should not sit idle. They should defend open finance. CYPHES nodes run local AI agents against real open-source crypto targets, produce signed Cognition Proof receipts, and receive ATP credits only after independent verifier finality. This is not another network. This is a machine-labor network for cybersecurity. Launching Discord Today: https://discord.gg/GSZEuR8fuf Why This Matters Bitcoin turned computation into monetary security. Bittensor tur"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] xCoin (XID) post-quantum PoW, mainnet Sept 26, 2026. No premine.",
-      "url": "https://bitcointalk.org/index.php?topic=5595517.0",
-      "published": null,
-      "first_seen": "2026-09-30T12:42:32.746363+00:00",
-      "last_seen": "2026-10-24T16:32:28.503247+00:00",
-      "score": 22,
-      "flags": [
-        "+9:no premine",
-        "+5:mainnet",
-        "+5:genesis",
-        "+5:block 0",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+2:post-quantum",
-        "-7:ico",
-        "-10:founder allocation",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "🌐 Site: https://xcoinproject.com/ 🔎 Explorer: https://superknet.com/ 💬 Forum: https://minedifferent.com/ What it is xCoin is a proof-of-work coin. Ticker XID. Mainnet started September 26, 2026, 00:00 UTC. Rules were frozen at genesis. Every spend is signed with ML-DSA-65 (NIST FIPS 204) from block 1. SLH-DSA-SHA2-128s is also valid. There is no classical signature type on this chain. Node connections use hybrid ML-KEM-768. Source (open) 📦 Node, pool, explorer bits and wallet CLI: https://github.com/SystemThreat/xCoin ⛏️ Mac miner (MMM): https://github.com/SystemThreat/MMM Read the repos before you run binaries. Build from source if you can. Do not paste a seed into mining software. Mining A"
     }
   ],
   "announcement_backtraces": [],
@@ -1764,7 +1761,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-27T15:54:12.346858+00:00",
+      "checked": "2026-10-27T20:30:25.462358+00:00",
       "last_state_change": null
     },
     {
@@ -1772,7 +1769,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-27T15:54:04.337905+00:00",
+      "checked": "2026-10-27T20:30:17.452111+00:00",
       "last_state_change": null
     },
     {
@@ -1780,7 +1777,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-27T15:54:08.342873+00:00",
+      "checked": "2026-10-27T20:30:21.457396+00:00",
       "last_state_change": null
     }
   ]
