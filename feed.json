@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-27T00:47:43.617328+00:00",
+  "generated_at": "2026-10-27T05:40:30.369258+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,28 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 18307019372",
+      "url": "https://github.com/btxchain/btx#event-18307019372",
+      "published": "2026-10-27T04:35:24Z",
+      "first_seen": "2026-10-27T04:35:37.261187+00:00",
+      "last_seen": "2026-10-27T05:37:17.666065+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Zclassic, Zcash Fork No Premine, No 20% Founders Tax",
       "url": "https://bitcointalk.org/index.php?topic=1671982.0",
       "published": null,
       "first_seen": "2026-10-26T20:20:15.033618+00:00",
-      "last_seen": "2026-10-27T00:28:41.350574+00:00",
+      "last_seen": "2026-10-27T05:37:25.694570+00:00",
       "score": 20,
       "flags": [
         "+9:no premine",
@@ -208,7 +224,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-27T00:28:44.901593+00:00",
+      "last_seen": "2026-10-27T05:37:28.047835+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -250,7 +266,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-26T23:26:13.198535+00:00",
+      "last_seen": "2026-10-27T05:37:32.781658+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -366,7 +382,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-27T00:28:39.973637+00:00",
+      "last_seen": "2026-10-27T05:37:23.321719+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -388,7 +404,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-27T00:28:54.869895+00:00",
+      "last_seen": "2026-10-27T05:37:38.796858+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -407,7 +423,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-27T00:28:43.745198+00:00",
+      "last_seen": "2026-10-27T05:37:24.442258+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -470,7 +486,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-27T00:28:42.575269+00:00",
+      "last_seen": "2026-10-27T05:37:26.912855+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -808,7 +824,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-27T00:28:53.830085+00:00",
+      "last_seen": "2026-10-27T05:37:37.741459+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1474,7 +1490,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-27T00:28:31.646971+00:00",
+      "last_seen": "2026-10-27T05:37:15.466761+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1751,27 +1767,6 @@
         "-8:premine"
       ],
       "snippet": "NEV369: a proof-of-work blockchain with post-quantum signatures Website: https://q-lock-ecosystem.com Explorer: https://q-lock-ecosystem.com/explorer/ Code (open source): https://github.com/ThearchitectQlock/qlock-ecosystem Downloads: https://github.com/ThearchitectQlock/qlock-ecosystem/releases/latest WHAT IT IS NEV369 is a independent blockchain I wrote from scratch in Rust. Every transaction is signed with Dilithium5, a post-quantum signature scheme (NIST security level 5). - Hashing: SHA3-512 → BLAKE3 → SHA3-512 - Wallets: Argon2id + AES-256-GCM encryption - Networking: libp2p SPECS - Proof of work, mined on a normal CPU - 60-second blocks - 369 NEV per block, halving every 437,000 block"
-    },
-    {
-      "source": "bitcointalk:Mining (Altcoins)",
-      "title": "[ANN] MeshMiner | Multi-Coin NVIDIA GPU & CPU Miner | Riecoin GPU Mining!",
-      "url": "https://bitcointalk.org/index.php?topic=5595383.0",
-      "published": null,
-      "first_seen": "2026-09-28T20:13:26.373049+00:00",
-      "last_seen": "2026-10-18T14:50:41.506793+00:00",
-      "score": 28,
-      "flags": [
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:optimization",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "MESHMINER Multi-Coin GPU & CPU Mining Software NVIDIA GPU | 64-bit CPU | Windows | Linux | HiveOS | Docker [ DOWNLOAD MESHMINER ] MESHPOOL | DISCORD WHAT IS MESHMINER? MeshMiner is a multi-algorithm cryptocurrency miner developed by the Meshpool team. It supports both NVIDIA GPU and 64-bit CPU mining, with support for Windows, Linux, HiveOS and Docker. The miner can be used with Meshpool or compatible third-party pools. MeshMiner is closed source, with public binaries available through GitHub. SUPPORTED COINS & ALGORITHMS LUMENITE  LMT HomeScrypt v1.2 NVIDIA GPU + CPU NONSENSE  NNN FishHashPlus NVIDIA GPU Minimum 6 GB VRAM PLAINE  PLNE Isochron CPU + GPU acceleration DRAGONCHAIN yespower "
     }
   ],
   "announcement_backtraces": [],
@@ -1782,7 +1777,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-27T00:29:08.245720+00:00",
+      "checked": "2026-10-27T05:37:52.111200+00:00",
       "last_state_change": null
     },
     {
@@ -1790,7 +1785,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-27T00:29:00.233666+00:00",
+      "checked": "2026-10-27T05:37:44.100932+00:00",
       "last_state_change": null
     },
     {
@@ -1798,7 +1793,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-27T00:29:04.239717+00:00",
+      "checked": "2026-10-27T05:37:48.106367+00:00",
       "last_state_change": null
     }
   ]
