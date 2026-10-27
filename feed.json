@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-27T20:37:50.679106+00:00",
+  "generated_at": "2026-10-27T23:57:32.120968+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5588470.0",
       "published": null,
       "first_seen": "2026-10-27T19:58:23.647131+00:00",
-      "last_seen": "2026-10-27T20:29:56.019759+00:00",
+      "last_seen": "2026-10-27T23:33:37.949864+00:00",
       "score": 13,
       "flags": [
         "+6:no ico",
@@ -37,7 +37,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-10-27T20:30:06.660017+00:00",
+      "last_seen": "2026-10-27T23:33:46.395554+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -54,7 +54,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18368452806",
       "published": "2026-10-27T17:31:59Z",
       "first_seen": "2026-10-27T17:57:45.411573+00:00",
-      "last_seen": "2026-10-27T20:29:50.861763+00:00",
+      "last_seen": "2026-10-27T23:33:31.921787+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -71,7 +71,7 @@
       "url": "https://github.com/btxchain/btx#event-18307019372",
       "published": "2026-10-27T04:35:24Z",
       "first_seen": "2026-10-27T04:35:37.261187+00:00",
-      "last_seen": "2026-10-27T20:29:48.947257+00:00",
+      "last_seen": "2026-10-27T23:33:29.884775+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -87,7 +87,7 @@
       "url": "https://bitcointalk.org/index.php?topic=1671982.0",
       "published": null,
       "first_seen": "2026-10-26T20:20:15.033618+00:00",
-      "last_seen": "2026-10-27T20:30:01.377101+00:00",
+      "last_seen": "2026-10-27T23:33:42.746290+00:00",
       "score": 20,
       "flags": [
         "+9:no premine",
@@ -281,7 +281,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-27T20:30:03.905110+00:00",
+      "last_seen": "2026-10-27T21:00:51.622212+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -323,7 +323,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-27T20:29:57.161180+00:00",
+      "last_seen": "2026-10-27T23:33:39.159578+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -461,7 +461,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-27T20:30:11.884818+00:00",
+      "last_seen": "2026-10-27T23:33:50.978931+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -480,7 +480,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-27T20:30:00.005591+00:00",
+      "last_seen": "2026-10-27T23:33:41.518361+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -557,7 +557,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-27T20:30:02.690753+00:00",
+      "last_seen": "2026-10-27T23:33:43.896948+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -895,7 +895,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-27T20:30:10.769208+00:00",
+      "last_seen": "2026-10-27T23:33:49.977743+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1561,7 +1561,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-27T20:29:46.710477+00:00",
+      "last_seen": "2026-10-27T23:33:27.689974+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1761,7 +1761,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-27T20:30:25.462358+00:00",
+      "checked": "2026-10-27T23:34:04.233463+00:00",
       "last_state_change": null
     },
     {
@@ -1769,7 +1769,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-27T20:30:17.452111+00:00",
+      "checked": "2026-10-27T23:33:56.223452+00:00",
       "last_state_change": null
     },
     {
@@ -1777,7 +1777,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-27T20:30:21.457396+00:00",
+      "checked": "2026-10-27T23:34:00.228798+00:00",
       "last_state_change": null
     }
   ]
