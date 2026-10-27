@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-26T21:41:03.434255+00:00",
+  "generated_at": "2026-10-27T00:47:43.617328+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=1671982.0",
       "published": null,
       "first_seen": "2026-10-26T20:20:15.033618+00:00",
-      "last_seen": "2026-10-26T21:21:44.483746+00:00",
+      "last_seen": "2026-10-27T00:28:41.350574+00:00",
       "score": 20,
       "flags": [
         "+9:no premine",
@@ -208,7 +208,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-26T21:21:48.029353+00:00",
+      "last_seen": "2026-10-27T00:28:44.901593+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -250,7 +250,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-26T21:21:52.903052+00:00",
+      "last_seen": "2026-10-26T23:26:13.198535+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -366,7 +366,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597169.0",
       "published": null,
       "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-26T21:21:43.127365+00:00",
+      "last_seen": "2026-10-27T00:28:39.973637+00:00",
       "score": 26,
       "flags": [
         "+9:zero premine",
@@ -388,7 +388,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-26T21:21:59.238157+00:00",
+      "last_seen": "2026-10-27T00:28:54.869895+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -407,7 +407,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-26T21:21:46.845323+00:00",
+      "last_seen": "2026-10-27T00:28:43.745198+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -470,7 +470,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-26T21:21:45.683513+00:00",
+      "last_seen": "2026-10-27T00:28:42.575269+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -808,7 +808,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-26T21:21:58.171053+00:00",
+      "last_seen": "2026-10-27T00:28:53.830085+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1474,7 +1474,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-26T21:21:35.075136+00:00",
+      "last_seen": "2026-10-27T00:28:31.646971+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1782,7 +1782,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-26T21:22:14.287997+00:00",
+      "checked": "2026-10-27T00:29:08.245720+00:00",
       "last_state_change": null
     },
     {
@@ -1790,7 +1790,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-26T21:22:06.277390+00:00",
+      "checked": "2026-10-27T00:29:00.233666+00:00",
       "last_state_change": null
     },
     {
@@ -1798,7 +1798,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-26T21:22:10.283041+00:00",
+      "checked": "2026-10-27T00:29:04.239717+00:00",
       "last_state_change": null
     }
   ]
