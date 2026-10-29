@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-29T06:47:10.758420+00:00",
+  "generated_at": "2026-10-29T13:43:15.394154+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,27 @@
   "public_findings": [
     {
       "source": "github-events",
+      "title": "btxchain/btx: IssuesEvent 18555309997",
+      "url": "https://github.com/btxchain/btx#event-18555309997",
+      "published": "2026-10-29T12:04:23Z",
+      "first_seen": "2026-10-29T12:28:09.354077+00:00",
+      "last_seen": "2026-10-29T13:29:23.802381+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U_"
+    },
+    {
+      "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 18516034047",
       "url": "https://github.com/Instinctes/nightfall#event-18516034047",
       "published": "2026-10-28T20:41:48Z",
       "first_seen": "2026-10-29T02:43:35.487252+00:00",
-      "last_seen": "2026-10-29T06:19:39.968032+00:00",
+      "last_seen": "2026-10-29T13:29:25.864184+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -30,7 +46,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18490734928",
       "published": "2026-10-28T20:41:43Z",
       "first_seen": "2026-10-28T21:06:17.049723+00:00",
-      "last_seen": "2026-10-29T06:19:39.986411+00:00",
+      "last_seen": "2026-10-29T13:29:25.885165+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -46,7 +62,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5588470.0",
       "published": null,
       "first_seen": "2026-10-27T19:58:23.647131+00:00",
-      "last_seen": "2026-10-29T06:19:58.566938+00:00",
+      "last_seen": "2026-10-29T07:20:56.663029+00:00",
       "score": 13,
       "flags": [
         "+6:no ico",
@@ -69,7 +85,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-10-29T06:20:01.179761+00:00",
+      "last_seen": "2026-10-29T13:29:46.962401+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -86,7 +102,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18368452806",
       "published": "2026-10-27T17:31:59Z",
       "first_seen": "2026-10-27T17:57:45.411573+00:00",
-      "last_seen": "2026-10-29T06:19:40.003598+00:00",
+      "last_seen": "2026-10-29T13:29:25.905318+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -248,7 +264,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-10-24T17:03:03.950946+00:00",
+      "last_seen": "2026-10-29T13:29:32.464381+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -313,7 +329,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-29T06:19:57.408834+00:00",
+      "last_seen": "2026-10-29T13:29:44.328220+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -493,7 +509,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-29T06:20:05.874859+00:00",
+      "last_seen": "2026-10-29T13:29:51.650775+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -589,7 +605,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-29T06:19:48.937275+00:00",
+      "last_seen": "2026-10-29T13:29:29.887039+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -927,7 +943,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-29T06:20:04.826363+00:00",
+      "last_seen": "2026-10-29T13:29:50.569721+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1593,7 +1609,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-29T06:19:35.992471+00:00",
+      "last_seen": "2026-10-29T13:29:21.650702+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1612,7 +1628,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-29T06:19:53.860824+00:00",
+      "last_seen": "2026-10-29T13:29:40.553146+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1693,31 +1709,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "FEELCOIN (FEEL) RandomX Proof-of-Work  CPU Mining  Independent Blockchain In Feels We Trust Introduction Feelcoin (ticker: FEEL ) is an independent Proof-of-Work blockchain using the RandomX mining algorithm. Feelcoin is derived from the Monero open-source codebase and openly acknowledges that technical lineage. It is not presented as a clean-room implementation. Feelcoin runs its own independent network with its own genesis, chain history, address namespace, releases, mining infrastructure, explorer, paper wallet, and consensus rules. The project is currently in an early public-launch stage . The objective of this ANN is to document the network, provide working software and infrastructure"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][QWC] Qwertycoin | Privacy | EPoSe | RandomX | No Premine 2026",
-      "url": "https://bitcointalk.org/index.php?topic=5594105.0",
-      "published": null,
-      "first_seen": "2026-10-01T08:42:37.621350+00:00",
-      "last_seen": "2026-10-19T15:25:08.808401+00:00",
-      "score": 36,
-      "flags": [
-        "+9:no premine",
-        "+5:genesis",
-        "+5:block 0",
-        "+2:launch",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+2:privacy",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "QWC | Privacy | EPoSe | RandomX | No Premine Website | Web Wallet | Explorer | Source code Public launch: Qwertycoin starts at network height 0 with a fresh genesis, no premine and no imported balances from earlier chains. Download information updated: 14 September 2026. Hello Bitcointalk, I'm Alex (nnian). Some of you will remember me from Qwertycoin's earlier years. I'm bringing the project back with a new codebase, a new network and a reworked implementation of EPoSe. Qwertycoin combines private payments and open CPU mining with rewards for providing verifiable network service. The new core builds on Monero 0.18.x, uses RandomX proof of work and adds EPoSe: a service-node reward system wi"
     }
   ],
   "announcement_backtraces": [],
@@ -1728,7 +1719,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-29T06:20:19.428715+00:00",
+      "checked": "2026-10-29T13:30:04.914895+00:00",
       "last_state_change": null
     },
     {
@@ -1736,7 +1727,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-29T06:20:11.417747+00:00",
+      "checked": "2026-10-29T13:29:56.905801+00:00",
       "last_state_change": null
     },
     {
@@ -1744,7 +1735,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-29T06:20:15.423707+00:00",
+      "checked": "2026-10-29T13:30:00.910105+00:00",
       "last_state_change": null
     }
   ]
