@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-29T13:43:15.394154+00:00",
+  "generated_at": "2026-10-29T19:13:07.445029+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,27 @@
   "public_findings": [
     {
       "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 18564032171",
+      "url": "https://github.com/btxchain/btx#event-18564032171",
+      "published": "2026-10-29T12:39:15Z",
+      "first_seen": "2026-10-29T14:00:25.976596+00:00",
+      "last_seen": "2026-10-29T19:07:26.821974+00:00",
+      "score": 13,
+      "flags": [
+        "+5:mainnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/288\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/288\", \"id\": 6088866721, \"node_id\": \"PR_kwDOR8Ja_88AAAABLYhB0w\", \"number\": 288, \"title\": \"net: relay a fast-announced block only after it connects\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U_kgDOBvLf1w\", \"avatar_url\": \"https://avatar"
+    },
+    {
+      "source": "github-events",
       "title": "btxchain/btx: IssuesEvent 18555309997",
       "url": "https://github.com/btxchain/btx#event-18555309997",
       "published": "2026-10-29T12:04:23Z",
       "first_seen": "2026-10-29T12:28:09.354077+00:00",
-      "last_seen": "2026-10-29T13:29:23.802381+00:00",
+      "last_seen": "2026-10-29T19:07:26.845890+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -30,7 +46,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18516034047",
       "published": "2026-10-28T20:41:48Z",
       "first_seen": "2026-10-29T02:43:35.487252+00:00",
-      "last_seen": "2026-10-29T13:29:25.864184+00:00",
+      "last_seen": "2026-10-29T19:07:28.630353+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -46,7 +62,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18490734928",
       "published": "2026-10-28T20:41:43Z",
       "first_seen": "2026-10-28T21:06:17.049723+00:00",
-      "last_seen": "2026-10-29T13:29:25.885165+00:00",
+      "last_seen": "2026-10-29T19:07:28.642037+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -85,7 +101,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-10-29T13:29:46.962401+00:00",
+      "last_seen": "2026-10-29T19:07:50.227123+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -102,7 +118,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18368452806",
       "published": "2026-10-27T17:31:59Z",
       "first_seen": "2026-10-27T17:57:45.411573+00:00",
-      "last_seen": "2026-10-29T13:29:25.905318+00:00",
+      "last_seen": "2026-10-29T19:07:28.658328+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -264,7 +280,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-10-29T13:29:32.464381+00:00",
+      "last_seen": "2026-10-29T19:07:35.161745+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -329,7 +345,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-29T13:29:44.328220+00:00",
+      "last_seen": "2026-10-29T19:07:46.318522+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -509,7 +525,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-29T13:29:51.650775+00:00",
+      "last_seen": "2026-10-29T19:07:53.558593+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -605,13 +621,14 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-29T13:29:29.887039+00:00",
-      "score": 34,
+      "last_seen": "2026-10-29T19:07:32.546944+00:00",
+      "score": 28,
       "flags": [
         "+9:no premine",
         "+6:no ico",
         "+6:no token sale",
         "+5:genesis",
+        "+2:launch",
         "+4:proof of work",
         "+4:cpu mining",
         "+2:miner",
@@ -622,9 +639,10 @@
         "+1:p2p",
         "-7:ico",
         "-8:developer fee",
+        "-8:premine",
         "+3:runnable-artifact"
       ],
-      "snippet": "https://monzero.org/assets/monzero-xmz-coin-256.png Monzero (XMZ) Independent privacy coin · RandomX CPU mining · no premine · no ICO Website | Forum | Pool | Explorer | Whitepaper | Source | Roadmap What is Monzero? Monzero is an independent privacy currency built from the Monero codebase. It runs its own chain (genesis block 25 August 2026) with its own address prefixes, ports and emission schedule. It shares no history with Monero. Private by default: amounts are hidden with RingCT, senders are hidden in rings of 16, and every payment goes to a one-time address. Fair to mine: RandomX proof of work, built for ordinary CPUs. No premine, no ICO, no token sale, no developer fee in the block r"
+      "snippet": "https://monzero.org/assets/monzero-xmz-coin-256.png Monzero (XMZ) Independent privacy coin · RandomX CPU mining · no genesis allocation · no ICO Website | Forum | Pool | Explorer | Whitepaper | Source | Roadmap What is Monzero? Monzero is an independent privacy currency built from the Monero codebase. It runs its own chain (genesis block 25 August 2026) with its own address prefixes, ports and emission schedule. It shares no history with Monero. Private by default: amounts are hidden with RingCT, senders are hidden in rings of 16, and every payment goes to a one-time address. Mined, not allocated: RandomX proof of work, built for ordinary CPUs. No coins in the genesis block, no ICO, no token"
     },
     {
       "source": "github-events",
@@ -943,7 +961,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-29T13:29:50.569721+00:00",
+      "last_seen": "2026-10-29T19:07:52.494140+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1609,7 +1627,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-29T13:29:21.650702+00:00",
+      "last_seen": "2026-10-29T19:07:24.555053+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1628,7 +1646,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-29T13:29:40.553146+00:00",
+      "last_seen": "2026-10-29T19:07:42.616644+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1685,30 +1703,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "FEELCOIN (FEEL) RandomX Proof-of-Work | CPU-Oriented Mining | Independent Blockchain In Feels We Trust. INTRODUCTION Feelcoin (FEEL) is an independent Proof-of-Work cryptocurrency using the RandomX mining algorithm, emphasizing CPU mining, transparency, open-source development, and community participation. Feelcoin launched publicly in October 2026 without a premine, ICO, presale, or private developer allocation. No coins were reserved for the developer before launch. Feelcoin is derived from the Monero open-source codebase and openly acknowledges its technical lineage. It operates its own genesis block, independent blockchain, network parameters, address namespace, chain history, mining inf"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] [FEEL] Feelcoin | RandomX PoW | CPU Mining | Independent Blockchain",
-      "url": "https://bitcointalk.org/index.php?topic=5595702.0",
-      "published": null,
-      "first_seen": "2026-10-02T13:23:54.858597+00:00",
-      "last_seen": "2026-10-03T11:20:25.853604+00:00",
-      "score": 38,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:storage",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "FEELCOIN (FEEL) RandomX Proof-of-Work  CPU Mining  Independent Blockchain In Feels We Trust Introduction Feelcoin (ticker: FEEL ) is an independent Proof-of-Work blockchain using the RandomX mining algorithm. Feelcoin is derived from the Monero open-source codebase and openly acknowledges that technical lineage. It is not presented as a clean-room implementation. Feelcoin runs its own independent network with its own genesis, chain history, address namespace, releases, mining infrastructure, explorer, paper wallet, and consensus rules. The project is currently in an early public-launch stage . The objective of this ANN is to document the network, provide working software and infrastructure"
     }
   ],
   "announcement_backtraces": [],
@@ -1719,7 +1713,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-29T13:30:04.914895+00:00",
+      "checked": "2026-10-29T19:08:07.111861+00:00",
       "last_state_change": null
     },
     {
@@ -1727,7 +1721,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-29T13:29:56.905801+00:00",
+      "checked": "2026-10-29T19:07:59.100878+00:00",
       "last_state_change": null
     },
     {
@@ -1735,7 +1729,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-29T13:30:00.910105+00:00",
+      "checked": "2026-10-29T19:08:03.106799+00:00",
       "last_state_change": null
     }
   ]
