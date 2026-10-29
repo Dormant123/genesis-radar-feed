@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-29T00:59:36.175644+00:00",
+  "generated_at": "2026-10-29T06:47:10.758420+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,27 @@
   "public_findings": [
     {
       "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 18516034047",
+      "url": "https://github.com/Instinctes/nightfall#event-18516034047",
+      "published": "2026-10-28T20:41:48Z",
+      "first_seen": "2026-10-29T02:43:35.487252+00:00",
+      "last_seen": "2026-10-29T06:19:39.968032+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+2:mining",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/76\", \"id\": 6067809944, \"node_id\": \"PR_kwDOT2kZwM8AAAABLHrRJw\", \"number\": 76, \"title\": \"fix(node-evidence): reject misleading sealed receipts\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id"
+    },
+    {
+      "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 18490734928",
       "url": "https://github.com/Instinctes/nightfall#event-18490734928",
       "published": "2026-10-28T20:41:43Z",
       "first_seen": "2026-10-28T21:06:17.049723+00:00",
-      "last_seen": "2026-10-29T00:41:19.366114+00:00",
+      "last_seen": "2026-10-29T06:19:39.986411+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -30,7 +46,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5588470.0",
       "published": null,
       "first_seen": "2026-10-27T19:58:23.647131+00:00",
-      "last_seen": "2026-10-28T23:09:46.950942+00:00",
+      "last_seen": "2026-10-29T06:19:58.566938+00:00",
       "score": 13,
       "flags": [
         "+6:no ico",
@@ -53,7 +69,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-10-29T00:41:35.868711+00:00",
+      "last_seen": "2026-10-29T06:20:01.179761+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -70,7 +86,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18368452806",
       "published": "2026-10-27T17:31:59Z",
       "first_seen": "2026-10-27T17:57:45.411573+00:00",
-      "last_seen": "2026-10-29T00:41:19.379775+00:00",
+      "last_seen": "2026-10-29T06:19:40.003598+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -87,7 +103,7 @@
       "url": "https://github.com/btxchain/btx#event-18307019372",
       "published": "2026-10-27T04:35:24Z",
       "first_seen": "2026-10-27T04:35:37.261187+00:00",
-      "last_seen": "2026-10-29T00:41:17.493994+00:00",
+      "last_seen": "2026-10-29T01:42:52.634874+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -297,7 +313,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-29T00:41:33.331059+00:00",
+      "last_seen": "2026-10-29T06:19:57.408834+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -477,7 +493,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-29T00:41:40.604279+00:00",
+      "last_seen": "2026-10-29T06:20:05.874859+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -573,7 +589,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-29T00:41:23.588966+00:00",
+      "last_seen": "2026-10-29T06:19:48.937275+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -911,7 +927,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-29T00:41:39.562173+00:00",
+      "last_seen": "2026-10-29T06:20:04.826363+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1577,7 +1593,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-29T00:41:15.263333+00:00",
+      "last_seen": "2026-10-29T06:19:35.992471+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1596,7 +1612,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-29T00:41:29.850286+00:00",
+      "last_seen": "2026-10-29T06:19:53.860824+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1702,38 +1718,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "QWC | Privacy | EPoSe | RandomX | No Premine Website | Web Wallet | Explorer | Source code Public launch: Qwertycoin starts at network height 0 with a fresh genesis, no premine and no imported balances from earlier chains. Download information updated: 14 September 2026. Hello Bitcointalk, I'm Alex (nnian). Some of you will remember me from Qwertycoin's earlier years. I'm bringing the project back with a new codebase, a new network and a reworked implementation of EPoSe. Qwertycoin combines private payments and open CPU mining with rewards for providing verifiable network service. The new core builds on Monero 0.18.x, uses RandomX proof of work and adds EPoSe: a service-node reward system wi"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][ZCD] Zycord | A P2P network of self-certifying state | Mainnet Oct 7",
-      "url": "https://bitcointalk.org/index.php?topic=5592720.0",
-      "published": null,
-      "first_seen": "2026-10-01T08:11:48.037779+00:00",
-      "last_seen": "2026-10-06T14:16:25.808913+00:00",
-      "score": 65,
-      "flags": [
-        "+9:no premine",
-        "+9:zero premine",
-        "+7:fair launch",
-        "+6:no ico",
-        "+5:mainnet",
-        "+5:genesis",
-        "+5:block 0",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+3:compute",
-        "+2:privacy",
-        "+2:post-quantum",
-        "+1:decentralized",
-        "+1:p2p",
-        "-7:ico"
-      ],
-      "snippet": "ZYCORD A peer-to-peer network of self-certifying state transitions CPU proof of work · zero premine · zero ICO · zero admin keys · mainnet 7 October 2026 Website | Source | Whitepaper | Explorer | Downloads Subscribe | Discord | Telegram 🟡 Mainnet launch: 7 October 2026, 00:00 UTC 🟢 Testnet: 5 October 2026, 00:00 UTC Same binary, same launch, two days earlier. Mine it solo or in a pool and help validate the mainnet launch. ⚡ REAL SCALABILITY Born doing 90 transactions per second and grows, with real usage, past 1,000,000. No architecture swap along the way, no \"sharding in 2029\", no committee deciding. The engine that carries the top of that curve already runs today on an ordinary desktop  "
     }
   ],
   "announcement_backtraces": [],
@@ -1744,7 +1728,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-29T00:41:54.289300+00:00",
+      "checked": "2026-10-29T06:20:19.428715+00:00",
       "last_state_change": null
     },
     {
@@ -1752,7 +1736,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-29T00:41:46.282002+00:00",
+      "checked": "2026-10-29T06:20:11.417747+00:00",
       "last_state_change": null
     },
     {
@@ -1760,7 +1744,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-29T00:41:50.287673+00:00",
+      "checked": "2026-10-29T06:20:15.423707+00:00",
       "last_state_change": null
     }
   ]
