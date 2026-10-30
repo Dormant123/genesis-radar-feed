@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-30T02:38:03.791896+00:00",
+  "generated_at": "2026-10-30T08:56:34.736445+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,27 @@
   "public_findings": [
     {
       "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 18638473444",
+      "url": "https://github.com/btxchain/btx#event-18638473444",
+      "published": "2026-10-30T05:59:42Z",
+      "first_seen": "2026-10-30T06:23:42.322745+00:00",
+      "last_seen": "2026-10-30T08:26:01.910869+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U"
+    },
+    {
+      "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 18605310755",
       "url": "https://github.com/btxchain/btx#event-18605310755",
       "published": "2026-10-29T13:56:37Z",
       "first_seen": "2026-10-29T21:41:31.863844+00:00",
-      "last_seen": "2026-10-30T02:17:14.728692+00:00",
+      "last_seen": "2026-10-30T05:52:36.145358+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -62,7 +78,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18516034047",
       "published": "2026-10-28T20:41:48Z",
       "first_seen": "2026-10-29T02:43:35.487252+00:00",
-      "last_seen": "2026-10-30T02:17:16.742409+00:00",
+      "last_seen": "2026-10-30T08:26:04.021209+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -117,7 +133,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-10-30T02:17:38.251859+00:00",
+      "last_seen": "2026-10-30T07:24:54.095207+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -296,7 +312,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-10-30T02:17:22.843329+00:00",
+      "last_seen": "2026-10-30T07:24:30.284544+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -541,7 +557,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-30T02:17:41.531119+00:00",
+      "last_seen": "2026-10-30T07:25:00.441150+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -637,7 +653,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-30T02:17:21.454417+00:00",
+      "last_seen": "2026-10-30T07:24:26.339551+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -977,7 +993,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-30T02:17:40.477267+00:00",
+      "last_seen": "2026-10-30T07:24:58.560201+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1643,7 +1659,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-30T02:17:12.657717+00:00",
+      "last_seen": "2026-10-30T08:25:59.689853+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1655,40 +1671,6 @@
         "+2:mining"
       ],
       "snippet": "{\"ref\": \"qt-rename-sat-rex-full-cleanup\", \"ref_type\": \"branch\", \"full_ref\": \"refs/heads/qt-rename-sat-rex-full-cleanup\", \"master_branch\": \"main\", \"description\": \"Block Zero (BLOZ) — Bitcoin-style CPU mining on RandomX. No ASIC/GPU farms. Fair launch, no premine. Mainnet live. Wallet + node → discord.gg/FbJzrwAU2W\", \"pusher_type\": \"user\"}"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Block Zero (BLOZ) | A Second Chance at Genesis | RandomX CPU PoW | No Prem",
-      "url": "https://bitcointalk.org/index.php?topic=5586152.0",
-      "published": null,
-      "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-30T02:17:27.963764+00:00",
-      "score": 42,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+7:no presale",
-        "+5:mainnet",
-        "+5:genesis",
-        "+5:block zero",
-        "+2:launch",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+3:compute",
-        "+1:p2p",
-        "-8:presale",
-        "-10:private sale",
-        "-4:venture",
-        "-8:premine",
-        "+4:dated-launch",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "BLOCK ZERO (BLOZ) A second chance at Genesis. RandomX CPU Mining | Fair Launch | No Premine | No Presale | Bitcoin Core Based Back to the feeling of the beginning There was a time when mining did not belong to warehouses. No ASIC farms. No venture capital rounds. No private sale allocations. No insider supply. No complicated token launch mechanics. Just a computer, a wallet, a node, Proof of Work, and the feeling that anyone could join from the beginning. That early Bitcoin era is gone. Today, Bitcoin mining is industrial. Most new coins launch with presales, insider allocations, premines, venture capital rounds, or complex token economics before normal users even get a chance to participate"
     }
   ],
   "announcement_backtraces": [],
@@ -1699,7 +1681,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-30T02:17:55.178271+00:00",
+      "checked": "2026-10-30T08:26:30.394070+00:00",
       "last_state_change": null
     },
     {
@@ -1707,7 +1689,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-30T02:17:47.167962+00:00",
+      "checked": "2026-10-30T08:26:22.384604+00:00",
       "last_state_change": null
     },
     {
@@ -1715,7 +1697,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-30T02:17:51.173423+00:00",
+      "checked": "2026-10-30T08:26:26.389197+00:00",
       "last_state_change": null
     }
   ]
