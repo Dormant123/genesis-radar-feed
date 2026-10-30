@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-30T19:58:10.414468+00:00",
+  "generated_at": "2026-10-30T23:26:32.688456+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,66 @@
   "public_findings": [
     {
       "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 18708237021",
+      "url": "https://github.com/Instinctes/nightfall#event-18708237021",
+      "published": "2026-10-30T18:34:49Z",
+      "first_seen": "2026-10-30T21:14:33.023283+00:00",
+      "last_seen": "2026-10-30T23:17:26.535927+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+4:proof-of-work",
+        "+2:privacy",
+        "+1:p2p",
+        "-5:points",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/79\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/79/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/79/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/79/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/79\", \"id\": 6103615783, \"node_id\": \"PR_kwDOT2kZwM8AAAABLkdXjA\", \"number\": 79, \"title\": \"perf(p2p): fix short-page IBD synchronization\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kg"
+    },
+    {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 18707575304",
+      "url": "https://github.com/Instinctes/nightfall#event-18707575304",
+      "published": "2026-10-30T18:22:34Z",
+      "first_seen": "2026-10-30T21:14:33.026637+00:00",
+      "last_seen": "2026-10-30T23:17:26.539578+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+4:proof of work",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/87\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/87/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/87/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/87/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/87\", \"id\": 6107985379, \"node_id\": \"PR_kwDOT2kZwM8AAAABLoAT_A\", \"number\": 87, \"title\": \"test(consensus): independently replay binding fork boundary\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"n"
+    },
+    {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 18705573184",
+      "url": "https://github.com/Instinctes/nightfall#event-18705573184",
+      "published": "2026-10-30T17:42:14Z",
+      "first_seen": "2026-10-30T20:44:10.852743+00:00",
+      "last_seen": "2026-10-30T23:17:26.543388+00:00",
+      "score": 19,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:pow",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy",
+        "+1:decentralized"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/80\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/80/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/80/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/80/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/80\", \"id\": 6105948947, \"node_id\": \"PR_kwDOT2kZwM8AAAABLmWc_Q\", \"number\": 80, \"title\": \"research: add bounded Nightpool PPLNS accounting reference\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"no"
+    },
+    {
+      "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 18700119472",
       "url": "https://github.com/Instinctes/nightfall#event-18700119472",
       "published": "2026-10-30T17:41:53Z",
       "first_seen": "2026-10-30T19:41:49.807730+00:00",
-      "last_seen": "2026-10-30T19:41:49.807730+00:00",
+      "last_seen": "2026-10-30T23:17:26.564829+00:00",
       "score": 18,
       "flags": [
         "+5:mainnet",
@@ -46,11 +101,27 @@
     },
     {
       "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 18703819404",
+      "url": "https://github.com/btxchain/btx#event-18703819404",
+      "published": "2026-10-30T16:01:37Z",
+      "first_seen": "2026-10-30T20:44:08.911572+00:00",
+      "last_seen": "2026-10-30T23:17:24.756094+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
+    },
+    {
+      "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 18682631161",
       "url": "https://github.com/btxchain/btx#event-18682631161",
       "published": "2026-10-30T11:56:26Z",
       "first_seen": "2026-10-30T16:07:57.058683+00:00",
-      "last_seen": "2026-10-30T19:41:48.132683+00:00",
+      "last_seen": "2026-10-30T20:44:08.994814+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -185,7 +256,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-10-30T19:42:11.233114+00:00",
+      "last_seen": "2026-10-30T23:17:45.826791+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -285,7 +356,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592284.0",
       "published": null,
       "first_seen": "2026-10-25T13:36:43.830282+00:00",
-      "last_seen": "2026-10-30T19:42:00.111070+00:00",
+      "last_seen": "2026-10-30T23:17:36.565820+00:00",
       "score": 38,
       "flags": [
         "+9:no premine",
@@ -364,7 +435,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-10-30T19:41:55.201004+00:00",
+      "last_seen": "2026-10-30T23:17:30.493260+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -609,7 +680,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-30T19:42:15.117635+00:00",
+      "last_seen": "2026-10-30T23:17:49.181464+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -705,7 +776,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-30T19:42:01.519915+00:00",
+      "last_seen": "2026-10-30T23:17:37.904099+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -1045,7 +1116,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-30T19:42:14.013899+00:00",
+      "last_seen": "2026-10-30T23:17:48.035629+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1124,7 +1195,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-10-30T19:41:56.533035+00:00",
+      "last_seen": "2026-10-30T23:17:33.169917+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -1593,77 +1664,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "EUREKA NEXUS (EKNX)  OFFICIAL MINING THREAD Project: Eureka Nexus Ticker: EKNX Network: BNB Smart Chain Mainnet Contract: 0xF54913A8d5E2AEBD0B62c6411cCf1b5B4aB069c9 Official Website: https://eurekanexus.pt Official Miner: Eureka Nexus Miner 1.1.2 Official GitHub: https://github.com/Eureka-Nexus Official Pool / Network Status: https://eurekanexus.pt/network.html Mining Server API: https://pool.eurekanexus.pt/v1/public/stats Algorithms GPU: KAWPOW-EUREKA-V1 CPU: RANDOMX-EUREKA-V1 The official Eureka Nexus Miner supports CPU and GPU mining and connects directly to the Eureka Nexus Mining Server. Pool Fee 1% Miner Share 99% Minimum Claim 50 EKNX Mining Model EKNX is a BEP-20 token on BNB Smart "
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[MINING] Eureka Nexus (EKNX)  CPU + GPU Mining | Official Pool | BNB Smart Chai",
-      "url": "https://bitcointalk.org/index.php?topic=5595945.0",
-      "published": null,
-      "first_seen": "2026-10-05T10:34:15.880729+00:00",
-      "last_seen": "2026-10-05T12:06:42.985593+00:00",
-      "score": 28,
-      "flags": [
-        "+5:mainnet",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "EUREKA NEXUS (EKNX)  OFFICIAL MINING THREAD Project: Eureka Nexus Ticker: EKNX Network: BNB Smart Chain Mainnet Contract: 0xF54913A8d5E2AEBD0B62c6411cCf1b5B4aB069c9 Official Website: https://eurekanexus.pt Official Miner: Eureka Nexus Miner 1.1.2 Official GitHub: https://github.com/Eureka-Nexus Official Pool / Network Status: https://eurekanexus.pt/network.html Mining Server API: https://pool.eurekanexus.pt/v1/public/stats Algorithms GPU: KAWPOW-EUREKA-V1 CPU: RANDOMX-EUREKA-V1 The official Eureka Nexus Miner supports CPU and GPU mining and connects directly to the Eureka Nexus Mining Server. Pool Fee 1% Miner Share 99% Minimum Claim 50 EKNX Mining Model EKNX is a BEP-20 token on BNB Smart "
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Tenebra Network (TNB) | Privacy-First L1 Ecosystem | Live Mainnet | Cross-",
-      "url": "https://bitcointalk.org/index.php?topic=5595940.0",
-      "published": null,
-      "first_seen": "2026-10-05T09:32:26.099887+00:00",
-      "last_seen": "2026-10-07T01:03:38.698916+00:00",
-      "score": 19,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+2:miner",
-        "+2:mining",
-        "+2:privacy",
-        "+1:decentralized"
-      ],
-      "snippet": "👁️‍🗨️ TENEBRA NETWORK (TNB) 👁️‍🗨️ The Complete Privacy-First Layer 1 Ecosystem  Private Value, Public Infrastructure Public Mainnet is LIVE | Native Cross-Chain DEX | 100M Fixed Supply 🌐 Official Website | 📊 Network Scan (Explorer) | 🔄 Launch DEX [/size] 🔹 What is Tenebra Network? Tenebra Network (TNB) is a next-generation, high-performance Layer 1 blockchain engineered around the philosophy of \"Private value, public infrastructure\" . While traditional blockchains leak sensitive alpha, commercial strategies, and individual balances, Tenebra enables fully confidential asset transfers and secure execution paths on top of a deterministic, publicly verifiable decentralized ledger. We don't sell"
-    },
-    {
-      "source": "github-events",
-      "title": "btxchain/btx: IssueCommentEvent 16437010121",
-      "url": "https://github.com/btxchain/btx#event-16437010121",
-      "published": "2026-10-05T09:32:02Z",
-      "first_seen": "2026-10-05T10:02:32.333115+00:00",
-      "last_seen": "2026-10-06T11:39:58.866284+00:00",
-      "score": 12,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/222\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/222/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/222/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/222/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/222\", \"id\": 5708909821, \"node_id\": \"PR_kwDOR8Ja_88AAAABGqkp2g\", \"number\": 222, \"title\": \"release: ship 0.34.14\", \"user\": {\"login\": \"numair\", \"id\": 625823, \"node_id\": \"MDQ6VXNlcjYyNTgyMw==\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/62582"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssuesEvent 16425264443",
-      "url": "https://github.com/Instinctes/nightfall#event-16425264443",
-      "published": "2026-10-05T06:32:37Z",
-      "first_seen": "2026-10-05T06:57:59.979000+00:00",
-      "last_seen": "2026-10-15T19:21:00.696345+00:00",
-      "score": 14,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:mining",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/issues/40\", \"id\": 5707486406, \"node_id\": \"I_kwDOT2kZwM8AAAABVDFUxg\", \"number\": 40, \"title\": \"Node permanently stalled on a fork: 19h at the same height, no recovery path, reports mining:true throughout\", \"user\": "
     }
   ],
   "announcement_backtraces": [],
@@ -1674,7 +1674,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-30T19:42:30.541614+00:00",
+      "checked": "2026-10-30T23:18:02.721468+00:00",
       "last_state_change": null
     },
     {
@@ -1682,7 +1682,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-30T19:42:22.531569+00:00",
+      "checked": "2026-10-30T23:17:54.712028+00:00",
       "last_state_change": null
     },
     {
@@ -1690,7 +1690,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-30T19:42:26.536855+00:00",
+      "checked": "2026-10-30T23:17:58.716915+00:00",
       "last_state_change": null
     }
   ]
