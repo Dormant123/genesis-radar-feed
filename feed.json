@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-30T15:26:48.696456+00:00",
+  "generated_at": "2026-10-30T19:58:10.414468+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -8,6 +8,58 @@
     "note": "This feed contains sanitized derived radar findings and public-source excerpts only."
   },
   "public_findings": [
+    {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 18700119472",
+      "url": "https://github.com/Instinctes/nightfall#event-18700119472",
+      "published": "2026-10-30T17:41:53Z",
+      "first_seen": "2026-10-30T19:41:49.807730+00:00",
+      "last_seen": "2026-10-30T19:41:49.807730+00:00",
+      "score": 18,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:pow",
+        "+2:emission",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/84\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/84/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/84/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/84/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/84\", \"id\": 6107289117, \"node_id\": \"PR_kwDOT2kZwM8AAAABLncShQ\", \"number\": 84, \"title\": \"feat(ops): privacy-safe public network health evidence\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_i"
+    },
+    {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 18691577329",
+      "url": "https://github.com/Instinctes/nightfall#event-18691577329",
+      "published": "2026-10-30T17:41:35Z",
+      "first_seen": "2026-10-30T18:10:21.488472+00:00",
+      "last_seen": "2026-10-30T18:41:00.530230+00:00",
+      "score": 18,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/83\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/83/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/83/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/83/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/83\", \"id\": 6106632798, \"node_id\": \"PR_kwDOT2kZwM8AAAABLm6Gzg\", \"number\": 83, \"title\": \"test(node): add read-only Termux v8 restart preflight\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id"
+    },
+    {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 18682631161",
+      "url": "https://github.com/btxchain/btx#event-18682631161",
+      "published": "2026-10-30T11:56:26Z",
+      "first_seen": "2026-10-30T16:07:57.058683+00:00",
+      "last_seen": "2026-10-30T19:41:48.132683+00:00",
+      "score": 13,
+      "flags": [
+        "+5:mainnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/288\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/288\", \"id\": 6088866721, \"node_id\": \"PR_kwDOR8Ja_88AAAABLYhB0w\", \"number\": 288, \"title\": \"net: relay a fast-announced block only after it connects\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U_kgDOBvLf1w\", \"avatar_url\": \"https://avatar"
+    },
     {
       "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 18638473444",
@@ -78,7 +130,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18516034047",
       "published": "2026-10-28T20:41:48Z",
       "first_seen": "2026-10-29T02:43:35.487252+00:00",
-      "last_seen": "2026-10-30T15:06:56.612938+00:00",
+      "last_seen": "2026-10-30T17:39:41.586694+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -133,7 +185,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-10-30T15:07:18.908393+00:00",
+      "last_seen": "2026-10-30T19:42:11.233114+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -233,7 +285,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592284.0",
       "published": null,
       "first_seen": "2026-10-25T13:36:43.830282+00:00",
-      "last_seen": "2026-10-30T15:07:04.638017+00:00",
+      "last_seen": "2026-10-30T19:42:00.111070+00:00",
       "score": 38,
       "flags": [
         "+9:no premine",
@@ -312,7 +364,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-10-30T15:07:00.789295+00:00",
+      "last_seen": "2026-10-30T19:41:55.201004+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -557,7 +609,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-30T15:07:22.457797+00:00",
+      "last_seen": "2026-10-30T19:42:15.117635+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -653,7 +705,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-30T15:07:06.103298+00:00",
+      "last_seen": "2026-10-30T19:42:01.519915+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -993,7 +1045,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-30T15:07:21.334128+00:00",
+      "last_seen": "2026-10-30T19:42:14.013899+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1072,7 +1124,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-10-21T08:30:24.088577+00:00",
+      "last_seen": "2026-10-30T19:41:56.533035+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -1612,65 +1664,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/issues/40\", \"id\": 5707486406, \"node_id\": \"I_kwDOT2kZwM8AAAABVDFUxg\", \"number\": 40, \"title\": \"Node permanently stalled on a fork: 19h at the same height, no recovery path, reports mining:true throughout\", \"user\": "
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Eureka Nexus [EKNX] | CPU + GPU Mining | KAWPOW + RandomX | BNB Chain",
-      "url": "https://bitcointalk.org/index.php?topic=5595921.0",
-      "published": null,
-      "first_seen": "2026-10-05T01:51:24.204735+00:00",
-      "last_seen": "2026-10-06T16:21:02.466072+00:00",
-      "score": 27,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:pow",
-        "+4:cpu mining",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:compute"
-      ],
-      "snippet": "============================================================ E U R E K A N E X U S EKNX | AI | MINING | BLOCKCHAIN | DIGITAL INTELLIGENCE Mine today. Build the intelligence of tomorrow. ============================================================ Eureka Nexus is an independent technology ecosystem combining CPU/GPU mining, blockchain utility and the development of a new generation of personal artificial intelligence. Website: https://eurekanexus.pt GitHub: https://github.com/Eureka-Nexus Official Mining Pool: https://pool.eurekanexus.pt WHAT IS EUREKA NEXUS? Eureka Nexus is not being created as just another cryptocurrency. The project is being developed as a complete technological ecosystem "
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Eureka Nexus [EKNX] | 100M Max Supply | CPU + GPU Mining | KAWPOW + Random",
-      "url": "https://bitcointalk.org/index.php?topic=5595922.0",
-      "published": null,
-      "first_seen": "2026-10-05T01:51:23.062759+00:00",
-      "last_seen": "2026-10-05T01:51:23.062759+00:00",
-      "score": 27,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:pow",
-        "+4:cpu mining",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:compute"
-      ],
-      "snippet": "============================================================ E U R E K A N E X U S EKNX | AI | MINING | BLOCKCHAIN | DIGITAL INTELLIGENCE Mine today. Build the intelligence of tomorrow. ============================================================ Eureka Nexus is an independent technology ecosystem combining CPU/GPU mining, blockchain utility and the development of a new generation of personal artificial intelligence. Website: https://eurekanexus.pt GitHub: https://github.com/Eureka-Nexus Official Mining Pool: https://pool.eurekanexus.pt WHAT IS EUREKA NEXUS? Eureka Nexus is not being created as just another cryptocurrency. The project is being developed as a complete technological ecosystem "
-    },
-    {
-      "source": "github-events",
-      "title": "Rexemre/blockzero-core: CreateEvent 23005896069",
-      "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
-      "published": "2026-10-04T22:49:49Z",
-      "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-30T15:06:51.642289+00:00",
-      "score": 34,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+5:mainnet",
-        "+5:block zero",
-        "+2:launch",
-        "+4:cpu mining",
-        "+2:mining"
-      ],
-      "snippet": "{\"ref\": \"qt-rename-sat-rex-full-cleanup\", \"ref_type\": \"branch\", \"full_ref\": \"refs/heads/qt-rename-sat-rex-full-cleanup\", \"master_branch\": \"main\", \"description\": \"Block Zero (BLOZ) — Bitcoin-style CPU mining on RandomX. No ASIC/GPU farms. Fair launch, no premine. Mainnet live. Wallet + node → discord.gg/FbJzrwAU2W\", \"pusher_type\": \"user\"}"
     }
   ],
   "announcement_backtraces": [],
@@ -1681,7 +1674,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-30T15:07:42.242994+00:00",
+      "checked": "2026-10-30T19:42:30.541614+00:00",
       "last_state_change": null
     },
     {
@@ -1689,7 +1682,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-30T15:07:34.231792+00:00",
+      "checked": "2026-10-30T19:42:22.531569+00:00",
       "last_state_change": null
     },
     {
@@ -1697,7 +1690,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-30T15:07:38.237312+00:00",
+      "checked": "2026-10-30T19:42:26.536855+00:00",
       "last_state_change": null
     }
   ]
