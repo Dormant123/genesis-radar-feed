@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-10-29T23:16:10.689708+00:00",
+  "generated_at": "2026-10-30T02:38:03.791896+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://github.com/btxchain/btx#event-18605310755",
       "published": "2026-10-29T13:56:37Z",
       "first_seen": "2026-10-29T21:41:31.863844+00:00",
-      "last_seen": "2026-10-29T23:12:29.595811+00:00",
+      "last_seen": "2026-10-30T02:17:14.728692+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -30,7 +30,7 @@
       "url": "https://github.com/btxchain/btx#event-18564032171",
       "published": "2026-10-29T12:39:15Z",
       "first_seen": "2026-10-29T14:00:25.976596+00:00",
-      "last_seen": "2026-10-29T23:12:29.639958+00:00",
+      "last_seen": "2026-10-30T00:45:13.191158+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -62,7 +62,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18516034047",
       "published": "2026-10-28T20:41:48Z",
       "first_seen": "2026-10-29T02:43:35.487252+00:00",
-      "last_seen": "2026-10-29T23:12:31.706243+00:00",
+      "last_seen": "2026-10-30T02:17:16.742409+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -117,7 +117,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-10-29T23:12:52.766081+00:00",
+      "last_seen": "2026-10-30T02:17:38.251859+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -296,7 +296,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-10-29T23:12:37.084469+00:00",
+      "last_seen": "2026-10-30T02:17:22.843329+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -541,7 +541,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-10-29T23:12:56.113311+00:00",
+      "last_seen": "2026-10-30T02:17:41.531119+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -637,7 +637,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-10-29T23:12:35.718722+00:00",
+      "last_seen": "2026-10-30T02:17:21.454417+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -977,7 +977,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-10-29T23:12:55.016673+00:00",
+      "last_seen": "2026-10-30T02:17:40.477267+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1643,7 +1643,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-23005896069",
       "published": "2026-10-04T22:49:49Z",
       "first_seen": "2026-10-04T23:16:11.435840+00:00",
-      "last_seen": "2026-10-29T23:12:27.546788+00:00",
+      "last_seen": "2026-10-30T02:17:12.657717+00:00",
       "score": 34,
       "flags": [
         "+9:no premine",
@@ -1662,7 +1662,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5586152.0",
       "published": null,
       "first_seen": "2026-10-03T19:32:52.771099+00:00",
-      "last_seen": "2026-10-29T23:12:40.774742+00:00",
+      "last_seen": "2026-10-30T02:17:27.963764+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1699,7 +1699,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-10-29T23:13:09.833596+00:00",
+      "checked": "2026-10-30T02:17:55.178271+00:00",
       "last_state_change": null
     },
     {
@@ -1707,7 +1707,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-29T23:13:01.823574+00:00",
+      "checked": "2026-10-30T02:17:47.167962+00:00",
       "last_state_change": null
     },
     {
@@ -1715,7 +1715,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-10-29T23:13:05.828706+00:00",
+      "checked": "2026-10-30T02:17:51.173423+00:00",
       "last_state_change": null
     }
   ]
