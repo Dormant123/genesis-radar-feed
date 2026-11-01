@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-01T00:28:44.700156+00:00",
+  "generated_at": "2026-11-01T06:37:38.742680+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,28 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 18786363082",
+      "url": "https://github.com/btxchain/btx#event-18786363082",
+      "published": "2026-11-01T03:21:18Z",
+      "first_seen": "2026-11-01T03:27:31.375512+00:00",
+      "last_seen": "2026-11-01T06:30:39.004895+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] [TAPE] RETRO BOOMER | Fair Launch | No Premine | 10B Supply",
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-01T00:21:43.785805+00:00",
+      "last_seen": "2026-11-01T06:30:44.709407+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -47,7 +63,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18708237021",
       "published": "2026-10-30T18:34:49Z",
       "first_seen": "2026-10-30T21:14:33.023283+00:00",
-      "last_seen": "2026-11-01T00:21:40.068205+00:00",
+      "last_seen": "2026-11-01T06:30:41.009579+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -66,7 +82,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18707575304",
       "published": "2026-10-30T18:22:34Z",
       "first_seen": "2026-10-30T21:14:33.026637+00:00",
-      "last_seen": "2026-11-01T00:21:40.073106+00:00",
+      "last_seen": "2026-11-01T06:30:41.014084+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -83,7 +99,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18705573184",
       "published": "2026-10-30T17:42:14Z",
       "first_seen": "2026-10-30T20:44:10.852743+00:00",
-      "last_seen": "2026-11-01T00:21:40.077154+00:00",
+      "last_seen": "2026-11-01T06:30:41.019175+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -102,7 +118,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18700119472",
       "published": "2026-10-30T17:41:53Z",
       "first_seen": "2026-10-30T19:41:49.807730+00:00",
-      "last_seen": "2026-11-01T00:21:40.100035+00:00",
+      "last_seen": "2026-11-01T06:30:41.040940+00:00",
       "score": 18,
       "flags": [
         "+5:mainnet",
@@ -289,7 +305,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-01T00:21:55.254701+00:00",
+      "last_seen": "2026-11-01T06:30:57.572537+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -533,7 +549,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-10-31T21:47:53.749074+00:00",
+      "last_seen": "2026-11-01T06:30:53.559033+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -713,7 +729,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-11-01T00:21:58.549147+00:00",
+      "last_seen": "2026-11-01T06:31:01.092447+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -809,7 +825,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-01T00:21:51.318210+00:00",
+      "last_seen": "2026-11-01T06:30:52.302181+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -938,7 +954,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-11-01T00:21:47.620633+00:00",
+      "last_seen": "2026-11-01T06:30:48.565446+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -1149,7 +1165,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-11-01T00:21:57.451268+00:00",
+      "last_seen": "2026-11-01T06:30:59.850360+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1228,7 +1244,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-11-01T00:21:48.928553+00:00",
+      "last_seen": "2026-11-01T06:30:49.897664+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -1650,32 +1666,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "MERCATURA MCA Proof of Work  Post-Quantum Authorization  Adaptive Block Reward PRE-ANN  Mercatura is under active development. Public testnet and official binaries are not yet released. What is Mercatura? Mercatura (MCA) is an independent proof-of-work cryptocurrency being developed from a modern Bitcoin Core foundation. Mercatura is being designed around several core principles:  Pure Proof of Work  CPU-oriented MercaHash mining  ML-DSA-65 post-quantum transaction authorization  Adaptive, deterministic block rewards  Decentralized participation  Long-term monetary discipline  Modern Bitcoin Core security, networking and wallet foundations Mercatura is still under active developmen"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Vearl | Proof of Useful Work: miners run verified AI models Public testnet",
-      "url": "https://bitcointalk.org/index.php?topic=5595958.0",
-      "published": null,
-      "first_seen": "2026-10-05T13:07:07.137458+00:00",
-      "last_seen": "2026-10-25T12:04:30.492810+00:00",
-      "score": 48,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+1:testnet",
-        "+4:proof-of-work",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+7:proof of useful work",
-        "+5:useful work",
-        "+4:inference",
-        "+3:compute",
-        "+2:post-quantum",
-        "+1:p2p",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "https://vearl.org/og-image.png?v=3 Vearl Proof of Useful Work · Verified Compute Bitcoin mines hashes. Vearl mines AI. Website: https://vearl.org Whitepaper: https://vearl.org/whitepaper Source code (Apache-2.0): https://github.com/vearl-verified-compute/vearl How to take part: https://vearl.org/participate/ Leaderboard: https://vearl.org/leaderboard/ X (Twitter): https://x.com/vearl_org Discord: https://discord.gg/jya8meKnvM Contact: contact@vearl.org Founder: Clovis Anicet Public testnet: planned for 23 October 2026, 16:00 UTC What is Vearl? Vearl is a proof-of-work blockchain in which the work that secures the chain can also be a paying client's computation. Miners do not hash for the sak"
     }
   ],
   "announcement_backtraces": [],
@@ -1686,7 +1676,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-01T00:22:15.494198+00:00",
+      "checked": "2026-11-01T06:31:20.997762+00:00",
       "last_state_change": null
     },
     {
@@ -1694,7 +1684,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-01T00:22:07.480192+00:00",
+      "checked": "2026-11-01T06:31:12.986390+00:00",
       "last_state_change": null
     },
     {
@@ -1702,7 +1692,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-01T00:22:11.487048+00:00",
+      "checked": "2026-11-01T06:31:16.991440+00:00",
       "last_state_change": null
     }
   ]
