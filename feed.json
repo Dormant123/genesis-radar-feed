@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-01T13:43:58.727592+00:00",
+  "generated_at": "2026-11-01T18:35:13.734574+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://github.com/pearl-research-labs/pearl#event-18808883248",
       "published": "2026-11-01T13:28:23Z",
       "first_seen": "2026-11-01T13:38:00.287584+00:00",
-      "last_seen": "2026-11-01T13:38:00.287584+00:00",
+      "last_seen": "2026-11-01T18:14:46.186124+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -31,7 +31,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-01T07:01:24.532980+00:00",
-      "last_seen": "2026-11-01T13:38:15.504515+00:00",
+      "last_seen": "2026-11-01T18:15:07.304597+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -61,7 +61,7 @@
       "url": "https://github.com/btxchain/btx#event-18786363082",
       "published": "2026-11-01T03:21:18Z",
       "first_seen": "2026-11-01T03:27:31.375512+00:00",
-      "last_seen": "2026-11-01T13:38:06.506743+00:00",
+      "last_seen": "2026-11-01T14:09:21.294859+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -77,7 +77,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-01T13:38:12.223251+00:00",
+      "last_seen": "2026-11-01T18:14:58.299728+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -110,7 +110,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18708237021",
       "published": "2026-10-30T18:34:49Z",
       "first_seen": "2026-10-30T21:14:33.023283+00:00",
-      "last_seen": "2026-11-01T13:38:08.451890+00:00",
+      "last_seen": "2026-11-01T18:14:54.406831+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -129,7 +129,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18707575304",
       "published": "2026-10-30T18:22:34Z",
       "first_seen": "2026-10-30T21:14:33.026637+00:00",
-      "last_seen": "2026-11-01T13:38:08.454441+00:00",
+      "last_seen": "2026-11-01T18:14:54.409558+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -146,7 +146,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18705573184",
       "published": "2026-10-30T17:42:14Z",
       "first_seen": "2026-10-30T20:44:10.852743+00:00",
-      "last_seen": "2026-11-01T13:38:08.457712+00:00",
+      "last_seen": "2026-11-01T18:14:54.412452+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -352,7 +352,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-01T13:38:24.596750+00:00",
+      "last_seen": "2026-11-01T18:15:15.404201+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -776,7 +776,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597148.0",
       "published": null,
       "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-11-01T13:38:27.913315+00:00",
+      "last_seen": "2026-11-01T18:15:18.797233+00:00",
       "score": 21,
       "flags": [
         "+2:open source",
@@ -795,7 +795,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-10-28T11:52:11.151281+00:00",
+      "last_seen": "2026-11-01T18:15:02.625033+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -872,14 +872,14 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-01T08:02:58.062884+00:00",
-      "score": 28,
+      "last_seen": "2026-11-01T18:14:59.722179+00:00",
+      "score": 27,
       "flags": [
         "+9:no premine",
         "+6:no ico",
         "+6:no token sale",
         "+5:genesis",
-        "+2:launch",
+        "+1:testnet",
         "+4:proof of work",
         "+4:cpu mining",
         "+2:miner",
@@ -893,7 +893,7 @@
         "-8:premine",
         "+3:runnable-artifact"
       ],
-      "snippet": "https://monzero.org/assets/monzero-xmz-coin-256.png Monzero (XMZ) Independent privacy coin · RandomX CPU mining · no genesis allocation · no ICO Website | Forum | Pool | Explorer | Whitepaper | Source | Roadmap What is Monzero? Monzero is an independent privacy currency built from the Monero codebase. It runs its own chain (genesis block 25 August 2026) with its own address prefixes, ports and emission schedule. It shares no history with Monero. Private by default: amounts are hidden with RingCT, senders are hidden in rings of 16, and every payment goes to a one-time address. Mined, not allocated: RandomX proof of work, built for ordinary CPUs. No coins in the genesis block, no ICO, no token"
+      "snippet": "https://monzero.org/assets/monzero-xmz-coin-256.png Monzero (XMZ) Independent privacy coin · RandomX CPU mining · no genesis allocation · no ICO Website | Web wallet | Forum | Pool | Explorer | Whitepaper | Source | Roadmap What is Monzero? Monzero is an independent privacy currency built from the Monero codebase. It runs its own chain (genesis block 25 August 2026) with its own address prefixes, ports and emission schedule. It shares no history with Monero. Private by default: amounts are hidden with RingCT, senders are hidden in rings of 16, and every payment goes to a one-time address. Mined, not allocated: RandomX proof of work, built for ordinary CPUs. No coins in the genesis block, no "
     },
     {
       "source": "github-events",
@@ -1001,7 +1001,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-11-01T13:38:19.200881+00:00",
+      "last_seen": "2026-11-01T18:15:11.051505+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -1212,7 +1212,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-11-01T13:38:26.857576+00:00",
+      "last_seen": "2026-11-01T18:15:17.711786+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1291,7 +1291,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5579705.0",
       "published": null,
       "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-11-01T13:38:20.552541+00:00",
+      "last_seen": "2026-11-01T16:43:36.701616+00:00",
       "score": 43,
       "flags": [
         "+9:no premine",
@@ -1506,7 +1506,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596113.0",
       "published": null,
       "first_seen": "2026-10-07T01:34:29.001399+00:00",
-      "last_seen": "2026-10-18T12:46:44.698179+00:00",
+      "last_seen": "2026-11-01T18:15:03.843169+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1530,7 +1530,7 @@
         "+4:dated-launch",
         "+3:runnable-artifact"
       ],
-      "snippet": "YSKAR (YSR) proof, not promise YSKAR is an independent proof-of-work blockchain with its own coin, YSR. It is not a token on another chain and not a \"mining\" app that counts up a number: every device computes real double SHA-256, and every full node checks every block itself. The genesis block carries the inscription proof, not promise . That is the standard for the project: nothing is simulated, and nothing is promised. Fair launch No premine, no presale, no team or founder allocation. The chain started with an empty state. The only way to create coins is a block reward. The reward of the genesis block went to the all-zero address, for which no key is known. Specifications Coin YSKAR (YSR),"
+      "snippet": "YSKAR (YSR) proof, not promise YSKAR is an independent proof-of-work blockchain with its own coin, YSR. It is not a token on another chain and not a \"mining\" app that counts up a number: every device computes real double SHA-256, and every full node checks every block itself. The genesis block carries the inscription proof, not promise . That is the standard for the project: nothing is simulated, and nothing is promised. Fair launch No premine, no presale, no team or founder allocation. The chain started with an empty state. The only way to create coins is a block reward. The reward of the genesis block went to the all-zero address, for which no key is known. Early coins burned: in the first"
     },
     {
       "source": "github-events",
@@ -1670,7 +1670,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-01T13:38:42.747541+00:00",
+      "checked": "2026-11-01T18:15:33.806852+00:00",
       "last_state_change": null
     },
     {
@@ -1678,7 +1678,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-01T13:38:34.736266+00:00",
+      "checked": "2026-11-01T18:15:25.796961+00:00",
       "last_state_change": null
     },
     {
@@ -1686,7 +1686,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-01T13:38:38.742615+00:00",
+      "checked": "2026-11-01T18:15:29.802465+00:00",
       "last_state_change": null
     }
   ]
