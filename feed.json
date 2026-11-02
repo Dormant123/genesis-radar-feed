@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-02T08:08:52.704497+00:00",
+  "generated_at": "2026-11-02T18:14:07.062601+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-02T08:02:44.752030+00:00",
+      "last_seen": "2026-11-02T17:46:26.478459+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -35,7 +35,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-02T08:02:57.804796+00:00",
+      "last_seen": "2026-11-02T17:46:43.790632+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -66,7 +66,7 @@
       "url": "https://github.com/pearl-research-labs/pearl#event-18808883248",
       "published": "2026-11-01T13:28:23Z",
       "first_seen": "2026-11-01T13:38:00.287584+00:00",
-      "last_seen": "2026-11-02T08:02:40.518868+00:00",
+      "last_seen": "2026-11-02T08:33:39.679471+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -83,7 +83,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-01T07:01:24.532980+00:00",
-      "last_seen": "2026-11-02T08:03:05.056626+00:00",
+      "last_seen": "2026-11-02T14:11:51.546257+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -129,7 +129,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-02T08:02:55.393723+00:00",
+      "last_seen": "2026-11-02T17:46:39.037700+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -162,7 +162,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18708237021",
       "published": "2026-10-30T18:34:49Z",
       "first_seen": "2026-10-30T21:14:33.023283+00:00",
-      "last_seen": "2026-11-02T08:02:49.015390+00:00",
+      "last_seen": "2026-11-02T09:03:59.664972+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -404,7 +404,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-02T08:03:11.576378+00:00",
+      "last_seen": "2026-11-02T17:46:52.281054+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -648,7 +648,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-11-01T06:30:53.559033+00:00",
+      "last_seen": "2026-11-02T17:46:40.287973+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -847,7 +847,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-11-02T08:02:56.653815+00:00",
+      "last_seen": "2026-11-02T17:46:42.630232+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -924,7 +924,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-02T08:02:59.119767+00:00",
+      "last_seen": "2026-11-02T17:46:45.492733+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1264,7 +1264,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-11-02T08:03:13.844662+00:00",
+      "last_seen": "2026-11-02T17:46:54.571453+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1558,7 +1558,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596113.0",
       "published": null,
       "first_seen": "2026-10-07T01:34:29.001399+00:00",
-      "last_seen": "2026-11-02T08:03:01.675248+00:00",
+      "last_seen": "2026-11-02T17:46:48.310016+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1675,7 +1675,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-02T08:03:27.574816+00:00",
+      "checked": "2026-11-02T17:47:08.256985+00:00",
       "last_state_change": null
     },
     {
@@ -1683,7 +1683,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-02T08:03:19.560833+00:00",
+      "checked": "2026-11-02T17:47:00.246824+00:00",
       "last_state_change": null
     },
     {
@@ -1691,7 +1691,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-02T08:03:23.569592+00:00",
+      "checked": "2026-11-02T17:47:04.251248+00:00",
       "last_state_change": null
     }
   ]
