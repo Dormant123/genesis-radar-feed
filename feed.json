@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-01T22:17:30.719433+00:00",
+  "generated_at": "2026-11-02T01:31:49.939574+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,43 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[PRE-ANN] TitanForge (TFN) | Shielded-only PoW | 1 block/s | No premine",
+      "url": "https://bitcointalk.org/index.php?topic=5598593.0",
+      "published": null,
+      "first_seen": "2026-11-01T23:51:03.044695+00:00",
+      "last_seen": "2026-11-02T01:24:22.910325+00:00",
+      "score": 37,
+      "flags": [
+        "+9:no premine",
+        "+7:no presale",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+2:open source",
+        "+4:proof of work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+3:compute",
+        "+2:privacy",
+        "+5:pre-ann",
+        "-8:presale",
+        "-7:ico",
+        "-10:investor allocation",
+        "+4:dated-launch"
+      ],
+      "snippet": "TitanForge (TFN) The world doesn't need to know. Proof of work. One block per second. Every payment shielded. No premine. Website | Litepaper | Network facts | Discord | X | GitHub (code not published yet) Privacy coins usually make you give something up. Make shielding optional, and most coins stay on the public path, where they leak. Hide everything, and you have to trust that nobody has quietly printed coins. And the best-known privacy chains are slow, with blocks tens of seconds to minutes apart. TitanForge is built to take on all three. There is no transparent ledger at all. Every coin is held in a shielded note. Payments between users show no sender, receiver or amount on chain, and th"
+    },
+    {
       "source": "github-events",
       "title": "pearl-research-labs/pearl: IssueCommentEvent 18808883248",
       "url": "https://github.com/pearl-research-labs/pearl#event-18808883248",
       "published": "2026-11-01T13:28:23Z",
       "first_seen": "2026-11-01T13:38:00.287584+00:00",
-      "last_seen": "2026-11-01T21:49:05.782293+00:00",
+      "last_seen": "2026-11-02T01:23:49.713378+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -31,7 +62,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-01T07:01:24.532980+00:00",
-      "last_seen": "2026-11-01T21:49:27.829813+00:00",
+      "last_seen": "2026-11-02T01:24:31.323855+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -77,7 +108,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-01T21:49:18.517797+00:00",
+      "last_seen": "2026-11-02T01:24:21.756726+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -110,7 +141,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18708237021",
       "published": "2026-10-30T18:34:49Z",
       "first_seen": "2026-10-30T21:14:33.023283+00:00",
-      "last_seen": "2026-11-01T21:49:14.425664+00:00",
+      "last_seen": "2026-11-02T01:24:17.672727+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -129,7 +160,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18707575304",
       "published": "2026-10-30T18:22:34Z",
       "first_seen": "2026-10-30T21:14:33.026637+00:00",
-      "last_seen": "2026-11-01T21:49:14.428997+00:00",
+      "last_seen": "2026-11-02T01:24:17.675552+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -146,7 +177,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18705573184",
       "published": "2026-10-30T17:42:14Z",
       "first_seen": "2026-10-30T20:44:10.852743+00:00",
-      "last_seen": "2026-11-01T21:49:14.433292+00:00",
+      "last_seen": "2026-11-02T01:24:17.678916+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -352,7 +383,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-01T21:49:35.793970+00:00",
+      "last_seen": "2026-11-02T01:24:39.114996+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -795,7 +826,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-11-01T21:49:23.459185+00:00",
+      "last_seen": "2026-11-02T01:24:26.914602+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -872,7 +903,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-01T21:49:19.945453+00:00",
+      "last_seen": "2026-11-02T01:24:24.257119+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1001,7 +1032,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-11-01T21:49:31.422249+00:00",
+      "last_seen": "2026-11-02T01:24:34.937772+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -1212,7 +1243,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-11-01T21:49:38.066558+00:00",
+      "last_seen": "2026-11-02T01:24:41.360846+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1506,7 +1537,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596113.0",
       "published": null,
       "first_seen": "2026-10-07T01:34:29.001399+00:00",
-      "last_seen": "2026-11-01T21:49:24.623639+00:00",
+      "last_seen": "2026-11-02T01:24:28.106381+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1641,25 +1672,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "LUMENITE (LMT) HomeScrypt v1.2  CPU/GPU Mining  No Premine  Fair Launch Proof of Work built for home miners. MAINNET IS LIVE Discord Code: https://discord.com/invite/JjJj4v3vth GitHub / Source Code What is Lumenite? Lumenite (LMT) is a Proof-of-Work cryptocurrency focused on making mining accessible to home CPU and GPU miners. Lumenite uses HomeScrypt v1.2 , a custom memory-intensive Proof-of-Work algorithm developed specifically for Lumenite rather than standard Litecoin Scrypt. The network uses a Bitcoin-style UTXO blockchain, fixed block rewards, a fixed monetary supply and LWMA-45 difficulty adjustment. Lumenite Mainnet launched publicly on September 3, 2026 at 21:00 UTC. Mainnet Spec"
-    },
-    {
-      "source": "bitcointalk:Mining (Altcoins)",
-      "title": "[ANN] Eureka Nexus (EKNX) | CPU/GPU Mining  BNB Chain  Eureka AI  100M Fixed",
-      "url": "https://bitcointalk.org/index.php?topic=5596002.0",
-      "published": null,
-      "first_seen": "2026-10-05T19:18:06.426189+00:00",
-      "last_seen": "2026-10-05T19:18:06.426189+00:00",
-      "score": 20,
-      "flags": [
-        "+2:pow",
-        "+4:cpu mining",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:compute",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "🚀 EUREKA NEXUS (EKNX) AI  CPU/GPU MINING  BLOCKCHAIN UTILITY  REAL ECOSYSTEM Website: https://eurekanexus.pt Discord: https://discord.gg/Y8de7HuDdx X: https://x.com/EurekaNexus GitHub: https://github.com/Eureka-Nexus ================================================== WHAT IS EUREKA NEXUS? ================================================== Eureka Nexus is a technology ecosystem being built around three main pillars: ⛏ CPU & GPU cryptocurrency mining 🤖 Artificial Intelligence 🔗 Blockchain utility through EKNX Our goal is not to create just another token. Eureka Nexus is being developed as an ecosystem where miners, users, developers and future AI services can interact through a single digit"
     }
   ],
   "announcement_backtraces": [],
@@ -1670,7 +1682,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-01T21:49:52.777772+00:00",
+      "checked": "2026-11-02T01:24:55.231774+00:00",
       "last_state_change": null
     },
     {
@@ -1678,7 +1690,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-01T21:49:44.767452+00:00",
+      "checked": "2026-11-02T01:24:47.220813+00:00",
       "last_state_change": null
     },
     {
@@ -1686,7 +1698,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-01T21:49:48.772854+00:00",
+      "checked": "2026-11-02T01:24:51.226792+00:00",
       "last_state_change": null
     }
   ]
