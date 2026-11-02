@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-02T01:31:49.939574+00:00",
+  "generated_at": "2026-11-02T08:08:52.704497+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,33 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "Rexemre/blockzero-core: ForkEvent 18861986957",
+      "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
+      "published": "2026-11-02T07:31:59Z",
+      "first_seen": "2026-11-02T08:02:44.752030+00:00",
+      "last_seen": "2026-11-02T08:02:44.752030+00:00",
+      "score": 39,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+5:mainnet",
+        "+5:block zero",
+        "+2:launch",
+        "+4:cpu mining",
+        "+2:mining",
+        "+2:privacy",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "{\"action\": \"forked\", \"forkee\": {\"id\": 1442648175, \"node_id\": \"R_kgDOVf0Qbw\", \"name\": \"blockzero-core\", \"full_name\": \"SIUNCT/blockzero-core\", \"private\": false, \"owner\": {\"login\": \"SIUNCT\", \"id\": 205650395, \"node_id\": \"U_kgDODEH52w\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/205650395?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/SIUNCT\", \"html_url\": \"https://github.com/SIUNCT\", \"followers_url\": \"https://api.github.com/users/SIUNCT/followers\", \"following_url\": \"https://api.github.com/users/SIUNCT/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/SIUNCT/gists{/gist_id}\", \"starred_url\": \"https://api.github.com/users/SIUNCT/starred{/owner}{/repo}\", \""
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[PRE-ANN] TitanForge (TFN) | Shielded-only PoW | 1 block/s | No premine",
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-02T01:24:22.910325+00:00",
+      "last_seen": "2026-11-02T08:02:57.804796+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -45,7 +66,7 @@
       "url": "https://github.com/pearl-research-labs/pearl#event-18808883248",
       "published": "2026-11-01T13:28:23Z",
       "first_seen": "2026-11-01T13:38:00.287584+00:00",
-      "last_seen": "2026-11-02T01:23:49.713378+00:00",
+      "last_seen": "2026-11-02T08:02:40.518868+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -62,7 +83,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-01T07:01:24.532980+00:00",
-      "last_seen": "2026-11-02T01:24:31.323855+00:00",
+      "last_seen": "2026-11-02T08:03:05.056626+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -108,7 +129,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-02T01:24:21.756726+00:00",
+      "last_seen": "2026-11-02T08:02:55.393723+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -141,7 +162,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18708237021",
       "published": "2026-10-30T18:34:49Z",
       "first_seen": "2026-10-30T21:14:33.023283+00:00",
-      "last_seen": "2026-11-02T01:24:17.672727+00:00",
+      "last_seen": "2026-11-02T08:02:49.015390+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -160,7 +181,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18707575304",
       "published": "2026-10-30T18:22:34Z",
       "first_seen": "2026-10-30T21:14:33.026637+00:00",
-      "last_seen": "2026-11-02T01:24:17.675552+00:00",
+      "last_seen": "2026-11-02T06:29:20.649605+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -177,7 +198,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-18705573184",
       "published": "2026-10-30T17:42:14Z",
       "first_seen": "2026-10-30T20:44:10.852743+00:00",
-      "last_seen": "2026-11-02T01:24:17.678916+00:00",
+      "last_seen": "2026-11-02T05:57:59.116133+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -383,7 +404,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-02T01:24:39.114996+00:00",
+      "last_seen": "2026-11-02T08:03:11.576378+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -826,7 +847,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596646.0",
       "published": null,
       "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-11-02T01:24:26.914602+00:00",
+      "last_seen": "2026-11-02T08:02:56.653815+00:00",
       "score": 21,
       "flags": [
         "+6:no ico",
@@ -903,7 +924,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-02T01:24:24.257119+00:00",
+      "last_seen": "2026-11-02T08:02:59.119767+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1032,7 +1053,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595944.0",
       "published": null,
       "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-11-02T01:24:34.937772+00:00",
+      "last_seen": "2026-11-02T03:56:43.819053+00:00",
       "score": 32,
       "flags": [
         "+5:mainnet",
@@ -1243,7 +1264,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-11-02T01:24:41.360846+00:00",
+      "last_seen": "2026-11-02T08:03:13.844662+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1537,7 +1558,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5596113.0",
       "published": null,
       "first_seen": "2026-10-07T01:34:29.001399+00:00",
-      "last_seen": "2026-11-02T01:24:28.106381+00:00",
+      "last_seen": "2026-11-02T08:03:01.675248+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -1644,34 +1665,6 @@
         "-8:premine"
       ],
       "snippet": "TENERO (TNR) GPU-FOCUSED PROOF-OF-WORK CRYPTOCURRENCY PUBLIC ALPHA TESTNET IS LIVE GitHub Repository | Downloads / Releases | GitHub Discussions Reddit | Discord 🟢 Mainnet launch: 1 November 2026 🟡 Public Alpha Testnet: LIVE Mine the testnet, run a node, benchmark your GPU, and help prepare for mainnet. An experimental proof-of-work cryptocurrency built around modern GPU hardware, with a long-term goal of Monero-style privacy. DISCLAIMER Tenero is currently an experimental alpha testnet . The project is developed by one person and has not received independent cryptographic, security, or hardware review. It should not be considered a finished cryptocurrency. Nothing on the Tenero test network"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][MAINNET] Lumenite (LMT)  HomeScrypt v1.2 | CPU + GPU Mining",
-      "url": "https://bitcointalk.org/index.php?topic=5592225.0",
-      "published": null,
-      "first_seen": "2026-10-05T20:49:57.978084+00:00",
-      "last_seen": "2026-10-24T13:27:50.234070+00:00",
-      "score": 29,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+6:no ico",
-        "+5:mainnet",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "-8:presale",
-        "-7:ico",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "LUMENITE (LMT) HomeScrypt v1.2  CPU/GPU Mining  No Premine  Fair Launch Proof of Work built for home miners. MAINNET IS LIVE Discord Code: https://discord.com/invite/JjJj4v3vth GitHub / Source Code What is Lumenite? Lumenite (LMT) is a Proof-of-Work cryptocurrency focused on making mining accessible to home CPU and GPU miners. Lumenite uses HomeScrypt v1.2 , a custom memory-intensive Proof-of-Work algorithm developed specifically for Lumenite rather than standard Litecoin Scrypt. The network uses a Bitcoin-style UTXO blockchain, fixed block rewards, a fixed monetary supply and LWMA-45 difficulty adjustment. Lumenite Mainnet launched publicly on September 3, 2026 at 21:00 UTC. Mainnet Spec"
     }
   ],
   "announcement_backtraces": [],
@@ -1682,7 +1675,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-02T01:24:55.231774+00:00",
+      "checked": "2026-11-02T08:03:27.574816+00:00",
       "last_state_change": null
     },
     {
@@ -1690,7 +1683,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-02T01:24:47.220813+00:00",
+      "checked": "2026-11-02T08:03:19.560833+00:00",
       "last_state_change": null
     },
     {
@@ -1698,7 +1691,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-02T01:24:51.226792+00:00",
+      "checked": "2026-11-02T08:03:23.569592+00:00",
       "last_state_change": null
     }
   ]
