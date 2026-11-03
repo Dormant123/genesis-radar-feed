@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-03T15:24:16.530706+00:00",
+  "generated_at": "2026-11-03T21:08:55.922605+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -8,6 +8,67 @@
     "note": "This feed contains sanitized derived radar findings and public-source excerpts only."
   },
   "public_findings": [
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] VMRX (VargaMesh RX) | RandomX PoW | Independent L1 | Mainnet Live | CPU",
+      "url": "https://bitcointalk.org/index.php?topic=5598765.0",
+      "published": null,
+      "first_seen": "2026-11-03T16:53:32.213264+00:00",
+      "last_seen": "2026-11-03T20:59:50.812111+00:00",
+      "score": 25,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+2:open source",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+2:privacy",
+        "+1:p2p",
+        "-10:founder allocation",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "https://raw.githubusercontent.com/ati1993de/vmrx-core/main/assets/vmrx-logo.png VMRX  VARGAMESH RX INDEPENDENT RANDOMX PROOF-OF-WORK BLOCKCHAIN MAINNET LIVE | CPU MINING | OPEN SOURCE | WINDOWS & LINUX OFFICIAL WEBSITE | EXPLORER | GITHUB | DOWNLOAD ABOUT VMRX VMRX (VargaMesh RX) is an independent, experimental Layer-1 blockchain based on Monero-derived technology and powered by RandomX Proof of Work. VMRX operates its own mainnet, genesis block, consensus rules, wallet addresses and peer-to-peer network. The network is designed for open participation, CPU mining, independently operated nodes and public verification of blockchain activity. VMRX is NOT VMESH. VMRX uses RandomX, while VargaMe"
+    },
+    {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 19018948858",
+      "url": "https://github.com/btxchain/btx#event-19018948858",
+      "published": "2026-11-03T16:33:15Z",
+      "first_seen": "2026-11-03T16:53:23.806177+00:00",
+      "last_seen": "2026-11-03T18:56:21.024790+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U"
+    },
+    {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 19032388843",
+      "url": "https://github.com/btxchain/btx#event-19032388843",
+      "published": "2026-11-03T16:11:21Z",
+      "first_seen": "2026-11-03T18:56:20.934750+00:00",
+      "last_seen": "2026-11-03T20:59:42.627231+00:00",
+      "score": 13,
+      "flags": [
+        "+5:mainnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/288\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/288\", \"id\": 6088866721, \"node_id\": \"PR_kwDOR8Ja_88AAAABLYhB0w\", \"number\": 288, \"title\": \"net: relay a fast-announced block only after it connects\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U_kgDOBvLf1w\", \"avatar_url\": \"https://avatar"
+    },
     {
       "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 18989049950",
@@ -30,7 +91,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-03T15:21:11.354704+00:00",
+      "last_seen": "2026-11-03T20:59:40.189905+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -51,7 +112,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-03T15:21:27.836705+00:00",
+      "last_seen": "2026-11-03T20:59:54.335656+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -145,7 +206,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-03T15:21:29.084234+00:00",
+      "last_seen": "2026-11-03T20:59:55.627544+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -420,7 +481,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-03T15:21:35.349069+00:00",
+      "last_seen": "2026-11-03T21:00:03.314685+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -599,7 +660,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-11-03T15:21:26.662350+00:00",
+      "last_seen": "2026-11-03T20:59:53.208473+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -664,7 +725,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-11-03T15:21:30.268365+00:00",
+      "last_seen": "2026-11-03T20:59:58.039224+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -940,7 +1001,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-03T15:21:24.116273+00:00",
+      "last_seen": "2026-11-03T20:59:49.737879+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1280,7 +1341,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-11-03T15:21:37.562134+00:00",
+      "last_seen": "2026-11-03T21:00:05.564025+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1389,7 +1450,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589924.0",
       "published": null,
       "first_seen": "2026-10-10T10:04:49.447561+00:00",
-      "last_seen": "2026-11-03T15:21:25.367671+00:00",
+      "last_seen": "2026-11-03T20:59:52.003819+00:00",
       "score": 37,
       "flags": [
         "+5:mainnet",
@@ -1599,58 +1660,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "YSKAR (YSR) proof, not promise YSKAR is an independent proof-of-work blockchain with its own coin, YSR. It is not a token on another chain and not a \"mining\" app that counts up a number: every device computes real double SHA-256, and every full node checks every block itself. The genesis block carries the inscription proof, not promise . That is the standard for the project: nothing is simulated, and nothing is promised. Fair launch No premine, no presale, no team or founder allocation. The chain started with an empty state. The only way to create coins is a block reward. The reward of the genesis block went to the all-zero address, for which no key is known. Early coins burned: in the first"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 16577961690",
-      "url": "https://github.com/Instinctes/nightfall#event-16577961690",
-      "published": "2026-10-06T19:35:20Z",
-      "first_seen": "2026-10-06T19:55:28.444850+00:00",
-      "last_seen": "2026-10-15T20:53:02.543517+00:00",
-      "score": 15,
-      "flags": [
-        "+5:genesis",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+2:storage",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 16573370152",
-      "url": "https://github.com/Instinctes/nightfall#event-16573370152",
-      "published": "2026-10-06T18:34:58Z",
-      "first_seen": "2026-10-06T18:53:29.516694+00:00",
-      "last_seen": "2026-10-15T19:21:00.677976+00:00",
-      "score": 15,
-      "flags": [
-        "+5:genesis",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+2:storage",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 16572709612",
-      "url": "https://github.com/Instinctes/nightfall#event-16572709612",
-      "published": "2026-10-06T18:26:10Z",
-      "first_seen": "2026-10-06T18:53:29.519748+00:00",
-      "last_seen": "2026-10-15T19:21:00.681887+00:00",
-      "score": 14,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:mining",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/issues/40\", \"id\": 5707486406, \"node_id\": \"I_kwDOT2kZwM8AAAABVDFUxg\", \"number\": 40, \"title\": \"Node permanently stalled on a fork: 19h at the same height, no recovery path, reports mining:true throughout\", \"user\":"
     }
   ],
   "announcement_backtraces": [],
@@ -1661,7 +1670,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-03T15:21:51.458782+00:00",
+      "checked": "2026-11-03T21:00:19.186871+00:00",
       "last_state_change": null
     },
     {
@@ -1669,7 +1678,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-03T15:21:43.448657+00:00",
+      "checked": "2026-11-03T21:00:11.176886+00:00",
       "last_state_change": null
     },
     {
@@ -1677,7 +1686,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-03T15:21:47.453889+00:00",
+      "checked": "2026-11-03T21:00:15.182180+00:00",
       "last_state_change": null
     }
   ]
