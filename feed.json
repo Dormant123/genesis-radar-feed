@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-04T07:29:07.139088+00:00",
+  "generated_at": "2026-11-04T15:39:43.144977+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,42 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[PRE-ANN] Opacra (OPCA) | Private, CPU-mined | Mainnet 8 Nov 14:00 UTC",
+      "url": "https://bitcointalk.org/index.php?topic=5598502.0",
+      "published": null,
+      "first_seen": "2026-11-04T08:15:21.799046+00:00",
+      "last_seen": "2026-11-04T15:25:45.620405+00:00",
+      "score": 23,
+      "flags": [
+        "+9:no premine",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+3:compute",
+        "+2:privacy",
+        "+5:pre-ann",
+        "-8:presale",
+        "-10:private sale",
+        "-7:ico",
+        "-5:points",
+        "+4:dated-launch"
+      ],
+      "snippet": "Opacra (OPCA) Private money that settles in minutes, mined fairly by anyone with a computer. opacra.org | Testnet explorer | Source code | X: @opacra_org | Discord Mainnet: Sunday 8 November 2026 at 14:00 UTC That is 09:00 in New York, 14:00 in London, 15:00 in Berlin and 22:00 in Beijing. At that minute the mainnet download goes up on opacra.org and mining opens to everyone at the same time. The mainnet genesis block is made on the morning of launch day and carries a news headline from that morning, and the code refuses any block dated before the announced launch time. Nobody, the project included, can mine a single block early. No premine. No ICO, presale or private sale. No airdrop. Full "
+    },
+    {
       "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 19075385708",
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-04T07:12:57.169567+00:00",
+      "last_seen": "2026-11-04T15:25:39.330199+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -45,7 +75,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598765.0",
       "published": null,
       "first_seen": "2026-11-03T16:53:32.213264+00:00",
-      "last_seen": "2026-11-04T07:13:03.726817+00:00",
+      "last_seen": "2026-11-04T15:25:46.799031+00:00",
       "score": 25,
       "flags": [
         "+5:mainnet",
@@ -122,7 +152,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-04T07:12:53.077301+00:00",
+      "last_seen": "2026-11-04T15:25:34.647882+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -143,7 +173,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-04T07:13:08.809708+00:00",
+      "last_seen": "2026-11-04T15:25:53.038755+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -237,7 +267,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-04T07:13:01.097085+00:00",
+      "last_seen": "2026-11-04T15:25:48.058474+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -512,7 +542,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-04T07:13:14.117996+00:00",
+      "last_seen": "2026-11-04T15:25:56.970223+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -691,7 +721,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-11-04T07:13:07.620301+00:00",
+      "last_seen": "2026-11-04T15:25:51.879745+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -756,7 +786,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-11-04T07:13:04.950320+00:00",
+      "last_seen": "2026-11-04T15:25:49.280619+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -798,7 +828,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-10-28T13:55:36.387719+00:00",
+      "last_seen": "2026-11-04T15:25:44.514863+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -1032,7 +1062,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-04T07:13:02.544198+00:00",
+      "last_seen": "2026-11-04T15:25:43.362539+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1372,7 +1402,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-11-04T07:13:16.520515+00:00",
+      "last_seen": "2026-11-04T08:15:37.821406+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1481,7 +1511,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589924.0",
       "published": null,
       "first_seen": "2026-10-10T10:04:49.447561+00:00",
-      "last_seen": "2026-11-04T07:13:06.286901+00:00",
+      "last_seen": "2026-11-04T15:25:50.552293+00:00",
       "score": 37,
       "flags": [
         "+5:mainnet",
@@ -1620,29 +1650,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "X Coin (XFER) Its own Layer-1 UTXO blockchain where your X account becomes an on-chain name No mining | No staking | ~60-second blocks | Fair launch: no premine, no ICO, no dev allocation Website | Wiki | Whitepaper | Downloads | Explorer | Trade XFER_USDT | X | Telegram Overview XFER is the native coin of X Coin , an independent Layer-1 UTXO blockchain. X Coin is a hard fork of the Ravencoin v4.8.0 code base (itself Bitcoin-derived) with its own genesis block, network, ports and addresses. It is not a token on another chain and not a copy of Ravencoin's coins. X Coin keeps what works in Ravencoin (coins, addresses, the 12-word wallet, native named assets, IPFS metadata) and replaces mining "
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[PRE-ANN][REGTEST] Clarity - Authority rotates, the chain doesn't",
-      "url": "https://bitcointalk.org/index.php?topic=5596146.0",
-      "published": null,
-      "first_seen": "2026-10-07T12:20:22.910119+00:00",
-      "last_seen": "2026-10-17T03:53:29.826645+00:00",
-      "score": 20,
-      "flags": [
-        "+7:no presale",
-        "+6:no ico",
-        "+6:no token sale",
-        "+5:mainnet",
-        "+2:launch",
-        "+1:testnet",
-        "+2:storage",
-        "+1:p2p",
-        "+5:pre-ann",
-        "-8:presale",
-        "-7:ico"
-      ],
-      "snippet": "What this is Clarity is a working blockchain built from scratch. It is not a fork, not a token, not a whitepaper. It has a native currency, a general-purpose token system, an automated market maker, a limit-order book, NFTs with optional on-chain reward schedules, and a validator reward model with a smoothing pot and automatic slashing for equivocation. It is code-complete and pre-launch. There is no token sale, no presale, no ICO . The point of this post is to put the work in front of people who might have useful things to say about it, and to find early users willing to run a node and poke at it before a public testnet exists. What you can actually do with it today If you run the daemon on"
     }
   ],
   "announcement_backtraces": [],
@@ -1653,7 +1660,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-04T07:13:44.791177+00:00",
+      "checked": "2026-11-04T15:26:13.009625+00:00",
       "last_state_change": null
     },
     {
@@ -1661,7 +1668,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-04T07:13:36.781586+00:00",
+      "checked": "2026-11-04T15:26:04.999548+00:00",
       "last_state_change": null
     },
     {
@@ -1669,7 +1676,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-04T07:13:40.786580+00:00",
+      "checked": "2026-11-04T15:26:09.005787+00:00",
       "last_state_change": null
     }
   ]
