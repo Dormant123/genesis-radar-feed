@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-03T21:08:55.922605+00:00",
+  "generated_at": "2026-11-04T01:15:42.735243+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,28 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 19051057373",
+      "url": "https://github.com/btxchain/btx#event-19051057373",
+      "published": "2026-11-03T22:29:28Z",
+      "first_seen": "2026-11-03T22:31:27.227554+00:00",
+      "last_seen": "2026-11-04T01:05:27.629894+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] VMRX (VargaMesh RX) | RandomX PoW | Independent L1 | Mainnet Live | CPU",
       "url": "https://bitcointalk.org/index.php?topic=5598765.0",
       "published": null,
       "first_seen": "2026-11-03T16:53:32.213264+00:00",
-      "last_seen": "2026-11-03T20:59:50.812111+00:00",
+      "last_seen": "2026-11-04T01:05:35.766472+00:00",
       "score": 25,
       "flags": [
         "+5:mainnet",
@@ -59,7 +75,7 @@
       "url": "https://github.com/btxchain/btx#event-19032388843",
       "published": "2026-11-03T16:11:21Z",
       "first_seen": "2026-11-03T18:56:20.934750+00:00",
-      "last_seen": "2026-11-03T20:59:42.627231+00:00",
+      "last_seen": "2026-11-04T01:05:27.666568+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -91,7 +107,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-03T20:59:40.189905+00:00",
+      "last_seen": "2026-11-04T01:05:25.421173+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -112,7 +128,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-03T20:59:54.335656+00:00",
+      "last_seen": "2026-11-04T01:05:39.324021+00:00",
       "score": 37,
       "flags": [
         "+9:no premine",
@@ -206,7 +222,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-03T20:59:55.627544+00:00",
+      "last_seen": "2026-11-04T01:05:40.536958+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -481,7 +497,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-03T21:00:03.314685+00:00",
+      "last_seen": "2026-11-04T01:05:46.887276+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -660,7 +676,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-11-03T20:59:53.208473+00:00",
+      "last_seen": "2026-11-04T01:05:38.209142+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -725,7 +741,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597306.0",
       "published": null,
       "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-11-03T20:59:58.039224+00:00",
+      "last_seen": "2026-11-04T01:05:42.940306+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -1001,7 +1017,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-03T20:59:49.737879+00:00",
+      "last_seen": "2026-11-04T01:05:34.715681+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1341,7 +1357,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589393.0",
       "published": null,
       "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-11-03T21:00:05.564025+00:00",
+      "last_seen": "2026-11-04T01:05:49.095933+00:00",
       "score": 29,
       "flags": [
         "+7:fair launch",
@@ -1450,7 +1466,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5589924.0",
       "published": null,
       "first_seen": "2026-10-10T10:04:49.447561+00:00",
-      "last_seen": "2026-11-03T20:59:52.003819+00:00",
+      "last_seen": "2026-11-04T01:05:37.006196+00:00",
       "score": 37,
       "flags": [
         "+5:mainnet",
@@ -1628,38 +1644,6 @@
         "+3:compute"
       ],
       "snippet": "Vela: A Generative Media Proof-of-Inference Network Proof-of-work secures a peer-to-peer electronic cash system without a trusted party, but the work itself, repeated hashing, has no value outside the protocol. We propose a system in which every proof-of-work attempt must first execute a deterministic text-to-image model, so that block production consumes exactly the computation of generating images. The block header commits to the model output, and the seed of the model's initial noise is derived from the header itself, so changing the nonce requires running the model again and no attempt can be reused or precomputed. To let every node verify a block by re-running the same inference, the mo"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][YSR] YSKAR - SHA-256d PoW | No premine | Mine on phone, CPU or GPU",
-      "url": "https://bitcointalk.org/index.php?topic=5596113.0",
-      "published": null,
-      "first_seen": "2026-10-07T01:34:29.001399+00:00",
-      "last_seen": "2026-11-02T17:46:48.310016+00:00",
-      "score": 42,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+7:no presale",
-        "+5:genesis",
-        "+2:launch",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+3:compute",
-        "+3:not listed",
-        "+1:p2p",
-        "-8:presale",
-        "-10:founder allocation",
-        "-5:points",
-        "+4:dated-launch",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "YSKAR (YSR) proof, not promise YSKAR is an independent proof-of-work blockchain with its own coin, YSR. It is not a token on another chain and not a \"mining\" app that counts up a number: every device computes real double SHA-256, and every full node checks every block itself. The genesis block carries the inscription proof, not promise . That is the standard for the project: nothing is simulated, and nothing is promised. Fair launch No premine, no presale, no team or founder allocation. The chain started with an empty state. The only way to create coins is a block reward. The reward of the genesis block went to the all-zero address, for which no key is known. Early coins burned: in the first"
     }
   ],
   "announcement_backtraces": [],
@@ -1670,7 +1654,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-03T21:00:19.186871+00:00",
+      "checked": "2026-11-04T01:06:02.942771+00:00",
       "last_state_change": null
     },
     {
@@ -1678,7 +1662,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-03T21:00:11.176886+00:00",
+      "checked": "2026-11-04T01:05:54.933571+00:00",
       "last_state_change": null
     },
     {
@@ -1686,7 +1670,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-03T21:00:15.182180+00:00",
+      "checked": "2026-11-04T01:05:58.938137+00:00",
       "last_state_change": null
     }
   ]
