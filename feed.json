@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-05T16:38:20.903414+00:00",
+  "generated_at": "2026-11-05T22:14:03.459755+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,34 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Pinch (PINCH) | Ethash PoW | No premine | GPU & CPU solo mining | Escrow",
+      "url": "https://bitcointalk.org/index.php?topic=5598995.0",
+      "published": null,
+      "first_seen": "2026-11-05T22:12:31.969000+00:00",
+      "last_seen": "2026-11-05T22:12:31.969000+00:00",
+      "score": 42,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+4:proof of work",
+        "+2:pow",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+3:compute",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Pinch (PINCH) An independent Ethash Proof of Work network with native payments, escrow agreements and on-chain reputation. Website | Whitepaper | Mining | Explorer | Downloads What is Pinch? Pinch is its own EVM-compatible blockchain, secured by Ethash Proof of Work. PINCH is the native coin. It is issued only through mining: there was no premine and no genesis allocation. Next to plain transfers, the chain has a built-in escrow contract (PinchDeals) for agreements between two parties, with deadlines, settlements and public ratings. Specifications Algorithm: Ethash (standard Ethereum Ethash, DAG about 1 GB today) Chain ID: 5261646 (0x50494e) Block reward: 50 PINCH, halving every 2,100,000 bl"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[PRE-ANN] Opacra (OPCA) | Private, CPU-mined | Mainnet 8 Nov 14:00 UTC",
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-04T08:15:21.799046+00:00",
-      "last_seen": "2026-11-05T16:34:22.577138+00:00",
+      "last_seen": "2026-11-05T21:42:03.804780+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -44,7 +67,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-05T16:34:12.291159+00:00",
+      "last_seen": "2026-11-05T22:12:24.544972+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -75,7 +98,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598765.0",
       "published": null,
       "first_seen": "2026-11-03T16:53:32.213264+00:00",
-      "last_seen": "2026-11-05T16:34:23.750713+00:00",
+      "last_seen": "2026-11-05T20:40:32.903894+00:00",
       "score": 25,
       "flags": [
         "+5:mainnet",
@@ -152,7 +175,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-05T16:34:07.769897+00:00",
+      "last_seen": "2026-11-05T22:12:20.214210+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -173,8 +196,8 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-04T18:00:04.834295+00:00",
-      "score": 37,
+      "last_seen": "2026-11-05T22:12:33.143186+00:00",
+      "score": 40,
       "flags": [
         "+9:no premine",
         "+7:no presale",
@@ -194,9 +217,10 @@
         "-8:presale",
         "-7:ico",
         "-10:investor allocation",
-        "+4:dated-launch"
+        "+4:dated-launch",
+        "+3:runnable-artifact"
       ],
-      "snippet": "TitanForge (TFN) The world doesn't need to know. Proof of work. One block per second. Every payment shielded. No premine. Website | Litepaper | Network facts | Discord | X | GitHub (code not published yet) Privacy coins usually make you give something up. Make shielding optional, and most coins stay on the public path, where they leak. Hide everything, and you have to trust that nobody has quietly printed coins. And the best-known privacy chains are slow, with blocks tens of seconds to minutes apart. TitanForge is built to take on all three. There is no transparent ledger at all. Every coin is held in a shielded note. Payments between users show no sender, receiver or amount on chain, and th"
+      "snippet": "TitanForge (TFN) The world doesn't need to know. Proof of work. One block per second. Every payment shielded. No premine. Website | Litepaper | Network facts | Discord | X | GitHub (code published at mainnet) Privacy coins usually make you give something up. Make shielding optional, and most coins stay on the public path, where they leak. Hide everything, and you have to trust that nobody has quietly printed coins. And the best-known privacy chains are slow, with blocks tens of seconds to minutes apart. TitanForge is built to take on all three. There is no transparent ledger at all. Every coin is held in a shielded note. Payments between users show no sender, receiver or amount on chain, and"
     },
     {
       "source": "github-events",
@@ -267,7 +291,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-05T16:34:25.026008+00:00",
+      "last_seen": "2026-11-05T18:37:28.481688+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -542,7 +566,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-05T16:34:29.052572+00:00",
+      "last_seen": "2026-11-05T22:12:39.341882+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -828,7 +852,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597340.0",
       "published": null,
       "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-11-05T16:34:21.484077+00:00",
+      "last_seen": "2026-11-05T21:42:02.759320+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -1062,7 +1086,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-05T16:34:19.079048+00:00",
+      "last_seen": "2026-11-05T22:12:34.466210+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1624,32 +1648,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/404\", \"repository_url\": \"https://api.github.com/repos/pearl-research-labs/pearl\", \"labels_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/404/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/404/comments\", \"events_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/404/events\", \"html_url\": \"https://github.com/pearl-research-labs/pearl/pull/404\", \"id\": 5758491658, \"node_id\": \"PR_kwDOSGtMDc8AAAABHSXBpQ\", \"number\": 404, \"title\": \"fix(rpcserver): getblockhash silently returns the wrong block's hash for heights ≥ "
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] X Coin (XFER) | Own L1 UTXO chain that tokenizes X accounts | No premine",
-      "url": "https://bitcointalk.org/index.php?topic=5596193.0",
-      "published": null,
-      "first_seen": "2026-10-07T20:36:02.801804+00:00",
-      "last_seen": "2026-10-18T13:48:19.872785+00:00",
-      "score": 32,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+6:no ico",
-        "+5:genesis",
-        "+5:block 0",
-        "+2:launch",
-        "+2:open source",
-        "+4:proof-of-work",
-        "+2:mining",
-        "+3:block reward",
-        "+1:p2p",
-        "-7:ico",
-        "-10:founder allocation",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "X Coin (XFER) Its own Layer-1 UTXO blockchain where your X account becomes an on-chain name No mining | No staking | ~60-second blocks | Fair launch: no premine, no ICO, no dev allocation Website | Wiki | Whitepaper | Downloads | Explorer | Trade XFER_USDT | X | Telegram Overview XFER is the native coin of X Coin , an independent Layer-1 UTXO blockchain. X Coin is a hard fork of the Ravencoin v4.8.0 code base (itself Bitcoin-derived) with its own genesis block, network, ports and addresses. It is not a token on another chain and not a copy of Ravencoin's coins. X Coin keeps what works in Ravencoin (coins, addresses, the 12-word wallet, native named assets, IPFS metadata) and replaces mining "
     }
   ],
   "announcement_backtraces": [],
@@ -1660,7 +1658,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-05T16:34:43.763613+00:00",
+      "checked": "2026-11-05T22:12:53.855709+00:00",
       "last_state_change": null
     },
     {
@@ -1668,7 +1666,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-05T16:34:35.752644+00:00",
+      "checked": "2026-11-05T22:12:45.845345+00:00",
       "last_state_change": null
     },
     {
@@ -1676,7 +1674,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-05T16:34:39.757996+00:00",
+      "checked": "2026-11-05T22:12:49.851050+00:00",
       "last_state_change": null
     }
   ]
