@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-07T07:12:56.722928+00:00",
+  "generated_at": "2026-11-07T13:58:15.205951+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://github.com/btxchain/btx#event-19402740050",
       "published": "2026-11-07T04:39:14Z",
       "first_seen": "2026-11-07T04:55:56.914523+00:00",
-      "last_seen": "2026-11-07T06:59:13.528936+00:00",
+      "last_seen": "2026-11-07T13:39:01.721425+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -30,7 +30,7 @@
       "url": "https://github.com/btxchain/btx#event-19402662686",
       "published": "2026-11-07T04:37:12Z",
       "first_seen": "2026-11-07T04:55:56.927738+00:00",
-      "last_seen": "2026-11-07T06:59:13.555174+00:00",
+      "last_seen": "2026-11-07T13:39:01.738809+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -46,7 +46,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598995.0",
       "published": null,
       "first_seen": "2026-11-05T22:12:31.969000+00:00",
-      "last_seen": "2026-11-07T06:59:28.269074+00:00",
+      "last_seen": "2026-11-07T08:31:32.636389+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -99,7 +99,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-07T06:59:15.269326+00:00",
+      "last_seen": "2026-11-07T13:39:03.483750+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -207,7 +207,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-07T06:59:11.186687+00:00",
+      "last_seen": "2026-11-07T13:38:59.335420+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -323,7 +323,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-07T06:59:20.599265+00:00",
+      "last_seen": "2026-11-07T13:39:08.678157+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -598,7 +598,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-07T06:59:32.351104+00:00",
+      "last_seen": "2026-11-07T13:39:17.598525+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -648,7 +648,7 @@
       "url": "https://bitcointalk.org/index.php?topic=1671982.0",
       "published": null,
       "first_seen": "2026-10-26T20:20:15.033618+00:00",
-      "last_seen": "2026-11-07T06:59:24.595384+00:00",
+      "last_seen": "2026-11-07T13:39:13.666361+00:00",
       "score": 20,
       "flags": [
         "+9:no premine",
@@ -1118,7 +1118,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-07T06:59:22.037923+00:00",
+      "last_seen": "2026-11-07T13:39:12.367165+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1646,7 +1646,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-07T06:59:54.564141+00:00",
+      "checked": "2026-11-07T13:39:33.785926+00:00",
       "last_state_change": null
     },
     {
@@ -1654,7 +1654,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-07T06:59:46.554392+00:00",
+      "checked": "2026-11-07T13:39:25.775965+00:00",
       "last_state_change": null
     },
     {
@@ -1662,7 +1662,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-07T06:59:50.559396+00:00",
+      "checked": "2026-11-07T13:39:29.781108+00:00",
       "last_state_change": null
     }
   ]
