@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-07T01:16:20.156655+00:00",
+  "generated_at": "2026-11-07T07:12:56.722928+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,44 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 19402740050",
+      "url": "https://github.com/btxchain/btx#event-19402740050",
+      "published": "2026-11-07T04:39:14Z",
+      "first_seen": "2026-11-07T04:55:56.914523+00:00",
+      "last_seen": "2026-11-07T06:59:13.528936+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U"
+    },
+    {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 19402662686",
+      "url": "https://github.com/btxchain/btx#event-19402662686",
+      "published": "2026-11-07T04:37:12Z",
+      "first_seen": "2026-11-07T04:55:56.927738+00:00",
+      "last_seen": "2026-11-07T06:59:13.555174+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Pinch (PINCH) | Ethash PoW | No premine | GPU & CPU solo mining | Escrow",
       "url": "https://bitcointalk.org/index.php?topic=5598995.0",
       "published": null,
       "first_seen": "2026-11-05T22:12:31.969000+00:00",
-      "last_seen": "2026-11-07T00:49:30.221177+00:00",
+      "last_seen": "2026-11-07T06:59:28.269074+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -67,7 +99,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-07T00:49:17.655433+00:00",
+      "last_seen": "2026-11-07T06:59:15.269326+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -175,7 +207,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-07T00:49:13.802352+00:00",
+      "last_seen": "2026-11-07T06:59:11.186687+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -196,7 +228,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-07T00:49:31.370703+00:00",
+      "last_seen": "2026-11-07T04:25:38.702731+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -291,7 +323,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-07T00:49:25.210212+00:00",
+      "last_seen": "2026-11-07T06:59:20.599265+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -566,7 +598,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-07T00:49:35.132956+00:00",
+      "last_seen": "2026-11-07T06:59:32.351104+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -616,7 +648,7 @@
       "url": "https://bitcointalk.org/index.php?topic=1671982.0",
       "published": null,
       "first_seen": "2026-10-26T20:20:15.033618+00:00",
-      "last_seen": "2026-11-07T00:49:24.033683+00:00",
+      "last_seen": "2026-11-07T06:59:24.595384+00:00",
       "score": 20,
       "flags": [
         "+9:no premine",
@@ -1086,7 +1118,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-06T12:01:06.042420+00:00",
+      "last_seen": "2026-11-07T06:59:22.037923+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1604,50 +1636,6 @@
         "-8:premine"
       ],
       "snippet": "NACRE public testnet starts Sunday 11 October 2026, 16:00 UTC Fresh genesis, everyone starts at the same time. Mainnet comes later, no date yet. What is NACRE? NACRE is a proof-of-work chain that is merge-mined with Pearl (AuxPoW). If you mine Pearl with a GPU, you can mine NACRE at the same time, with the same work and no extra hashrate. NACRE is a fork of the Pearl node code (via modelOS), with its own chain, its own genesis and its own coin. Parameters Ticker: NACR Max supply: 21,000,000 Block reward: 10 NACR Halving: every 1,050,000 blocks Block time: 120 seconds Difficulty adjustment: ASERT Consensus: PoW, merge-mined with Pearl (AuxPoW) Premine: none. No presale, no ICO, no team alloca"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][TESTNET][PoW] (TNR)Tenero | matmulhash v2 | Privacy coin | FCMP++",
-      "url": "https://bitcointalk.org/index.php?topic=5596024.0",
-      "published": null,
-      "first_seen": "2026-10-09T04:25:02.790927+00:00",
-      "last_seen": "2026-10-12T11:48:52.528747+00:00",
-      "score": 41,
-      "flags": [
-        "+9:no premine",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+3:compute",
-        "+2:privacy",
-        "+1:decentralized",
-        "+1:p2p",
-        "-8:premine"
-      ],
-      "snippet": "TENERO (TNR) GPU-FOCUSED PROOF-OF-WORK CRYPTOCURRENCY PUBLIC ALPHA TESTNET IS LIVE FCMP++ and carrot is LIVE on gamma GitHub Repository | Downloads / Releases | GitHub Discussions Reddit | Discord 🟢 Mainnet launch: 1 November 2026 🟡 Public Alpha Testnet: LIVE Mine the testnet, run a node, benchmark your GPU, and help prepare for mainnet. An experimental proof-of-work cryptocurrency built around modern GPU hardware, with a long-term goal of Monero-style privacy. DISCLAIMER Tenero is currently an experimental alpha testnet . The project is developed by one person and has not received independent cryptographic, security, or hardware review. It should not be considered a finished cryptocurrency."
-    },
-    {
-      "source": "github-events",
-      "title": "pearl-research-labs/pearl: IssueCommentEvent 16713400109",
-      "url": "https://github.com/pearl-research-labs/pearl#event-16713400109",
-      "published": "2026-10-08T08:24:38Z",
-      "first_seen": "2026-10-08T08:55:19.692749+00:00",
-      "last_seen": "2026-10-09T14:08:55.360561+00:00",
-      "score": 12,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/404\", \"repository_url\": \"https://api.github.com/repos/pearl-research-labs/pearl\", \"labels_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/404/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/404/comments\", \"events_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/404/events\", \"html_url\": \"https://github.com/pearl-research-labs/pearl/pull/404\", \"id\": 5758491658, \"node_id\": \"PR_kwDOSGtMDc8AAAABHSXBpQ\", \"number\": 404, \"title\": \"fix(rpcserver): getblockhash silently returns the wrong block's hash for heights ≥ "
     }
   ],
   "announcement_backtraces": [],
@@ -1658,7 +1646,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-07T00:49:51.859748+00:00",
+      "checked": "2026-11-07T06:59:54.564141+00:00",
       "last_state_change": null
     },
     {
@@ -1666,7 +1654,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-07T00:49:43.850230+00:00",
+      "checked": "2026-11-07T06:59:46.554392+00:00",
       "last_state_change": null
     },
     {
@@ -1674,7 +1662,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-07T00:49:47.855070+00:00",
+      "checked": "2026-11-07T06:59:50.559396+00:00",
       "last_state_change": null
     }
   ]
