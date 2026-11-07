@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-07T13:58:15.205951+00:00",
+  "generated_at": "2026-11-07T18:27:18.731288+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,43 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Ting | General-purpose PoW blockchain | CPU/GPU mining | No premine",
+      "url": "https://bitcointalk.org/index.php?topic=5599158.0",
+      "published": null,
+      "first_seen": "2026-11-07T16:40:57.357304+00:00",
+      "last_seen": "2026-11-07T18:11:54.682276+00:00",
+      "score": 53,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+2:open source",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+3:compute",
+        "+2:storage",
+        "+3:no exchange",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Ting A general-purpose proof-of-work blockchain with consensus rules that cannot be upgraded, even by its creator. Introduction video (3½ minutes) Start mining | Block explorer | Android wallet | Wiki | Protocol rules | GitHub What is Ting? I've been working on Ting, a new proof-of-work blockchain that went live on 21 October 2026. The idea is to keep the underlying consensus as small as possible, and freeze it permanently. Consensus handles transaction ordering, proof of work, deterministic program execution, state commitments and resource accounting. Everything else, including accounts, coins and signature schemes, is implemented as programs running on the chain. The rules are written in a"
+    },
+    {
       "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 19402740050",
       "url": "https://github.com/btxchain/btx#event-19402740050",
       "published": "2026-11-07T04:39:14Z",
       "first_seen": "2026-11-07T04:55:56.914523+00:00",
-      "last_seen": "2026-11-07T13:39:01.721425+00:00",
+      "last_seen": "2026-11-07T16:10:17.197050+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -30,7 +61,7 @@
       "url": "https://github.com/btxchain/btx#event-19402662686",
       "published": "2026-11-07T04:37:12Z",
       "first_seen": "2026-11-07T04:55:56.927738+00:00",
-      "last_seen": "2026-11-07T13:39:01.738809+00:00",
+      "last_seen": "2026-11-07T16:10:17.220412+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -69,7 +100,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-04T08:15:21.799046+00:00",
-      "last_seen": "2026-11-05T21:42:03.804780+00:00",
+      "last_seen": "2026-11-07T18:11:55.786721+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -99,7 +130,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-07T13:39:03.483750+00:00",
+      "last_seen": "2026-11-07T18:11:47.252172+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -207,7 +238,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-07T13:38:59.335420+00:00",
+      "last_seen": "2026-11-07T18:11:42.684508+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -323,7 +354,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-07T13:39:08.678157+00:00",
+      "last_seen": "2026-11-07T18:11:57.074191+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -598,7 +629,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-07T13:39:17.598525+00:00",
+      "last_seen": "2026-11-07T18:12:03.559324+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -648,7 +679,7 @@
       "url": "https://bitcointalk.org/index.php?topic=1671982.0",
       "published": null,
       "first_seen": "2026-10-26T20:20:15.033618+00:00",
-      "last_seen": "2026-11-07T13:39:13.666361+00:00",
+      "last_seen": "2026-11-07T15:09:53.712042+00:00",
       "score": 20,
       "flags": [
         "+9:no premine",
@@ -1118,7 +1149,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-07T13:39:12.367165+00:00",
+      "last_seen": "2026-11-07T18:11:53.553711+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1608,34 +1639,6 @@
         "+4:dated-launch"
       ],
       "snippet": "▸ Launch banner, diagrams and screenshots  velaresearch.ai/media Vela  a Generative Media Proof-of-Inference Network Every block is one text-to-image inference, and every node verifies it by re-running the model. Mainnet: October 14, 2026 · 14:00 UTC What Vela is · How it works · Every block is an image · Specifications · Economics · Testnet · Roadmap · Links What Vela is Vela is a Bitcoin Core fork in which the proof-of-work is not hashing but inference . Every mining attempt runs a deterministic text-to-image diffusion model, and the header commits to the image that was produced. The rest of the protocol is Bitcoin's, unchanged: transactions, scripts, the UTXO set, peer-to-peer propagati"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] NACRE (NACR) - Merge-mined with Pearl, 21M supply, no premine, TESTNET",
-      "url": "https://bitcointalk.org/index.php?topic=5596330.0",
-      "published": null,
-      "first_seen": "2026-10-09T08:29:53.043058+00:00",
-      "last_seen": "2026-10-09T10:02:19.456454+00:00",
-      "score": 17,
-      "flags": [
-        "+9:no premine",
-        "+7:no presale",
-        "+6:no ico",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "-8:presale",
-        "-7:ico",
-        "-8:team allocation",
-        "-8:premine"
-      ],
-      "snippet": "NACRE public testnet starts Sunday 11 October 2026, 16:00 UTC Fresh genesis, everyone starts at the same time. Mainnet comes later, no date yet. What is NACRE? NACRE is a proof-of-work chain that is merge-mined with Pearl (AuxPoW). If you mine Pearl with a GPU, you can mine NACRE at the same time, with the same work and no extra hashrate. NACRE is a fork of the Pearl node code (via modelOS), with its own chain, its own genesis and its own coin. Parameters Ticker: NACR Max supply: 21,000,000 Block reward: 10 NACR Halving: every 1,050,000 blocks Block time: 120 seconds Difficulty adjustment: ASERT Consensus: PoW, merge-mined with Pearl (AuxPoW) Premine: none. No presale, no ICO, no team alloca"
     }
   ],
   "announcement_backtraces": [],
@@ -1646,7 +1649,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-07T13:39:33.785926+00:00",
+      "checked": "2026-11-07T18:12:18.166120+00:00",
       "last_state_change": null
     },
     {
@@ -1654,7 +1657,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-07T13:39:25.775965+00:00",
+      "checked": "2026-11-07T18:12:10.159581+00:00",
       "last_state_change": null
     },
     {
@@ -1662,7 +1665,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-07T13:39:29.781108+00:00",
+      "checked": "2026-11-07T18:12:14.164695+00:00",
       "last_state_change": null
     }
   ]
