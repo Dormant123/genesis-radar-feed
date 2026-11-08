@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-08T14:27:02.382830+00:00",
+  "generated_at": "2026-11-08T18:53:35.652838+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,58 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 19492153127",
+      "url": "https://github.com/btxchain/btx#event-19492153127",
+      "published": "2026-11-08T18:32:25Z",
+      "first_seen": "2026-11-08T18:45:12.767810+00:00",
+      "last_seen": "2026-11-08T18:45:12.767810+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Opacra (OPCA) | Private, CPU-mined | Mainnet live since 8 Nov",
+      "url": "https://bitcointalk.org/index.php?topic=5598502.0",
+      "published": null,
+      "first_seen": "2026-11-08T14:39:06.761519+00:00",
+      "last_seen": "2026-11-08T18:45:23.463592+00:00",
+      "score": 19,
+      "flags": [
+        "+9:no premine",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+3:compute",
+        "+2:privacy",
+        "+1:p2p",
+        "-8:presale",
+        "-10:private sale",
+        "-7:ico",
+        "-5:points",
+        "+4:dated-launch"
+      ],
+      "snippet": "Opacra (OPCA) Private money that settles in minutes, mined fairly by anyone with a computer. opacra.org | Explorer | Source code | X: @opacra_org | Discord Mainnet is live: launched Sunday 8 November 2026 at 14:00 UTC Mining opened to everyone at the same minute. The genesis block was made that morning and carries this headline: Code: Opacra genesis | 2026-11-08 | Sao Paulo Grand Prix: Lando Norris and George Russell hoping for more rain in race after wet qualifying Genesis block hash: Code: 64a7ed2d529301d4b355358c159eaa980a7faccf0f336b5359053c1a8245d356 The code refuses any block dated before 14:00 UTC, so nobody, the project included, could mine a single block early. No premine. No ICO, p"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Solidum (SLD) | SHA256 PoW | Genesis Block Incoming",
       "url": "https://bitcointalk.org/index.php?topic=5575371.0",
       "published": null,
       "first_seen": "2026-11-08T13:38:28.721365+00:00",
-      "last_seen": "2026-11-08T14:08:33.336235+00:00",
+      "last_seen": "2026-11-08T18:45:19.494432+00:00",
       "score": 19,
       "flags": [
         "+5:genesis",
@@ -33,7 +79,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-08T14:08:37.032383+00:00",
+      "last_seen": "2026-11-08T18:45:18.293766+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -54,7 +100,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599158.0",
       "published": null,
       "first_seen": "2026-11-07T16:40:57.357304+00:00",
-      "last_seen": "2026-11-08T14:08:38.366088+00:00",
+      "last_seen": "2026-11-08T18:45:24.690428+00:00",
       "score": 53,
       "flags": [
         "+9:no premine",
@@ -170,7 +216,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-08T14:08:29.554827+00:00",
+      "last_seen": "2026-11-08T18:45:14.617345+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -278,7 +324,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-08T14:08:25.685729+00:00",
+      "last_seen": "2026-11-08T18:45:10.471158+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -394,7 +440,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-08T14:08:35.986326+00:00",
+      "last_seen": "2026-11-08T18:45:20.983284+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -669,7 +715,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-08T14:08:44.735184+00:00",
+      "last_seen": "2026-11-08T18:45:28.647951+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -1571,66 +1617,6 @@
         "-8:premine"
       ],
       "snippet": "Yenten Yenten is a cryptocurrency of the cpu, by the cpu, for the cpu. No ASIC mineable. No ICO. No premine. Website http://yentencoin.info/ Twitter https://twitter.com/yentencoin Discord Discord channels Telegram t.me/Yenten_RUS t.me/yententip - we give each visitor coins t.me/yenten Abstruct Algorithm: YespowerR16 ( yespower-1.0 ,N=4096,r=16), GPU is slower than CPU (changed from YescryptR16 on and after 30 March 2019) Block time: 2 minutes Max Block size: 2M Block reward of block #1: 50 YTN Max Supply: 80,000,000 YTN SubsidyHalvingInterval: 800,000 blocks Difficulty re-target: every block (DarkGravityWave v3-1 ) Premine: none P2P Port: 9981 RPC Port: 9982 Download binary (Win64, macOS x64"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][MYT] MYT  Privacy Settlement Layer for Machines | PoW | Fair Launch",
-      "url": "https://bitcointalk.org/index.php?topic=5577468.0",
-      "published": null,
-      "first_seen": "2026-10-10T20:18:53.707954+00:00",
-      "last_seen": "2026-10-11T20:28:35.171356+00:00",
-      "score": 42,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+6:no ico",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+2:open source",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+3:compute",
-        "+2:privacy",
-        "+1:p2p",
-        "-7:ico",
-        "-8:team allocation"
-      ],
-      "snippet": "MYT is a privacy-preserving Proof-of-Work blockchain designed as a settlement layer for autonomous systems, AI agents, and enterprises. Built on the CryptoNote protocol stack with Bitcoin-style monetary policy. Mainnet is live. Fair launch. No ICO. No premine. No team allocation. ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ NETWORK STATUS (at time of posting) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Launch Date 2026-03-08 00:00:00 UTC Genesis Epoch 1772928000 Current Block ~9,629 Network Hashrate ~5.6 kH/s (early stage  growing) Coin Supply 48,150 MYT minted (0.23% of 21,000,000) Block Reward 5.000000 MYT (fixed until f"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Quantum Bitcoin (QBTC) - GPU & CPU PoW Mainnet (ML-DSA-65, Fair Launch)",
-      "url": "https://bitcointalk.org/index.php?topic=5579705.0",
-      "published": null,
-      "first_seen": "2026-10-10T16:13:01.951933+00:00",
-      "last_seen": "2026-11-01T16:43:36.701616+00:00",
-      "score": 43,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+6:no ico",
-        "+5:mainnet",
-        "+5:genesis",
-        "+5:block 0",
-        "+2:launch",
-        "+2:pow",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+2:storage",
-        "+2:post-quantum",
-        "+1:decentralized",
-        "+1:p2p",
-        "-7:ico",
-        "-8:dev fee",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Background: Why Quantum Bitcoin (Q-BTC)? The physical qubit threshold required to break elliptic-curve cryptography (secp256k1) is dropping faster than anticipated. In legacy PoW networks, Shor's algorithm does not just threaten dormant addresses with exposed public keys; broadcasting a standard transaction exposes the public key in the mempool, turning the 10-minute confirmation window into a direct attack surface. Meanwhile, retrofitting legacy chains faces severe coordination bottlenecks, millions of unmigrated coins, and block-size bloat from large post-quantum signatures. Quantum Bitcoin (Q-BTC) was built from scratch in Rust to solve this cleanly from Block 0 - combining Bitcoin's soun"
     }
   ],
   "announcement_backtraces": [],
@@ -1641,7 +1627,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-08T14:08:58.131007+00:00",
+      "checked": "2026-11-08T18:45:43.387157+00:00",
       "last_state_change": null
     },
     {
@@ -1649,7 +1635,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-08T14:08:50.120668+00:00",
+      "checked": "2026-11-08T18:45:35.377467+00:00",
       "last_state_change": null
     },
     {
@@ -1657,7 +1643,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-08T14:08:54.126222+00:00",
+      "checked": "2026-11-08T18:45:39.382433+00:00",
       "last_state_change": null
     }
   ]
