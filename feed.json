@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-08T07:29:35.596263+00:00",
+  "generated_at": "2026-11-08T14:27:02.382830+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,51 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Solidum (SLD) | SHA256 PoW | Genesis Block Incoming",
+      "url": "https://bitcointalk.org/index.php?topic=5575371.0",
+      "published": null,
+      "first_seen": "2026-11-08T13:38:28.721365+00:00",
+      "last_seen": "2026-11-08T14:08:33.336235+00:00",
+      "score": 19,
+      "flags": [
+        "+5:genesis",
+        "+2:launch",
+        "+4:proof of work",
+        "+2:pow",
+        "+2:mining",
+        "+3:optimization",
+        "+1:decentralized"
+      ],
+      "snippet": "SOLIDUM (SLD) Secure, Scalable, and Mobile-First Decentralized Ecosystem [ WEBSITE ] [ DISCORD ] [ X / TWITTER ] [ GITHUB ] [ REDDIT ] [ EXPLORER ] INTRODUCTION Solidum is a next-generation blockchain infrastructure designed for high-performance security and ultimate user accessibility. By focusing on mobile-first integration and community-driven governance, Solidum bridges the gap between complex decentralized protocols and real-world financial utility. OFFICIAL ROADMAP: 2026  2027  2026: THE FOUNDATION  Q1 2026 | Genesis Phase Deployment of the Genesis block and launch of primary seed nodes. Release of Solidum Core v1.0 for Windows, Linux, and macOS. Q2 2026 | Infrastructure Public Bloc"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "NEB roadmap: testnet 2 to mainnet",
+      "url": "https://bitcointalk.org/index.php?topic=5599218.0",
+      "published": null,
+      "first_seen": "2026-11-08T11:39:01.077125+00:00",
+      "last_seen": "2026-11-08T14:08:37.032383+00:00",
+      "score": 26,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+2:open source",
+        "+2:miner",
+        "+2:mining",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "NEB roadmap: from testnet 2 to mainnet On NEB, one mining attempt is one training step of a neural network that belongs to the chain. Every node replays that training bit for bit from the genesis, so every weight of the model can be traced to the blocks that moved it. The roadmap below takes those ideas as far as they go. The dates are targets: they move when the measurements say so. Q4 2026: science on the chain, then mainnet Testnet 2 started on November 7. Mining now trains two models on public science data: transit signals from NASA's Kepler mission, sorted into planet candidates and false positives, and retinal OCT scans, sorted into three diseases and normal. Mainnet launches this quar"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Ting | General-purpose PoW blockchain | CPU/GPU mining | No premine",
       "url": "https://bitcointalk.org/index.php?topic=5599158.0",
       "published": null,
       "first_seen": "2026-11-07T16:40:57.357304+00:00",
-      "last_seen": "2026-11-08T06:59:41.752990+00:00",
+      "last_seen": "2026-11-08T14:08:38.366088+00:00",
       "score": 53,
       "flags": [
         "+9:no premine",
@@ -37,7 +77,7 @@
         "-8:premine",
         "+3:runnable-artifact"
       ],
-      "snippet": "Ting A general-purpose proof-of-work blockchain with consensus rules that cannot be upgraded, even by its creator. Introduction video (3½ minutes) Start mining | Block explorer | Android wallet | Wiki | Protocol rules | GitHub What is Ting? I've been working on Ting, a new proof-of-work blockchain that went live on 21 October 2026. The idea is to keep the underlying consensus as small as possible, and freeze it permanently. Consensus handles transaction ordering, proof of work, deterministic program execution, state commitments and resource accounting. Everything else, including accounts, coins and signature schemes, is implemented as programs running on the chain. The rules are written in a"
+      "snippet": "Update, 8 November 2026: Discord added, and the network has grown since this was posted. Ting A general-purpose proof-of-work blockchain with consensus rules that cannot be upgraded, even by its creator. Introduction video (3½ minutes) Start mining | Block explorer | Android wallet | Wiki | Protocol rules | GitHub | Discord What is Ting? I've been working on Ting, a new proof-of-work blockchain that went live on 21 October 2026. The idea is to keep the underlying consensus as small as possible, and freeze it permanently. Consensus handles transaction ordering, proof of work, deterministic program execution, state commitments and resource accounting. Everything else, including accounts, coins"
     },
     {
       "source": "github-events",
@@ -77,7 +117,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598995.0",
       "published": null,
       "first_seen": "2026-11-05T22:12:31.969000+00:00",
-      "last_seen": "2026-11-08T06:59:42.895246+00:00",
+      "last_seen": "2026-11-08T12:37:12.319750+00:00",
       "score": 42,
       "flags": [
         "+9:no premine",
@@ -100,7 +140,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-04T08:15:21.799046+00:00",
-      "last_seen": "2026-11-08T06:59:45.231626+00:00",
+      "last_seen": "2026-11-08T11:08:14.543420+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -130,7 +170,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-08T06:59:34.145271+00:00",
+      "last_seen": "2026-11-08T14:08:29.554827+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -238,7 +278,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-08T06:59:30.324061+00:00",
+      "last_seen": "2026-11-08T14:08:25.685729+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -354,7 +394,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-08T06:59:39.419817+00:00",
+      "last_seen": "2026-11-08T14:08:35.986326+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -629,7 +669,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-08T06:59:49.065290+00:00",
+      "last_seen": "2026-11-08T14:08:44.735184+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -1149,7 +1189,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597037.0",
       "published": null,
       "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-08T06:59:44.113330+00:00",
+      "last_seen": "2026-11-08T11:39:07.084449+00:00",
       "score": 27,
       "flags": [
         "+9:no premine",
@@ -1591,54 +1631,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "Background: Why Quantum Bitcoin (Q-BTC)? The physical qubit threshold required to break elliptic-curve cryptography (secp256k1) is dropping faster than anticipated. In legacy PoW networks, Shor's algorithm does not just threaten dormant addresses with exposed public keys; broadcasting a standard transaction exposes the public key in the mempool, turning the 10-minute confirmation window into a direct attack surface. Meanwhile, retrofitting legacy chains faces severe coordination bottlenecks, millions of unmigrated coins, and block-size bloat from large post-quantum signatures. Quantum Bitcoin (Q-BTC) was built from scratch in Rust to solve this cleanly from Block 0 - combining Bitcoin's soun"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Vexta (VTX) | SHA-256D + RandomX PoW | Open Source | Mainnet Live",
-      "url": "https://bitcointalk.org/index.php?topic=5589924.0",
-      "published": null,
-      "first_seen": "2026-10-10T10:04:49.447561+00:00",
-      "last_seen": "2026-11-05T04:44:52.601067+00:00",
-      "score": 37,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:open source",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:storage",
-        "+2:post-quantum",
-        "+1:p2p",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "V E X T A Independent Proof-of-Work Blockchain OPEN SOURCE  UTXO  SEGWIT  TAPROOT  COMMUNITY DRIVEN WEBSITE | DESKTOP WALLETS | ANDROID WALLET | EXPLORER | VEXTAHUB | MINING POOL | CPU MINER | DISCORD ABOUT VEXTA Vexta (VTX) is an independent, open-source, UTXO-based cryptocurrency secured by Proof of Work. The project is built on proven Bitcoin-style blockchain architecture and is focused on transparent development, network security, public accessibility and long-term community growth. VTX is the native asset of its own blockchain. It is not a token issued on another network. The Vexta mainnet is live and supported by publicly available source code, Windows and Linux wallet software, an"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Vela mainnet launches October 14, 2026, 14:00 UTC.",
-      "url": "https://bitcointalk.org/index.php?topic=5595944.0",
-      "published": null,
-      "first_seen": "2026-10-09T11:03:51.483126+00:00",
-      "last_seen": "2026-10-13T22:14:01.303480+00:00",
-      "score": 32,
-      "flags": [
-        "+5:mainnet",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof-of-work",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+4:inference",
-        "+3:compute",
-        "+1:p2p",
-        "+4:dated-launch"
-      ],
-      "snippet": "▸ Launch banner, diagrams and screenshots  velaresearch.ai/media Vela  a Generative Media Proof-of-Inference Network Every block is one text-to-image inference, and every node verifies it by re-running the model. Mainnet: October 14, 2026 · 14:00 UTC What Vela is · How it works · Every block is an image · Specifications · Economics · Testnet · Roadmap · Links What Vela is Vela is a Bitcoin Core fork in which the proof-of-work is not hashing but inference . Every mining attempt runs a deterministic text-to-image diffusion model, and the header commits to the image that was produced. The rest of the protocol is Bitcoin's, unchanged: transactions, scripts, the UTXO set, peer-to-peer propagati"
     }
   ],
   "announcement_backtraces": [],
@@ -1649,7 +1641,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-08T07:00:02.388262+00:00",
+      "checked": "2026-11-08T14:08:58.131007+00:00",
       "last_state_change": null
     },
     {
@@ -1657,7 +1649,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-08T06:59:54.379717+00:00",
+      "checked": "2026-11-08T14:08:50.120668+00:00",
       "last_state_change": null
     },
     {
@@ -1665,7 +1657,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-08T06:59:58.383262+00:00",
+      "checked": "2026-11-08T14:08:54.126222+00:00",
       "last_state_change": null
     }
   ]
