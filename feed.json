@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-09T08:42:24.961653+00:00",
+  "generated_at": "2026-11-09T19:08:48.639461+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -8,6 +8,24 @@
     "note": "This feed contains sanitized derived radar findings and public-source excerpts only."
   },
   "public_findings": [
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Torvyon (tBit) | Post-Quantum Layer 1 | UTXO | Live Mainnet | Explorer & SDK",
+      "url": "https://bitcointalk.org/index.php?topic=5599346.0",
+      "published": null,
+      "first_seen": "2026-11-09T18:49:54.554826+00:00",
+      "last_seen": "2026-11-09T18:49:54.554826+00:00",
+      "score": 17,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+1:testnet",
+        "+2:mining",
+        "+2:emission",
+        "+2:post-quantum"
+      ],
+      "snippet": "Torvyon is an independent Layer 1 blockchain focused on post-quantum security, a UTXO ledger, and programmable conditional transactions. tBit (ₜBit) is the native asset of the Torvyon network. Torvyon is not affiliated with Bitcoin. PROJECT LINKS Website: https://torvyon.tech/ Explorer: https://explorer.torvyon.tech/ Whitepaper: https://bit.torvyon.tech/whitepaper.pdf Documentation / supply and vesting: https://bit.torvyon.tech/book.html Live supply API: https://api.torvyon.tech/api/supply Testnet: https://testnet.torvyon.tech/ Wallet: https://wallet.torvyon.tech/ CURRENT STATUS  Mainnet is live and advancing.  The public explorer and supply API are operational.  A public testnet is avail"
+    },
     {
       "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 19492153127",
@@ -30,7 +48,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-08T14:39:06.761519+00:00",
-      "last_seen": "2026-11-09T08:35:02.218815+00:00",
+      "last_seen": "2026-11-09T18:18:39.478383+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -60,7 +78,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5575371.0",
       "published": null,
       "first_seen": "2026-11-08T13:38:28.721365+00:00",
-      "last_seen": "2026-11-09T08:34:56.125426+00:00",
+      "last_seen": "2026-11-09T18:49:53.505452+00:00",
       "score": 19,
       "flags": [
         "+5:genesis",
@@ -79,7 +97,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-09T08:34:59.672246+00:00",
+      "last_seen": "2026-11-09T18:49:59.364911+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -100,7 +118,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599158.0",
       "published": null,
       "first_seen": "2026-11-07T16:40:57.357304+00:00",
-      "last_seen": "2026-11-09T08:34:53.536779+00:00",
+      "last_seen": "2026-11-09T18:49:50.904285+00:00",
       "score": 53,
       "flags": [
         "+9:no premine",
@@ -216,7 +234,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-09T08:34:48.462912+00:00",
+      "last_seen": "2026-11-09T18:49:47.005663+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -324,7 +342,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-09T08:34:44.453940+00:00",
+      "last_seen": "2026-11-09T18:49:42.895692+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -440,7 +458,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-09T08:34:57.381562+00:00",
+      "last_seen": "2026-11-09T11:08:39.693690+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -715,7 +733,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-09T08:35:06.236801+00:00",
+      "last_seen": "2026-11-09T18:50:04.916825+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -1593,30 +1611,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "Quantum Bitcoin (Q-BTC) Mainnet \"17/May/2026: The quantum age dawns. The 21,000,000 truth shines eternal.\" GitHub Source: https://github.com/Q-Jack-core/quantum-btc Miners, the Q-BTC mainnet has successfully and safely crossed block height 24,000+. The network architecture has proven to be incredibly stable, and network hashrate has surged past 6+ GH/s . We have entered the era of GPU & CPU hybrid mining. We are looking for more decentralized miners to join the network and secure the post-quantum frontier. We saw other \"post-quantum\" projects struggling with broken wallets, 0-conf vulnerabilities, and crashing explorers. Q-BTC is different. It is a fundamental architectural redesign built fr"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] [CPU mining] Yenten v6.0.4 [YTN] [YespowerR16] [Exchange available]",
-      "url": "https://bitcointalk.org/index.php?topic=5098631.0",
-      "published": null,
-      "first_seen": "2026-10-11T16:21:38.899596+00:00",
-      "last_seen": "2026-10-25T08:27:58.071154+00:00",
-      "score": 19,
-      "flags": [
-        "+9:no premine",
-        "+6:no ico",
-        "+2:pow",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+3:compute",
-        "+1:p2p",
-        "-7:ico",
-        "-8:premine"
-      ],
-      "snippet": "Yenten Yenten is a cryptocurrency of the cpu, by the cpu, for the cpu. No ASIC mineable. No ICO. No premine. Website http://yentencoin.info/ Twitter https://twitter.com/yentencoin Discord Discord channels Telegram t.me/Yenten_RUS t.me/yententip - we give each visitor coins t.me/yenten Abstruct Algorithm: YespowerR16 ( yespower-1.0 ,N=4096,r=16), GPU is slower than CPU (changed from YescryptR16 on and after 30 March 2019) Block time: 2 minutes Max Block size: 2M Block reward of block #1: 50 YTN Max Supply: 80,000,000 YTN SubsidyHalvingInterval: 800,000 blocks Difficulty re-target: every block (DarkGravityWave v3-1 ) Premine: none P2P Port: 9981 RPC Port: 9982 Download binary (Win64, macOS x64"
     }
   ],
   "announcement_backtraces": [],
@@ -1627,7 +1621,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-09T08:35:19.867776+00:00",
+      "checked": "2026-11-09T18:50:18.627116+00:00",
       "last_state_change": null
     },
     {
@@ -1635,7 +1629,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-09T08:35:11.857220+00:00",
+      "checked": "2026-11-09T18:50:10.617810+00:00",
       "last_state_change": null
     },
     {
@@ -1643,7 +1637,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-09T08:35:15.862260+00:00",
+      "checked": "2026-11-09T18:50:14.622828+00:00",
       "last_state_change": null
     }
   ]
