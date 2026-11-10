@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-09T19:08:48.639461+00:00",
+  "generated_at": "2026-11-10T01:59:28.598847+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,28 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 19615633247",
+      "url": "https://github.com/btxchain/btx#event-19615633247",
+      "published": "2026-11-09T20:16:03Z",
+      "first_seen": "2026-11-10T01:00:26.423331+00:00",
+      "last_seen": "2026-11-10T01:31:37.720642+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Torvyon (tBit) | Post-Quantum Layer 1 | UTXO | Live Mainnet | Explorer & SDK",
       "url": "https://bitcointalk.org/index.php?topic=5599346.0",
       "published": null,
       "first_seen": "2026-11-09T18:49:54.554826+00:00",
-      "last_seen": "2026-11-09T18:49:54.554826+00:00",
+      "last_seen": "2026-11-10T01:31:49.133446+00:00",
       "score": 17,
       "flags": [
         "+5:mainnet",
@@ -78,7 +94,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5575371.0",
       "published": null,
       "first_seen": "2026-11-08T13:38:28.721365+00:00",
-      "last_seen": "2026-11-09T18:49:53.505452+00:00",
+      "last_seen": "2026-11-10T01:31:45.827118+00:00",
       "score": 19,
       "flags": [
         "+5:genesis",
@@ -97,7 +113,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-09T18:49:59.364911+00:00",
+      "last_seen": "2026-11-09T22:26:55.082218+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -118,7 +134,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599158.0",
       "published": null,
       "first_seen": "2026-11-07T16:40:57.357304+00:00",
-      "last_seen": "2026-11-09T18:49:50.904285+00:00",
+      "last_seen": "2026-11-10T01:31:43.347157+00:00",
       "score": 53,
       "flags": [
         "+9:no premine",
@@ -234,7 +250,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-09T18:49:47.005663+00:00",
+      "last_seen": "2026-11-10T01:31:39.573168+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -342,7 +358,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-09T18:49:42.895692+00:00",
+      "last_seen": "2026-11-10T01:31:35.488017+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -363,7 +379,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-07T04:25:38.702731+00:00",
+      "last_seen": "2026-11-10T01:31:46.963565+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -733,7 +749,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-09T18:50:04.916825+00:00",
+      "last_seen": "2026-11-10T01:31:56.587317+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -1586,31 +1602,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "NACRE (NACR) mainnet is live Proof-of-work chain merge-mined with Pearl (AuxPoW, pearlhash) Network status (12 Oct 2026, 15:40 UTC) Height: 3,566 Network hashrate: ~107 PH/s Difficulty: 2.75 G Block time: ~110 s over the last 100 blocks (target 120 s) 99 of the last 100 blocks were merge-mined with Pearl Explorer: https://nacre.network/explorer/ Status API: https://nacre.network/api/status How to mine NACR NACR uses pearlhash, the same work as Pearl. With merge mining you keep your full PRL reward and earn NACR on top, with no extra power and no extra hardware. 1. Get a NACR address (starts with nacr1): https://nacre.network/wallet/ 2. Pick one of the pools below 3. Use a recent pearlhash mi"
-    },
-    {
-      "source": "bitcointalk:Mining (Altcoins)",
-      "title": "[ANN] Quantum Bitcoin (QBTC) - GPU & CPU PoW Mainnet (ML-DSA-65, Fair Launch)",
-      "url": "https://bitcointalk.org/index.php?topic=5589393.0",
-      "published": null,
-      "first_seen": "2026-10-12T01:34:23.907302+00:00",
-      "last_seen": "2026-11-04T08:15:37.821406+00:00",
-      "score": 29,
-      "flags": [
-        "+7:fair launch",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+2:pow",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+2:storage",
-        "+2:post-quantum",
-        "+1:decentralized",
-        "-8:dev fee",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Quantum Bitcoin (Q-BTC) Mainnet \"17/May/2026: The quantum age dawns. The 21,000,000 truth shines eternal.\" GitHub Source: https://github.com/Q-Jack-core/quantum-btc Miners, the Q-BTC mainnet has successfully and safely crossed block height 24,000+. The network architecture has proven to be incredibly stable, and network hashrate has surged past 6+ GH/s . We have entered the era of GPU & CPU hybrid mining. We are looking for more decentralized miners to join the network and secure the post-quantum frontier. We saw other \"post-quantum\" projects struggling with broken wallets, 0-conf vulnerabilities, and crashing explorers. Q-BTC is different. It is a fundamental architectural redesign built fr"
     }
   ],
   "announcement_backtraces": [],
@@ -1621,7 +1612,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-09T18:50:18.627116+00:00",
+      "checked": "2026-11-10T01:32:10.126680+00:00",
       "last_state_change": null
     },
     {
@@ -1629,7 +1620,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-09T18:50:10.617810+00:00",
+      "checked": "2026-11-10T01:32:02.116120+00:00",
       "last_state_change": null
     },
     {
@@ -1637,7 +1628,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-09T18:50:14.622828+00:00",
+      "checked": "2026-11-10T01:32:06.121884+00:00",
       "last_state_change": null
     }
   ]
