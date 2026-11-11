@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-10T22:19:32.305007+00:00",
+  "generated_at": "2026-11-11T01:58:26.119693+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,28 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 19718385636",
+      "url": "https://github.com/btxchain/btx#event-19718385636",
+      "published": "2026-11-10T22:09:02Z",
+      "first_seen": "2026-11-10T22:33:29.622542+00:00",
+      "last_seen": "2026-11-11T01:37:07.663117+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] [XDAG] Community Driven - First Mineable DAG | CPU Mining",
       "url": "https://bitcointalk.org/index.php?topic=2552368.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:04.363853+00:00",
-      "last_seen": "2026-11-10T22:02:30.225925+00:00",
+      "last_seen": "2026-11-11T01:37:18.737512+00:00",
       "score": 32,
       "flags": [
         "+9:no premine",
@@ -37,7 +53,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-10T22:02:28.879671+00:00",
+      "last_seen": "2026-11-11T01:37:13.710142+00:00",
       "score": 27,
       "flags": [
         "+5:mainnet",
@@ -139,7 +155,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5575371.0",
       "published": null,
       "first_seen": "2026-11-08T13:38:28.721365+00:00",
-      "last_seen": "2026-11-10T22:02:31.488855+00:00",
+      "last_seen": "2026-11-11T00:35:47.577857+00:00",
       "score": 19,
       "flags": [
         "+5:genesis",
@@ -179,7 +195,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599158.0",
       "published": null,
       "first_seen": "2026-11-07T16:40:57.357304+00:00",
-      "last_seen": "2026-11-10T22:02:25.400652+00:00",
+      "last_seen": "2026-11-11T01:37:14.938065+00:00",
       "score": 53,
       "flags": [
         "+9:no premine",
@@ -295,7 +311,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-10T22:02:21.389227+00:00",
+      "last_seen": "2026-11-11T01:37:09.640220+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -403,7 +419,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-10T22:02:16.741018+00:00",
+      "last_seen": "2026-11-11T01:37:05.419581+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -424,7 +440,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-10T22:02:32.652887+00:00",
+      "last_seen": "2026-11-10T23:03:48.970539+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -794,7 +810,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598075.0",
       "published": null,
       "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-10T22:02:37.731443+00:00",
+      "last_seen": "2026-11-11T01:37:23.130427+00:00",
       "score": 14,
       "flags": [
         "+4:cpu mining",
@@ -1568,30 +1584,6 @@
         "+2:privacy"
       ],
       "snippet": "Introducing Monero-BX (XMRbx) Monero-BX is a cryptocurrency project focused on privacy and CPU mining. This announcement summarizes the project description published at https://monero-bx.com/about.html . Features described by the developers CPU mining on computers and phones, with an algorithm described as resistant to ASIC and GPU mining. 0% transfer fees. Asynchronous transaction processing intended to provide fast confirmations. A wallet with password protection, device binding, and recovery through an alternative seed phrase. These are the project's stated features, not independently audited performance or security guarantees. Project links Website: https://monero-bx.com/ About the proje"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Verus (VRSC) - zk-SNARK privacy, CPU-mining, 50/50 POW/POS, fair launch",
-      "url": "https://bitcointalk.org/index.php?topic=4070404.0",
-      "published": null,
-      "first_seen": "2026-10-13T12:24:37.736400+00:00",
-      "last_seen": "2026-10-14T11:00:40.850194+00:00",
-      "score": 34,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+5:genesis",
-        "+2:launch",
-        "+4:proof of work",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:privacy",
-        "-7:ico",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "You can download the latest builds at https://verus.io . Please make sure to back up your wallet.dat before updating, just as a standard precaution that is likely unnecessary, delete the existing App install folder, not the VRSC folder and no other folders, then install and run the update. Stop by our discord for the latest: Discord: https://verus.io/discord Original post: Verus, latin for the truth, combines all of the features we believe are important in a cryptocurrency, and provides a foundation for future development. Verus is a fork of Zcash and Komodo that leverages the Komodo platform, and we appreciate the contributions and support from those teams as well as the Bitcoin developer"
     }
   ],
   "announcement_backtraces": [],
@@ -1602,7 +1594,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-10T22:02:51.131949+00:00",
+      "checked": "2026-11-11T01:37:36.655714+00:00",
       "last_state_change": null
     },
     {
@@ -1610,7 +1602,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-10T22:02:43.121854+00:00",
+      "checked": "2026-11-11T01:37:28.645155+00:00",
       "last_state_change": null
     },
     {
@@ -1618,7 +1610,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-10T22:02:47.126975+00:00",
+      "checked": "2026-11-11T01:37:32.650576+00:00",
       "last_state_change": null
     }
   ]
