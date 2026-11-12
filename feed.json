@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-11T22:59:57.221131+00:00",
+  "generated_at": "2026-11-12T03:39:21.816806+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -8,6 +8,36 @@
     "note": "This feed contains sanitized derived radar findings and public-source excerpts only."
   },
   "public_findings": [
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][NORTH] TrueNorth | CPU-mined Bitcoin Core fork | RandomX | No premine",
+      "url": "https://bitcointalk.org/index.php?topic=5599608.0",
+      "published": null,
+      "first_seen": "2026-11-12T02:19:18.596520+00:00",
+      "last_seen": "2026-11-12T03:20:09.141070+00:00",
+      "score": 17,
+      "flags": [
+        "+9:no premine",
+        "+7:no presale",
+        "+5:mainnet",
+        "+5:genesis",
+        "+1:testnet",
+        "+4:proof of work",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+2:post-quantum",
+        "+1:p2p",
+        "-8:presale",
+        "-7:ico",
+        "-10:founder allocation",
+        "-8:dev fee",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "TrueNorth (NORTH) A Canadian coin you mine with a CPU No premine · No presale · No founder allocation · No protocol dev fee Mainnet live since 2026-10-12 00:00 UTC What it is TrueNorth is a fork of Bitcoin Core with its own proof of work, RandomNorth. That's RandomX with a custom salt and a seed key that changes every 2048 blocks, and it's built so ordinary CPUs can mine it. Otherwise it works similar to Bitcoin, with the same wallet and RPC tools. New addresses start with north1z . They're P2QRH, so an output only holds a hash and unspent coins aren't exposed to a future quantum attacker. Signatures are Schnorr for now and post-quantum schemes can come later by soft fork. Supply gets to abo"
+    },
     {
       "source": "github-events",
       "title": "btxchain/btx: IssueCommentEvent 19718385636",
@@ -53,7 +83,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-11T22:41:32.815396+00:00",
+      "last_seen": "2026-11-12T01:16:37.793319+00:00",
       "score": 27,
       "flags": [
         "+5:mainnet",
@@ -125,7 +155,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-08T14:39:06.761519+00:00",
-      "last_seen": "2026-11-11T22:41:31.794174+00:00",
+      "last_seen": "2026-11-12T03:20:17.666626+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -311,7 +341,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-11T22:41:23.150140+00:00",
+      "last_seen": "2026-11-12T03:20:05.171227+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -342,7 +372,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598765.0",
       "published": null,
       "first_seen": "2026-11-03T16:53:32.213264+00:00",
-      "last_seen": "2026-11-11T22:41:28.258744+00:00",
+      "last_seen": "2026-11-12T03:20:14.172209+00:00",
       "score": 25,
       "flags": [
         "+5:mainnet",
@@ -419,7 +449,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-11T22:41:18.940436+00:00",
+      "last_seen": "2026-11-12T03:20:01.133073+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -440,7 +470,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-11T22:41:29.417865+00:00",
+      "last_seen": "2026-11-12T03:20:15.343527+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -1567,23 +1597,6 @@
         "-7:ico"
       ],
       "snippet": "🦏 Rhino Miner Coin (RMC) Yespower16  CPU-Friendly  Browser Mining Ecosystem  Fair Launch 🚨 FAIR LAUNCH  NO PRESALE  MINE ONLY Rhino Miner Coin (RMC) is a CPU-focused Proof-of-Work cryptocurrency built around a browser + CPU mining ecosystem that has been operating for over 8 years. There was: ❌ No ICO ❌ No Presale ❌ No VC Allocation ❌ No Insider Launch The only way to obtain RMC right now is to mine it . This is the early pre-listing phase. ⚙️ TECHNICAL DETAILS Name: Rhino Miner Coin Ticker: RMC Algorithm: Yespower16 Consensus: Proof of Work (PoW) Mining Focus: CPU + Browser Mining Launch Type: Fair Launch Source Code (GitHub): https://github.com/rhinominer/rhino-miner-coin 🌐 LIVE ECOSY"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][XMRbx] Monero-BX - CPU mining and privacy-focused cryptocurrency",
-      "url": "https://bitcointalk.org/index.php?topic=5596695.0",
-      "published": null,
-      "first_seen": "2026-10-13T14:29:17.983286+00:00",
-      "last_seen": "2026-10-19T13:51:54.779029+00:00",
-      "score": 15,
-      "flags": [
-        "+4:cpu mining",
-        "+4:gpu mining",
-        "+2:mining",
-        "+3:compute",
-        "+2:privacy"
-      ],
-      "snippet": "Introducing Monero-BX (XMRbx) Monero-BX is a cryptocurrency project focused on privacy and CPU mining. This announcement summarizes the project description published at https://monero-bx.com/about.html . Features described by the developers CPU mining on computers and phones, with an algorithm described as resistant to ASIC and GPU mining. 0% transfer fees. Asynchronous transaction processing intended to provide fast confirmations. A wallet with password protection, device binding, and recovery through an alternative seed phrase. These are the project's stated features, not independently audited performance or security guarantees. Project links Website: https://monero-bx.com/ About the proje"
     }
   ],
   "announcement_backtraces": [],
@@ -1594,7 +1607,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-11T22:41:49.106879+00:00",
+      "checked": "2026-11-12T03:20:35.340906+00:00",
       "last_state_change": null
     },
     {
@@ -1602,7 +1615,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-11T22:41:41.096354+00:00",
+      "checked": "2026-11-12T03:20:27.331623+00:00",
       "last_state_change": null
     },
     {
@@ -1610,7 +1623,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-11T22:41:45.101886+00:00",
+      "checked": "2026-11-12T03:20:31.336904+00:00",
       "last_state_change": null
     }
   ]
