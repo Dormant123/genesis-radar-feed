@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-12T03:39:21.816806+00:00",
+  "generated_at": "2026-11-12T11:49:17.685178+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,28 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 19878538810",
+      "url": "https://github.com/btxchain/btx#event-19878538810",
+      "published": "2026-11-12T09:15:35Z",
+      "first_seen": "2026-11-12T09:25:52.527611+00:00",
+      "last_seen": "2026-11-12T10:27:15.285927+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][NORTH] TrueNorth | CPU-mined Bitcoin Core fork | RandomX | No premine",
       "url": "https://bitcointalk.org/index.php?topic=5599608.0",
       "published": null,
       "first_seen": "2026-11-12T02:19:18.596520+00:00",
-      "last_seen": "2026-11-12T03:20:09.141070+00:00",
+      "last_seen": "2026-11-12T11:27:43.335220+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -37,6 +53,40 @@
         "+3:runnable-artifact"
       ],
       "snippet": "TrueNorth (NORTH) A Canadian coin you mine with a CPU No premine · No presale · No founder allocation · No protocol dev fee Mainnet live since 2026-10-12 00:00 UTC What it is TrueNorth is a fork of Bitcoin Core with its own proof of work, RandomNorth. That's RandomX with a custom salt and a seed key that changes every 2048 blocks, and it's built so ordinary CPUs can mine it. Otherwise it works similar to Bitcoin, with the same wallet and RPC tools. New addresses start with north1z . They're P2QRH, so an output only holds a hash and unspent coins aren't exposed to a future quantum attacker. Signatures are Schnorr for now and post-quantum schemes can come later by soft fork. Supply gets to abo"
+    },
+    {
+      "source": "github-events",
+      "title": "pearl-research-labs/pearl: PullRequestReviewCommentEvent 19855075728",
+      "url": "https://github.com/pearl-research-labs/pearl#event-19855075728",
+      "published": "2026-11-11T13:16:03Z",
+      "first_seen": "2026-11-12T03:50:41.196448+00:00",
+      "last_seen": "2026-11-12T11:27:29.053126+00:00",
+      "score": 15,
+      "flags": [
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+3:optimization",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"comment\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/pulls/comments/4538334505\", \"pull_request_review_id\": 5859315337, \"id\": 4538334505, \"node_id\": \"PRRC_kwDOSGtMDc8AAAABDoF9KQ\", \"diff_hunk\": \"@@ -224,8 +236,9 @@ pub(crate) fn proof_of_work<\\n }\\n None\\n })\\n- .map(F::from_canonical_u64)\\n- .expect(\\\"Proof of work failed. This is highly unlikely!\\\");\\n+ }\\n+ .map(F::from_canonical_u64)\\n+ .expect(\\\"Proof-of-work nonce space exhausted\\\");\", \"path\": \"plonky2/plonky2/src/fri/prover.rs\", \"commit_id\": \"56705df9ff7b58cea348da61139cee34cf4f9a24\", \"original_commit_id\": \"56705df9ff7b58cea348da61139cee34cf4f9a24\", \"user\": {\"login\": \"o-k-d\", \"id\": 191916550, "
+    },
+    {
+      "source": "github-events",
+      "title": "pearl-research-labs/pearl: PullRequestReviewCommentEvent 19854383585",
+      "url": "https://github.com/pearl-research-labs/pearl#event-19854383585",
+      "published": "2026-11-11T13:08:15Z",
+      "first_seen": "2026-11-12T03:50:41.200581+00:00",
+      "last_seen": "2026-11-12T11:27:29.055470+00:00",
+      "score": 15,
+      "flags": [
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+3:optimization",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"comment\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/pulls/comments/4538251001\", \"pull_request_review_id\": 5859206768, \"id\": 4538251001, \"node_id\": \"PRRC_kwDOSGtMDc8AAAABDoA2-Q\", \"diff_hunk\": \"@@ -224,8 +236,9 @@ pub(crate) fn proof_of_work<\\n }\\n None\\n })\\n- .map(F::from_canonical_u64)\\n- .expect(\\\"Proof of work failed. This is highly unlikely!\\\");\\n+ }\\n+ .map(F::from_canonical_u64)\\n+ .expect(\\\"Proof-of-work nonce space exhausted\\\");\", \"path\": \"plonky2/plonky2/src/fri/prover.rs\", \"commit_id\": \"56705df9ff7b58cea348da61139cee34cf4f9a24\", \"original_commit_id\": \"56705df9ff7b58cea348da61139cee34cf4f9a24\", \"user\": {\"login\": \"o-k-d\", \"id\": 191916550, "
     },
     {
       "source": "github-events",
@@ -155,7 +205,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-08T14:39:06.761519+00:00",
-      "last_seen": "2026-11-12T03:20:17.666626+00:00",
+      "last_seen": "2026-11-12T11:27:50.926236+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -341,7 +391,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-12T03:20:05.171227+00:00",
+      "last_seen": "2026-11-12T11:27:37.322150+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -372,7 +422,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598765.0",
       "published": null,
       "first_seen": "2026-11-03T16:53:32.213264+00:00",
-      "last_seen": "2026-11-12T03:20:14.172209+00:00",
+      "last_seen": "2026-11-12T11:27:48.601672+00:00",
       "score": 25,
       "flags": [
         "+5:mainnet",
@@ -449,7 +499,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-12T03:20:01.133073+00:00",
+      "last_seen": "2026-11-12T11:27:33.079124+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -470,7 +520,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-12T03:20:15.343527+00:00",
+      "last_seen": "2026-11-12T11:27:49.764378+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -1528,75 +1578,6 @@
         "+4:dated-launch"
       ],
       "snippet": "▸ Launch banner, diagrams and screenshots  velaresearch.ai/media Vela  a Generative Media Proof-of-Inference Network Every block is one text-to-image inference, and every node verifies it by re-running the model. Mainnet: October 14, 2026 · 14:00 UTC What Vela is · How it works · Every block is an image · Specifications · Economics · Testnet · Roadmap · Links What Vela is Vela is a Bitcoin Core fork in which the proof-of-work is not hashing but inference . Every mining attempt runs a deterministic text-to-image diffusion model, and the header commits to the image that was produced. The rest of the protocol is Bitcoin's, unchanged: transactions, scripts, the UTXO set, peer-to-peer propagati"
-    },
-    {
-      "source": "github-events",
-      "title": "pearl-research-labs/pearl: IssueCommentEvent 17196843512",
-      "url": "https://github.com/pearl-research-labs/pearl#event-17196843512",
-      "published": "2026-10-14T12:18:56Z",
-      "first_seen": "2026-10-14T12:30:54.320563+00:00",
-      "last_seen": "2026-10-15T01:53:47.698688+00:00",
-      "score": 19,
-      "flags": [
-        "+5:genesis",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+3:compute",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/433\", \"repository_url\": \"https://api.github.com/repos/pearl-research-labs/pearl\", \"labels_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/433/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/433/comments\", \"events_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/433/events\", \"html_url\": \"https://github.com/pearl-research-labs/pearl/pull/433\", \"id\": 5847639406, \"node_id\": \"PR_kwDOSGtMDc8AAAABIYtX2g\", \"number\": 433, \"title\": \"feat(rpcserver): report the current block subsidy in getmininginfo (#123)\", \"user\":"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][PC] Privacy Coin | CPU Mining | Mainnet Live",
-      "url": "https://bitcointalk.org/index.php?topic=5596751.0",
-      "published": null,
-      "first_seen": "2026-10-14T08:28:00.481613+00:00",
-      "last_seen": "2026-10-16T02:59:36.566321+00:00",
-      "score": 24,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+4:permissionless",
-        "+4:proof-of-work",
-        "+4:cpu mining",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+2:privacy",
-        "+1:decentralized",
-        "-10:founder allocation"
-      ],
-      "snippet": "Privacy Coin (PC) Open-Source | CPU-Mineable | Privacy-Focused Cryptocurrency Mainnet Activated  October 14, 2026 Introduction Privacy Coin (PC) is a new open-source cryptocurrency focused on private digital payments, accessible CPU mining, and permissionless participation. The project is independently developed and aims to build a practical privacy-focused payment network rather than a speculative token. The first production Mainnet block was mined on October 14, 2026. This is a very early single-node Mainnet launch. Independent public peer connectivity and continuous network availability have not yet been verified. Official Links Source Code / GitHub: https://github.com/petereaton528-max/"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Rhino Miner Coin (RMC) | Yespower16 | CPU-Friendly | Browser Mining Ecosys",
-      "url": "https://bitcointalk.org/index.php?topic=5574429.0",
-      "published": null,
-      "first_seen": "2026-10-13T17:03:46.400773+00:00",
-      "last_seen": "2026-10-15T02:26:30.349616+00:00",
-      "score": 30,
-      "flags": [
-        "+7:fair launch",
-        "+7:no presale",
-        "+6:no ico",
-        "+2:launch",
-        "+4:proof of work",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+3:no exchange",
-        "-8:presale",
-        "-7:ico"
-      ],
-      "snippet": "🦏 Rhino Miner Coin (RMC) Yespower16  CPU-Friendly  Browser Mining Ecosystem  Fair Launch 🚨 FAIR LAUNCH  NO PRESALE  MINE ONLY Rhino Miner Coin (RMC) is a CPU-focused Proof-of-Work cryptocurrency built around a browser + CPU mining ecosystem that has been operating for over 8 years. There was: ❌ No ICO ❌ No Presale ❌ No VC Allocation ❌ No Insider Launch The only way to obtain RMC right now is to mine it . This is the early pre-listing phase. ⚙️ TECHNICAL DETAILS Name: Rhino Miner Coin Ticker: RMC Algorithm: Yespower16 Consensus: Proof of Work (PoW) Mining Focus: CPU + Browser Mining Launch Type: Fair Launch Source Code (GitHub): https://github.com/rhinominer/rhino-miner-coin 🌐 LIVE ECOSY"
     }
   ],
   "announcement_backtraces": [],
@@ -1607,7 +1588,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-12T03:20:35.340906+00:00",
+      "checked": "2026-11-12T11:28:07.311961+00:00",
       "last_state_change": null
     },
     {
@@ -1615,7 +1596,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-12T03:20:27.331623+00:00",
+      "checked": "2026-11-12T11:27:59.298941+00:00",
       "last_state_change": null
     },
     {
@@ -1623,7 +1604,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-12T03:20:31.336904+00:00",
+      "checked": "2026-11-12T11:28:03.304996+00:00",
       "last_state_change": null
     }
   ]
