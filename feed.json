@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-13T06:48:18.213747+00:00",
+  "generated_at": "2026-11-13T14:55:06.875888+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,37 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Bitcoin Coin Series (Half/Quarter/Dime/Nickel/Cent) | CPU, no premine",
+      "url": "https://bitcointalk.org/index.php?topic=5599778.0",
+      "published": null,
+      "first_seen": "2026-11-13T12:35:38.579337+00:00",
+      "last_seen": "2026-11-13T14:38:46.100751+00:00",
+      "score": 44,
+      "flags": [
+        "+9:no premine",
+        "+7:no presale",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+4:proof of work",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+3:compute",
+        "+3:no exchange",
+        "-8:presale",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Bitcoin Coin Series (Half / Quarter / Dime / Nickel / Cent) CPU-mined Bitcoin forks | no premine | mainnet live since 2026-11-06 Bitcoin Coin Series is an experimental, unofficial set of five Bitcoin Core forks. It is not affiliated with Bitcoin, Bitcoin Core or any Bitcoin organization. Why Bitcoin's supply is fixed at 21 million. As its value grows, one coin moves further away from everyday amounts: a cup of coffee is 0.000034 BTC. Sub-units like satoshis are one answer. This project tests a different one: five separate coins with different unit sizes (1/2, 1/4, 1/10, 1/20 and 1/100 of a bitcoin, like US coins). All five start at the same moment under the same rules, are mined together on "
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] KawaidCoin (KWD) Mainnet  210M Cap, PoW, CPU Miner & Faucet",
       "url": "https://bitcointalk.org/index.php?topic=5599140.0",
       "published": null,
       "first_seen": "2026-11-12T12:28:15.856062+00:00",
-      "last_seen": "2026-11-13T06:24:23.476685+00:00",
+      "last_seen": "2026-11-13T14:38:50.559630+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -52,7 +78,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599608.0",
       "published": null,
       "first_seen": "2026-11-12T02:19:18.596520+00:00",
-      "last_seen": "2026-11-13T06:24:22.387732+00:00",
+      "last_seen": "2026-11-13T14:38:49.536176+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -227,7 +253,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-08T14:39:06.761519+00:00",
-      "last_seen": "2026-11-13T06:24:18.828746+00:00",
+      "last_seen": "2026-11-13T14:38:41.236438+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -413,7 +439,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-19075385708",
       "published": "2026-11-04T04:24:24Z",
       "first_seen": "2026-11-04T04:40:25.381872+00:00",
-      "last_seen": "2026-11-13T06:24:14.979550+00:00",
+      "last_seen": "2026-11-13T10:32:10.713598+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -521,7 +547,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-13T06:24:10.783616+00:00",
+      "last_seen": "2026-11-13T14:38:33.184084+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1091,7 +1117,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-11-04T18:00:03.635242+00:00",
+      "last_seen": "2026-11-13T14:38:42.508645+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -1554,29 +1580,6 @@
         "+2:post-quantum"
       ],
       "snippet": "16S: an experimental post-quantum blockchain written in Python. ML-DSA (Dilithium) signatures, post-quantum TLS between nodes (X25519MLKEM768), Proof of Work mining, BIP-39 seed phrases, open peer-to-peer network with peer discovery. Max supply 88 million coins, no premine. Educational project, not audited. created 2026-10-15T12:25:19Z updated 2026-10-17T12:04:27Z language Python topics"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Vela | AI Modes Proof-of-Inference Network | Mainnet is live",
-      "url": "https://bitcointalk.org/index.php?topic=5595944.0",
-      "published": null,
-      "first_seen": "2026-10-15T03:27:50.325154+00:00",
-      "last_seen": "2026-11-02T03:56:43.819053+00:00",
-      "score": 32,
-      "flags": [
-        "+5:mainnet",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof-of-work",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+4:inference",
-        "+3:compute",
-        "+1:p2p",
-        "+4:dated-launch"
-      ],
-      "snippet": "▸ Launch banner, diagrams and screenshots  velaresearch.ai/media Vela  a Generative Media Proof-of-Inference Network Every block is one text-to-image inference, and every node verifies it by re-running the model. Mainnet: October 14, 2026 · 14:00 UTC What Vela is · How it works · Every block is an image · Specifications · Economics · Testnet · Roadmap · Links What Vela is Vela is a Bitcoin Core fork in which the proof-of-work is not hashing but inference . Every mining attempt runs a deterministic text-to-image diffusion model, and the header commits to the image that was produced. The rest of the protocol is Bitcoin's, unchanged: transactions, scripts, the UTXO set, peer-to-peer propagati"
     }
   ],
   "announcement_backtraces": [],
@@ -1587,7 +1590,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-13T06:25:01.183909+00:00",
+      "checked": "2026-11-13T14:39:07.042107+00:00",
       "last_state_change": null
     },
     {
@@ -1595,7 +1598,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-13T06:24:53.172780+00:00",
+      "checked": "2026-11-13T14:38:59.031768+00:00",
       "last_state_change": null
     },
     {
@@ -1603,7 +1606,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-13T06:24:57.178840+00:00",
+      "checked": "2026-11-13T14:39:03.037230+00:00",
       "last_state_change": null
     }
   ]
