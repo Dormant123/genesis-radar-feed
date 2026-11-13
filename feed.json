@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-13T14:55:06.875888+00:00",
+  "generated_at": "2026-11-13T21:04:02.984884+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-13T14:38:46.100751+00:00",
+      "last_seen": "2026-11-13T20:46:02.578052+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -40,7 +40,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599140.0",
       "published": null,
       "first_seen": "2026-11-12T12:28:15.856062+00:00",
-      "last_seen": "2026-11-13T14:38:50.559630+00:00",
+      "last_seen": "2026-11-13T19:44:44.610751+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -78,7 +78,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599608.0",
       "published": null,
       "first_seen": "2026-11-12T02:19:18.596520+00:00",
-      "last_seen": "2026-11-13T14:38:49.536176+00:00",
+      "last_seen": "2026-11-13T20:46:05.998898+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -253,7 +253,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-08T14:39:06.761519+00:00",
-      "last_seen": "2026-11-13T14:38:41.236438+00:00",
+      "last_seen": "2026-11-13T20:45:58.847405+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -547,7 +547,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-13T14:38:33.184084+00:00",
+      "last_seen": "2026-11-13T20:45:50.323915+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1117,7 +1117,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5510925.0",
       "published": null,
       "first_seen": "2026-10-23T08:46:42.557203+00:00",
-      "last_seen": "2026-11-13T14:38:42.508645+00:00",
+      "last_seen": "2026-11-13T20:46:00.079769+00:00",
       "score": 28,
       "flags": [
         "+9:no premine",
@@ -1590,7 +1590,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-13T14:39:07.042107+00:00",
+      "checked": "2026-11-13T20:46:22.412379+00:00",
       "last_state_change": null
     },
     {
@@ -1598,7 +1598,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-13T14:38:59.031768+00:00",
+      "checked": "2026-11-13T20:46:14.402250+00:00",
       "last_state_change": null
     },
     {
@@ -1606,7 +1606,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-13T14:39:03.037230+00:00",
+      "checked": "2026-11-13T20:46:18.407583+00:00",
       "last_state_change": null
     }
   ]
