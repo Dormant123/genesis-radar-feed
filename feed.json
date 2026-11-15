@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-15T09:49:31.639549+00:00",
+  "generated_at": "2026-11-15T16:36:28.654738+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,62 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][MAINNET] NEB: mining trains a neural network, starts Nov 18, 14:00 UTC",
+      "url": "https://bitcointalk.org/index.php?topic=5599947.0",
+      "published": null,
+      "first_seen": "2026-11-15T15:18:41.651045+00:00",
+      "last_seen": "2026-11-15T16:20:43.059904+00:00",
+      "score": 23,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+5:block 0",
+        "+1:testnet",
+        "+2:miner",
+        "+2:mining",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "NEB mainnet starts on Wednesday, November 18, 2026, at 14:00 UTC. After two testnets, the chain starts from block 0 and trains its two networks from the first block: KEP1 on Kepler transit signals, RET2 on retinal scans. 10 % of your testnet coins carry over. The first block pays each address 10 % of what it holds on the two testnets. For the second testnet the balances are read at block 12900, expected on Monday, November 16, around 15:00 UTC. Coins mined after that block are not carried over. There is nothing to claim: the same wallet file spends them, 100 blocks after the start. Release 1.0.0 comes out on Monday. Node operators, pools and miners install it before the start, with the new n"
+    },
+    {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 20175721210",
+      "url": "https://github.com/btxchain/btx#event-20175721210",
+      "published": "2026-11-15T11:44:32Z",
+      "first_seen": "2026-11-15T12:12:21.196837+00:00",
+      "last_seen": "2026-11-15T16:20:37.374014+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
+    },
+    {
+      "source": "github-events",
+      "title": "btxchain/btx: IssueCommentEvent 20175408246",
+      "url": "https://github.com/btxchain/btx#event-20175408246",
+      "published": "2026-11-15T11:37:17Z",
+      "first_seen": "2026-11-15T11:40:54.939847+00:00",
+      "last_seen": "2026-11-15T16:20:37.386139+00:00",
+      "score": 15,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Bitcoin Coin Series (Half/Quarter/Dime/Nickel/Cent) | CPU, no premine",
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-15T09:39:28.166722+00:00",
+      "last_seen": "2026-11-15T16:20:45.528613+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -181,7 +232,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-12T01:16:37.793319+00:00",
+      "last_seen": "2026-11-15T16:20:46.613027+00:00",
       "score": 27,
       "flags": [
         "+5:mainnet",
@@ -253,7 +304,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-08T14:39:06.761519+00:00",
-      "last_seen": "2026-11-15T09:39:29.355636+00:00",
+      "last_seen": "2026-11-15T16:20:49.096283+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -547,7 +598,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-15T09:38:53.905605+00:00",
+      "last_seen": "2026-11-15T16:20:35.208825+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1530,56 +1581,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/issues/40\", \"id\": 5707486406, \"node_id\": \"I_kwDOT2kZwM8AAAABVDFUxg\", \"number\": 40, \"title\": \"Node permanently stalled on a fork: 19h at the same height, no recovery path, reports mining:true throughout\", \"user\":"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 17332681312",
-      "url": "https://github.com/Instinctes/nightfall#event-17332681312",
-      "published": "2026-10-15T19:46:45Z",
-      "first_seen": "2026-10-15T19:51:34.683097+00:00",
-      "last_seen": "2026-10-16T02:59:20.905647+00:00",
-      "score": 15,
-      "flags": [
-        "+5:genesis",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+2:storage",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssuesEvent 17304310889",
-      "url": "https://github.com/Instinctes/nightfall#event-17304310889",
-      "published": "2026-10-15T14:32:52Z",
-      "first_seen": "2026-10-15T14:46:32.527170+00:00",
-      "last_seen": "2026-10-15T20:53:02.541467+00:00",
-      "score": 14,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:mining",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"closed\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/issues/40\", \"id\": 5707486406, \"node_id\": \"I_kwDOT2kZwM8AAAABVDFUxg\", \"number\": 40, \"title\": \"Node permanently stalled on a fork: 19h at the same height, no recovery path, reports mining:true throughout\", \"user\": "
-    },
-    {
-      "source": "github-search",
-      "title": "rok291142-prog/16S-blockchain",
-      "url": "https://github.com/rok291142-prog/16S-blockchain",
-      "published": "2026-10-15T12:25:19Z",
-      "first_seen": "2026-10-15T12:43:25.781288+00:00",
-      "last_seen": "2026-10-17T20:20:10.225739+00:00",
-      "score": 17,
-      "flags": [
-        "+9:no premine",
-        "+4:proof of work",
-        "+2:mining",
-        "+2:post-quantum"
-      ],
-      "snippet": "16S: an experimental post-quantum blockchain written in Python. ML-DSA (Dilithium) signatures, post-quantum TLS between nodes (X25519MLKEM768), Proof of Work mining, BIP-39 seed phrases, open peer-to-peer network with peer discovery. Max supply 88 million coins, no premine. Educational project, not audited. created 2026-10-15T12:25:19Z updated 2026-10-17T12:04:27Z language Python topics"
     }
   ],
   "announcement_backtraces": [],
@@ -1590,7 +1591,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-15T09:39:49.545457+00:00",
+      "checked": "2026-11-15T16:21:06.544417+00:00",
       "last_state_change": null
     },
     {
@@ -1598,7 +1599,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-15T09:39:41.534624+00:00",
+      "checked": "2026-11-15T16:20:58.533567+00:00",
       "last_state_change": null
     },
     {
@@ -1606,7 +1607,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-15T09:39:45.540327+00:00",
+      "checked": "2026-11-15T16:21:02.538678+00:00",
       "last_state_change": null
     }
   ]
