@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-15T16:36:28.654738+00:00",
+  "generated_at": "2026-11-15T21:13:25.619751+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,31 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][COSA] Cosanta POW + POS / CPU mining [English]",
+      "url": "https://bitcointalk.org/index.php?topic=5333014.0",
+      "published": null,
+      "first_seen": "2026-11-15T18:24:14.863697+00:00",
+      "last_seen": "2026-11-15T20:57:32.605780+00:00",
+      "score": 22,
+      "flags": [
+        "+5:mainnet",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining"
+      ],
+      "snippet": "Cosanta in Irish - Protection, ticker is COSA https://cosa.is / https://cosanta.net Pool: http://pool.cosanta.net - Proof of Work (PoW) is no longer effective for 100% of the blocks; however, the Proof of Stake (PoS) algorithm is still available. Example: Code: cpuminer -a cosa -o stratum+tcp://node1.cosanta.net:6006 -u YOUR_COSA_WALLET_ADDRESS -p c=COSA At the moment, testnet coins have been launched 2021-04-12 and test coins can be exchanged for PirateCash (PIRATE). The purpose of the project: 1) in 2018, the PirateCash project was launched and through the efforts of one developer, and later the team was brought to a full-fledged project, but in order to avoid a swap, it was decided to cre"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][MAINNET] NEB: mining trains a neural network, starts Nov 18, 14:00 UTC",
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-15T16:20:43.059904+00:00",
+      "last_seen": "2026-11-15T20:57:31.324067+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -33,7 +53,7 @@
       "url": "https://github.com/btxchain/btx#event-20175721210",
       "published": "2026-11-15T11:44:32Z",
       "first_seen": "2026-11-15T12:12:21.196837+00:00",
-      "last_seen": "2026-11-15T16:20:37.374014+00:00",
+      "last_seen": "2026-11-15T17:52:24.361912+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -49,7 +69,7 @@
       "url": "https://github.com/btxchain/btx#event-20175408246",
       "published": "2026-11-15T11:37:17Z",
       "first_seen": "2026-11-15T11:40:54.939847+00:00",
-      "last_seen": "2026-11-15T16:20:37.386139+00:00",
+      "last_seen": "2026-11-15T17:52:24.384918+00:00",
       "score": 15,
       "flags": [
         "+5:mainnet",
@@ -65,7 +85,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-15T16:20:45.528613+00:00",
+      "last_seen": "2026-11-15T20:57:35.900634+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -91,7 +111,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599140.0",
       "published": null,
       "first_seen": "2026-11-12T12:28:15.856062+00:00",
-      "last_seen": "2026-11-13T19:44:44.610751+00:00",
+      "last_seen": "2026-11-15T20:57:33.680132+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -232,7 +252,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-15T16:20:46.613027+00:00",
+      "last_seen": "2026-11-15T20:57:38.253063+00:00",
       "score": 27,
       "flags": [
         "+5:mainnet",
@@ -304,7 +324,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-08T14:39:06.761519+00:00",
-      "last_seen": "2026-11-15T16:20:49.096283+00:00",
+      "last_seen": "2026-11-15T18:54:27.701247+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -598,7 +618,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-15T16:20:35.208825+00:00",
+      "last_seen": "2026-11-15T20:57:22.197098+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1565,22 +1585,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 17411519812",
-      "url": "https://github.com/Instinctes/nightfall#event-17411519812",
-      "published": "2026-10-15T19:47:48Z",
-      "first_seen": "2026-10-16T17:38:23.153422+00:00",
-      "last_seen": "2026-10-16T21:20:18.505569+00:00",
-      "score": 14,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:mining",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/40/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/issues/40\", \"id\": 5707486406, \"node_id\": \"I_kwDOT2kZwM8AAAABVDFUxg\", \"number\": 40, \"title\": \"Node permanently stalled on a fork: 19h at the same height, no recovery path, reports mining:true throughout\", \"user\":"
     }
   ],
   "announcement_backtraces": [],
@@ -1591,7 +1595,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-15T16:21:06.544417+00:00",
+      "checked": "2026-11-15T20:57:54.632570+00:00",
       "last_state_change": null
     },
     {
@@ -1599,7 +1603,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-15T16:20:58.533567+00:00",
+      "checked": "2026-11-15T20:57:46.621865+00:00",
       "last_state_change": null
     },
     {
@@ -1607,7 +1611,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-15T16:21:02.538678+00:00",
+      "checked": "2026-11-15T20:57:50.627393+00:00",
       "last_state_change": null
     }
   ]
