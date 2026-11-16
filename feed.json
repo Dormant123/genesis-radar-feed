@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-15T21:13:25.619751+00:00",
+  "generated_at": "2026-11-16T00:59:16.605257+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5333014.0",
       "published": null,
       "first_seen": "2026-11-15T18:24:14.863697+00:00",
-      "last_seen": "2026-11-15T20:57:32.605780+00:00",
+      "last_seen": "2026-11-16T00:33:04.602252+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -34,7 +34,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-15T20:57:31.324067+00:00",
+      "last_seen": "2026-11-16T00:33:03.275151+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -85,7 +85,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-15T20:57:35.900634+00:00",
+      "last_seen": "2026-11-16T00:33:07.928827+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -111,7 +111,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599140.0",
       "published": null,
       "first_seen": "2026-11-12T12:28:15.856062+00:00",
-      "last_seen": "2026-11-15T20:57:33.680132+00:00",
+      "last_seen": "2026-11-16T00:33:05.670351+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -252,7 +252,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-15T20:57:38.253063+00:00",
+      "last_seen": "2026-11-16T00:33:10.231220+00:00",
       "score": 27,
       "flags": [
         "+5:mainnet",
@@ -618,7 +618,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-15T20:57:22.197098+00:00",
+      "last_seen": "2026-11-16T00:32:53.830847+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1595,7 +1595,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-15T20:57:54.632570+00:00",
+      "checked": "2026-11-16T00:33:27.622138+00:00",
       "last_state_change": null
     },
     {
@@ -1603,7 +1603,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-15T20:57:46.621865+00:00",
+      "checked": "2026-11-16T00:33:19.613198+00:00",
       "last_state_change": null
     },
     {
@@ -1611,7 +1611,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-15T20:57:50.627393+00:00",
+      "checked": "2026-11-16T00:33:23.616773+00:00",
       "last_state_change": null
     }
   ]
