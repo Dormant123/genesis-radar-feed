@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-17T08:37:15.686677+00:00",
+  "generated_at": "2026-11-17T17:49:48.614582+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,33 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] (PSY) PSYROB - block-DAG network with CPU mining (Argon2d/Fair launch)",
+      "url": "https://bitcointalk.org/index.php?topic=5600164.0",
+      "published": null,
+      "first_seen": "2026-11-17T10:27:40.787672+00:00",
+      "last_seen": "2026-11-17T17:39:29.648149+00:00",
+      "score": 31,
+      "flags": [
+        "+7:fair launch",
+        "+2:launch",
+        "+2:open source",
+        "+4:proof-of-work",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+3:compute",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "ABOUT PSYROB PSYROB is an independent cryptocurrency project focused on accessible CPU mining, modern blockchain technology, and fair participation. Our goal is to make cryptocurrency mining accessible to ordinary users, allowing anyone with a compatible computer to participate in securing the network and earning PSY coins. PSYROB combines GHOSTDAG consensus with the Argon2d Proof-of-Work algorithm to create a blockchain built around parallel block processing and CPU mining. TECHNICAL FEATURES Consensus: GHOSTDAG (BlockDAG architecture). Mining Algorithm: Argon2d. Mining: CPU only. Block Time: Approximately 10 seconds. GHOSTDAG Parameter: k = 18. Maximum Supply: 1,000,000,000 PSY. Open Sourc"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][NVL] Nival | RandomX PoW | RingCT privacy | Zero premine | Conditional pay",
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-17T08:24:27.092995+00:00",
+      "last_seen": "2026-11-17T17:39:35.264451+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -39,7 +61,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-17T08:24:23.652404+00:00",
+      "last_seen": "2026-11-17T17:39:26.166579+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -85,7 +107,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-17T08:24:26.000771+00:00",
+      "last_seen": "2026-11-17T17:39:31.986851+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -405,7 +427,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5575371.0",
       "published": null,
       "first_seen": "2026-11-08T13:38:28.721365+00:00",
-      "last_seen": "2026-11-17T08:24:24.880638+00:00",
+      "last_seen": "2026-11-17T17:39:28.586667+00:00",
       "score": 19,
       "flags": [
         "+5:genesis",
@@ -424,7 +446,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-09T22:26:55.082218+00:00",
+      "last_seen": "2026-11-17T17:39:34.169233+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -669,7 +691,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-17T08:24:14.203379+00:00",
+      "last_seen": "2026-11-17T17:39:13.115274+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -690,7 +712,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-17T08:24:28.237698+00:00",
+      "last_seen": "2026-11-17T10:59:04.806973+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -1573,35 +1595,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/53\", \"id\": 5888364768, \"node_id\": \"PR_kwDOT2kZwM8AAAABI5RsQw\", \"number\": 53, \"title\": \"research(ledger): confidential Merkle-sum state evidence\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Monzero (XMZ) | RandomX CPU privacy coin | no premine | pool live",
-      "url": "https://bitcointalk.org/index.php?topic=5597037.0",
-      "published": null,
-      "first_seen": "2026-10-16T16:05:57.583075+00:00",
-      "last_seen": "2026-11-08T11:39:07.084449+00:00",
-      "score": 27,
-      "flags": [
-        "+9:no premine",
-        "+6:no ico",
-        "+6:no token sale",
-        "+5:genesis",
-        "+1:testnet",
-        "+4:proof of work",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+2:privacy",
-        "+1:p2p",
-        "-7:ico",
-        "-8:developer fee",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "https://monzero.org/assets/monzero-xmz-coin-256.png Monzero (XMZ) Independent privacy coin · RandomX CPU mining · no genesis allocation · no ICO Website | Web wallet | Forum | Pool | Explorer | Whitepaper | Source | Roadmap What is Monzero? Monzero is an independent privacy currency built from the Monero codebase. It runs its own chain (genesis block 25 August 2026) with its own address prefixes, ports and emission schedule. It shares no history with Monero. Private by default: amounts are hidden with RingCT, senders are hidden in rings of 16, and every payment goes to a one-time address. Mined, not allocated: RandomX proof of work, built for ordinary CPUs. No coins in the genesis block, no "
     }
   ],
   "announcement_backtraces": [],
@@ -1612,7 +1605,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-17T08:24:44.442471+00:00",
+      "checked": "2026-11-17T17:39:50.116040+00:00",
       "last_state_change": null
     },
     {
@@ -1620,7 +1613,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-17T08:24:36.432153+00:00",
+      "checked": "2026-11-17T17:39:42.106220+00:00",
       "last_state_change": null
     },
     {
@@ -1628,7 +1621,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-17T08:24:40.437740+00:00",
+      "checked": "2026-11-17T17:39:46.111242+00:00",
       "last_state_change": null
     }
   ]
