@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-17T17:49:48.614582+00:00",
+  "generated_at": "2026-11-18T00:00:27.605359+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,81 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Mining (Altcoins)",
+      "title": "Quinvium (QU)  new Ethash GPU coin, solo or pool, no premine",
+      "url": "https://bitcointalk.org/index.php?topic=5600221.0",
+      "published": null,
+      "first_seen": "2026-11-17T21:14:21.350155+00:00",
+      "last_seen": "2026-11-17T23:48:22.986459+00:00",
+      "score": 15,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+4:proof-of-work",
+        "+2:miner",
+        "-8:dev fee",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Quinvium is a new Ethash proof-of-work chain (mainnet since 14 Nov 2026, no premine, no dev fee). Network hashrate is still low, so a single GPU finds blocks. How to mine: - Easiest: the Quinvium app (macOS, Windows) has a wallet, full node and GPU miner: https://quinvium.com/download/ - Pool (1% fee, payouts by the contract on chain): stratum+tcp://pool.quinvium.com:4444, user = your wallet address - Solo: run a node (app or CLI) and point any Ethash Stratum miner (lolMiner, T-Rex, TeamRedMiner) at it, port 3333 Specs: 15 s blocks, 4 QU reward, halving every 8M blocks, max supply 64M. Explorer with pool and miner stats: https://explorer.quinvium.com/pools Full announcement: https://bitcoint"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Quinvium (QU) | GPU PoW (Ethash) | EVM smart contracts | No premine | Main",
+      "url": "https://bitcointalk.org/index.php?topic=5600215.0",
+      "published": null,
+      "first_seen": "2026-11-17T19:42:57.524754+00:00",
+      "last_seen": "2026-11-17T23:48:14.755953+00:00",
+      "score": 31,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:mainnet",
+        "+2:launch",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+1:p2p",
+        "-7:ico",
+        "-8:dev fee",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Quinvium (QU) A programmable proof-of-work blockchain mined on graphics cards What it is Quinvium is its own Layer 1 network: Ethash proof-of-work for GPU miners and an EVM, so Solidity contracts, MetaMask, ethers.js and Hardhat work as they are. The network ships with apps for everyday use: notary, credentials, supply chain, escrow, voting, .qu names, NFTs, multisig and tokens. Fair launch - Mainnet since 14 November 2026, 00:00 CET - No premine, no dev fee, no ICO - Fees are not burned: miners get the block reward and all fees Specifications - Algorithm: Ethash (GPU), difficulty LWMA over 60 blocks - Block time: 15 s - Block reward: 4 QU, halving every 8,000,000 blocks (about 3.8 years) - "
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[PRE-ANN] Spek | Post-quantum unbonded proof of stake | Testnet soon",
+      "url": "https://bitcointalk.org/index.php?topic=5600208.0",
+      "published": null,
+      "first_seen": "2026-11-17T18:40:34.198009+00:00",
+      "last_seen": "2026-11-17T23:48:05.434900+00:00",
+      "score": 26,
+      "flags": [
+        "+7:no presale",
+        "+6:no ico",
+        "+6:no token sale",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+2:open source",
+        "+2:miner",
+        "+3:block reward",
+        "+2:post-quantum",
+        "+5:pre-ann",
+        "-8:presale",
+        "-7:ico"
+      ],
+      "snippet": "This post was drafted by me and edited by Claude. The whole project was built with Claude Code. Spek is a new blockchain, written from scratch in Rust, built entirely with Claude Code over the last 18 months. The code was built and reviewed only by Claude. There has been no independent human security audit. Anthropic is not a partner and doesn't endorse it. Unbonded stake After the 45-day launch phase, a key is eligible while its stake address holds one output worth at least 80% of the block reward, at least about a day old. A block reward is 50 coins. Nothing is locked and nothing is slashed. The output stays an ordinary coin; spending it ends eligibility. No validator set, no registration,"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] (PSY) PSYROB - block-DAG network with CPU mining (Argon2d/Fair launch)",
       "url": "https://bitcointalk.org/index.php?topic=5600164.0",
       "published": null,
       "first_seen": "2026-11-17T10:27:40.787672+00:00",
-      "last_seen": "2026-11-17T17:39:29.648149+00:00",
+      "last_seen": "2026-11-17T23:48:18.053044+00:00",
       "score": 31,
       "flags": [
         "+7:fair launch",
@@ -36,7 +105,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-17T17:39:35.264451+00:00",
+      "last_seen": "2026-11-17T19:11:50.377129+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -61,7 +130,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-17T17:39:26.166579+00:00",
+      "last_seen": "2026-11-17T23:48:10.043070+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -107,7 +176,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-17T17:39:31.986851+00:00",
+      "last_seen": "2026-11-17T23:48:13.691980+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -325,8 +394,8 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-16T14:56:16.022324+00:00",
-      "score": 27,
+      "last_seen": "2026-11-17T23:48:16.993717+00:00",
+      "score": 22,
       "flags": [
         "+5:mainnet",
         "+1:testnet",
@@ -337,7 +406,9 @@
         "+2:miner",
         "+2:mining",
         "+3:compute",
-        "+2:post-quantum"
+        "+2:post-quantum",
+        "-8:developer fee",
+        "+3:runnable-artifact"
       ],
       "snippet": "Why Chipcoin? Hi everyone, I'm Claudio, founder of Chipcoin. Our mainnet is live, and I'd like to introduce the project to miners, node operators, and developers interested in getting involved. What drew many of us to Bitcoin was the possibility of downloading software, running a node, and participating directly in an independent network. Chipcoin builds on that spirit with its own combination of features: PC-friendly Proof-of-Work mining, post-quantum transaction signatures, and native rewards for eligible verified nodes. POST-QUANTUM SIGNATURES Chipcoin uses ML-DSA-44 post-quantum signatures to address the threat that future quantum computers could pose to conventional signature schemes. T"
     },
@@ -427,7 +498,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5575371.0",
       "published": null,
       "first_seen": "2026-11-08T13:38:28.721365+00:00",
-      "last_seen": "2026-11-17T17:39:28.586667+00:00",
+      "last_seen": "2026-11-17T23:48:12.507858+00:00",
       "score": 19,
       "flags": [
         "+5:genesis",
@@ -446,7 +517,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-17T17:39:34.169233+00:00",
+      "last_seen": "2026-11-17T23:17:46.691049+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -691,7 +762,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-17T17:39:13.115274+00:00",
+      "last_seen": "2026-11-17T23:47:57.521999+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -712,7 +783,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-17T10:59:04.806973+00:00",
+      "last_seen": "2026-11-17T23:48:06.639995+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -1543,58 +1614,6 @@
         "-7:ico"
       ],
       "snippet": "Latest release: BTC-K 3.2.13 Wallet synchronization and multiwallet switching fixes, bounded node transaction processing, and PPLNS accounting/payment fixes are live. PPLNS automatic payouts are enabled. An operator-triggered initial catch-up batch of 17 transactions paid 8,194.10896699 BTC-K and was settled by the production confirmation observer. New-payment batches are scheduled at UTC 00:00, 06:00, 12:00 and 18:00, with a 5 BTC-K minimum and six-confirmation settlement. Balances below the minimum remain credited; large balances may be paid in parts. Signed v3.2.13 release and checksums Mining setup, hashrate tiers, fees and payment details Original mainnet announcement (v3.2.6; retained "
-    },
-    {
-      "source": "github-search",
-      "title": "ErtungaYusuf/green",
-      "url": "https://github.com/ErtungaYusuf/green",
-      "published": "2026-10-17T17:17:01Z",
-      "first_seen": "2026-10-27T13:51:20.842447+00:00",
-      "last_seen": "2026-10-27T13:51:20.842447+00:00",
-      "score": 12,
-      "flags": [
-        "+7:proof of useful work",
-        "+5:useful work"
-      ],
-      "snippet": "Green (GRN): a blockchain secured by proof of useful work (AI matrix multiplication) created 2026-10-17T17:17:01Z updated 2026-10-27T13:48:49Z language Python topics"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] 16S  post-quantum PoW coin in Python | No premine | Mainnet live",
-      "url": "https://bitcointalk.org/index.php?topic=5597102.0",
-      "published": null,
-      "first_seen": "2026-10-17T11:06:47.611720+00:00",
-      "last_seen": "2026-10-18T06:06:50.319083+00:00",
-      "score": 22,
-      "flags": [
-        "+9:no premine",
-        "+5:mainnet",
-        "+2:open source",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+3:block reward",
-        "+2:post-quantum",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Hi everyone! I built 16S from scratch  a Bitcoin-style blockchain with post-quantum security. Specs: - Ticker: 16S - Max supply: 88,000,000 - Block reward: 88 16S - Algorithm: Proof-of-Work - Premine: NONE  everyone starts at zero - Signatures: ML-DSA (Dilithium, NIST post-quantum standard) - Network: TLS 1.3 with hybrid post-quantum key exchange (X25519MLKEM768) - Wallet: BIP-39 seed phrases - License: MIT, fully open source Mainnet is live since October 16, 2026. Seed node: 16s-node.dynv6.net:5001 (IPv6) The network is still small. I would be grateful if you join, run a node and mine with me. Feedback and code review are very welcome! GitHub: https://github.com/rok291142-prog/16S-blockch"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 17451765617",
-      "url": "https://github.com/Instinctes/nightfall#event-17451765617",
-      "published": "2026-10-16T17:43:14Z",
-      "first_seen": "2026-10-17T01:19:54.747007+00:00",
-      "last_seen": "2026-10-20T04:17:05.426111+00:00",
-      "score": 16,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:mining",
-        "+2:emission",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/53\", \"id\": 5888364768, \"node_id\": \"PR_kwDOT2kZwM8AAAABI5RsQw\", \"number\": 53, \"title\": \"research(ledger): confidential Merkle-sum state evidence\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node"
     }
   ],
   "announcement_backtraces": [],
@@ -1605,7 +1624,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-17T17:39:50.116040+00:00",
+      "checked": "2026-11-17T23:48:36.543165+00:00",
       "last_state_change": null
     },
     {
@@ -1613,7 +1632,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-17T17:39:42.106220+00:00",
+      "checked": "2026-11-17T23:48:28.534104+00:00",
       "last_state_change": null
     },
     {
@@ -1621,7 +1640,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-17T17:39:46.111242+00:00",
+      "checked": "2026-11-17T23:48:32.539343+00:00",
       "last_state_change": null
     }
   ]
