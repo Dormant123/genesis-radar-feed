@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-18T06:22:56.887280+00:00",
+  "generated_at": "2026-11-18T15:49:16.913999+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,37 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[Pre-ANN] Monario (MONAR)  A CPU-Mineable Privacy Coin | RandomX | No Premine",
+      "url": "https://bitcointalk.org/index.php?topic=5600276.0",
+      "published": null,
+      "first_seen": "2026-11-18T13:37:34.681312+00:00",
+      "last_seen": "2026-11-18T15:40:44.854911+00:00",
+      "score": 23,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy",
+        "+5:pre-ann",
+        "-7:ico",
+        "-8:premine"
+      ],
+      "snippet": "Hey everyone! Using LLMs, I've been working on a new cryptocurrency called Monario (MONAR) and wanted to introduce it here before the official launch. Monario is a Proof-of-Work cryptocurrency focused on CPU mining, financial privacy, and fair distribution. The goal is to build something practical and sustainable, without unnecessary hype or complicated tokenomics. Current specifications: Algorithm: RandomX (CPU-friendly) Block time: 90 seconds Maximum block size: 5 MB Initial reward: 7.7 MONAR Main emission: 21 million MONAR over approximately 15 years Tail emission: 0.2 MONAR/block thereafter (less than a million coin emission per decade) Difficulty adjustment: ASERT with a 6-hour half-lif"
+    },
+    {
       "source": "bitcointalk:Mining (Altcoins)",
       "title": "Quinvium (QU)  new Ethash GPU coin, solo or pool, no premine",
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-18T05:58:39.840849+00:00",
+      "last_seen": "2026-11-18T15:40:49.608505+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -32,7 +57,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600215.0",
       "published": null,
       "first_seen": "2026-11-17T19:42:57.524754+00:00",
-      "last_seen": "2026-11-18T05:58:31.408688+00:00",
+      "last_seen": "2026-11-18T15:40:47.037749+00:00",
       "score": 31,
       "flags": [
         "+9:no premine",
@@ -58,7 +83,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600208.0",
       "published": null,
       "first_seen": "2026-11-17T18:40:34.198009+00:00",
-      "last_seen": "2026-11-18T05:58:22.317328+00:00",
+      "last_seen": "2026-11-18T15:40:34.475564+00:00",
       "score": 26,
       "flags": [
         "+7:no presale",
@@ -83,7 +108,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600164.0",
       "published": null,
       "first_seen": "2026-11-17T10:27:40.787672+00:00",
-      "last_seen": "2026-11-18T05:58:34.704141+00:00",
+      "last_seen": "2026-11-18T13:06:49.963310+00:00",
       "score": 31,
       "flags": [
         "+7:fair launch",
@@ -105,7 +130,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-17T19:11:50.377129+00:00",
+      "last_seen": "2026-11-18T15:40:43.817726+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -130,7 +155,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-18T05:58:28.014298+00:00",
+      "last_seen": "2026-11-18T15:40:39.129780+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -176,7 +201,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-18T05:58:30.414417+00:00",
+      "last_seen": "2026-11-18T15:40:41.568834+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -394,7 +419,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-18T05:58:33.663387+00:00",
+      "last_seen": "2026-11-18T14:38:50.233382+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -498,7 +523,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5575371.0",
       "published": null,
       "first_seen": "2026-11-08T13:38:28.721365+00:00",
-      "last_seen": "2026-11-18T05:58:29.251228+00:00",
+      "last_seen": "2026-11-18T15:40:40.367136+00:00",
       "score": 19,
       "flags": [
         "+5:genesis",
@@ -517,7 +542,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-17T23:17:46.691049+00:00",
+      "last_seen": "2026-11-18T15:40:46.014364+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -762,7 +787,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-18T05:58:12.048076+00:00",
+      "last_seen": "2026-11-18T15:40:26.144377+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -783,7 +808,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-18T05:58:23.474011+00:00",
+      "last_seen": "2026-11-18T15:40:35.664319+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -878,7 +903,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598457.0",
       "published": null,
       "first_seen": "2026-10-31T17:12:33.477638+00:00",
-      "last_seen": "2026-11-09T11:08:39.693690+00:00",
+      "last_seen": "2026-11-18T13:37:35.976962+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -1589,31 +1614,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "⛏ parnianminer v2.5 The official CPU + NVIDIA GPU miner for ParnianCoin (PARC) RandomHash2 · Open source · Windows · Linux · HiveOS · mmpOS 📥 DOWNLOAD | 🌐 POOL | 🏠 WEBSITE | 💬 DISCORD 🚀 Introduction parnianminer is the open-source miner for ParnianCoin (PARC) , a proof-of-work coin based on the RandomHash2 algorithm. With v2.5 , PARC is no longer CPU-only: you can now mine on NVIDIA GPUs , on CPUs , or on both at the same time , using every piece of hardware you have. PARC already has a full live ecosystem: web wallet , block explorer , mining pools , a PARC/LTC market and a payment gateway for online shops. 🔥 What's New in v2.5 NVIDIA GPU mining added alongside CPU mining Driver only : no C"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] [BTCK] Bitcoin K | kHeavyHash BlockDAG | Mainnet v3.2.13 | SOLO + PPLNS",
-      "url": "https://bitcointalk.org/index.php?topic=5596646.0",
-      "published": null,
-      "first_seen": "2026-10-17T18:16:17.486631+00:00",
-      "last_seen": "2026-11-02T19:48:58.844934+00:00",
-      "score": 21,
-      "flags": [
-        "+6:no ico",
-        "+5:mainnet",
-        "+5:genesis",
-        "+4:proof-of-work",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "+2:emission",
-        "+4:inference",
-        "+3:compute",
-        "+2:privacy",
-        "-10:private sale",
-        "-7:ico"
-      ],
-      "snippet": "Latest release: BTC-K 3.2.13 Wallet synchronization and multiwallet switching fixes, bounded node transaction processing, and PPLNS accounting/payment fixes are live. PPLNS automatic payouts are enabled. An operator-triggered initial catch-up batch of 17 transactions paid 8,194.10896699 BTC-K and was settled by the production confirmation observer. New-payment batches are scheduled at UTC 00:00, 06:00, 12:00 and 18:00, with a 5 BTC-K minimum and six-confirmation settlement. Balances below the minimum remain credited; large balances may be paid in parts. Signed v3.2.13 release and checksums Mining setup, hashrate tiers, fees and payment details Original mainnet announcement (v3.2.6; retained "
     }
   ],
   "announcement_backtraces": [],
@@ -1624,7 +1624,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-18T05:58:53.202332+00:00",
+      "checked": "2026-11-18T15:41:03.267599+00:00",
       "last_state_change": null
     },
     {
@@ -1632,7 +1632,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-18T05:58:45.190598+00:00",
+      "checked": "2026-11-18T15:40:55.257573+00:00",
       "last_state_change": null
     },
     {
@@ -1640,7 +1640,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-18T05:58:49.196660+00:00",
+      "checked": "2026-11-18T15:40:59.262999+00:00",
       "last_state_change": null
     }
   ]
