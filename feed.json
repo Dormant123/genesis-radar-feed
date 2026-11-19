@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-18T22:41:28.762403+00:00",
+  "generated_at": "2026-11-19T03:50:37.260603+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,90 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] ARMax ($ARM) - fair-launch PoW Layer 1 for Android phones - PUBLIC TESTNET",
+      "url": "https://bitcointalk.org/index.php?topic=5600321.0",
+      "published": null,
+      "first_seen": "2026-11-19T01:25:10.859860+00:00",
+      "last_seen": "2026-11-19T03:27:37.433068+00:00",
+      "score": 24,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+7:no presale",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+1:p2p",
+        "-8:presale",
+        "-8:team allocation"
+      ],
+      "snippet": "ARMax ($ARM) is an experimental Layer 1 with proof of work designed to be mined on ARM64 Android phones, with a 100% fair launch: no premine, no presale, no team allocation, no airdrop promises. Status: public testnet. Unaudited. Testnet coins have no value and the network may be reset. Please do not treat this as an investment. Parameters Block time: 300 s Max supply: 21,000,000 ARM, 8 decimals Block reward: 25 ARM, halving every 420,000 blocks (~4 years) PoW: memory-hard VM, 384 MiB per mining thread, AES/NEON friendly Difficulty: LWMA, window of 30 blocks Pool: optional P2Pool-style sharechain (no pool operator, payouts in the coinbase) Per-address damper: rewards above 40 H/s per address"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Orien (ORN) | Quantum-proof, instant payments | No premine | RandomX CPU",
+      "url": "https://bitcointalk.org/index.php?topic=5600319.0",
+      "published": null,
+      "first_seen": "2026-11-19T01:25:09.835208+00:00",
+      "last_seen": "2026-11-19T03:27:36.432560+00:00",
+      "score": 44,
+      "flags": [
+        "+9:no premine",
+        "+7:no presale",
+        "+5:genesis",
+        "+2:launch",
+        "+2:open source",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:compute",
+        "+2:privacy",
+        "+2:post-quantum",
+        "+3:not listed",
+        "-8:presale",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Orien (ORN) A quantum-proof cryptocurrency with no blocks. Payments are final in a fraction of a second. Website | Explorer | Technical paper | Source code | iPhone app (TestFlight) | Discord | X In short Live since 14 November 2026. The network started with zero coins. On day four (18 November): about 195,000 ORN mined, 23 miners in the last hour and 33 wallets holding ORN. Watch it live on the explorer . No premine, no presale, no founder's share. The genesis file has no starting balances. Every ORN is mined. Provably fair start. The start was tied to a Bitcoin block named in advance: block 975,847. That block's hash is part of the network's identity, and the identity seeds the first hour'"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] [PPC] PoolPayCoin -NO PREMINE- RandomX + ASERT / Fair-Launch CPU-Only Coin",
+      "url": "https://bitcointalk.org/index.php?topic=5600316.0",
+      "published": null,
+      "first_seen": "2026-11-19T00:24:20.684994+00:00",
+      "last_seen": "2026-11-19T03:27:38.431709+00:00",
+      "score": 41,
+      "flags": [
+        "+9:no premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+5:block 0",
+        "+2:launch",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+3:no exchange",
+        "-8:premine",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "PoolPayCoin (PPC) A brand-new, fair-launch, CPU-mineable RandomX chain -- own genesis block, launched 2026-11-04. Not a fork of any existing live network. Links Website / white paper: https://coin.pool-pay.com/ Mining pool: https://ppc.pool-pay.com/ Block explorer: https://explorer.pool-pay.com/ Shop (spend PPC on real things): https://shop.pool-pay.com/ Node source: https://github.com/newsmoneymaker/poolpaycoin Pool source: https://github.com/newsmoneymaker/ppc-nodejs-pool Discord: https://discord.com/invite/Bqwz43R What this is PoolPayCoin is a Bitcoin Core 27 based blockchain using RandomX as its proof-of-work, mined entirely on ordinary CPUs -- no ASICs, no GPUs required. Built and launc"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[Pre-ANN] Monario (MONAR)  A CPU-Mineable Privacy Coin | RandomX | No Premine",
       "url": "https://bitcointalk.org/index.php?topic=5600276.0",
       "published": null,
       "first_seen": "2026-11-18T13:37:34.681312+00:00",
-      "last_seen": "2026-11-18T22:20:14.724447+00:00",
+      "last_seen": "2026-11-19T03:27:29.708033+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -39,7 +118,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-18T22:20:27.096947+00:00",
+      "last_seen": "2026-11-19T03:27:45.372913+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -83,7 +162,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600208.0",
       "published": null,
       "first_seen": "2026-11-17T18:40:34.198009+00:00",
-      "last_seen": "2026-11-18T22:20:15.761165+00:00",
+      "last_seen": "2026-11-19T03:27:34.109798+00:00",
       "score": 26,
       "flags": [
         "+7:no presale",
@@ -130,7 +209,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-18T22:20:23.483370+00:00",
+      "last_seen": "2026-11-19T03:27:35.336500+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -155,7 +234,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-18T22:20:20.074852+00:00",
+      "last_seen": "2026-11-19T03:27:39.516988+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -201,7 +280,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-18T22:20:22.356640+00:00",
+      "last_seen": "2026-11-19T03:27:41.791474+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -252,7 +331,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-18T22:20:21.223080+00:00",
+      "last_seen": "2026-11-19T03:27:40.649191+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -542,7 +621,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-18T22:20:24.570466+00:00",
+      "last_seen": "2026-11-19T03:27:42.912513+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -787,7 +866,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-18T22:20:05.497109+00:00",
+      "last_seen": "2026-11-19T03:27:20.173101+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -808,7 +887,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-18T22:20:16.813837+00:00",
+      "last_seen": "2026-11-19T03:27:30.852605+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -1554,66 +1633,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "Midwimble MimbleWimble privacy chain, merge-mined with Midstate, with hash-based recovery if ECC is broken Status: testnet. Research code, not audited. Do not put real value on it. Mainnet is planned for 31 October 2026 unless testnet finds something that needs more time. Launch parameters will be posted here before genesis. Code (GPL-3.0): https://github.com/ciphernom/midwimble Website: https://ciphernom.github.io/midwimble/ Browser wallet (testnet): https://ciphernom.github.io/midwimble/wallet/ Explorer (testnet): https://mw.cypherpunk.gold I first described this in the Midstate thread ( https://bitcointalk.org/index.php?topic=5586180.0 ). It needs its own thread now, and some numbers have"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "Finalis testnet-1: BFT finality and confidential transactions from genesis",
-      "url": "https://bitcointalk.org/index.php?topic=5597234.0",
-      "published": null,
-      "first_seen": "2026-10-18T15:51:25.051643+00:00",
-      "last_seen": "2026-10-20T06:20:28.882756+00:00",
-      "score": 22,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+1:testnet",
-        "+2:open source",
-        "+4:dated-launch",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Finalis testnet-1: BFT finality and confidential transactions from genesis Announcing the first public testnet of Finalis. Finalis is a UTXO blockchain where blocks are final once a quorum of the validator committee signs them. There are no reorgs and no waiting for confirmations: a transaction in a finalized block cannot be reversed. Amounts can be hidden. A confidential output carries a Pedersen commitment instead of a value, with a range proof that it is not negative. Validators check that inputs and outputs balance without learning the amounts. This is on from the first block, not added later. The cryptography is secp256k1-zkp, the same library used by Elements and Liquid. Some propertie"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][NRB] NERBUS | CPU Mining | PoW/PoS | Zero Premine | 209M NRB",
-      "url": "https://bitcointalk.org/index.php?topic=5597169.0",
-      "published": null,
-      "first_seen": "2026-10-17T20:50:53.106423+00:00",
-      "last_seen": "2026-10-27T14:52:01.255006+00:00",
-      "score": 26,
-      "flags": [
-        "+9:zero premine",
-        "+5:genesis",
-        "+4:proof of work",
-        "+2:pow",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward",
-        "-8:premine",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "NERBUS NRB · VerusHash 2.2 · Hybrid PoW/PoS · Zero premine Website | Block Explorer | Mining Pool | How to Mine | Source Introducing Nerbus Nerbus is an independent cryptocurrency network with NRB as its native coin. It combines CPU mining through VerusHash 2.2 with the hybrid Proof of Work / Proof of Stake consensus inherited from VerusCoin. The core parameters are straightforward: a 30-second target block interval, an initial reward of 100 NRB per block, zero premine and a maximum cumulative block reward schedule of 209,000,000 NRB. The genesis block pays no reward. The project is based on VerusCoin v1.2.18. Nerbus has its own network identity, genesis block and issuance parameters. Its pu"
-    },
-    {
-      "source": "bitcointalk:Mining (Altcoins)",
-      "title": "parnianminer v2.5  CPU + NVIDIA GPU Mining for PARC",
-      "url": "https://bitcointalk.org/index.php?topic=5597148.0",
-      "published": null,
-      "first_seen": "2026-10-17T18:47:46.794982+00:00",
-      "last_seen": "2026-11-01T18:45:44.125983+00:00",
-      "score": 21,
-      "flags": [
-        "+2:open source",
-        "+4:proof-of-work",
-        "+4:cpu mining",
-        "+4:gpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "⛏ parnianminer v2.5 The official CPU + NVIDIA GPU miner for ParnianCoin (PARC) RandomHash2 · Open source · Windows · Linux · HiveOS · mmpOS 📥 DOWNLOAD | 🌐 POOL | 🏠 WEBSITE | 💬 DISCORD 🚀 Introduction parnianminer is the open-source miner for ParnianCoin (PARC) , a proof-of-work coin based on the RandomHash2 algorithm. With v2.5 , PARC is no longer CPU-only: you can now mine on NVIDIA GPUs , on CPUs , or on both at the same time , using every piece of hardware you have. PARC already has a full live ecosystem: web wallet , block explorer , mining pools , a PARC/LTC market and a payment gateway for online shops. 🔥 What's New in v2.5 NVIDIA GPU mining added alongside CPU mining Driver only : no C"
     }
   ],
   "announcement_backtraces": [],
@@ -1624,7 +1643,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-18T22:20:40.410781+00:00",
+      "checked": "2026-11-19T03:27:58.664697+00:00",
       "last_state_change": null
     },
     {
@@ -1632,7 +1651,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-18T22:20:32.400604+00:00",
+      "checked": "2026-11-19T03:27:50.655246+00:00",
       "last_state_change": null
     },
     {
@@ -1640,7 +1659,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-18T22:20:36.405795+00:00",
+      "checked": "2026-11-19T03:27:54.660105+00:00",
       "last_state_change": null
     }
   ]
