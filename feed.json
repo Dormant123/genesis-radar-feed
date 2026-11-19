@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-19T03:50:37.260603+00:00",
+  "generated_at": "2026-11-19T12:13:17.325406+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,44 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[MAINNET DEC 1] Mercatura (MCA) | MercaHash | ML-DSA-65 PQ | Adaptive Emission",
+      "url": "https://bitcointalk.org/index.php?topic=5595967.0",
+      "published": null,
+      "first_seen": "2026-11-19T04:29:57.254070+00:00",
+      "last_seen": "2026-11-19T12:12:29.714379+00:00",
+      "score": 23,
+      "flags": [
+        "+9:no premine",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+2:post-quantum",
+        "+1:decentralized",
+        "+1:p2p",
+        "-7:ico",
+        "-10:founder allocation",
+        "-8:developer fee",
+        "-8:premine",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "MERCATURA MCA Proof of Work  MercaHash  ML-DSA-65 Post-Quantum Authorization  Adaptive Emission MAINNET LAUNCH SCHEDULED: DECEMBER 1, 2026  05:00 UTC Tuesday  05:00 UTC  13:00 Philippine Time (UTC+8) The announced December 1 launch schedule remains subject to final consensus and genesis validation, CI checks, network infrastructure, release testing and launch readiness. PUBLIC TESTNET LIVE  CORE v0.1.4 Mainnet is not live yet. Testnet MCA is for testing only and has no monetary value. What is Mercatura? Mercatura (MCA) is an independent proof-of-work cryptocurrency developed from a modern Bitcoin Core foundation. The network is built around several core principles:  Pure Proof of Wor"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] ARMax ($ARM) - fair-launch PoW Layer 1 for Android phones - PUBLIC TESTNET",
       "url": "https://bitcointalk.org/index.php?topic=5600321.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:10.859860+00:00",
-      "last_seen": "2026-11-19T03:27:37.433068+00:00",
+      "last_seen": "2026-11-19T12:12:33.043926+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -39,7 +72,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600319.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:09.835208+00:00",
-      "last_seen": "2026-11-19T03:27:36.432560+00:00",
+      "last_seen": "2026-11-19T12:12:32.028971+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -67,7 +100,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600316.0",
       "published": null,
       "first_seen": "2026-11-19T00:24:20.684994+00:00",
-      "last_seen": "2026-11-19T03:27:38.431709+00:00",
+      "last_seen": "2026-11-19T12:12:34.092630+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -93,7 +126,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600276.0",
       "published": null,
       "first_seen": "2026-11-18T13:37:34.681312+00:00",
-      "last_seen": "2026-11-19T03:27:29.708033+00:00",
+      "last_seen": "2026-11-19T12:12:24.989082+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -118,7 +151,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-19T03:27:45.372913+00:00",
+      "last_seen": "2026-11-19T12:12:41.392251+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -162,7 +195,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600208.0",
       "published": null,
       "first_seen": "2026-11-17T18:40:34.198009+00:00",
-      "last_seen": "2026-11-19T03:27:34.109798+00:00",
+      "last_seen": "2026-11-19T10:40:15.236403+00:00",
       "score": 26,
       "flags": [
         "+7:no presale",
@@ -187,7 +220,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600164.0",
       "published": null,
       "first_seen": "2026-11-17T10:27:40.787672+00:00",
-      "last_seen": "2026-11-18T13:06:49.963310+00:00",
+      "last_seen": "2026-11-19T12:12:28.452392+00:00",
       "score": 31,
       "flags": [
         "+7:fair launch",
@@ -209,7 +242,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-19T03:27:35.336500+00:00",
+      "last_seen": "2026-11-19T12:12:30.915373+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -234,7 +267,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-19T03:27:39.516988+00:00",
+      "last_seen": "2026-11-19T12:12:36.404404+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -280,7 +313,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-19T03:27:41.791474+00:00",
+      "last_seen": "2026-11-19T12:12:38.674524+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -331,7 +364,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-19T03:27:40.649191+00:00",
+      "last_seen": "2026-11-19T12:12:37.505233+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -395,7 +428,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599608.0",
       "published": null,
       "first_seen": "2026-11-12T02:19:18.596520+00:00",
-      "last_seen": "2026-11-14T10:06:57.818658+00:00",
+      "last_seen": "2026-11-19T12:12:26.128549+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -621,7 +654,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-19T03:27:42.912513+00:00",
+      "last_seen": "2026-11-19T05:01:07.960439+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -866,7 +899,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-19T03:27:20.173101+00:00",
+      "last_seen": "2026-11-19T12:12:16.157876+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -887,7 +920,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-19T03:27:30.852605+00:00",
+      "last_seen": "2026-11-19T12:12:35.281876+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -1608,31 +1641,6 @@
         "+1:p2p"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/54\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/54/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/54/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/54/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/54\", \"id\": 5928050891, \"node_id\": \"PR_kwDOT2kZwM8AAAABJYVqPw\", \"number\": 54, \"title\": \"ci(release): enforce Cargo.lock for all official release builds\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][TESTNET] Midwimble | MimbleWimble, merge-mined with Midstate | No premine",
-      "url": "https://bitcointalk.org/index.php?topic=5597306.0",
-      "published": null,
-      "first_seen": "2026-10-19T13:20:46.671506+00:00",
-      "last_seen": "2026-10-20T22:16:32.550573+00:00",
-      "score": 35,
-      "flags": [
-        "+9:no premine",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof of work",
-        "+2:miner",
-        "+2:mining",
-        "+3:compute",
-        "+2:privacy",
-        "+2:post-quantum",
-        "-5:points",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Midwimble MimbleWimble privacy chain, merge-mined with Midstate, with hash-based recovery if ECC is broken Status: testnet. Research code, not audited. Do not put real value on it. Mainnet is planned for 31 October 2026 unless testnet finds something that needs more time. Launch parameters will be posted here before genesis. Code (GPL-3.0): https://github.com/ciphernom/midwimble Website: https://ciphernom.github.io/midwimble/ Browser wallet (testnet): https://ciphernom.github.io/midwimble/wallet/ Explorer (testnet): https://mw.cypherpunk.gold I first described this in the Midstate thread ( https://bitcointalk.org/index.php?topic=5586180.0 ). It needs its own thread now, and some numbers have"
     }
   ],
   "announcement_backtraces": [],
@@ -1643,7 +1651,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-19T03:27:58.664697+00:00",
+      "checked": "2026-11-19T12:12:56.153229+00:00",
       "last_state_change": null
     },
     {
@@ -1651,7 +1659,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-19T03:27:50.655246+00:00",
+      "checked": "2026-11-19T12:12:48.143471+00:00",
       "last_state_change": null
     },
     {
@@ -1659,7 +1667,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-19T03:27:54.660105+00:00",
+      "checked": "2026-11-19T12:12:52.148524+00:00",
       "last_state_change": null
     }
   ]
