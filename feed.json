@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-20T09:13:58.626157+00:00",
+  "generated_at": "2026-11-20T17:48:00.648095+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,64 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "pearl-research-labs/pearl: IssueCommentEvent 20778271602",
+      "url": "https://github.com/pearl-research-labs/pearl#event-20778271602",
+      "published": "2026-11-20T15:59:36Z",
+      "first_seen": "2026-11-20T16:25:21.898618+00:00",
+      "last_seen": "2026-11-20T16:25:21.898618+00:00",
+      "score": 14,
+      "flags": [
+        "+5:mainnet",
+        "+1:testnet",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/528\", \"repository_url\": \"https://api.github.com/repos/pearl-research-labs/pearl\", \"labels_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/528/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/528/comments\", \"events_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/528/events\", \"html_url\": \"https://github.com/pearl-research-labs/pearl/pull/528\", \"id\": 6514959527, \"node_id\": \"PR_kwDOSGtMDc8AAAABQtZ18g\", \"number\": 528, \"title\": \"feat: merge the FP8 (V4) verifier from fp8-scheme\", \"user\": {\"login\": \"Aharonee\", \""
+    },
+    {
+      "source": "github-events",
+      "title": "pearl-research-labs/pearl: IssuesEvent 20759542146",
+      "url": "https://github.com/pearl-research-labs/pearl#event-20759542146",
+      "published": "2026-11-20T12:26:02Z",
+      "first_seen": "2026-11-20T12:50:14.329080+00:00",
+      "last_seen": "2026-11-20T16:25:21.905131+00:00",
+      "score": 13,
+      "flags": [
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:compute",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/527\", \"repository_url\": \"https://api.github.com/repos/pearl-research-labs/pearl\", \"labels_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/527/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/527/comments\", \"events_url\": \"https://api.github.com/repos/pearl-research-labs/pearl/issues/527/events\", \"html_url\": \"https://github.com/pearl-research-labs/pearl/issues/527\", \"id\": 6511374946, \"node_id\": \"I_kwDOSGtMDc8AAAABhBuyYg\", \"number\": 527, \"title\": \"PIP-3 FP8 Integration, Mining and GPU Architecture\", \"user\": {\"login\": \"Bob-ACrypto"
+    },
+    {
+      "source": "github-events",
+      "title": "Rexemre/blockzero-core: IssuesEvent 20745672886",
+      "url": "https://github.com/Rexemre/blockzero-core#event-20745672886",
+      "published": "2026-11-20T09:38:04Z",
+      "first_seen": "2026-11-20T09:45:43.792789+00:00",
+      "last_seen": "2026-11-20T17:27:13.432136+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+1:testnet",
+        "+2:pow",
+        "+2:miner",
+        "+2:privacy"
+      ],
+      "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/Rexemre/blockzero-core/issues/2\", \"repository_url\": \"https://api.github.com/repos/Rexemre/blockzero-core\", \"labels_url\": \"https://api.github.com/repos/Rexemre/blockzero-core/issues/2/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Rexemre/blockzero-core/issues/2/comments\", \"events_url\": \"https://api.github.com/repos/Rexemre/blockzero-core/issues/2/events\", \"html_url\": \"https://github.com/Rexemre/blockzero-core/issues/2\", \"id\": 6508815815, \"node_id\": \"I_kwDOSsRwMs8AAAABg_Slxw\", \"number\": 2, \"title\": \"RFC: Evaluate ASERT per-block difficulty adjustment to reduce hashrate hopping\", \"user\": {\"login\": \"echofoxtrot1\""
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "Obsidio: A Post-Quantum Privacy Chain  Mainnet v2 Live with, DEX, Messenger",
       "url": "https://bitcointalk.org/index.php?topic=5600447.0",
       "published": null,
       "first_seen": "2026-11-20T08:14:36.677762+00:00",
-      "last_seen": "2026-11-20T08:44:53.487245+00:00",
+      "last_seen": "2026-11-20T17:27:28.171162+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -33,7 +85,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5597781.0",
       "published": null,
       "first_seen": "2026-11-19T15:16:54.466435+00:00",
-      "last_seen": "2026-11-20T08:44:59.299597+00:00",
+      "last_seen": "2026-11-20T17:27:34.024567+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -56,7 +108,7 @@
       "url": "https://github.com/btxchain/btx#event-20647709409",
       "published": "2026-11-19T13:56:34Z",
       "first_seen": "2026-11-19T14:15:26.640500+00:00",
-      "last_seen": "2026-11-20T08:44:44.270561+00:00",
+      "last_seen": "2026-11-20T09:45:46.452809+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -88,7 +140,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595967.0",
       "published": null,
       "first_seen": "2026-11-19T04:29:57.254070+00:00",
-      "last_seen": "2026-11-20T08:45:08.584383+00:00",
+      "last_seen": "2026-11-20T12:50:40.088764+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -146,7 +198,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600319.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:09.835208+00:00",
-      "last_seen": "2026-11-20T08:44:57.008443+00:00",
+      "last_seen": "2026-11-20T17:27:31.761209+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -200,7 +252,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600276.0",
       "published": null,
       "first_seen": "2026-11-18T13:37:34.681312+00:00",
-      "last_seen": "2026-11-20T08:44:52.391517+00:00",
+      "last_seen": "2026-11-20T12:19:44.192968+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -225,7 +277,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-20T08:45:16.931458+00:00",
+      "last_seen": "2026-11-20T17:27:37.850550+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -294,7 +346,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600164.0",
       "published": null,
       "first_seen": "2026-11-17T10:27:40.787672+00:00",
-      "last_seen": "2026-11-20T08:45:01.933509+00:00",
+      "last_seen": "2026-11-20T16:57:15.854214+00:00",
       "score": 31,
       "flags": [
         "+7:fair launch",
@@ -316,7 +368,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-20T08:45:10.074432+00:00",
+      "last_seen": "2026-11-20T09:46:07.081842+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -341,7 +393,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-20T06:43:36.503960+00:00",
+      "last_seen": "2026-11-20T17:27:24.826978+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -387,7 +439,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-20T08:44:58.178616+00:00",
+      "last_seen": "2026-11-20T17:27:32.896499+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -438,7 +490,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-20T03:08:47.039884+00:00",
+      "last_seen": "2026-11-20T17:27:26.011002+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -502,7 +554,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599608.0",
       "published": null,
       "first_seen": "2026-11-12T02:19:18.596520+00:00",
-      "last_seen": "2026-11-20T08:44:54.643712+00:00",
+      "last_seen": "2026-11-20T17:27:29.326515+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -973,7 +1025,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-20T08:44:41.945748+00:00",
+      "last_seen": "2026-11-20T17:27:13.436685+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1585,64 +1637,6 @@
         "+3:runnable-artifact"
       ],
       "snippet": "TwistCoin (TWIST) A Bitcoin Core fork with twisted parameters, restarted from block 0 - sized for home SHA256d miners. Website | Whitepaper | Code audit | Source (GitLab) | Explorer | Pool What is it? TwistCoin is Bitcoin Core v31.1 with a small, reviewable set of changes: its own genesis/network identity and a faster pace. Transaction format, Script, SegWit, Taproot and SHA256d PoW are unchanged. Launch difficulty was calibrated to one ~1.3 TH/s home ASIC, so a Bitaxe-class device can still find real blocks and keep the full reward. Specs Ticker TWIST Algorithm SHA256d - any Bitcoin ASIC, no firmware change Block time 2 minutes Difficulty retarget every 144 blocks (~4.8 h), max 4x Block rew"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 17779743995",
-      "url": "https://github.com/Instinctes/nightfall#event-17779743995",
-      "published": "2026-10-21T04:17:53Z",
-      "first_seen": "2026-10-21T05:27:11.406306+00:00",
-      "last_seen": "2026-10-24T03:43:45.337169+00:00",
-      "score": 14,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:mining",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/60\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/60/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/60/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/60/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/60\", \"id\": 5946140470, \"node_id\": \"PR_kwDOT2kZwM8AAAABJmsGzw\", \"number\": 60, \"title\": \"fix(node-kit): lock installer builds and expose checkout fingerprints\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Midwimble | MimbleWimble, merge-mined with Midstate | Mainnet 31 Oct",
-      "url": "https://bitcointalk.org/index.php?topic=5597306.0",
-      "published": null,
-      "first_seen": "2026-10-21T00:20:04.207964+00:00",
-      "last_seen": "2026-11-05T15:32:54.316156+00:00",
-      "score": 26,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+1:testnet",
-        "+4:proof of work",
-        "+2:miner",
-        "+2:mining",
-        "+3:compute",
-        "+2:privacy",
-        "+2:post-quantum",
-        "-5:points",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "Midwimble MimbleWimble privacy chain, merge-mined with Midstate, with hash-based recovery if ECC is broken update 21 oct 2026: the testnet becomes mainnet. blocks stamped from 31 oct 2026 00:00 utc are mainnet, on the same chain, and testnet coins carry over. struck-out lines below are the old plan, left in so the change is on the record. details: this reply Status: testnet, which becomes mainnet on 31 October 2026 00:00 UTC. Research code, not audited. Mainnet is planned for 31 October 2026 unless testnet finds something that needs more time. Launch parameters will be posted here before genesis. No new genesis: the testnet chain becomes mainnet in place (see the update above). Code (GPL-3.0"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 17677553344",
-      "url": "https://github.com/Instinctes/nightfall#event-17677553344",
-      "published": "2026-10-20T04:23:14Z",
-      "first_seen": "2026-10-20T06:20:14.115473+00:00",
-      "last_seen": "2026-10-23T20:33:45.141457+00:00",
-      "score": 15,
-      "flags": [
-        "+5:genesis",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+2:storage",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
     }
   ],
   "announcement_backtraces": [],
@@ -1653,7 +1647,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-20T08:45:30.386558+00:00",
+      "checked": "2026-11-20T17:27:51.456807+00:00",
       "last_state_change": null
     },
     {
@@ -1661,7 +1655,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-20T08:45:22.376266+00:00",
+      "checked": "2026-11-20T17:27:43.447113+00:00",
       "last_state_change": null
     },
     {
@@ -1669,7 +1663,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-20T08:45:26.381772+00:00",
+      "checked": "2026-11-20T17:27:47.452095+00:00",
       "last_state_change": null
     }
   ]
