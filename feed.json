@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-20T01:50:50.697522+00:00",
+  "generated_at": "2026-11-20T09:13:58.626157+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,30 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "Obsidio: A Post-Quantum Privacy Chain  Mainnet v2 Live with, DEX, Messenger",
+      "url": "https://bitcointalk.org/index.php?topic=5600447.0",
+      "published": null,
+      "first_seen": "2026-11-20T08:14:36.677762+00:00",
+      "last_seen": "2026-11-20T08:44:53.487245+00:00",
+      "score": 14,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+3:compute",
+        "+2:storage",
+        "+2:privacy",
+        "+2:post-quantum",
+        "-5:points"
+      ],
+      "snippet": "``` [size=150%]Obsidio: A Post-Quantum Privacy Chain  Mainnet v2 Live with Bridge, DEX, Messenger & Mini Apps[/size] TL;DR: Obsidio mainnet v2 is live and running with real blocks ( >9.7M height ), secured by post-quantum Dilithium3 signatures and a HotStuff-BFT consensus. The network already includes a bridge (ETH/SOL ↔ wUSDC), on-chain DEX with TWAP-based gas, end-to-end encrypted messenger with audio/video calls, staking ( 25M pool, ~4.7% APY ), and a growing ecosystem of mini apps and bots. Were looking for early adopters, node runners, and developers to test the product and help shape the network. --- Why Post-Quantum Matters Right Now Most blockchains rely on classical cryptography"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] FlintChain (FLINT) | Gaming-Focused L1 | GPU Mining | PoW | EVM",
       "url": "https://bitcointalk.org/index.php?topic=5597781.0",
       "published": null,
       "first_seen": "2026-11-19T15:16:54.466435+00:00",
-      "last_seen": "2026-11-20T01:36:03.412964+00:00",
+      "last_seen": "2026-11-20T08:44:59.299597+00:00",
       "score": 21,
       "flags": [
         "+5:mainnet",
@@ -37,7 +56,7 @@
       "url": "https://github.com/btxchain/btx#event-20647709409",
       "published": "2026-11-19T13:56:34Z",
       "first_seen": "2026-11-19T14:15:26.640500+00:00",
-      "last_seen": "2026-11-20T01:35:50.382907+00:00",
+      "last_seen": "2026-11-20T08:44:44.270561+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -53,7 +72,7 @@
       "url": "https://github.com/btxchain/btx#event-20647707039",
       "published": "2026-11-19T13:56:33Z",
       "first_seen": "2026-11-19T14:15:26.644645+00:00",
-      "last_seen": "2026-11-20T01:35:50.386872+00:00",
+      "last_seen": "2026-11-20T07:13:46.250343+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -69,7 +88,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595967.0",
       "published": null,
       "first_seen": "2026-11-19T04:29:57.254070+00:00",
-      "last_seen": "2026-11-20T01:36:07.063692+00:00",
+      "last_seen": "2026-11-20T08:45:08.584383+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -102,7 +121,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600321.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:10.859860+00:00",
-      "last_seen": "2026-11-20T01:36:09.323951+00:00",
+      "last_seen": "2026-11-20T08:45:11.363190+00:00",
       "score": 24,
       "flags": [
         "+9:no premine",
@@ -127,7 +146,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600319.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:09.835208+00:00",
-      "last_seen": "2026-11-20T01:36:00.981777+00:00",
+      "last_seen": "2026-11-20T08:44:57.008443+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -155,7 +174,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600316.0",
       "published": null,
       "first_seen": "2026-11-19T00:24:20.684994+00:00",
-      "last_seen": "2026-11-20T01:36:10.341038+00:00",
+      "last_seen": "2026-11-20T07:44:11.544716+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -181,7 +200,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600276.0",
       "published": null,
       "first_seen": "2026-11-18T13:37:34.681312+00:00",
-      "last_seen": "2026-11-20T01:35:57.515313+00:00",
+      "last_seen": "2026-11-20T08:44:52.391517+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -206,7 +225,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-20T01:36:17.596955+00:00",
+      "last_seen": "2026-11-20T08:45:16.931458+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -275,7 +294,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600164.0",
       "published": null,
       "first_seen": "2026-11-17T10:27:40.787672+00:00",
-      "last_seen": "2026-11-20T01:36:05.720612+00:00",
+      "last_seen": "2026-11-20T08:45:01.933509+00:00",
       "score": 31,
       "flags": [
         "+7:fair launch",
@@ -297,7 +316,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-20T01:36:08.295254+00:00",
+      "last_seen": "2026-11-20T08:45:10.074432+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -322,7 +341,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-20T01:36:12.709669+00:00",
+      "last_seen": "2026-11-20T06:43:36.503960+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -368,7 +387,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-20T01:36:02.185116+00:00",
+      "last_seen": "2026-11-20T08:44:58.178616+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -419,7 +438,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-20T01:36:13.841431+00:00",
+      "last_seen": "2026-11-20T03:08:47.039884+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -483,7 +502,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599608.0",
       "published": null,
       "first_seen": "2026-11-12T02:19:18.596520+00:00",
-      "last_seen": "2026-11-20T01:35:59.878073+00:00",
+      "last_seen": "2026-11-20T08:44:54.643712+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -954,7 +973,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-20T01:35:48.090777+00:00",
+      "last_seen": "2026-11-20T08:44:41.945748+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -975,7 +994,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-20T01:36:11.476362+00:00",
+      "last_seen": "2026-11-20T06:43:35.331583+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -1624,25 +1643,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN][SCRYPT] 4547 - only 4,547 coins ever fair launch Oct 27 12:00 UTC | AuxPow",
-      "url": "https://bitcointalk.org/index.php?topic=5597340.0",
-      "published": null,
-      "first_seen": "2026-10-19T21:35:32.494101+00:00",
-      "last_seen": "2026-11-05T21:42:02.759320+00:00",
-      "score": 28,
-      "flags": [
-        "+9:no premine",
-        "+7:fair launch",
-        "+5:genesis",
-        "+2:launch",
-        "+2:pow",
-        "+2:mining",
-        "+1:p2p"
-      ],
-      "snippet": "45 came first. 47 came back. 4547 begins. 4547 is a mineable Scrypt coin, fork of Dogecoin Core 1.14.9, themed on the 45th and 47th presidencies. Hard cap of 4,547 coins. No premine. Same hardware that mines LTC/DOGE. Launch Mining opens Tuesday Oct 27, 2026 at 12:00:00 UTC. Nodes reject blocks before that. Code, wallets and pool go public Oct 20 so everyone can check it first. Heads up: blocks in the first hour can still get re-orged, so wait for confirmations before trusting early coins. The ramp makes a fast start worthless anyway (see below). Specs - Algo: Scrypt, 10 min blocks - Max supply: 4,547 (about 4,533.6 actually mined) - Reward: 0.0495/block, reached after a 450-block ramp (earl"
     }
   ],
   "announcement_backtraces": [],
@@ -1653,7 +1653,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-20T01:36:31.051778+00:00",
+      "checked": "2026-11-20T08:45:30.386558+00:00",
       "last_state_change": null
     },
     {
@@ -1661,7 +1661,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-20T01:36:23.041655+00:00",
+      "checked": "2026-11-20T08:45:22.376266+00:00",
       "last_state_change": null
     },
     {
@@ -1669,7 +1669,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-20T01:36:27.046991+00:00",
+      "checked": "2026-11-20T08:45:26.381772+00:00",
       "last_state_change": null
     }
   ]
