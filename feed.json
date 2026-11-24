@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-24T11:37:16.604999+00:00",
+  "generated_at": "2026-11-24T21:28:02.766394+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,31 @@
   },
   "public_findings": [
     {
+      "source": "github-events",
+      "title": "Instinctes/nightfall: IssueCommentEvent 21131155587",
+      "url": "https://github.com/Instinctes/nightfall#event-21131155587",
+      "published": "2026-11-24T12:48:05Z",
+      "first_seen": "2026-11-24T13:02:33.926641+00:00",
+      "last_seen": "2026-11-24T21:14:41.208603+00:00",
+      "score": 19,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:pow",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy",
+        "+1:decentralized"
+      ],
+      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/80\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/80/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/80/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/80/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/80\", \"id\": 6105948947, \"node_id\": \"PR_kwDOT2kZwM8AAAABLmWc_Q\", \"number\": 80, \"title\": \"research: add bounded Nightpool PPLNS accounting reference\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"no"
+    },
+    {
       "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] FortuneBlock - CPU Mining - Fair launch - No Premine - No Dev fees",
       "url": "https://bitcointalk.org/index.php?topic=5516229.0",
       "published": null,
       "first_seen": "2026-11-24T09:29:55.604002+00:00",
-      "last_seen": "2026-11-24T11:31:25.767315+00:00",
+      "last_seen": "2026-11-24T21:14:54.468562+00:00",
       "score": 16,
       "flags": [
         "+9:no premine",
@@ -37,7 +56,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600777.0",
       "published": null,
       "first_seen": "2026-11-24T07:58:10.225171+00:00",
-      "last_seen": "2026-11-24T11:31:29.162744+00:00",
+      "last_seen": "2026-11-24T21:14:57.755955+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -53,7 +72,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600778.0",
       "published": null,
       "first_seen": "2026-11-24T06:55:17.845748+00:00",
-      "last_seen": "2026-11-24T11:31:28.135086+00:00",
+      "last_seen": "2026-11-24T21:14:56.746225+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -80,7 +99,7 @@
       "url": "https://bitcointalk.org/index.php?topic=735170.0",
       "published": null,
       "first_seen": "2026-11-23T23:45:17.069703+00:00",
-      "last_seen": "2026-11-24T11:31:30.411436+00:00",
+      "last_seen": "2026-11-24T21:14:59.025979+00:00",
       "score": 27,
       "flags": [
         "+2:launch",
@@ -102,7 +121,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600728.0",
       "published": null,
       "first_seen": "2026-11-23T14:30:50.346695+00:00",
-      "last_seen": "2026-11-24T11:31:40.309071+00:00",
+      "last_seen": "2026-11-24T21:15:05.342447+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -234,7 +253,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-20745672886",
       "published": "2026-11-20T09:38:04Z",
       "first_seen": "2026-11-20T09:45:43.792789+00:00",
-      "last_seen": "2026-11-24T11:31:14.876776+00:00",
+      "last_seen": "2026-11-24T21:14:36.975250+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -383,7 +402,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600319.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:09.835208+00:00",
-      "last_seen": "2026-11-23T17:06:14.549076+00:00",
+      "last_seen": "2026-11-24T21:14:52.185656+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -462,7 +481,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-24T11:31:41.312707+00:00",
+      "last_seen": "2026-11-24T21:15:06.385825+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -480,7 +499,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600215.0",
       "published": null,
       "first_seen": "2026-11-17T19:42:57.524754+00:00",
-      "last_seen": "2026-11-24T11:31:32.628832+00:00",
+      "last_seen": "2026-11-24T21:15:01.258236+00:00",
       "score": 31,
       "flags": [
         "+9:no premine",
@@ -553,7 +572,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-24T11:31:27.017924+00:00",
+      "last_seen": "2026-11-24T21:14:55.656704+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -578,7 +597,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-23T21:09:31.134746+00:00",
+      "last_seen": "2026-11-24T21:14:51.065965+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -675,7 +694,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-22T05:49:20.285580+00:00",
+      "last_seen": "2026-11-24T21:14:53.318664+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -916,7 +935,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-08T14:39:06.761519+00:00",
-      "last_seen": "2026-11-24T11:31:23.382871+00:00",
+      "last_seen": "2026-11-24T15:36:03.928990+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -1210,7 +1229,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-24T11:31:14.879382+00:00",
+      "last_seen": "2026-11-24T21:14:36.977750+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1644,24 +1663,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] Zclassic, Zcash Fork No Premine, No 20% Founders Tax",
-      "url": "https://bitcointalk.org/index.php?topic=1671982.0",
-      "published": null,
-      "first_seen": "2026-10-26T20:20:15.033618+00:00",
-      "last_seen": "2026-11-07T15:09:53.712042+00:00",
-      "score": 20,
-      "flags": [
-        "+9:no premine",
-        "+2:launch",
-        "+2:pow",
-        "+2:miner",
-        "+2:mining",
-        "+3:block reward"
-      ],
-      "snippet": "Zclassic is a fork of Zcash 1.0.1 with minimal changes except for 2 major things. 1. 20% Founders Reward is removed. 2. Slow start is removed (blocks start at 12.5 ZCL rewards per block). Parameters: PoW: Equihash Halving rate: Every 4 years (same as Zcash and bitcoin). Starting Block Reward: 12.5 coins every 2.5 minutes (Same as Zcash. 50 coins per 10 minutes, like Bitcoin). Total eventual supply: 21,000,000 (21 million), as per Bitcoin (Unchanged from Zcash) Difficulty adjustment algorithm: Digishield V3 (Unchanged from Zcash) Difficulty adjusts each block (Unchanged from Zcash) Symbol: ZCL (pronounced \"ZICKLE\" like \"NICKEL\") Trusted Parameters Zcash (and Zclassic) relies on trust that a p"
     }
   ],
   "announcement_backtraces": [],
@@ -1672,7 +1673,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-24T11:31:54.664605+00:00",
+      "checked": "2026-11-24T21:15:22.716846+00:00",
       "last_state_change": null
     },
     {
@@ -1680,7 +1681,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-24T11:31:46.652993+00:00",
+      "checked": "2026-11-24T21:15:14.707705+00:00",
       "last_state_change": null
     },
     {
@@ -1688,7 +1689,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-24T11:31:50.659605+00:00",
+      "checked": "2026-11-24T21:15:18.712619+00:00",
       "last_state_change": null
     }
   ]
