@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-23T14:20:48.689159+00:00",
+  "generated_at": "2026-11-24T01:44:28.630150+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,62 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] [XMG] MAGI | CPU mining | mPoW | mPoS | [MagiPay]",
+      "url": "https://bitcointalk.org/index.php?topic=735170.0",
+      "published": null,
+      "first_seen": "2026-11-23T23:45:17.069703+00:00",
+      "last_seen": "2026-11-24T01:17:49.112273+00:00",
+      "score": 27,
+      "flags": [
+        "+2:launch",
+        "+4:proof of work",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+1:p2p",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "MAGI Website | Downloads | Exchanges | Forum | MagiPay | Mining | Features | FAQ Facebook | Twitter | Reddit | Youtube | Freenode IRC: #magi | Slack | Telegram Launched on Sep. 15, 2014, 5:00 PM EST https://github.com/m-pays/m-core.org (m-core.org source; one wants to contribute submit a pull request) m-wallet v1.4.6.2 - (05/17/2018) m-wallet v1.4.5.3 - (01/06/2017) m-wallet v1.4.5.1 - (12/30/2017) v1.4.4.1 - (09/15/2017) v1.4.3 - (08/24/2017) v1.3.1 - (02/10/2017) v1.3.0rc1 - (06/22/2016) v1.2.0.1 Release (Hard Fork) - (12/31/2014) MagiPay - Standalone Payment Gateway https://www.m-pays.com/ Roadmap: https://roadmap.coinmagi.org/ Features: A network-dependent rewarding system: proof-of-mini"
+    },
+    {
+      "source": "bitcointalk:Mining (Altcoins)",
+      "title": "MYT - CPU mining on a young RandomX chain",
+      "url": "https://bitcointalk.org/index.php?topic=5600728.0",
+      "published": null,
+      "first_seen": "2026-11-23T14:30:50.346695+00:00",
+      "last_seen": "2026-11-24T01:18:00.007457+00:00",
+      "score": 39,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:mainnet",
+        "+2:launch",
+        "+2:pow",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+2:privacy",
+        "+1:p2p",
+        "-7:ico",
+        "-8:team allocation",
+        "+4:dated-launch",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "MYT - CPU mining on a young RandomX chain Solo-mineable today. Looking for miners and pool operators. MYT is a CryptoNote/Monero-derived privacy chain, mainnet since 2026-03-08, fair launch (no premine, no ICO, no team allocation). The network is still small, which means a single desktop CPU is a real share of the hashrate right now. ANN thread with full background: https://bitcointalk.org/index.php?topic=5577468.0 ──────────────────────────────────────── Mining parameters ──────────────────────────────────────── Code: PoW RandomX, standard rx/0 (same variant as Monero) Block time 60 s -> 1,440 blocks/day Block reward 5 MYT + fees, constant until first halving Halving every 2,102,400 blocks "
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN][MAINNET] LUXA Ecosystem (luxa-1)  Sovereign Cosmos Layer-1 & DeFi",
       "url": "https://bitcointalk.org/index.php?topic=5600644.0",
       "published": null,
       "first_seen": "2026-11-22T14:28:30.094967+00:00",
-      "last_seen": "2026-11-23T14:00:02.233335+00:00",
+      "last_seen": "2026-11-23T17:06:15.554388+00:00",
       "score": 16,
       "flags": [
         "+5:mainnet",
@@ -51,7 +102,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600588.0",
       "published": null,
       "first_seen": "2026-11-21T23:41:50.340146+00:00",
-      "last_seen": "2026-11-23T13:59:55.089146+00:00",
+      "last_seen": "2026-11-24T01:17:56.432595+00:00",
       "score": 29,
       "flags": [
         "+9:no premine",
@@ -117,7 +168,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-20745672886",
       "published": "2026-11-20T09:38:04Z",
       "first_seen": "2026-11-20T09:45:43.792789+00:00",
-      "last_seen": "2026-11-23T13:59:39.470515+00:00",
+      "last_seen": "2026-11-24T01:17:35.075708+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -266,7 +317,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600319.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:09.835208+00:00",
-      "last_seen": "2026-11-23T14:00:01.162825+00:00",
+      "last_seen": "2026-11-23T17:06:14.549076+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -320,7 +371,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600276.0",
       "published": null,
       "first_seen": "2026-11-18T13:37:34.681312+00:00",
-      "last_seen": "2026-11-23T13:59:56.122329+00:00",
+      "last_seen": "2026-11-23T23:14:08.566340+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -345,7 +396,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-23T14:00:06.255659+00:00",
+      "last_seen": "2026-11-24T01:18:01.018298+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -363,7 +414,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600215.0",
       "published": null,
       "first_seen": "2026-11-17T19:42:57.524754+00:00",
-      "last_seen": "2026-11-22T12:57:38.131342+00:00",
+      "last_seen": "2026-11-24T01:17:51.356649+00:00",
       "score": 31,
       "flags": [
         "+9:no premine",
@@ -436,7 +487,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-20T09:46:07.081842+00:00",
+      "last_seen": "2026-11-24T01:17:47.832176+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -461,7 +512,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-23T13:59:58.604995+00:00",
+      "last_seen": "2026-11-23T21:09:31.134746+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -507,7 +558,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-23T13:59:50.161597+00:00",
+      "last_seen": "2026-11-24T01:17:46.623453+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -622,7 +673,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599608.0",
       "published": null,
       "first_seen": "2026-11-12T02:19:18.596520+00:00",
-      "last_seen": "2026-11-23T13:59:59.976187+00:00",
+      "last_seen": "2026-11-23T17:34:48.291579+00:00",
       "score": 17,
       "flags": [
         "+9:no premine",
@@ -799,7 +850,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598502.0",
       "published": null,
       "first_seen": "2026-11-08T14:39:06.761519+00:00",
-      "last_seen": "2026-11-23T13:59:49.008423+00:00",
+      "last_seen": "2026-11-24T01:17:44.164072+00:00",
       "score": 19,
       "flags": [
         "+9:no premine",
@@ -1093,7 +1144,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-23T13:59:39.473998+00:00",
+      "last_seen": "2026-11-24T01:17:35.079936+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1602,42 +1653,6 @@
         "+4:dated-launch"
       ],
       "snippet": "SHEAR (SHE) SHE is private. A CPU-mined proof-of-work coin where amounts and links stay off the public record Mainnet genesis: Monday 21st December 2026, 2pm UK time v12 public testnet: early December 2026 Website | Docs | Whitepaper | Source | Miner | Pool What Shear is SHE is private, and we make it so. Shear is a new proof-of-work chain, built from scratch, for people who want money that doesn't broadcast what they do with it. You mine it on an ordinary CPU. There's no premine, no founder reward, no sale of SHE by the developers, no ICO and no airdrop. Every SHE that exists was mined, or minted by the protocol's own Reserve rules described below. When you send SHE, the chain doesn't publi"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 18143702030",
-      "url": "https://github.com/Instinctes/nightfall#event-18143702030",
-      "published": "2026-10-25T06:45:37Z",
-      "first_seen": "2026-10-25T06:56:38.724065+00:00",
-      "last_seen": "2026-10-26T08:31:41.194748+00:00",
-      "score": 15,
-      "flags": [
-        "+5:genesis",
-        "+2:miner",
-        "+2:mining",
-        "+2:emission",
-        "+2:storage",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/42/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/42\", \"id\": 5733500807, \"node_id\": \"PR_kwDOT2kZwM8AAAABG-ZQAw\", \"number\": 42, \"title\": \"node: add stalled-fork recovery escape hatch\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id\": \"U_kgD"
-    },
-    {
-      "source": "github-search",
-      "title": "zoru-labs/zoru-miner",
-      "url": "https://github.com/zoru-labs/zoru-miner",
-      "published": "2026-10-24T14:48:57Z",
-      "first_seen": "2026-10-25T14:37:59.649938+00:00",
-      "last_seen": "2026-10-25T16:11:16.784293+00:00",
-      "score": 21,
-      "flags": [
-        "+5:mainnet",
-        "+4:proof-of-work",
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+4:dated-launch"
-      ],
-      "snippet": "ZORU Miner desktop wallet and CPU mining application for VEX EVM Mainnet created 2026-10-24T14:48:57Z updated 2026-10-25T15:47:48Z language Rust topics cryptocurrency evm mining proof-of-work qml rust vex vexanium vexevm"
     }
   ],
   "announcement_backtraces": [],
@@ -1648,7 +1663,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-23T14:00:21.767866+00:00",
+      "checked": "2026-11-24T01:18:14.540212+00:00",
       "last_state_change": null
     },
     {
@@ -1656,7 +1671,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-23T14:00:13.757745+00:00",
+      "checked": "2026-11-24T01:18:06.530532+00:00",
       "last_state_change": null
     },
     {
@@ -1664,7 +1679,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-23T14:00:17.763051+00:00",
+      "checked": "2026-11-24T01:18:10.535588+00:00",
       "last_state_change": null
     }
   ]
