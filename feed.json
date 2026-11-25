@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-25T14:43:53.730134+00:00",
+  "generated_at": "2026-11-25T23:20:14.629351+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,57 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] LiAura Coin (LIA) - Layer-1 Privacy Cryptocurrency  RandomX PoW  Mainnet",
+      "url": "https://bitcointalk.org/index.php?topic=5600938.0",
+      "published": null,
+      "first_seen": "2026-11-25T19:21:32.786901+00:00",
+      "last_seen": "2026-11-25T22:56:25.198448+00:00",
+      "score": 24,
+      "flags": [
+        "+9:zero premine",
+        "+5:mainnet",
+        "+5:genesis",
+        "+4:proof of work",
+        "+2:pow",
+        "+2:mining",
+        "+2:emission",
+        "+2:privacy",
+        "+1:p2p",
+        "-8:premine"
+      ],
+      "snippet": "LiAura Coin (LIA) Independent Layer-1 Privacy Cryptocurrency  RandomX PoW  Mainnet Live LiAura Coin (LIA) is an independent Layer-1 privacy cryptocurrency based on CryptoNote / Monero (v0.18.5.4), featuring RandomX Proof of Work , CLSAG , Bulletproofs+ , and View Tags , with a fixed-cap monetary policy and zero premine. Network & Monetary Specifications Name / Symbol: LiAura Coin (LIA) Algorithm: RandomX (rx/0) Maximum Supply: 5,000,000 LIA (12 decimal places, no tail emission) Genesis Premine: None (0) P2P / RPC Ports: 19080 / 19081 Official Links & Live Infrastructure GitHub Repository: https://github.com/Cesardum/liaura-coin Block Explorer: https://node.serviupedidos.com.br/explorer/ Pu"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Neurai [XNA] - Layer1 Blockchain 🟣 KAWPOW - GPU mining",
+      "url": "https://bitcointalk.org/index.php?topic=5454663.0",
+      "published": null,
+      "first_seen": "2026-11-25T19:21:31.736994+00:00",
+      "last_seen": "2026-11-25T22:56:26.388329+00:00",
+      "score": 30,
+      "flags": [
+        "+5:genesis",
+        "+2:launch",
+        "+2:open source",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+1:decentralized",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "https://neurai.org/neurai-bitcointalk.jpg Neurai: A Peer-to-Peer Digital Asset System What is Neurai? Neurai is a decentralized open source protocol optimized to transfer cryptoassets from one party to another on Layer1. The project aims to integrate NFT and Tokens with IoT and artificial intelligence applications. ROADMAP First Stage(2023): - Spread the network over multiple nodes across the planet. - Increase the number of active users - Block explorer for the Assets (NFT/Tokens) - New wallets, including mobile - Agreements with compatible projects, such as FLUX. - Search for a minimum price to guarantee the network. - First exchanges to facilitate access to new users and miners. - Hackath"
+    },
+    {
       "source": "github-events",
       "title": "pearl-research-labs/pearl: PullRequestReviewCommentEvent 21240075817",
       "url": "https://github.com/pearl-research-labs/pearl#event-21240075817",
       "published": "2026-11-25T09:06:43Z",
       "first_seen": "2026-11-25T09:34:01.881220+00:00",
-      "last_seen": "2026-11-25T14:12:14.741182+00:00",
+      "last_seen": "2026-11-25T20:22:52.425215+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -25,7 +70,7 @@
         "+2:privacy",
         "-5:points"
       ],
-      "snippet": "{\"action\": \"created\", \"comment\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/pulls/comments/4692602481\", \"pull_request_review_id\": 6054625815, \"id\": 4692602481, \"node_id\": \"PRRC_kwDOSGtMDc8AAAABF7NucQ\", \"diff_hunk\": \"@@ -580,6 +600,10 @@ var TestNetParams = Params{\\n \\n \\tSaltedSeedForkHeight: 38648,\\n \\n+\\t// FP8 (V4) hardfork. Scheduled at tip 67302 (2026-11-17 15:40 UTC) plus\\n+\\t// ~4 hours at the observed ~209s block interval: ~19:40 UTC.\\n+\\tFp8ForkHeight: 67415,\", \"path\": \"node/chaincfg/params.go\", \"commit_id\": \"f17fcbeed15459b53f8d5135e2b23425f1f7a492\", \"original_commit_id\": \"20b864d899e375e601d2d86e87371bbdb86b755d\", \"user\": {\"login\": \"cursor[bot]\", \"id\": 2069513"
+      "snippet": "{\"action\": \"created\", \"comment\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/pulls/comments/4692602481\", \"pull_request_review_id\": 6054625815, \"id\": 4692602481, \"node_id\": \"PRRC_kwDOSGtMDc8AAAABF7NucQ\", \"diff_hunk\": \"@@ -580,6 +600,10 @@ var TestNetParams = Params{\\n \\n \\tSaltedSeedForkHeight: 38648,\\n \\n+\\t// FP8 (V4) hardfork. Scheduled at tip 67302 (2026-11-17 15:40 UTC) plus\\n+\\t// ~4 hours at the observed ~209s block interval: ~19:40 UTC.\\n+\\tFp8ForkHeight: 67415,\", \"path\": \"node/chaincfg/params.go\", \"commit_id\": \"c7456cb2029959883d4927e72a60225d6b8d8fdc\", \"original_commit_id\": \"20b864d899e375e601d2d86e87371bbdb86b755d\", \"user\": {\"login\": \"cursor[bot]\", \"id\": 2069513"
     },
     {
       "source": "github-events",
@@ -33,7 +78,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-21131155587",
       "published": "2026-11-24T12:48:05Z",
       "first_seen": "2026-11-24T13:02:33.926641+00:00",
-      "last_seen": "2026-11-25T14:12:23.666597+00:00",
+      "last_seen": "2026-11-25T22:56:18.037611+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -91,7 +136,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600778.0",
       "published": null,
       "first_seen": "2026-11-24T06:55:17.845748+00:00",
-      "last_seen": "2026-11-25T14:12:30.116509+00:00",
+      "last_seen": "2026-11-25T22:56:31.137008+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -118,7 +163,7 @@
       "url": "https://bitcointalk.org/index.php?topic=735170.0",
       "published": null,
       "first_seen": "2026-11-23T23:45:17.069703+00:00",
-      "last_seen": "2026-11-25T14:12:28.869430+00:00",
+      "last_seen": "2026-11-25T22:56:22.984190+00:00",
       "score": 27,
       "flags": [
         "+2:launch",
@@ -140,7 +185,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600728.0",
       "published": null,
       "first_seen": "2026-11-23T14:30:50.346695+00:00",
-      "last_seen": "2026-11-25T14:12:39.967912+00:00",
+      "last_seen": "2026-11-25T22:56:34.893928+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -185,7 +230,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600629.0",
       "published": null,
       "first_seen": "2026-11-22T10:54:44.002337+00:00",
-      "last_seen": "2026-11-25T14:12:32.459677+00:00",
+      "last_seen": "2026-11-25T22:25:14.190730+00:00",
       "score": 28,
       "flags": [
         "+5:genesis",
@@ -272,7 +317,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-20745672886",
       "published": "2026-11-20T09:38:04Z",
       "first_seen": "2026-11-20T09:45:43.792789+00:00",
-      "last_seen": "2026-11-25T14:12:19.213608+00:00",
+      "last_seen": "2026-11-25T22:56:14.101639+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -421,7 +466,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600319.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:09.835208+00:00",
-      "last_seen": "2026-11-25T14:12:34.814176+00:00",
+      "last_seen": "2026-11-25T18:51:08.379712+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -500,7 +545,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-25T14:12:41.017419+00:00",
+      "last_seen": "2026-11-25T22:56:35.976650+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -616,7 +661,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-25T14:12:33.655617+00:00",
+      "last_seen": "2026-11-25T18:51:07.221128+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -713,7 +758,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-25T14:12:35.981171+00:00",
+      "last_seen": "2026-11-25T15:15:12.696988+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -880,7 +925,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-22T21:07:52.741623+00:00",
+      "last_seen": "2026-11-25T22:56:24.192964+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -1003,7 +1048,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-25T14:12:31.327781+00:00",
+      "last_seen": "2026-11-25T22:56:29.940313+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -1248,7 +1293,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-25T14:12:19.217605+00:00",
+      "last_seen": "2026-11-25T22:56:14.104062+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1632,40 +1677,6 @@
         "-7:ico"
       ],
       "snippet": "Discrete (XDS) A Post-Quantum Proof-of-Work Cryptocurrency Discrete (XDS) is a pre-launch proof-of-work cryptocurrency designed for post-quantum transaction validation from genesis. It uses standardized ML-KEM-768 for private output delivery and ML-DSA-65 for spend authorization. Mining uses DiscretePower , an identity-bound construction combining SHAKE-256, ML-DSA-65 and a modified yespower memory-hard core. Solo-Only no Pools. It's not 100% non-outsourceable but you're welcome to try Key features 90-second block target Post-quantum ownership and receiving Deterministic recovery from one mnemonic On-chain account numbers and derived deposit addresses Payment proofs and Dandelion++ transacti"
-    },
-    {
-      "source": "bitcointalk:Mining (Altcoins)",
-      "title": "Introducing BRminer  a C++ CPU mining project",
-      "url": "https://bitcointalk.org/index.php?topic=5598075.0",
-      "published": null,
-      "first_seen": "2026-10-27T18:57:48.539132+00:00",
-      "last_seen": "2026-11-11T21:08:19.620839+00:00",
-      "score": 14,
-      "flags": [
-        "+4:cpu mining",
-        "+2:miner",
-        "+2:mining",
-        "+3:optimization",
-        "+3:runnable-artifact"
-      ],
-      "snippet": "BRminer  C++ CPU Miner A project by Soft Production GitHub Repository | Download Releases == About BRminer == Hello Bitcointalk! I'd like to introduce BRminer , a C++ CPU mining project developed by Soft Production . BRminer is focused on mining performance, startup speed, reliability, and continuous optimization. The project is already released, and I'm working on improving it through testing, development, and community feedback. == Main Goals == Optimize CPU mining performance. Improve startup speed and data loading. Keep the software lightweight and reliable. Improve configuration and error handling. Listen to feedback from users and developers. == Looking for Testers == I'm looking for "
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 18368452806",
-      "url": "https://github.com/Instinctes/nightfall#event-18368452806",
-      "published": "2026-10-27T17:31:59Z",
-      "first_seen": "2026-10-27T17:57:45.411573+00:00",
-      "last_seen": "2026-10-29T19:38:17.317560+00:00",
-      "score": 16,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:mining",
-        "+2:emission",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/53\", \"id\": 5888364768, \"node_id\": \"PR_kwDOT2kZwM8AAAABI5RsQw\", \"number\": 53, \"title\": \"research(ledger): confidential Merkle-sum state evidence\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node"
     }
   ],
   "announcement_backtraces": [],
@@ -1676,7 +1687,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-25T14:12:54.405239+00:00",
+      "checked": "2026-11-25T22:56:52.330038+00:00",
       "last_state_change": null
     },
     {
@@ -1684,7 +1695,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-25T14:12:46.395130+00:00",
+      "checked": "2026-11-25T22:56:44.320269+00:00",
       "last_state_change": null
     },
     {
@@ -1692,7 +1703,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-25T14:12:50.400245+00:00",
+      "checked": "2026-11-25T22:56:48.325223+00:00",
       "last_state_change": null
     }
   ]
