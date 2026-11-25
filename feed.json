@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-25T04:27:31.653245+00:00",
+  "generated_at": "2026-11-25T14:43:53.730134+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,30 @@
   "public_findings": [
     {
       "source": "github-events",
+      "title": "pearl-research-labs/pearl: PullRequestReviewCommentEvent 21240075817",
+      "url": "https://github.com/pearl-research-labs/pearl#event-21240075817",
+      "published": "2026-11-25T09:06:43Z",
+      "first_seen": "2026-11-25T09:34:01.881220+00:00",
+      "last_seen": "2026-11-25T14:12:14.741182+00:00",
+      "score": 12,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+1:testnet",
+        "+2:pow",
+        "+2:miner",
+        "+2:privacy",
+        "-5:points"
+      ],
+      "snippet": "{\"action\": \"created\", \"comment\": {\"url\": \"https://api.github.com/repos/pearl-research-labs/pearl/pulls/comments/4692602481\", \"pull_request_review_id\": 6054625815, \"id\": 4692602481, \"node_id\": \"PRRC_kwDOSGtMDc8AAAABF7NucQ\", \"diff_hunk\": \"@@ -580,6 +600,10 @@ var TestNetParams = Params{\\n \\n \\tSaltedSeedForkHeight: 38648,\\n \\n+\\t// FP8 (V4) hardfork. Scheduled at tip 67302 (2026-11-17 15:40 UTC) plus\\n+\\t// ~4 hours at the observed ~209s block interval: ~19:40 UTC.\\n+\\tFp8ForkHeight: 67415,\", \"path\": \"node/chaincfg/params.go\", \"commit_id\": \"f17fcbeed15459b53f8d5135e2b23425f1f7a492\", \"original_commit_id\": \"20b864d899e375e601d2d86e87371bbdb86b755d\", \"user\": {\"login\": \"cursor[bot]\", \"id\": 2069513"
+    },
+    {
+      "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 21131155587",
       "url": "https://github.com/Instinctes/nightfall#event-21131155587",
       "published": "2026-11-24T12:48:05Z",
       "first_seen": "2026-11-24T13:02:33.926641+00:00",
-      "last_seen": "2026-11-25T04:26:21.777937+00:00",
+      "last_seen": "2026-11-25T14:12:23.666597+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -33,7 +52,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5516229.0",
       "published": null,
       "first_seen": "2026-11-24T09:29:55.604002+00:00",
-      "last_seen": "2026-11-25T04:26:31.212764+00:00",
+      "last_seen": "2026-11-25T12:40:31.723747+00:00",
       "score": 16,
       "flags": [
         "+9:no premine",
@@ -56,7 +75,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600777.0",
       "published": null,
       "first_seen": "2026-11-24T07:58:10.225171+00:00",
-      "last_seen": "2026-11-25T04:26:34.484546+00:00",
+      "last_seen": "2026-11-25T09:34:25.491679+00:00",
       "score": 14,
       "flags": [
         "+5:mainnet",
@@ -72,7 +91,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600778.0",
       "published": null,
       "first_seen": "2026-11-24T06:55:17.845748+00:00",
-      "last_seen": "2026-11-25T04:26:33.452287+00:00",
+      "last_seen": "2026-11-25T14:12:30.116509+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -99,7 +118,7 @@
       "url": "https://bitcointalk.org/index.php?topic=735170.0",
       "published": null,
       "first_seen": "2026-11-23T23:45:17.069703+00:00",
-      "last_seen": "2026-11-25T04:26:35.758585+00:00",
+      "last_seen": "2026-11-25T14:12:28.869430+00:00",
       "score": 27,
       "flags": [
         "+2:launch",
@@ -121,7 +140,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600728.0",
       "published": null,
       "first_seen": "2026-11-23T14:30:50.346695+00:00",
-      "last_seen": "2026-11-25T04:26:40.914364+00:00",
+      "last_seen": "2026-11-25T14:12:39.967912+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -166,7 +185,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600629.0",
       "published": null,
       "first_seen": "2026-11-22T10:54:44.002337+00:00",
-      "last_seen": "2026-11-25T04:26:26.596903+00:00",
+      "last_seen": "2026-11-25T14:12:32.459677+00:00",
       "score": 28,
       "flags": [
         "+5:genesis",
@@ -253,7 +272,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-20745672886",
       "published": "2026-11-20T09:38:04Z",
       "first_seen": "2026-11-20T09:45:43.792789+00:00",
-      "last_seen": "2026-11-25T04:26:17.563226+00:00",
+      "last_seen": "2026-11-25T14:12:19.213608+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -402,7 +421,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600319.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:09.835208+00:00",
-      "last_seen": "2026-11-25T04:26:28.869656+00:00",
+      "last_seen": "2026-11-25T14:12:34.814176+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -481,7 +500,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-25T04:26:41.917214+00:00",
+      "last_seen": "2026-11-25T14:12:41.017419+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -572,7 +591,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600090.0",
       "published": null,
       "first_seen": "2026-11-16T18:32:25.877176+00:00",
-      "last_seen": "2026-11-25T04:26:32.363564+00:00",
+      "last_seen": "2026-11-25T11:07:48.637068+00:00",
       "score": 34,
       "flags": [
         "+9:zero premine",
@@ -597,7 +616,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-25T04:26:27.710990+00:00",
+      "last_seen": "2026-11-25T14:12:33.655617+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -694,7 +713,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599778.0",
       "published": null,
       "first_seen": "2026-11-13T12:35:38.579337+00:00",
-      "last_seen": "2026-11-25T04:26:29.988790+00:00",
+      "last_seen": "2026-11-25T14:12:35.981171+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -984,7 +1003,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-23T09:24:13.788221+00:00",
+      "last_seen": "2026-11-25T14:12:31.327781+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -1229,7 +1248,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-25T04:26:17.564851+00:00",
+      "last_seen": "2026-11-25T14:12:19.217605+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1647,22 +1666,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/53/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/53\", \"id\": 5888364768, \"node_id\": \"PR_kwDOT2kZwM8AAAABI5RsQw\", \"number\": 53, \"title\": \"research(ledger): confidential Merkle-sum state evidence\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node"
-    },
-    {
-      "source": "github-events",
-      "title": "btxchain/btx: IssueCommentEvent 18307019372",
-      "url": "https://github.com/btxchain/btx#event-18307019372",
-      "published": "2026-10-27T04:35:24Z",
-      "first_seen": "2026-10-27T04:35:37.261187+00:00",
-      "last_seen": "2026-10-29T01:42:52.634874+00:00",
-      "score": 15,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+3:compute",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/272\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/272/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/272\", \"id\": 6025238009, \"node_id\": \"PR_kwDOR8Ja_88AAAABKlf9Nw\", \"number\": 272, \"title\": \"swarm: check the unshield velocity cap only on blocks with a shielded bundle (a sync from genesis stops at 126,978)\", \"user\": {\"login\": \"Jpp-matata\", \"id\": 31616"
     }
   ],
   "announcement_backtraces": [],
@@ -1673,7 +1676,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-25T04:26:55.267172+00:00",
+      "checked": "2026-11-25T14:12:54.405239+00:00",
       "last_state_change": null
     },
     {
@@ -1681,7 +1684,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-25T04:26:47.257593+00:00",
+      "checked": "2026-11-25T14:12:46.395130+00:00",
       "last_state_change": null
     },
     {
@@ -1689,7 +1692,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-25T04:26:51.262534+00:00",
+      "checked": "2026-11-25T14:12:50.400245+00:00",
       "last_state_change": null
     }
   ]
