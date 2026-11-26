@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-26T05:09:21.534751+00:00",
+  "generated_at": "2026-11-26T15:03:57.611743+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,63 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] Solvyren (SVY)  Mainnet Live | SMW-16/2048 v1 | Public Mining Open",
+      "url": "https://bitcointalk.org/index.php?topic=5600998.0",
+      "published": null,
+      "first_seen": "2026-11-26T12:48:52.345567+00:00",
+      "last_seen": "2026-11-26T14:53:16.328046+00:00",
+      "score": 29,
+      "flags": [
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+2:emission",
+        "+4:inference",
+        "+3:compute",
+        "+2:otc",
+        "+1:p2p",
+        "-8:team allocation",
+        "+3:runnable-artifact"
+      ],
+      "snippet": "Solvyren (SVY) Mainnet live · Public mining open · Cloud servers available for rent Solvyren MatrixWork SMW-16/2048 v1 (MatMul-class proof-of-work) · GRANDPA finality Website: https://solvyren.com Whitepaper (v0.4.1, mainnet edition): https://solvyren.com/whitepaper Explorer (SVYscan): https://scan.solvyren.com Official pool: https://pool.solvyren.com · tls://pool.solvyren.com:18444 Cloud console: https://cloud.solvyren.com Wallet: https://wallet.solvyren.com/about Live dashboard: https://solvyren.com/live 1. Overview Solvyren is a proof-of-work blockchain whose mainnet is live and whose public mining is open . Blocks are produced with Solvyren MatrixWork SMW-16/2048 v1 , a MatMul-class proo"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN][PoW] SHEAR (SHE) | SHE is private | CPU-mined ShearHash | Mainnet Q2 2027",
+      "url": "https://bitcointalk.org/index.php?topic=5592284.0",
+      "published": null,
+      "first_seen": "2026-11-26T08:43:09.698333+00:00",
+      "last_seen": "2026-11-26T14:53:22.252449+00:00",
+      "score": 40,
+      "flags": [
+        "+9:no premine",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+1:testnet",
+        "+4:proof-of-work",
+        "+2:pow",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:post-quantum",
+        "-7:ico",
+        "+4:dated-launch"
+      ],
+      "snippet": "SHEAR (SHE) SHE is private. Proof-of-work you mine on an ordinary CPU, with amounts and links kept off the public record Mainnet genesis: anticipated Q2 2027 Live today: the v11 testnet. The v12 public testnet comes next, then mainnet. Website | Docs | Whitepaper | Node | Miner | Pool What Shear is Shear is a new proof-of-work chain, written from the ground up. It's for people who'd like their money to stay quiet about what they do with it. You can mine it on the CPU you already own. There's no premine, no founder reward and no ICO. There's no airdrop either, and the developers don't sell SHE. Every coin out there was either mined or created by the Reserve's own fixed rules, which we cover f"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] LiAura Coin (LIA) - Layer-1 Privacy Cryptocurrency  RandomX PoW  Mainnet",
       "url": "https://bitcointalk.org/index.php?topic=5600938.0",
       "published": null,
       "first_seen": "2026-11-25T19:21:32.786901+00:00",
-      "last_seen": "2026-11-26T05:07:39.576834+00:00",
+      "last_seen": "2026-11-26T14:53:19.808961+00:00",
       "score": 24,
       "flags": [
         "+9:zero premine",
@@ -36,7 +88,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5454663.0",
       "published": null,
       "first_seen": "2026-11-25T19:21:31.736994+00:00",
-      "last_seen": "2026-11-26T05:07:40.780502+00:00",
+      "last_seen": "2026-11-26T14:53:27.267750+00:00",
       "score": 30,
       "flags": [
         "+5:genesis",
@@ -78,7 +130,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-21131155587",
       "published": "2026-11-24T12:48:05Z",
       "first_seen": "2026-11-24T13:02:33.926641+00:00",
-      "last_seen": "2026-11-26T05:07:30.070026+00:00",
+      "last_seen": "2026-11-26T14:53:09.847417+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -163,7 +215,7 @@
       "url": "https://bitcointalk.org/index.php?topic=735170.0",
       "published": null,
       "first_seen": "2026-11-23T23:45:17.069703+00:00",
-      "last_seen": "2026-11-26T05:07:34.919231+00:00",
+      "last_seen": "2026-11-26T14:53:15.194008+00:00",
       "score": 27,
       "flags": [
         "+2:launch",
@@ -185,7 +237,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600728.0",
       "published": null,
       "first_seen": "2026-11-23T14:30:50.346695+00:00",
-      "last_seen": "2026-11-26T05:07:48.281434+00:00",
+      "last_seen": "2026-11-26T14:53:31.021598+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -317,7 +369,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-20745672886",
       "published": "2026-11-20T09:38:04Z",
       "first_seen": "2026-11-20T09:45:43.792789+00:00",
-      "last_seen": "2026-11-26T05:07:25.624456+00:00",
+      "last_seen": "2026-11-26T14:53:05.713827+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -545,7 +597,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-26T05:07:49.279399+00:00",
+      "last_seen": "2026-11-26T11:47:51.064042+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -707,7 +759,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-26T05:07:37.372316+00:00",
+      "last_seen": "2026-11-26T14:53:24.708741+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -925,7 +977,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-26T05:07:38.528366+00:00",
+      "last_seen": "2026-11-26T14:53:25.991748+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -1048,7 +1100,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-26T05:07:44.456735+00:00",
+      "last_seen": "2026-11-26T14:53:20.995625+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -1293,7 +1345,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-26T05:07:25.629106+00:00",
+      "last_seen": "2026-11-26T14:53:05.716846+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1638,45 +1690,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/76\", \"id\": 6067809944, \"node_id\": \"PR_kwDOT2kZwM8AAAABLHrRJw\", \"number\": 76, \"title\": \"fix(node-evidence): reject misleading sealed receipts\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 18490734928",
-      "url": "https://github.com/Instinctes/nightfall#event-18490734928",
-      "published": "2026-10-28T20:41:43Z",
-      "first_seen": "2026-10-28T21:06:17.049723+00:00",
-      "last_seen": "2026-10-29T22:12:30.200932+00:00",
-      "score": 14,
-      "flags": [
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:mining",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/75\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/75/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/75/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/75/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/75\", \"id\": 6067617692, \"node_id\": \"PR_kwDOT2kZwM8AAAABLHhNIw\", \"number\": 75, \"title\": \"docs: correct v8 operator guidance and gate protocol drift\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"no"
-    },
-    {
-      "source": "bitcointalk:Announcements (Altcoins)",
-      "title": "[ANN] [XDS] Discrete  Post-Quantum Proof-of-Work Cryptocurrency",
-      "url": "https://bitcointalk.org/index.php?topic=5588470.0",
-      "published": null,
-      "first_seen": "2026-10-27T19:58:23.647131+00:00",
-      "last_seen": "2026-10-29T07:20:56.663029+00:00",
-      "score": 13,
-      "flags": [
-        "+6:no ico",
-        "+5:mainnet",
-        "+5:genesis",
-        "+2:launch",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:mining",
-        "+2:emission",
-        "+2:post-quantum",
-        "-10:private sale",
-        "-7:ico"
-      ],
-      "snippet": "Discrete (XDS) A Post-Quantum Proof-of-Work Cryptocurrency Discrete (XDS) is a pre-launch proof-of-work cryptocurrency designed for post-quantum transaction validation from genesis. It uses standardized ML-KEM-768 for private output delivery and ML-DSA-65 for spend authorization. Mining uses DiscretePower , an identity-bound construction combining SHAKE-256, ML-DSA-65 and a modified yespower memory-hard core. Solo-Only no Pools. It's not 100% non-outsourceable but you're welcome to try Key features 90-second block target Post-quantum ownership and receiving Deterministic recovery from one mnemonic On-chain account numbers and derived deposit addresses Payment proofs and Dandelion++ transacti"
     }
   ],
   "announcement_backtraces": [],
@@ -1687,7 +1700,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-26T05:08:02.651997+00:00",
+      "checked": "2026-11-26T14:53:44.473312+00:00",
       "last_state_change": null
     },
     {
@@ -1695,7 +1708,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-26T05:07:54.641611+00:00",
+      "checked": "2026-11-26T14:53:36.463112+00:00",
       "last_state_change": null
     },
     {
@@ -1703,7 +1716,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-26T05:07:58.647238+00:00",
+      "checked": "2026-11-26T14:53:40.468426+00:00",
       "last_state_change": null
     }
   ]
