@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-26T15:03:57.611743+00:00",
+  "generated_at": "2026-11-26T23:44:36.651618+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -10,11 +10,40 @@
   "public_findings": [
     {
       "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "[ANN] (NOX) NoxiumChain - untraceable cryptocurrency (RandomX, Fair launch)",
+      "url": "https://bitcointalk.org/index.php?topic=5601042.0",
+      "published": null,
+      "first_seen": "2026-11-26T20:34:35.834781+00:00",
+      "last_seen": "2026-11-26T23:38:30.980110+00:00",
+      "score": 41,
+      "flags": [
+        "+9:no premine",
+        "+7:fair launch",
+        "+6:no ico",
+        "+5:mainnet",
+        "+5:genesis",
+        "+2:launch",
+        "+2:open source",
+        "+4:proof-of-work",
+        "+4:cpu mining",
+        "+2:miner",
+        "+2:mining",
+        "+3:block reward",
+        "+2:emission",
+        "+2:privacy",
+        "+1:decentralized",
+        "-7:ico",
+        "-8:premine"
+      ],
+      "snippet": "Noxium (NOX)  Private Cryptocurrency with a Fixed Supply of 18 Million Coins About project Noxium is an independent privacy-focused cryptocurrency based on Monero (v0.18). The project combines Monero's proven privacy technologies with a Bitcoin-inspired fixed supply model. Unlike Monero, Noxium has a strictly limited maximum supply of 18,000,000 NOX and does not use perpetual tail emission. Noxium is designed around three main principles: financial privacy, fair CPU mining and predictable monetary policy. The project launched without a premine or ICO. Its goal is to provide an independent, decentralized cryptocurrency where privacy is built directly into the protocol. Features Private trans"
+    },
+    {
+      "source": "bitcointalk:Announcements (Altcoins)",
       "title": "[ANN] Solvyren (SVY)  Mainnet Live | SMW-16/2048 v1 | Public Mining Open",
       "url": "https://bitcointalk.org/index.php?topic=5600998.0",
       "published": null,
       "first_seen": "2026-11-26T12:48:52.345567+00:00",
-      "last_seen": "2026-11-26T14:53:16.328046+00:00",
+      "last_seen": "2026-11-26T23:38:35.514011+00:00",
       "score": 29,
       "flags": [
         "+5:mainnet",
@@ -40,7 +69,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5592284.0",
       "published": null,
       "first_seen": "2026-11-26T08:43:09.698333+00:00",
-      "last_seen": "2026-11-26T14:53:22.252449+00:00",
+      "last_seen": "2026-11-26T22:36:51.280125+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -66,7 +95,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600938.0",
       "published": null,
       "first_seen": "2026-11-25T19:21:32.786901+00:00",
-      "last_seen": "2026-11-26T14:53:19.808961+00:00",
+      "last_seen": "2026-11-26T23:38:39.700742+00:00",
       "score": 24,
       "flags": [
         "+9:zero premine",
@@ -88,7 +117,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5454663.0",
       "published": null,
       "first_seen": "2026-11-25T19:21:31.736994+00:00",
-      "last_seen": "2026-11-26T14:53:27.267750+00:00",
+      "last_seen": "2026-11-26T16:57:42.520315+00:00",
       "score": 30,
       "flags": [
         "+5:genesis",
@@ -130,7 +159,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-21131155587",
       "published": "2026-11-24T12:48:05Z",
       "first_seen": "2026-11-24T13:02:33.926641+00:00",
-      "last_seen": "2026-11-26T14:53:09.847417+00:00",
+      "last_seen": "2026-11-26T23:38:24.221684+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -215,7 +244,7 @@
       "url": "https://bitcointalk.org/index.php?topic=735170.0",
       "published": null,
       "first_seen": "2026-11-23T23:45:17.069703+00:00",
-      "last_seen": "2026-11-26T14:53:15.194008+00:00",
+      "last_seen": "2026-11-26T20:03:35.836746+00:00",
       "score": 27,
       "flags": [
         "+2:launch",
@@ -237,7 +266,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600728.0",
       "published": null,
       "first_seen": "2026-11-23T14:30:50.346695+00:00",
-      "last_seen": "2026-11-26T14:53:31.021598+00:00",
+      "last_seen": "2026-11-26T23:38:45.697772+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -369,7 +398,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-20745672886",
       "published": "2026-11-20T09:38:04Z",
       "first_seen": "2026-11-20T09:45:43.792789+00:00",
-      "last_seen": "2026-11-26T14:53:05.713827+00:00",
+      "last_seen": "2026-11-26T23:38:19.535751+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -759,7 +788,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599947.0",
       "published": null,
       "first_seen": "2026-11-15T15:18:41.651045+00:00",
-      "last_seen": "2026-11-26T14:53:24.708741+00:00",
+      "last_seen": "2026-11-26T20:03:34.237809+00:00",
       "score": 23,
       "flags": [
         "+5:mainnet",
@@ -977,7 +1006,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-26T14:53:25.991748+00:00",
+      "last_seen": "2026-11-26T17:28:57.418282+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -1100,7 +1129,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599218.0",
       "published": null,
       "first_seen": "2026-11-08T11:39:01.077125+00:00",
-      "last_seen": "2026-11-26T14:53:20.995625+00:00",
+      "last_seen": "2026-11-26T23:38:41.045042+00:00",
       "score": 26,
       "flags": [
         "+5:mainnet",
@@ -1345,7 +1374,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-26T14:53:05.716846+00:00",
+      "last_seen": "2026-11-26T23:38:19.561366+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1674,22 +1703,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"opened\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/305\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/305/events\", \"html_url\": \"https://github.com/btxchain/btx/issues/305\", \"id\": 6099224954, \"node_id\": \"I_kwDOR8Ja_88AAAABa4rJeg\", \"number\": 305, \"title\": \"One RC block without an exact-replay bit freezes authenticated_chainwork for the rest of the chain\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U_"
-    },
-    {
-      "source": "github-events",
-      "title": "Instinctes/nightfall: IssueCommentEvent 18516034047",
-      "url": "https://github.com/Instinctes/nightfall#event-18516034047",
-      "published": "2026-10-28T20:41:48Z",
-      "first_seen": "2026-10-29T02:43:35.487252+00:00",
-      "last_seen": "2026-10-30T17:39:41.586694+00:00",
-      "score": 12,
-      "flags": [
-        "+5:mainnet",
-        "+2:mining",
-        "+3:compute",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76\", \"repository_url\": \"https://api.github.com/repos/Instinctes/nightfall\", \"labels_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76/comments\", \"events_url\": \"https://api.github.com/repos/Instinctes/nightfall/issues/76/events\", \"html_url\": \"https://github.com/Instinctes/nightfall/pull/76\", \"id\": 6067809944, \"node_id\": \"PR_kwDOT2kZwM8AAAABLHrRJw\", \"number\": 76, \"title\": \"fix(node-evidence): reject misleading sealed receipts\", \"user\": {\"login\": \"nightfall-wizard\", \"id\": 335587678, \"node_id"
     }
   ],
   "announcement_backtraces": [],
@@ -1700,7 +1713,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-26T14:53:44.473312+00:00",
+      "checked": "2026-11-26T23:39:00.641807+00:00",
       "last_state_change": null
     },
     {
@@ -1708,7 +1721,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-26T14:53:36.463112+00:00",
+      "checked": "2026-11-26T23:38:52.594423+00:00",
       "last_state_change": null
     },
     {
@@ -1716,7 +1729,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-26T14:53:40.468426+00:00",
+      "checked": "2026-11-26T23:38:56.603338+00:00",
       "last_state_change": null
     }
   ]
