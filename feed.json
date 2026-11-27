@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-27T15:16:45.700460+00:00",
+  "generated_at": "2026-11-27T23:29:06.866603+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -9,12 +9,28 @@
   },
   "public_findings": [
     {
+      "source": "bitcointalk:Announcements (Altcoins)",
+      "title": "SIGMA Network (Σ)  Proof of Engagement | GPU Mining Roadmap",
+      "url": "https://bitcointalk.org/index.php?topic=5601106.0",
+      "published": null,
+      "first_seen": "2026-11-27T18:39:13.061109+00:00",
+      "last_seen": "2026-11-27T23:17:17.005755+00:00",
+      "score": 12,
+      "flags": [
+        "+4:proof of work",
+        "+4:gpu mining",
+        "+2:miner",
+        "+2:mining"
+      ],
+      "snippet": "Hello Bitcointalk! Unfortunately, our previous Bitcointalk thread was deleted, so we're opening a new one to continue sharing project updates, development progress, and announcements with the community. What's new? We've redesigned the official SIGMA Network homepage. Instead of following the usual crypto-project landing page design, we've introduced a terminal-style interface, giving the website a different identity and a more technical feel. You can explore it here: Website: https://www.sigmanetwork.io/ What is SIGMA Network? SIGMA is a community-driven cryptocurrency project built around the concept of Proof of Engagement (PoE). The idea is simple: users participate once per day through t"
+    },
+    {
       "source": "github-events",
       "title": "Instinctes/nightfall: IssueCommentEvent 21482694235",
       "url": "https://github.com/Instinctes/nightfall#event-21482694235",
       "published": "2026-11-27T11:17:30Z",
       "first_seen": "2026-11-27T11:26:27.536999+00:00",
-      "last_seen": "2026-11-27T15:03:19.496982+00:00",
+      "last_seen": "2026-11-27T23:17:09.446328+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -31,7 +47,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5601042.0",
       "published": null,
       "first_seen": "2026-11-26T20:34:35.834781+00:00",
-      "last_seen": "2026-11-27T15:03:25.986898+00:00",
+      "last_seen": "2026-11-27T23:17:14.681003+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -60,7 +76,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600998.0",
       "published": null,
       "first_seen": "2026-11-26T12:48:52.345567+00:00",
-      "last_seen": "2026-11-27T15:03:31.989645+00:00",
+      "last_seen": "2026-11-27T23:17:24.074453+00:00",
       "score": 29,
       "flags": [
         "+5:mainnet",
@@ -112,7 +128,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600938.0",
       "published": null,
       "first_seen": "2026-11-25T19:21:32.786901+00:00",
-      "last_seen": "2026-11-27T15:03:30.779233+00:00",
+      "last_seen": "2026-11-27T23:17:22.862446+00:00",
       "score": 24,
       "flags": [
         "+9:zero premine",
@@ -176,7 +192,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-21131155587",
       "published": "2026-11-24T12:48:05Z",
       "first_seen": "2026-11-24T13:02:33.926641+00:00",
-      "last_seen": "2026-11-27T15:03:19.533615+00:00",
+      "last_seen": "2026-11-27T23:17:09.477898+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -234,7 +250,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600778.0",
       "published": null,
       "first_seen": "2026-11-24T06:55:17.845748+00:00",
-      "last_seen": "2026-11-27T15:03:23.643911+00:00",
+      "last_seen": "2026-11-27T23:17:13.511560+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -283,7 +299,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600728.0",
       "published": null,
       "first_seen": "2026-11-23T14:30:50.346695+00:00",
-      "last_seen": "2026-11-27T15:03:38.388616+00:00",
+      "last_seen": "2026-11-27T23:17:29.089641+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -415,7 +431,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-20745672886",
       "published": "2026-11-20T09:38:04Z",
       "first_seen": "2026-11-20T09:45:43.792789+00:00",
-      "last_seen": "2026-11-27T15:03:15.220371+00:00",
+      "last_seen": "2026-11-27T23:17:05.369954+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -643,7 +659,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-27T15:03:35.941037+00:00",
+      "last_seen": "2026-11-27T23:17:26.614131+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -661,7 +677,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600215.0",
       "published": null,
       "first_seen": "2026-11-17T19:42:57.524754+00:00",
-      "last_seen": "2026-11-27T15:03:28.475783+00:00",
+      "last_seen": "2026-11-27T23:17:20.516846+00:00",
       "score": 31,
       "flags": [
         "+9:no premine",
@@ -1391,7 +1407,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-27T15:03:15.222973+00:00",
+      "last_seen": "2026-11-27T23:17:05.372552+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1412,7 +1428,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-20T06:43:35.331583+00:00",
+      "last_seen": "2026-11-27T23:17:18.195427+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -1688,22 +1704,6 @@
         "+2:privacy"
       ],
       "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/288\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/288\", \"id\": 6088866721, \"node_id\": \"PR_kwDOR8Ja_88AAAABLYhB0w\", \"number\": 288, \"title\": \"net: relay a fast-announced block only after it connects\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U_kgDOBvLf1w\", \"avatar_url\": \"https://avatar"
-    },
-    {
-      "source": "github-events",
-      "title": "btxchain/btx: IssueCommentEvent 18564032171",
-      "url": "https://github.com/btxchain/btx#event-18564032171",
-      "published": "2026-10-29T12:39:15Z",
-      "first_seen": "2026-10-29T14:00:25.976596+00:00",
-      "last_seen": "2026-10-30T00:45:13.191158+00:00",
-      "score": 13,
-      "flags": [
-        "+5:mainnet",
-        "+4:proof-of-work",
-        "+2:pow",
-        "+2:privacy"
-      ],
-      "snippet": "{\"action\": \"created\", \"issue\": {\"url\": \"https://api.github.com/repos/btxchain/btx/issues/288\", \"repository_url\": \"https://api.github.com/repos/btxchain/btx\", \"labels_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/labels{/name}\", \"comments_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/comments\", \"events_url\": \"https://api.github.com/repos/btxchain/btx/issues/288/events\", \"html_url\": \"https://github.com/btxchain/btx/pull/288\", \"id\": 6088866721, \"node_id\": \"PR_kwDOR8Ja_88AAAABLYhB0w\", \"number\": 288, \"title\": \"net: relay a fast-announced block only after it connects\", \"user\": {\"login\": \"repch1c\", \"id\": 116580311, \"node_id\": \"U_kgDOBvLf1w\", \"avatar_url\": \"https://avatar"
     }
   ],
   "announcement_backtraces": [],
@@ -1714,7 +1714,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-27T15:03:52.026172+00:00",
+      "checked": "2026-11-27T23:17:42.525723+00:00",
       "last_state_change": null
     },
     {
@@ -1722,7 +1722,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-27T15:03:44.016662+00:00",
+      "checked": "2026-11-27T23:17:34.515721+00:00",
       "last_state_change": null
     },
     {
@@ -1730,7 +1730,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-27T15:03:48.021457+00:00",
+      "checked": "2026-11-27T23:17:38.520607+00:00",
       "last_state_change": null
     }
   ]
