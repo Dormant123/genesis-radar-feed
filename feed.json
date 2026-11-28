@@ -1,6 +1,6 @@
 {
   "schema": "genesis-radar-feed-v1",
-  "generated_at": "2026-11-28T04:51:08.690804+00:00",
+  "generated_at": "2026-11-28T13:41:51.736166+00:00",
   "privacy": {
     "raw_discord_messages_exposed": false,
     "credentials_exposed": false,
@@ -14,7 +14,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5601106.0",
       "published": null,
       "first_seen": "2026-11-27T18:39:13.061109+00:00",
-      "last_seen": "2026-11-28T04:24:46.720754+00:00",
+      "last_seen": "2026-11-28T13:39:36.481244+00:00",
       "score": 12,
       "flags": [
         "+4:proof of work",
@@ -30,7 +30,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-21482694235",
       "published": "2026-11-27T11:17:30Z",
       "first_seen": "2026-11-27T11:26:27.536999+00:00",
-      "last_seen": "2026-11-28T04:24:36.933127+00:00",
+      "last_seen": "2026-11-28T13:39:24.173553+00:00",
       "score": 13,
       "flags": [
         "+5:mainnet",
@@ -47,7 +47,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5601042.0",
       "published": null,
       "first_seen": "2026-11-26T20:34:35.834781+00:00",
-      "last_seen": "2026-11-28T04:24:42.089147+00:00",
+      "last_seen": "2026-11-28T13:39:30.758406+00:00",
       "score": 41,
       "flags": [
         "+9:no premine",
@@ -76,7 +76,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600998.0",
       "published": null,
       "first_seen": "2026-11-26T12:48:52.345567+00:00",
-      "last_seen": "2026-11-28T04:24:45.689909+00:00",
+      "last_seen": "2026-11-28T11:36:37.718585+00:00",
       "score": 29,
       "flags": [
         "+5:mainnet",
@@ -128,7 +128,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600938.0",
       "published": null,
       "first_seen": "2026-11-25T19:21:32.786901+00:00",
-      "last_seen": "2026-11-28T04:24:52.671082+00:00",
+      "last_seen": "2026-11-28T13:39:34.233003+00:00",
       "score": 24,
       "flags": [
         "+9:zero premine",
@@ -192,7 +192,7 @@
       "url": "https://github.com/Instinctes/nightfall#event-21131155587",
       "published": "2026-11-24T12:48:05Z",
       "first_seen": "2026-11-24T13:02:33.926641+00:00",
-      "last_seen": "2026-11-28T04:24:36.969784+00:00",
+      "last_seen": "2026-11-28T13:39:24.211628+00:00",
       "score": 19,
       "flags": [
         "+5:mainnet",
@@ -250,7 +250,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600778.0",
       "published": null,
       "first_seen": "2026-11-24T06:55:17.845748+00:00",
-      "last_seen": "2026-11-28T04:24:43.276054+00:00",
+      "last_seen": "2026-11-28T13:39:33.138619+00:00",
       "score": 33,
       "flags": [
         "+9:no premine",
@@ -299,7 +299,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600728.0",
       "published": null,
       "first_seen": "2026-11-23T14:30:50.346695+00:00",
-      "last_seen": "2026-11-28T04:24:57.782606+00:00",
+      "last_seen": "2026-11-28T13:39:46.515455+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -431,7 +431,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-20745672886",
       "published": "2026-11-20T09:38:04Z",
       "first_seen": "2026-11-20T09:45:43.792789+00:00",
-      "last_seen": "2026-11-28T04:24:33.012948+00:00",
+      "last_seen": "2026-11-28T13:39:20.174768+00:00",
       "score": 12,
       "flags": [
         "+5:mainnet",
@@ -522,7 +522,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5595967.0",
       "published": null,
       "first_seen": "2026-11-19T04:29:57.254070+00:00",
-      "last_seen": "2026-11-22T14:59:12.566560+00:00",
+      "last_seen": "2026-11-28T13:39:28.326318+00:00",
       "score": 23,
       "flags": [
         "+9:no premine",
@@ -547,7 +547,7 @@
         "-8:premine",
         "+3:runnable-artifact"
       ],
-      "snippet": "MERCATURA MCA Proof of Work  MercaHash  ML-DSA-65 Post-Quantum Authorization  Adaptive Emission MAINNET LAUNCH SCHEDULED: DECEMBER 1, 2026  05:00 UTC Tuesday  05:00 UTC  13:00 Philippine Time (UTC+8) The announced December 1 launch schedule remains subject to final consensus and genesis validation, CI checks, network infrastructure, release testing and launch readiness. PUBLIC TESTNET LIVE  CORE v0.1.4 Mainnet is not live yet. Testnet MCA is for testing only and has no monetary value. What is Mercatura? Mercatura (MCA) is an independent proof-of-work cryptocurrency developed from a modern Bitcoin Core foundation. The network is built around several core principles:  Pure Proof of Wor"
+      "snippet": "MERCATURA MCA Proof of Work  MercaHash  ML-DSA-65 Post-Quantum Authorization  Adaptive Emission MAINNET LAUNCH SCHEDULED: DECEMBER 1, 2026  05:00 UTC Tuesday  05:00 UTC  The announced December 1 launch schedule remains subject to final consensus and genesis validation, CI checks, network infrastructure, release testing and launch readiness. PUBLIC TESTNET LIVE  CORE v0.1.4 Mainnet is not live yet. Testnet MCA is for testing only and has no monetary value. What is Mercatura? Mercatura (MCA) is an independent proof-of-work cryptocurrency developed from a modern Bitcoin Core foundation. The network is built around several core principles:  Pure Proof of Work  MercaHash mining with inte"
     },
     {
       "source": "bitcointalk:Announcements (Altcoins)",
@@ -580,7 +580,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600319.0",
       "published": null,
       "first_seen": "2026-11-19T01:25:09.835208+00:00",
-      "last_seen": "2026-11-28T04:24:44.491127+00:00",
+      "last_seen": "2026-11-28T13:39:35.439355+00:00",
       "score": 44,
       "flags": [
         "+9:no premine",
@@ -659,7 +659,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600221.0",
       "published": null,
       "first_seen": "2026-11-17T21:14:21.350155+00:00",
-      "last_seen": "2026-11-28T04:24:55.270201+00:00",
+      "last_seen": "2026-11-28T13:39:44.171665+00:00",
       "score": 15,
       "flags": [
         "+9:no premine",
@@ -677,7 +677,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600215.0",
       "published": null,
       "first_seen": "2026-11-17T19:42:57.524754+00:00",
-      "last_seen": "2026-11-28T04:24:50.392016+00:00",
+      "last_seen": "2026-11-28T13:39:40.116727+00:00",
       "score": 31,
       "flags": [
         "+9:no premine",
@@ -775,7 +775,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5600075.0",
       "published": null,
       "first_seen": "2026-11-16T15:27:37.885457+00:00",
-      "last_seen": "2026-11-25T18:51:07.221128+00:00",
+      "last_seen": "2026-11-28T13:39:31.946322+00:00",
       "score": 26,
       "flags": [
         "+9:no premine",
@@ -1039,7 +1039,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5599411.0",
       "published": null,
       "first_seen": "2026-11-10T09:46:03.037709+00:00",
-      "last_seen": "2026-11-28T04:24:40.924100+00:00",
+      "last_seen": "2026-11-28T13:39:29.589049+00:00",
       "score": 22,
       "flags": [
         "+5:mainnet",
@@ -1407,7 +1407,7 @@
       "url": "https://github.com/Rexemre/blockzero-core#event-18861986957",
       "published": "2026-11-02T07:31:59Z",
       "first_seen": "2026-11-02T08:02:44.752030+00:00",
-      "last_seen": "2026-11-28T04:24:33.017613+00:00",
+      "last_seen": "2026-11-28T13:39:20.179054+00:00",
       "score": 39,
       "flags": [
         "+9:no premine",
@@ -1428,7 +1428,7 @@
       "url": "https://bitcointalk.org/index.php?topic=5598593.0",
       "published": null,
       "first_seen": "2026-11-01T23:51:03.044695+00:00",
-      "last_seen": "2026-11-28T04:24:47.949599+00:00",
+      "last_seen": "2026-11-28T13:39:37.682832+00:00",
       "score": 40,
       "flags": [
         "+9:no premine",
@@ -1714,7 +1714,7 @@
       "host": "per.ariabrain.com",
       "port": 16200,
       "open": false,
-      "checked": "2026-11-28T04:25:11.240628+00:00",
+      "checked": "2026-11-28T13:40:00.111556+00:00",
       "last_state_change": null
     },
     {
@@ -1722,7 +1722,7 @@
       "host": "186.240.157.169",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-28T04:25:03.231041+00:00",
+      "checked": "2026-11-28T13:39:52.101714+00:00",
       "last_state_change": null
     },
     {
@@ -1730,7 +1730,7 @@
       "host": "187.124.167.107",
       "port": 16180,
       "open": false,
-      "checked": "2026-11-28T04:25:07.235971+00:00",
+      "checked": "2026-11-28T13:39:56.106829+00:00",
       "last_state_change": null
     }
   ]
